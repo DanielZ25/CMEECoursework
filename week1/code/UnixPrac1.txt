@@ -1,0 +1,18 @@
+#1 Count how many lines there are in each file.
+wc -l ../data/fasta/*.fasta
+
+#2 Print everything starting from the second line for the E. coli genome
+tail -n +2 ../data/fasta/E.coli.fasta
+
+#3 Count the sequence length of this genome
+tail -n +2 ../data/fasta/E.coli.fasta | tr -d '\n' | wc -m
+
+#4 Count the matches of a particular sequence, “ATGC” in the genome of E. coli 
+tail -n +2 ../data/fasta/E.coli.fasta | tr -d '\n' | grep -o 'ATGC' | wc -l 
+
+#5 Compute the AT/GC ratio. That is, the (A+T)/(G+C) ratio (as a single number). 
+# This is a summary measure of base composition of double-stranded DNA. 
+# DNA from different organisms and lineages has different ratios of the A-to-T and G-to-C base pairs (google “Chargaff’s rule”). 
+# For example, DNA from organisms that live in hot springs have a higher GC content, the GC base pair is more thermally stable.
+echo "scale=6; ($(tail -n +2 ../data/fasta/E.coli.fasta | tr -d '\n' | grep -o 'A'| wc -l) + $(tail -n +2 ../data/fasta/E.coli.fasta | tr -d '\n' | grep -o 'T'| wc -l)) / ($(tail -n +2 ../data/fasta/E.coli.fasta | tr -d '\n' | grep -o 'C'| wc -l) + $(tail -n +2 ../data/fasta/E.coli.fasta | tr -d '\n' | grep -o 'G'| wc -l))" | bc -l
+
