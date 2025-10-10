@@ -8,6 +8,7 @@ The CMEE Bootcamp focuses on UNIX, shell scripting, R, Python, etc.
 
 ## This is the structure of CMEECoursework:
 
+```
 CMEECoursework/
 │
 ├── week1/
@@ -20,6 +21,7 @@ CMEECoursework/
 ├── week2/ … # (Additional weeks follow similar structure)
 │
 └── README.md # Overview of the repository
+```
 
 ---
 
