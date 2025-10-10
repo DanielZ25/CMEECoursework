@@ -1,8 +1,10 @@
 # My CMEE Coursework Repository
 > "I am going to try this new naughty thing on this experimental branch!"
 
-This repository contains coursework and scripts developed during the CMEE Bootcamp at Imperial College London, Silwood Park.
-The CMEE Bootcamp focuses on UNIX, shell scripting, R, Python, etc.
+This repository contains coursework and scripts developed during the CMEE Bootcamp at Imperial College London, Silwood Park.  
+
+The CMEE Bootcamp focuses on UNIX, shell scripting, R, Python, etc.  
+
 
 ---
 
@@ -27,11 +29,14 @@ CMEECoursework/
 
 ## Week1 Assignments:
 
-#1 UnixPrac1.txt
-#2 Improving scripts
-    tabtocsv.sh
-    ConcatenateTwoFiles.sh
-#3 csvtospace.sh
+#1 UnixPrac1.txt  
+
+#2 Improving scripts  
+    tabtocsv.sh  
+    ConcatenateTwoFiles.sh  
+
+#3 csvtospace.sh  
+
 
 All files stored in:
 'CMEECoursework/week1/codes'
