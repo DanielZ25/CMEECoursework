@@ -42,6 +42,9 @@ CMEECoursework/
 
 #3 csvtospace.sh  
 
+All files stored in:
+'CMEECoursework/week1/codes'
+
 ## Week2 Assignments:
 
 #1 lc1.py, lc2.py, dictionary.py, tuple.py  
