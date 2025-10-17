@@ -2,3 +2,7 @@
 *.tmp
 __pycache__/
 *.pyc
+
+# R temporary/session files
+.RData
+.Rhistory
