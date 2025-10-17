@@ -1,0 +1,382 @@
+======================================================================
+AUTOMATED FEEDBACK LOG
+======================================================================
+
+HOW TO READ THIS FEEDBACK:
+--------------------------
+1. This log contains detailed feedback on your code execution
+2. Each script is tested and results are shown with output and errors
+3. IMPORTANT: Read all the way to the END for a summary and debugging guidance
+4. The summary at the end will help you understand and fix any issues
+5. Scripts are run in a headless environment (no GUI applications)
+
+======================================================================
+
+Starting testing for Daniel Zhu
+
+Processing week 1
+
+Your current Git repo size is about 1.55 MiB on disk
+
+Found directories: .git, week1, week2, Feedback
+Found files: .gitignore, README.md
+
+Processing week 1: week1
+
+Found 9 code files to test.
+
+Note: Expected file checking not performed (no FileList provided).
+Expected file checking will only be performed during final assessment.
+
+======================================================================
+Script: csvtospace.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+if [ $# -lt 2 ]; then
+    echo -e "Error: Missing input or output files\nUsage: bash csvtospace.sh input.csv output.csv"
+    exit 1
+fi 
+
+if [ ! -e "$1" ]; then
+    echo -e "Error: No such file or directory\nInput file not found"
+    exit 1
+fi
+
+
+cat $1 | tr ',' ' ' > $2
+echo "The revised csv is $2"
+cat $2
+
+ echo -e "Conversion complete!\nOutput saved as: $2"
+**********
+
+Output (first 500 chars):
+
+**********
+Error: Missing input or output files
+Usage: bash csvtospace.sh input.csv output.csv
+
+**********
+No errors.
+======================================================================
+Script: tiff2png.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+for f in *.tif; 
+    do  
+        echo "Converting $f"; 
+        convert "$f"  "$(basename "$f" .tif).png"; 
+    done
+**********
+
+Output (first 500 chars):
+
+**********
+Converting *.tif
+
+**********
+Errors:
+**********
+convert-im6.q16: unable to open image `*.tif': No such file or directory @ error/blob.c/OpenBlob/2964.
+convert-im6.q16: no images defined `*.png' @ error/convert.c/ConvertImageCommand/3234.
+
+**********
+======================================================================
+Script: boilerplate.sh
+
+Contents:
+
+**********
+#!/bin/sh
+# Author: Daniel Zhu haotian.zhu21@imperial.ac.uk
+# Script: boilerplate.sh
+# Desc: simple boilerplate for shell scripts
+# Arguments: none
+# Date: Oct 2025
+
+echo -e "\nThis is a shell script! \n"
+
+# exit
+**********
+
+Output (first 500 chars):
+
+**********
+
+This is a shell script! 
+
+
+**********
+No errors.
+======================================================================
+Script: ConcatenateTwoFiles.sh
+
+Contents:
+
+**********
+#!/bin/bash
+if [ $# -lt 3 ]; then
+    echo -e "Error: Missing input file.\nUsage: bash ConcatenateTwoFiles.sh input1_file input2_file output_file"
+    exit 1
+fi
+
+if [ ! -e "$1" ]; then
+    echo -e "Error: Input file '$1' not found"
+    exit 1
+fi
+
+if [ ! -e "$2" ]; then
+    echo -e "Error: Input file '$2' not found"
+    exit 1
+fi
+
+cat $1 > $3
+cat $2 >> $3
+echo "Merged File is"
+cat "$3"
+echo "\nConcatenation complete! Output saved as '$3'" 
+**********
+
+Output (first 500 chars):
+
+**********
+Error: Missing input file.
+Usage: bash ConcatenateTwoFiles.sh input1_file input2_file output_file
+
+**********
+No errors.
+======================================================================
+Script: tabtocsv.sh
+
+Contents:
+
+**********
+#!/bin/sh
+# Author: Daniel Zhu haotian.zhu21@imperial.ac.uk
+# Script: tabtocsv.sh
+# Description: substitute the tabs in the files with commas
+#
+# Saves the output into a .csv file
+# Arguments: 1 -> tab delimited file
+# Date: Oct 2025
+
+if [ $# -lt 1]; then
+    echo -e "Error: Missing input file.\nUsage: bash tabtocsv.sh input_file"
+    exit 1
+fi
+
+if [ ! -e "$1"]; then
+    echo -e "Error: Input file '$1' not found"
+    exit 1
+fi
+
+echo "Creating a comma delimited version of $1 ..."
+cat $1 | tr -s "\t" "," >> $1.csv
+echo "Done!"
+exit
+**********
+
+Output (first 500 chars):
+
+**********
+Creating a comma delimited version of  ...
+Done!
+
+**********
+Errors:
+**********
+tabtocsv.sh: line 10: [: missing `]'
+
+**********
+======================================================================
+Script: MyExampleScript.sh
+
+Contents:
+
+**********
+#!/bin/sh
+
+MSG1="Hello"
+MSG=$USER
+echo "$MSG1 $MSG2"
+echo "Hello $USER"
+echo
+**********
+
+Output (first 500 chars):
+
+**********
+Hello 
+Hello mhasoba
+
+
+**********
+No errors.
+======================================================================
+Script: variables.sh
+
+Contents:
+
+**********
+#!/bin/sh
+
+## Illustrates the use of variables
+
+# Special variables
+
+echo "This script was called with $# parameters"
+echo "The script's name is $0"
+echo "The arguments are $@"
+echo "The first argument is $1"
+echo "The second argument is $2"
+
+# Assigned Variabels; Explicit declaration:
+MY_VAR='some string'
+echo 'the current value of the varibale is:' $MY_VAR
+echo
+echo 'Please enter a new string'
+read MY_VAR
+echo
+echo 'the current value of the variable is:' $MY_VAR
+echo
+
+## Assigned Variables; Reading (multiple values) from user input:
+echo 'Enter two numbers separated by space(s)'
+read a b
+echo 
+echo 'you entered' $a 'and' $b '; Their sum is:' 
+
+## Assigned Varibales; Command substitution
+MY_SUM=$(expr $a + $b)
+echo $MY_SUM
+
+
+
+**********
+
+Output (first 500 chars):
+
+**********
+This script was called with 0 parameters
+The script's name is variables.sh
+The arguments are 
+The first argument is 
+The second argument is 
+the current value of the varibale is: some string
+
+Please enter a new string
+
+the current value of the variable is:
+
+Enter two numbers separated by space(s)
+
+you entered and ; Their sum is:
+
+
+**********
+Errors:
+**********
+expr: syntax error: missing argument after ‘+’
+
+**********
+======================================================================
+Script: CountLines.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+NumLines=`wc -l < $1`
+echo "The file $1 has $NumLines lines"
+echo
+**********
+
+Output (first 500 chars):
+
+**********
+The file  has  lines
+
+
+**********
+Errors:
+**********
+CountLines.sh: line 3: $1: ambiguous redirect
+
+**********
+======================================================================
+Script: CompileLaTex.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+if [ $# -lt 1 ]; then
+    echo "Usage: bash CompileLaTex.sh <filename.tex>"
+    exit 1
+fi
+
+
+pdflatex $1
+bibtex ${1%.tex}
+pdflatex $1
+pdflatex $1
+evince ${1%.tex}.pdf &
+
+## Cleanup
+rm *.aux
+rm *.log
+rm *.bbl
+rm *.blg
+**********
+
+Output (first 500 chars):
+
+**********
+Usage: bash CompileLaTex.sh <filename.tex>
+
+**********
+No errors.
+
+======================================================================
+FEEDBACK SUMMARY
+======================================================================
+
+Scripts tested: 11
+Scripts successful: 7
+Scripts with errors: 4
+Warnings/Notes: 1
+
+IMPORTANT DEBUGGING GUIDANCE:
+------------------------------
+
+Please review all warnings and errors, and your directory structure based on the above log.
+
+Ask yourself: Why did I not get these warnings or errors on my machine when I tested my code?
+Common reasons for environment differences:
+
+• File paths: Your local machine may have different directory structures
+• Dependencies: Missing packages or different versions
+• File permissions: Scripts may not be executable on the testing server
+• Case sensitivity: Linux systems are case-sensitive (your laptop may not be)
+• Working directory: Scripts may assume they run from a specific location
+• Input files: Required data files may be missing or in wrong locations
+
+Debugging steps:
+1. Test your code in a clean environment (fresh directory)
+2. Check all file paths are relative and correct
+3. Verify all required files are present and properly named
+4. Test on a case-sensitive system if possible
+5. Run your scripts from different directories to check robustness
+
+Fix these issues and test again. Good debugging skills are essential for scientific computing!
+
