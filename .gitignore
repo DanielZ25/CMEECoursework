@@ -6,3 +6,7 @@ __pycache__/
 # R temporary/session files
 .RData
 .Rhistory
+
+# LaTeX log files
+*.aux
+*.log
