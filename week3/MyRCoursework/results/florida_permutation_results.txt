@@ -1,0 +1,6 @@
+Permutation test: Is Florida (Key West) getting warmer?
+Observed Pearson correlation (Year, Temp): r = 0.533178
+Permutations: 10000
+One-sided p-value (Pr[r_perm >= r_obs]): 0.000100
+Two-sided p-value (Pr[|r_perm| >= |r_obs|]): 0.000100
+Figure saved to ../results/perm_hist.png
