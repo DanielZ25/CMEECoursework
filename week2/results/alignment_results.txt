@@ -1,7 +1,0 @@
-DNA Sequence Alignment Results
-==================================================
-
-Best Alignment:
-CAATTCGGAT
-ATCGCCGGATTACGGG
-Best score:5
