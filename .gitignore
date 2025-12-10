@@ -10,3 +10,8 @@ __pycache__/
 # LaTeX log files
 *.aux
 *.log
+
+#ignore all results content everywhere
+results/*
+#keep empty results folder
+!results/.gitkeep
