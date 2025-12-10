@@ -37,4 +37,4 @@ is.prime <- function(n) {
     }
 }
 
-is.prime(3)
+is.prime(3) 
