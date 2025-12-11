@@ -55,8 +55,8 @@ write.csv(regression_results, csv_path, row.names = FALSE)
 
 p <- ggplot(df_clean, aes(x = Prey.mass, y = Predator.mass)) +
   geom_point(aes(color = Predator.lifestage), alpha = 0.6, size = 1.5, shape = 3) +
-  geom_smooth(aes(color = Predator.lifestage), method = "lm", se = TRUE, 
-              alpha = 0.15, formula = y ~ x, size = 0.8, fullrange = TRUE) +
+  geom_smooth(aes(color = Predator.lifestage), method = "lm", se = FALSE, 
+              alpha = 0.15, formula = y ~ x, linewidth = 0.8, fullrange = TRUE) +
   facet_wrap(~Type.of.feeding.interaction, scales = "fixed", ncol = 1, strip.position = "right") +
   scale_x_log10(labels = scales::scientific) +
   scale_y_log10(labels = scales::scientific) +
@@ -70,8 +70,8 @@ p <- ggplot(df_clean, aes(x = Prey.mass, y = Predator.mass)) +
         legend.position = "bottom",
         legend.title = element_text(size = 9),
         legend.text = element_text(size = 8),
-        panel.grid.major = element_line(color = "gray95", size = 0.3),
-        panel.grid.minor = element_line(color = "gray99", size = 0.2),
+        panel.grid.major = element_line(color = "gray95", linewidth = 0.3),
+        panel.grid.minor = element_line(color = "gray99", linewidth = 0.2),
         plot.margin = margin(5, 15, 5, 5))
 
 print(p)

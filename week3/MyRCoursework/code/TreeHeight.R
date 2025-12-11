@@ -22,6 +22,6 @@ TreeHeight <- function(degrees, distance) {
 TreeHeight(trees$Angle.degrees, trees$Distance)
 
 trees$Tree.Height.m <- TreeHeight(trees$Angle.degrees, trees$Distance)
-View(trees)
+
 
 write.csv(trees, "../results/TreeHts.csv", row.names = FALSE)
