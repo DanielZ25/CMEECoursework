@@ -5,32 +5,33 @@ This week introduces foundational computing skills essential for scientific work
 ## Folder Structure
 
 ```text
-├── week1
-│   ├── code
-│   │   ├── CompileLaTex.sh
-│   │   ├── ConcatenateTwoFiles.sh
-│   │   ├── CountLines.sh
-│   │   ├── FirstBiblio.bib
-│   │   ├── FirstExample.pdf
-│   │   ├── FirstExample.tex
-│   │   ├── MyExampleScript.sh
-│   │   ├── UnixPrac1.txt
-│   │   ├── boilerplate.sh
-│   │   ├── csvtospace.sh
-│   │   ├── tabtocsv.sh
-│   │   ├── tiff2png.sh
-│   │   └── variables.sh
-│   ├── data
-│   │   ├── Temperatures
-│   │   ├── fasta
-│   │   └── spawannxs.txt
-│   ├── results
-│   └── sandbox
-│       ├── ListRootDir.txt
-│       ├── TestFind
-│       ├── TestWild
-│       ├── test.txt
-│       └── test.txt.csv
+week1
+├── code
+│   ├── CompileLaTex.sh
+│   ├── ConcatenateTwoFiles.sh
+│   ├── CountLines.sh
+│   ├── FirstBiblio.bib
+│   ├── FirstExample.pdf
+│   ├── FirstExample.tex
+│   ├── MyExampleScript.sh
+│   ├── UnixPrac1.txt
+│   ├── boilerplate.sh
+│   ├── csvtospace.sh
+│   ├── tabtocsv.sh
+│   ├── tiff2png.sh
+│   └── variables.sh
+├── data
+│   ├── Temperatures/
+│   ├── fasta/
+│   └── spawannxs.txt
+├── results/
+└── sandbox
+    ├── ListRootDir.txt
+    ├── TestFind/
+    ├── TestWild/
+    ├── test.txt
+    └── test.txt.csv
+
 ```
 
 - `code/` — Shell scripts, LaTeX example, automation tools  
