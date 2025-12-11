@@ -111,3 +111,10 @@ Detailed description: see `week4/README.md`.
   - Code–data separation  
   - Version control  
   - Documentation  
+
+---
+
+## Author
+- **Name:** Daniel Zhu  
+- **Email:** haotian.zhu21@imperial.ac.uk
+
