@@ -73,5 +73,6 @@ bash tabtocsv.sh ../sandbox/test.txt
 ```
 
 ## Author
+- **Name:** Daniel Zhu  
+- **Email:** haotian.zhu21@imperial.ac.uk
 
-Daniel Zhu

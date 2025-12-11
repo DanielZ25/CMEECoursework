@@ -73,4 +73,6 @@ python3 dictionary.py
 
 ## Author
 
-Daniel Zhu
+- **Name:** Daniel Zhu  
+- **Email:** haotian.zhu21@imperial.ac.uk
+

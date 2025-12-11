@@ -107,5 +107,4 @@ pdflatex code/Florida_writeup.tex
 ## Author
 
 - **Name:** Daniel Zhu  
-- **Course:** MSc Computational Methods in Ecology and Evolution (CMEE)  
-- **Institution:** Imperial College London  
+- **Email:** haotian.zhu21@imperial.ac.uk

@@ -59,4 +59,6 @@ python3 LV1.py
 
 ## Author
 
-Daniel Zhu
+- **Name:** Daniel Zhu  
+- **Email:** haotian.zhu21@imperial.ac.uk
+
