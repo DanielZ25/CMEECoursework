@@ -1,0 +1,5415 @@
+======================================================================
+AUTOMATED FEEDBACK LOG
+======================================================================
+
+HOW TO READ THIS FEEDBACK:
+--------------------------
+1. This log is organized into sections (structure, documentation, quality, git history).
+2. Each section reports checks performed and highlights warnings (⚠) or failures (✗).
+3. Script execution results appear later in the log with full script contents, output, and errors.
+4. Scripts are run in a headless environment (no GUI applications).
+5. Criterion labels (e.g., "Criterion 1") refer to the course rubric for marking guidance.
+6. Scripts that have been named incorrectly by a student may be classified as "missing" if the the name deviates significantly from what was expected/required; Student will not be penalised heavily for this, but should discuss with assessor/instructor if they are concerned.).
+7. IMPORTANT: Read to the end for the summary and debugging guidance.
+
+Evidence collection keys (used in Script Execution Results):
+  - Command: exact command executed for the script.
+  - CWD: working directory used for the command.
+  - Exit code: 0 means success; non-zero means an error occurred.
+  - Stdout: standard output (normal program output).
+  - Stderr: standard error (warnings and error messages).
+  - Timed out: whether the run exceeded the time limit.
+
+======================================================================
+
+RUN CONFIGURATION
+-----------------
+Command: feedback.py tmp/students_all.csv repos/ --weeks 1-4 --groupwork --groups-csv tmp/groups.csv --group-repos-root repos_groups --script-rules configs/assignments/script_rules_2025-26.json
+Weeks: 1-4
+Groupwork: enabled
+Script rules: configs/assignments/script_rules_2025-26.json
+
+Starting testing for Daniel Zhu
+
+Group name: 03_Cool_Coatis
+Group repo URL: git@github.com:Mikael54/03_cool_coatis.git
+Group repo path: repos_groups/03_Cool_Coatis
+
+Processing all code files found in code directories
+
+Your current Git repo size is about 49.40 MiB on disk
+
+======================================================================
+REPOSITORY STRUCTURE ANALYSIS
+======================================================================
+
+Top-level directories: Feedback, Miniproject, week1, week16, week2, week3, week4
+Top-level files: README.md
+
+Standard files present:
+  README file: ✓ Yes
+  .gitignore file: ✓ Yes
+
+Code directories found (6):
+  • week16/code
+  • week1/code
+  • week4/code
+  • week2/code
+  • week3/MyRCoursework/code
+  • Miniproject/code
+
+Repository statistics:
+  Total directories: 34
+  Total files: 130
+  Maximum directory depth: 6
+
+Scripts found (total: 65):
+  Python (.py): 32
+  R (.r): 24
+  Shell (.sh): 9
+
+======================================================================
+
+Found 4 code directory(ies):
+  • week1/code
+  • week2/code
+  • week3/MyRCoursework/code
+  • week4/code
+
+Found 60 code files to test.
+
+======================================================================
+DUPLICATE SCRIPT FILENAMES (Criterion 1)
+======================================================================
+
+No duplicate script basenames detected.
+
+======================================================================
+SCRIPT CLASSIFICATION (Taught vs Assigned)
+======================================================================
+
+This classification is used to scope some criteria (e.g., Criterion 8).
+Rules loaded: configs/assignments/script_rules_2025-26.json
+  taught:   36
+  assigned: 10
+  unknown:  14
+
+Criterion 8 scope: assigned scripts only
+
+Note: Expected scripts/files checks scan all code directories in the repository (not just the selected weeks).
+
+======================================================================
+CHECKING FOR EXPECTED SCRIPTS
+
+Expected scripts list contains 62 entries.
+
+Scope: non-groupwork + groupwork (groupwork excluded)
+Expected taught scripts: 50
+Expected assigned scripts: 12
+
+Expected taught scripts (50):
+  .py (20):
+    - blackbirds.py
+    - boilerplate.py
+    - control_flow.py
+    - debugme.py
+    - loops.py
+    - myexamplescript.py
+    - myscript.py
+    - profileme.py
+    - profileme2.py
+    - re4.py
+    - regexs.py
+    - run_fmr_r.py
+    - scope.py
+    - sysargv.py
+    - test_control_flow.py
+    - timeitme.py
+    - using_name.py
+    - using_os.py
+    - Vectorize1.py
+    - vectorize2.py
+  .r (23):
+    - apply1.R
+    - apply2.R
+    - basic_io.R
+    - boilerplate.R
+    - break.R
+    - browse.R
+    - control.R
+    - control_flow.R
+    - DataWrang.R
+    - fmr.R
+    - Girko.R
+    - MyBars.R
+    - next.R
+    - plotLin.R
+    - preallocate.R
+    - r_conditionals.R
+    - ricker.R
+    - sample.R
+    - SQLinR.R
+    - TreeHeight.R
+    - try.R
+    - Vectorize1.R
+    - vectorize2.R
+  .sh (7):
+    - boilerplate.sh
+    - ConcatenateTwoFiles.sh
+    - CountLines.sh
+    - MyExampleScript.sh
+    - tabtocsv.sh
+    - tiff2_png.sh
+    - variables.sh
+
+Expected assigned scripts (12):
+  .py (6):
+    - align_seqs.py
+    - cfexercises1.py
+    - dictionary.py
+    - lc1.py
+    - lc2.py
+    - tuple.py
+  .r (3):
+    - Florida.R
+    - PP_Dists.R
+    - PP_Regress.R
+  .sh (2):
+    - csvtospace.sh
+    - run_get_TreeHeight.sh
+  .txt (1):
+    - unixPrac1.txt
+
+Found taught scripts (matched) (36):
+  .py (12):
+    - boilerplate.py
+    - control_flow.py
+    - debugme.py
+    - loops.py
+    - MyExampleScript.py
+    - profileme.py
+    - profileme2.py
+    - scope.py
+    - sysargv.py
+    - test_control_flow.py
+    - timeitme.py
+    - using_name.py
+  .r (18):
+    - apply1.R
+    - apply2.R
+    - basic_io.R
+    - boilerplate.R
+    - break.R
+    - control_flow.R
+    - DataWrang.R
+    - Girko.R
+    - MyBars.R
+    - next.R
+    - plotLin.R
+    - R_conditionals.R
+    - Ricker.R
+    - sample.R
+    - TreeHeight.R
+    - try.R
+    - Vectorize1.R
+    - Vectorize2.R
+  .sh (6):
+    - boilerplate.sh
+    - ConcatenateTwoFiles.sh
+    - CountLines.sh
+    - MyExampleScript.sh
+    - tabtocsv.sh
+    - variables.sh
+
+Found assigned scripts (matched) (10):
+  .py (6):
+    - align_seqs.py
+    - cfexercises1.py
+    - dictionary.py
+    - lc1.py
+    - lc2.py
+    - tuple.py
+  .r (2):
+    - Florida.R
+    - PP_Regress.R
+  .sh (1):
+    - csvtospace.sh
+  .txt (1):
+    - UnixPrac1.txt
+
+Found unexpected scripts (not in expected non-groupwork list) (20):
+  .py (14):
+    - bacterial.py
+    - basic_csv.py
+    - basic_io1.py
+    - basic_io2.py
+    - basic_io3.py
+    - cfexercises2.py
+    - Ex2.py
+    - Ex4.py
+    - Ex8.py
+    - LV1.py
+    - LV2.py
+    - oaks.py
+    - oaks_debugme.py
+    - practicals.py
+  .r (4):
+    - browser.R
+    - DataWrangTidy.R
+    - GPDD_Data.R
+    - preallocated.R
+  .sh (2):
+    - CompileLaTex.sh
+    - tiff2png.sh
+
+Missing 16 expected scripts:
+  Missing taught (14):
+  .py (8):
+    - blackbirds.py
+    - myscript.py
+    - re4.py
+    - regexs.py
+    - run_fmr_r.py
+    - using_os.py
+    - Vectorize1.py
+    - vectorize2.py
+  .r (5):
+    - browse.R
+    - control.R
+    - fmr.R
+    - preallocate.R
+    - SQLinR.R
+  .sh (1):
+    - tiff2_png.sh
+
+  Missing assigned (2):
+  .r (1):
+    - PP_Dists.R
+  .sh (1):
+    - run_get_TreeHeight.sh
+
+======================================================================
+
+======================================================================
+CHECKING FOR EXPECTED OUTPUTS
+
+Expected outputs list contains 1 entries.
+
+Missing 1 expected outputs:
+  ✗ **/*_space.txt
+
+Found 6 additional non-script files not in expected outputs list:
+  + week1/code/FirstBiblio.bib
+  + week1/code/FirstExample.pdf
+  + week1/code/FirstExample.tex
+  + week1/code/UnixPrac1.txt
+  + week3/MyRCoursework/code/Florida_writeup.pdf
+  + week3/MyRCoursework/code/Florida_writeup.tex
+
+======================================================================
+
+Criterion evidence snapshot:
+  Criterion 2/10:
+  - Expected outputs: 1
+  - Missing expected outputs: 1
+  - Validated outputs: 0
+
+======================================================================
+REPOSITORY QUALITY & ORGANISATION (Criterion 1)
+======================================================================
+
+.gitignore Analysis:
+  ✓ .gitignore file present (10 rules)
+  ✓ Good patterns found: Python (__pycache__, *.pyc), R (.Rhistory, .RData), Results/outputs
+  ⚠ Missing patterns: OS files (.DS_Store, Thumbs.db), Editor files (*.swp, .vscode)
+
+Large Files Check:
+  ✓ No files > 10MB detected
+
+Results Directories - 4 found:
+  ✓ week1/results is clean (empty or .gitkeep only)
+  ✓ week4/results is clean (empty or .gitkeep only)
+  ✓ week2/results is clean (empty or .gitkeep only)
+  ✓ week3/MyRCoursework/results is clean (empty or .gitkeep only)
+
+Standard Directory Layout:
+  ✓ Week-based structure detected (5 weeks)
+  Weeks with complete structure (code/data/results): 3/5
+  ⚠ Incomplete week structures:
+     week16: missing data, results
+     week3: missing code, data, results
+
+Naming Consistency:
+  Week naming patterns: lowercase_week
+  ✓ Consistent week naming convention
+
+Criterion evidence snapshot:
+  Criterion 1:
+  - .gitignore present: Yes
+  - Results dirs with files: 0
+  - Large files >10MB: 0
+
+======================================================================
+
+======================================================================
+DOCUMENTATION ANALYSIS (Criterion 4)
+======================================================================
+
+Main README File:
+  ✓ README file present: README.md
+  Lines: 91 (non-empty)
+  Headings: 9
+  Quality: Excellent (5/5)
+  Sections found: description, usage, authors, structure
+  ✓ Contains code examples
+
+Code Documentation:
+  Total code files analyzed: 65
+  Overall documentation ratio: 47.7%
+
+  Python files (32):
+    With docstrings: 7/32 (21.9%)
+    ⚠ Low docstring coverage - add function/class docstrings
+  R files (24):
+    With comments: 18/24 (75.0%)
+    ✓ Good comment coverage
+  Shell scripts (9):
+    With comments: 6/9 (66.7%)
+    → Moderate comment coverage
+
+Per-Week Documentation:
+  Total weeks: 5
+  Weeks with README: 4/5 (80.0%)
+  ✓ Good per-week documentation coverage
+  Weeks without README: week16
+
+Documentation Best Practices:
+  • Main README should explain project purpose, structure, and usage
+  • Python: Use docstrings for modules, classes, and functions
+  • R: Add comments explaining logic and data transformations
+  • Shell: Document script purpose, arguments, and usage
+  • Per-week READMEs help track learning and activities
+
+Criterion evidence snapshot:
+  Criterion 4:
+  - README present: Yes
+  - Documentation ratio: 47.7%
+  - Weeks with README: 4/5
+
+======================================================================
+
+======================================================================
+CODE QUALITY & STYLE ANALYSIS (Criterion 3)
+======================================================================
+
+Available Tools:
+  Python syntax checker: ✓
+  Pylint: ✓
+  Pyflakes: ✓
+  Shellcheck: ✗ (not installed)
+
+Python Code Quality (32 files):
+  Clean files: 29/32
+  Files with issues: 3
+  ⚠ Style issues: 4
+  → Mostly clean code with minor style issues
+
+R Code Quality (24 files):
+  Clean files: 8/24
+  Files with issues: 16
+  ⚠ Style issues: 130
+
+  Files with significant issues:
+    week4/code/PP_Regress.R:
+      • Line 14: Consider using <- instead of = for assignment
+      • Line 18: Line too long (274 > 120 chars)
+      • Line 18: Consider using <- instead of = for assignment
+    week4/code/GPDD_Data.R:
+      • Line 4: Consider using <- instead of = for assignment
+      • Line 24: Consider using <- instead of = for assignment
+      • Line 25: Consider using <- instead of = for assignment
+    week4/code/DataWrangTidy.R:
+      • Line 7: Consider using <- instead of = for assignment
+      • Line 10: Consider using <- instead of = for assignment
+      • Line 30: Consider using <- instead of = for assignment
+    week4/code/DataWrang.R:
+      • Line 7: Consider using <- instead of = for assignment
+      • Line 10: Consider using <- instead of = for assignment
+      • Line 29: Consider using <- instead of = for assignment
+    week4/code/MyBars.R:
+      • Line 4: Consider using <- instead of = for assignment
+      • Line 9: Consider using <- instead of = for assignment
+      • Line 10: Consider using <- instead of = for assignment
+  ⚠ Multiple style issues detected
+
+Shell Script Quality (9 files):
+  → Basic checks only (shellcheck not installed)
+  Clean files: 6/9
+  Files with issues: 3
+  ⚠ Basic issues: 3
+  ⚠ Multiple issues detected
+
+Code Quality Best Practices:
+  • Python: Follow PEP 8 style guide, use meaningful variable names
+  • R: Use <- for assignment, consistent indentation and naming
+  • Shell: Use shellcheck, quote variables, check for errors
+  • All: Keep lines under 120 chars, avoid complex nested logic
+  • Run linters locally: pylint, shellcheck, or IDE integrations
+
+Criterion evidence snapshot:
+  Criterion 3:
+  - Python files with issues: 3
+  - R files with issues: 16
+  - Shell files with issues: 3
+
+======================================================================
+
+======================================================================
+LEARNING PROGRESSION (Criterion 11)
+======================================================================
+
+Weeks detected: 1, 2, 3, 4
+
+Per-week summary (heuristic):
+  Week | Scripts | Lines | Docs | Functions | Validation | Error-handling | Py syntax OK
+     1 |       9 |   129 |  67% |       22% |        56% |           44% |         0%
+     2 |      22 |   638 |  18% |       50% |         0% |            5% |       100%
+     3 |      18 |   307 |  72% |       67% |         0% |            6% |         0%
+     4 |      11 |   476 |  64% |       36% |        18% |            0% |       100%
+
+Progression rating: moderate
+Compared week 1 → week 4:
+  Docs coverage: 67% → 64% (Δ -3%)
+  Validation coverage: 56% → 18% (Δ -37%)
+  Error-handling coverage: 44% → 0% (Δ -44%)
+  Functions coverage: 22% → 36% (Δ +14%)
+  Python syntax OK: 0% → 100% (Δ +100%)
+  Scripts: 9 → 11
+  Lines:   129 → 476
+
+Per-week README coverage:
+  Weeks with README: 4/5 (80%)
+
+Guidance (from rubric expectations):
+  • Later weeks should show more structure (functions) and robustness (input checks).
+  • Documentation habits (per-week READMEs + script headers) should become consistent.
+
+Criterion evidence snapshot:
+  Criterion 11:
+  - Weeks detected: 4
+  - Progression rating: moderate
+
+======================================================================
+
+======================================================================
+ERROR HANDLING & INPUT VALIDATION (Criterion 8)
+======================================================================
+
+Scripts Analyzed: 10/10
+
+Code Analysis (Error Handling Patterns):
+  Scripts with error handling: 1/10 (10.0%)
+  Scripts with input validation: 1/10 (10.0%)
+  ⚠ Low error handling coverage - add try/except, tryCatch, or error checks
+
+Runtime Testing (Missing File Handling):
+  Graceful failures: 1/10 (10.0%)
+  Scripts with informative errors: 1/10
+  Scripts that crash on missing file: 9/10
+  ⚠ Many scripts fail without proper error handling
+
+Scripts Needing Improvement:
+
+  week2/code/align_seqs.py:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week2/code/cfexercises1.py:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week2/code/dictionary.py:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week2/code/lc1.py:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week2/code/lc2.py:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week2/code/oaks_debugme.py:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week2/code/tuple.py:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week3/MyRCoursework/code/Florida.R:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+
+  week4/code/PP_Regress.R:
+    ⚠ No error handling patterns detected in code
+    ⚠ No input validation detected
+    ✗ Does not handle missing files gracefully
+    ⚠ Error messages not informative or absent
+    Error output: 
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:b
+
+Error Handling Best Practices:
+  • Python: Use try/except blocks, check file existence with os.path.exists()
+  • Python: Validate arguments early, provide usage messages (argparse)
+  • R: Use tryCatch(), check with file.exists(), validate args with stopifnot()
+  • R: Provide informative error messages with stop() or warning()
+  • Shell: Use set -e, check file existence with [ -f ], validate arg count
+  • Shell: Provide usage messages when arguments are missing
+  • All: Exit with non-zero status on errors, print informative messages to stderr
+
+Criterion evidence snapshot:
+  Criterion 8:
+  - Scripts tested: 10
+  - With error handling: 1
+  - Graceful failures: 1
+
+======================================================================
+
+======================================================================
+VERSION CONTROL (Criterion 5)
+======================================================================
+Criterion evidence snapshot:
+  Criterion 5:
+  - Commits: 48
+  - Branches: 3
+  - Unwanted files: 2
+
+
+Total commits: 48
+Total branches: 3
+Merge commits: 1
+
+Commit Message Quality:
+  Average message length: 34.5 characters
+  Properly capitalized: 46/48
+  Empty/generic messages: 0/48
+  Quality ratio: 100.0%
+
+Commit Activity by Author:
+  Daniel Zhu: 44 commits, +2411653/-2247626 lines
+  Samraat Pawar: 4 commits, +4653/-2 lines
+
+Branches (Criterion 5 - Branching practice):
+  Main branches: 3
+  Feature/topic branches: 0
+  No feature branches detected (all work on main branch)
+
+Unwanted Files Committed (should be in .gitignore):
+  ✗ week4/code/.ipynb_checkpoints/MyFirstJupyterNb-checkpoint.ipynb
+  ✗ week4/code/.ipynb_checkpoints/profileme-checkpoint.py
+
+======================================================================
+
+======================================================================
+COLLABORATIVE WORKFLOW (Criteria 6-7)
+======================================================================
+Criterion evidence snapshot:
+  Criteria 6/7:
+  - Commits: 88
+  - Branches: 10
+
+
+Total commits: 88
+Total branches: 10
+Merge commits: 13
+
+Commit Activity by Author:
+  Daniel Zhu: 26 commits, +667/-219 lines
+  Mikael54: 24 commits, +113526/-94 lines
+  ore-sol: 18 commits, +476/-283 lines
+  Avery Chen: 8 commits, +262/-122 lines
+  DanielZ25: 4 commits, +0/-0 lines
+  Ore: 2 commits, +4/-1 lines
+  Hanxiao Wnag: 2 commits, +20/-12 lines
+  Hansel: 2 commits, +349/-10 lines
+  AmorFati-coder: 1 commits, +322/-78667 lines
+  Samraat Pawar: 1 commits, +520/-0 lines
+
+Branches (Criterion 6 - Collaborative workflow):
+  Main branches: 3
+  Feature/topic branches: 0
+  No feature branches detected (all work on main branch)
+
+Individual Contribution Analysis for Daniel Zhu:
+  Commits by student: 30
+  Contribution ratio: 34.1% of total commits
+  Total lines changed: 886
+  Average files per commit: 1.1
+  CONTRIBUTIONS.md present: Yes
+  Matched Git authors: Daniel Zhu, DanielZ25
+  Recent commit dates: 2025-12-10, 2025-12-10, 2025-12-10, 2025-12-10, 2025-12-10
+
+======================================================================
+
+======================================================================
+CONTRIBUTIONS FILE (Criterion 7)
+======================================================================
+
+Source: group repo
+Path checked: repos_groups/03_Cool_Coatis
+
+CONTRIBUTIONS.md present (119 non-empty lines).
+Content appears non-empty.
+
+Criterion evidence snapshot:
+  Criterion 7:
+  - CONTRIBUTIONS.md present: Yes
+  - Non-empty lines: 119
+
+======================================================================
+GROUPWORK SCRIPT EVIDENCE (shared across group members)
+======================================================================
+
+======================================================================
+GROUPWORK EXPECTED SCRIPTS
+
+Expected scripts list contains 4 entries.
+
+Scope: groupwork-only
+Expected taught scripts: 0
+Expected assigned scripts: 4
+
+Expected taught scripts (0):
+  (none)
+
+Expected assigned scripts (4):
+  .py (2):
+    - align_seqs_fasta.py
+    - oaks_debugme.py
+  .r (2):
+    - PP_Regress_loc.R
+    - TAutoCorr.R
+
+Found taught scripts (matched) (0):
+  (none)
+
+Found assigned scripts (matched) (4):
+  .py (2):
+    - align_seqs_fasta.py
+    - oaks_debugme.py
+  .r (2):
+    - pp_regress_loc.R
+    - TAutoCorr.R
+
+Found additional scripts in group repo (not required for groupwork expectations) (1):
+  .py (1):
+    - align_seqs_better.py
+
+All expected scripts are present.
+
+======================================================================
+
+Note: Expected outputs checking not performed (no FileList or assignment config with expected outputs provided).
+Expected outputs checking will only be performed during final assessment.
+
+======================================================================
+GROUPWORK SCRIPT EXECUTION RESULTS
+======================================================================
+The following sections show each script as executed, plus its output and errors.
+
+======================================================================
+Script: TAutoCorr.R
+
+Contents:
+
+**********
+
+# TAutoCorr.R
+# Groupwork Practical: Autocorrelation in Florida weather (successive-year correlation)
+# Usage:
+#   Rscript TAutoCorr.R --input data/florida_temp.csv --output results/autocorr --nperm 5000
+
+
+infile  <- "../data/florida_weather.csv"
+outstem <- "../results/autocorr"
+nperm   <- 5000
+dir.create(dirname(outstem), showWarnings=FALSE, recursive=TRUE)
+
+df <- read.csv(infile, header=TRUE)
+stopifnot(all(c("Year","Temp") %in% names(df)))
+df <- df[order(df$Year), ]
+
+# Compute observed correlation between successive years
+# i.e., cor(Temp[t], Temp[t+1]) for t=1..n-1
+T_t   <- head(df$Temp, -1)
+T_tp1 <- tail(df$Temp, -1)
+obs_cor <- cor(T_t, T_tp1, use="complete.obs", method="pearson")
+
+set.seed(123)
+perm_cors <- numeric(nperm)
+for (i in seq_len(nperm)) {
+  shuf <- sample(df$Temp, replace=FALSE)
+  perm_cors[i] <- suppressWarnings(cor(shuf[-length(shuf)], shuf[-1], use="complete.obs", method="pearson"))
+
+}
+
+pval <- mean(perm_cors >= obs_cor)
+
+pdf(sprintf("%s_hist.pdf", outstem), width=6, height=4)
+hist(perm_cors, breaks=50, main="Null distribution of successive-year correlation",
+     xlab="Correlation under permutation")
+abline(v=obs_cor, lwd=2)
+legend("topright", legend=sprintf("Observed = %.3f\np = %.4f", obs_cor, pval), bty="n")
+dev.off()
+
+# Short LaTeX-ready report (plain text for now)
+report <- sprintf(
+"Autocorrelation in Florida Weather (Permutation Test)
+Observed successive-year correlation (Pearson): %.4f
+Permutation p-value (>= observed): %.4f
+n_permutations = %d
+", obs_cor, pval, nperm)
+writeLines(report, con=sprintf("%s_report.txt", outstem))
+
+
+**********
+
+Run metadata:
+  Command: cd "code" && Rscript --vanilla --slave TAutoCorr.R
+  CWD: code
+  Exit code: 0
+  Runtime (s): 0.26
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+null device 
+          1 
+
+**********
+No errors.
+======================================================================
+Script: align_seqs_better.py
+
+Contents:
+
+**********
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+align_seqs_fasta.py
+-------------------
+Align two DNA sequences by sliding the shorter across the longer and scoring matches.
+Records *all* equally-best alignments, saves a human-readable report and a pickle file.
+
+Usage:
+    python3 align_seqs_fasta.py seq1.fasta seq2.fasta
+If no paths are provided, the script will try ./data/seq1.fasta and ./data/seq2.fasta.
+If those are missing, it falls back to two built-in example sequences so it still runs.
+
+Outputs (created under ./results/):
+    - alignment_results.txt : human-readable summary
+    - alignment_results.pkl : python pickle with the full results dict
+
+This implementation follows the classic MulQuaBio "Align DNA sequences" practical.
+"""
+
+import argparse
+import os
+import pickle
+from typing import List, Dict, Tuple
+
+# ---------------------------
+# FASTA utilities
+# ---------------------------
+
+def read_fasta(path: str) -> Tuple[str, str]:
+    """Read a (single-sequence) FASTA file and return (header, sequence in uppercase)."""
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"FASTA not found: {path}")
+    header = None
+    seq_parts: List[str] = []
+    with open(path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            if line.startswith('>'):
+                # Keep the first header, ignore subsequent ones for simplicity
+                if header is None:
+                    header = line[1:].strip()
+            else:
+                seq_parts.append(line.upper())
+    seq = ''.join(seq_parts)
+    if header is None:
+        header = os.path.basename(path)
+    return header, seq
+
+def sanitize_dna(seq: str) -> str:
+    """Uppercase and keep only A/C/G/T/N; remove others (spaces, numbers, etc.)."""
+    seq = seq.upper()
+    allowed = {'A', 'C', 'G', 'T', 'N'}
+    return ''.join(ch for ch in seq if ch in allowed)
+
+# ---------------------------
+# Alignment core
+# ---------------------------
+
+def calculate_score(s1: str, s2: str, startpoint: int) -> int:
+    """Return the number of matching bases when s2 is aligned to s1 at startpoint."""
+    score = 0
+    l1 = len(s1)
+    l2 = len(s2)
+    for i in range(l2):
+        pos_in_s1 = startpoint + i
+        if pos_in_s1 >= l1:
+            break  # s2 hangs off the end of s1
+        if s1[pos_in_s1] == s2[i]:
+            score += 1
+    return score
+
+def align_sequences(raw_s1: str, raw_s2: str) -> Dict:
+    """Align two sequences, returning a dict with best score and all equally-best alignments."""
+    # Ensure we slide the *shorter* across the *longer*
+    s1 = sanitize_dna(raw_s1)
+    s2 = sanitize_dna(raw_s2)
+    if len(s1) < len(s2):
+        s1, s2 = s2, s1  # swap so s1 is the longer
+    
+    best_score = -1
+    best_alignments: List[Dict] = []
+    l1 = len(s1)
+    l2 = len(s2)
+
+    for start in range(0, l1):  # try all start positions on s1
+        sc = calculate_score(s1, s2, start)
+        if sc > best_score:
+            best_score = sc
+            best_alignments = [{
+                'start': start,
+                'aligned_s2': ('.' * start) + s2,
+            }]
+        elif sc == best_score:
+            best_alignments.append({
+                'start': start,
+                'aligned_s2': ('.' * start) + s2,
+            })
+
+    return {
+        's1': s1,
+        's2': s2,
+        'best_score': best_score,
+        'best_alignments': best_alignments,
+    }
+
+# ---------------------------
+# I/O helpers
+# ---------------------------
+
+def ensure_dir(path: str) -> None:
+    os.makedirs(path, exist_ok=True)
+
+def save_results(results: Dict, out_dir: str = 'results') -> Tuple[str, str]:
+    """Save results as text and pickle in out_dir. Return (txt_path, pkl_path)."""
+    ensure_dir(out_dir)
+    txt_path = os.path.join(out_dir, 'alignment_results.txt')
+    pkl_path = os.path.join(out_dir, 'alignment_results.pkl')
+
+    s1 = results['s1']
+    s2 = results['s2']
+    best_score = results['best_score']
+    best_alignments = results['best_alignments']
+
+    # Human-readable report
+    with open(txt_path, 'w', encoding='utf-8') as f:
+        f.write('== DNA Alignment Results ==\n\n')
+        f.write(f'Length(s): s1={len(s1)}, s2={len(s2)}\n')
+        f.write(f'Best score: {best_score}\n')
+        f.write(f'Number of equally-best alignments: {len(best_alignments)}\n\n')
+
+        # Show the base sequences
+        f.write('S1 (reference):\n')
+        f.write(s1 + '\n\n')
+        f.write('S2 (query):\n')
+        f.write(s2 + '\n\n')
+
+        f.write('--- Best alignments (all ties) ---\n')
+        for i, aln in enumerate(best_alignments, 1):
+            f.write(f'[{i}] start={aln["start"]}\n')
+            f.write(aln['aligned_s2'] + '\n\n')
+
+    # Pickle everything
+    with open(pkl_path, 'wb') as pf:
+        pickle.dump(results, pf)
+
+    return txt_path, pkl_path
+
+# ---------------------------
+# Defaults & CLI
+# ---------------------------
+
+DEFAULTS = (
+    os.path.join('..', 'data', '407228326.fasta'),
+    os.path.join('..', 'data', '407228412.fasta'),
+)
+
+BUILTIN_EXAMPLE = (
+    '>Example_seq_1\nGATTACAAGGTTAC\n',
+    '>Example_seq_2\nTTACAGTTAC\n',
+)
+
+def main():
+    parser = argparse.ArgumentParser(description='Align two DNA FASTA sequences and record all best alignments.')
+    parser.add_argument('fasta1', nargs='?', help='Path to first FASTA file')
+    parser.add_argument('fasta2', nargs='?', help='Path to second FASTA file')
+    parser.add_argument('-o', '--outdir', default='../results', help='Output directory (default: ../results)')
+    args = parser.parse_args()
+
+    # Determine input sources
+    candidates = []
+    if args.fasta1 and args.fasta2:
+        candidates = [args.fasta1, args.fasta2]
+    else:
+        candidates = list(DEFAULTS)
+
+    try:
+        if all(os.path.exists(p) for p in candidates):
+            h1, s1 = read_fasta(candidates[0])
+            h2, s2 = read_fasta(candidates[1])
+        else:
+            # fall back to built-in example sequences so the script still runs
+            h1, s1 = 'Builtin_1', sanitize_dna(BUILTIN_EXAMPLE[0].split('\n', 1)[1])
+            h2, s2 = 'Builtin_2', sanitize_dna(BUILTIN_EXAMPLE[1].split('\n', 1)[1])
+    except Exception as e:
+        print(f'[ERROR] Failed to read FASTA inputs: {e}')
+        print('Falling back to built-in example sequences.')
+        h1, s1 = 'Builtin_1', sanitize_dna(BUILTIN_EXAMPLE[0].split('\n', 1)[1])
+        h2, s2 = 'Builtin_2', sanitize_dna(BUILTIN_EXAMPLE[1].split('\n', 1)[1])
+
+    results = align_sequences(s1, s2)
+    results['header1'] = h1
+    results['header2'] = h2
+
+    txt_path, pkl_path = save_results(results, args.outdir)
+    print('Done.')
+    print(f'Best score: {results["best_score"]} | #best alignments: {len(results["best_alignments"]) }')
+    print(f'Report   : {txt_path}')
+    print(f'Pickle   : {pkl_path}')
+
+if __name__ == '__main__':
+    main()
+
+
+
+**********
+
+Run metadata:
+  Command: cd "code" && python3 align_seqs_better.py
+  CWD: code
+  Exit code: 0
+  Runtime (s): 0.69
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Done.
+Best score: 527 | #best alignments: 1
+Report   : ../results/alignment_results.txt
+Pickle   : ../results/alignment_results.pkl
+
+**********
+No errors.
+======================================================================
+Script: align_seqs_fasta.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+
+"""A code that finds the best allignent for two strands of fasta files, files must be located in the data folder"""
+__version__ = '0.0.1'
+
+import sys
+
+
+
+def import_values(file_1, file_2):
+    filepath_1 = f"../data/{file_1}"
+    filepath_2 = f"../data/{file_2}"
+    with open(filepath_1, "r") as f:
+        lines = f.readlines()
+        seq1 = ''.join(line.strip() for line in lines if not line.startswith('>'))
+    with open(filepath_2, "r") as f:
+        lines = f.readlines()
+        seq2 = ''.join(line.strip() for line in lines if not line.startswith('>'))
+    l1 = len(seq1)
+    l2 = len(seq2)
+    if l1 >= l2:
+        s1 = seq1
+        s2 = seq2
+    else:
+        s1 = seq2
+        s2 = seq1
+        l1, l2 = l2, l1 # swap the two lengths
+
+    return(s1, s2, l1, l2)
+
+
+def calculate_score(s1, s2, l1, l2, startpoint):
+    matched = "" # to hold string displaying alignements
+    score = 0
+    for i in range(l2):
+        if (i + startpoint) < l1:
+            if s1[i + startpoint] == s2[i]: # if the bases match
+                matched = matched + "*"
+                score = score + 1
+            else:
+                matched = matched + "-"
+
+    # some formatted output
+    print("." * startpoint + matched)           
+    print("." * startpoint + s2)
+    print(s1)
+    print(score) 
+    print(" ")
+
+    return score
+
+
+def find_best_score(s1, s2, l1, l2):
+    my_best_align = None
+    my_best_score = -1
+
+    for i in range(l1): # Note that you just take the last alignment with the highest score
+        z = calculate_score(s1, s2, l1, l2, i)
+        if z > my_best_score:
+            my_best_align = "." * i + s2 # think about what this is doing!
+            my_best_score = z 
+    print(f"{my_best_align}\n{s1}\nBest score: {my_best_score}")
+    result = f"{my_best_align}\n{s1}\nBest score: {my_best_score}"
+    return result 
+
+
+
+def main(argv):
+    if len(sys.argv) != 3:
+        # Default files if no arguments given
+        s1, s2, l1, l2 = import_values("407228326.fasta", "407228412.fasta")
+    else:
+        # Use command-line arguments
+        s1, s2, l1, l2 = import_values(sys.argv[1], sys.argv[2])    
+    with open( '../results/aligned_seq.txt', 'w') as f:
+        f.write(find_best_score(s1, s2, l1, l2))    
+    return(0)
+
+
+if (__name__ == "__main__"):
+    status = main(sys.argv)
+    sys.exit(status)
+
+**********
+
+Run metadata:
+  Command: cd "code" && python3 align_seqs_fasta.py
+  CWD: code
+  Exit code: 0
+  Runtime (s): 1.69
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+*-**---*--*---*-------*-*---*-*--*-*-*---*---*-----*--***----*--********-**---**--*---***------*-*--**---*-*---*-----*--****--------*--*--*-------**-*--*-*-----*-***-----**-----*-*-**--*--------*--**---*-**--*---*-**---*-*-*-*--**-*-******------**--*---*------****-*-*----*---*-------*-------------**-*-**--**-*------*-*--------**--*---------**---------*-**-------**-*--*--*--------*------------*-*-*--*-*---*-*-*--*-*----------**--------*-*--*------*-------**-----*--------*-----*--*--*----------*--
+**********
+No errors.
+======================================================================
+Script: oaks_debugme.py
+
+Contents:
+
+**********
+### code below
+import csv
+import sys
+import doctest
+
+#Define function
+def is_an_oak(name):
+    """ Returns True if name is starts with 'quercus' 
+    >>> is_an_oak('Quercus')
+    True
+
+    >>> is_an_oak('Quercus robur')
+    True
+
+    >>> is_an_oak('quercus')
+    True
+
+    >>> is_an_oak('Fagus sylvatica')
+    False
+
+    >>> is_an_oak('Quercuss')
+    True
+
+    >>> is_an_oak('Quercs')
+    True
+
+    >>> is_an_oak('Pinus')
+    False
+
+    >>> is_an_oak('')
+    False
+
+    >>> is_an_oak('QUERCUS ALBA')
+    True
+    """
+    # Handle empty strings or None
+    if not name:
+        return False
+    # Convert to lowercase and strip whitespace
+    name_lower = name.lower().strip()
+    genus = name_lower.split()[0] if ' ' in name_lower else name_lower
+
+    if genus.startswith('quercus'):
+        return True
+    #Handle typos
+    if genus.startswith ('q') and 5 <= len(genus) <= 9:
+        target = 'quercus'
+        matches = sum(1 for i, char in enumerate(genus) if i < len(target) and char == target[i])
+        if matches >=5:
+            return True
+    return False
+
+#main code
+def main(argv): 
+    f = open('../data/TestOaksData.csv','r')
+    g = open('../data/JustOaksData.csv','w')
+    taxa = csv.reader(f)
+    csvwrite = csv.writer(g)
+    csvwrite.writerow(['Genus', 'Species'])  # Write header to output file
+    next(taxa) # Skip the header row (first line) of the input CSV
+
+    for row in taxa:
+        print(row)
+        print ("The genus is: ") 
+        print(row[0] + '\n')
+        if is_an_oak(row[0]):
+            print('FOUND AN OAK!\n')
+            csvwrite.writerow([row[0], row[1]])    
+
+    return 0
+
+#run and test  
+if (__name__ == "__main__"):
+    status = main(sys.argv)
+
+    print("\nRunning doctests...")
+    doctest.testmod()
+**********
+
+Run metadata:
+  Command: cd "code" && python3 oaks_debugme.py
+  CWD: code
+  Exit code: 0
+  Runtime (s): 0.06
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+['Quercus', ' robur']
+The genus is: 
+Quercus
+
+FOUND AN OAK!
+
+['Fraxinus', ' excelsior']
+The genus is: 
+Fraxinus
+
+['Pinus', ' sylvestris']
+The genus is: 
+Pinus
+
+['Quercus', ' cerris']
+The genus is: 
+Quercus
+
+FOUND AN OAK!
+
+['Quercus', ' petraea']
+The genus is: 
+Quercus
+
+FOUND AN OAK!
+
+
+Running doctests...
+
+**********
+No errors.
+======================================================================
+Script: pp_regress_loc.R
+
+Contents:
+
+**********
+# Author: Ore Solanke, Mikael Minten
+# Date: October 2025
+# Script: pp_regress.R
+# Description: EcolArchives Linear Regression Plotting and LM analysis
+
+
+rm(list=ls())
+
+## load required packages
+packages<-c('tidyr', 'dplyr', 'ggplot2', 'ggthemes')
+lapply(packages, require, character.only=TRUE)
+
+## load in data 
+eco.df <-read.csv("../data/EcolArchives-E089-51-D1.csv")
+#glimpse(eco.df)
+
+## set factors 
+eco.df$Type.of.feeding.interaction <- as.factor(eco.df$Type.of.feeding.interaction)
+eco.df$Location <- as.factor(eco.df$Location)
+eco.df$Predator.lifestage <- as.factor(eco.df$Predator.lifestage)
+
+## convert units mg to g 
+eco.df$Prey.mass[eco.df$Prey.mass.unit == "mg"] <- eco.df$Prey.mass[eco.df$Prey.mass.unit == "mg"] / 1000
+eco.df$Prey.mass.unit[eco.df$Prey.mass.unit == "mg"] <- "g"
+
+## linear regression considering three variables 
+
+location_eco_reg <- eco.df %>% 
+  group_by(Location, Type.of.feeding.interaction, Predator.lifestage) %>% 
+  summarise({
+    # Only perform regression if there are at least 3 data points
+    if(n() < 3) {
+      tibble(
+        slope = NA_real_,
+        intercept = NA_real_,
+        R_squared = NA_real_,
+        F_statistic = NA_real_,
+        p_value = NA_real_
+      )
+    } else {
+      tryCatch({
+        # Try to extract values for a linear model
+        location_interation_lm <- lm(log10(Prey.mass) ~ log10(Predator.mass), data = cur_data())
+        loc_lm_summary <- summary(location_interation_lm)
+        tibble(
+          slope = coef(location_interation_lm)[2],
+          intercept = coef(location_interation_lm)[1],
+          R_squared = sqrt(loc_lm_summary$r.squared),
+          F_statistic = loc_lm_summary$fstatistic[1],
+          p_value = loc_lm_summary$coefficients[2, 4]
+        )
+        # If an error occurs, return NA values
+      }, error = function(e) {
+        tibble(
+          slope = NA_real_,
+          intercept = NA_real_,
+          R_squared = NA_real_,
+          F_statistic = NA_real_,
+          p_value = NA_real_
+        )
+      })
+    }
+  }, .groups = 'drop')
+
+# Remove rows with NA slope values
+location_eco_reg <- location_eco_reg %>% 
+  filter(!is.na(slope))
+
+# Write results to CSV
+write.csv(location_eco_reg, "../results/pp_regress_location_results.csv")
+
+**********
+
+Run metadata:
+  Command: cd "code" && Rscript --vanilla --slave pp_regress_loc.R
+  CWD: code
+  Exit code: 0
+  Runtime (s): 0.94
+  Timed out: No
+  Stderr bytes: 819
+
+Stdout (first 500 chars):
+
+**********
+[[1]]
+[1] TRUE
+
+[[2]]
+[1] TRUE
+
+[[3]]
+[1] TRUE
+
+[[4]]
+[1] FALSE
+
+
+**********
+Warnings/Notes:
+**********
+Loading required package: tidyr
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Loading required package: ggplot2
+Loading required package: ggthemes
+Warning message:
+In library(package, lib.loc = lib.loc, character.only = TRUE, logical.return = TRUE,  :
+  there is no package called ‘ggthemes’
+Warning message:
+There was 1 warning in `summarise()`.
+ℹ In argument: `{ ... }`.
+ℹ In group 1: `Location = "Andaman Sea (West of South Thailand)"`,
+  `Type.of.feeding.interaction = predacious`, `Predator.lifestage = larva`.
+Caused by warning:
+! `cur_data()` was deprecated in dplyr 1.1.0.
+ℹ Please use `pick()` instead. 
+
+**********
+======================================================================
+GROUPWORK FUNCTIONAL CORRECTNESS (Criterion 2)
+======================================================================
+
+Scripts executed: 5
+Scripts successful: 5
+Scripts with errors: 0
+Success rate: 100.0%
+
+Expected outputs/files check: not configured (no expected files list provided).
+
+Scripts that error on a clean run are treated as non-runnable under Criterion 2.
+
+Criterion evidence snapshot:
+  Criterion 2:
+  - Scripts executed: 5
+  - Scripts with errors: 0
+
+======================================================================
+SCRIPT EXECUTION RESULTS
+======================================================================
+The following sections show each script as executed, plus its output and errors.
+
+======================================================================
+Script: CompileLaTex.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+if [ $# -lt 1 ]; then
+    echo "Usage: bash CompileLaTex.sh <filename.tex>"
+    exit 1
+fi
+
+
+pdflatex $1
+bibtex ${1%.tex}
+pdflatex $1
+pdflatex $1
+evince ${1%.tex}.pdf &
+
+## Cleanup
+rm *.aux
+rm *.log
+rm *.bbl
+rm *.blg
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash CompileLaTex.sh
+  CWD: week1/code
+  Exit code: 1
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Usage: bash CompileLaTex.sh <filename.tex>
+
+**********
+Errors:
+**********
+No stderr output captured.
+**********
+======================================================================
+Script: ConcatenateTwoFiles.sh
+
+Contents:
+
+**********
+#!/bin/bash
+if [ $# -lt 3 ]; then
+    echo -e "Error: Missing input file.\nUsage: bash ConcatenateTwoFiles.sh input1_file input2_file output_file"
+    exit 1
+fi
+
+if [ ! -e "$1" ]; then
+    echo -e "Error: Input file '$1' not found"
+    exit 1
+fi
+
+if [ ! -e "$2" ]; then
+    echo -e "Error: Input file '$2' not found"
+    exit 1
+fi
+
+cat $1 > $3
+cat $2 >> $3
+echo "Merged File is"
+cat "$3"
+echo "\nConcatenation complete! Output saved as '$3'" 
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash ConcatenateTwoFiles.sh
+  CWD: week1/code
+  Exit code: 1
+  Runtime (s): 0.00
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Error: Missing input file.
+Usage: bash ConcatenateTwoFiles.sh input1_file input2_file output_file
+
+**********
+Errors:
+**********
+No stderr output captured.
+**********
+======================================================================
+Script: CountLines.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+if [ $# -lt 1 ]; then
+    echo "Error: Missing input file."
+    echo "Usage: bash CountLines.sh input_file"
+    exit 1
+fi
+
+# Check if input file exists
+if [ ! -e "$1" ]; then
+    echo "Error: Input file '$1' not found"
+    exit 1
+fi
+
+
+NumLines=`wc -l < $1`
+echo "The file $1 has $NumLines lines"
+echo
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash CountLines.sh
+  CWD: week1/code
+  Exit code: 1
+  Runtime (s): 0.00
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Error: Missing input file.
+Usage: bash CountLines.sh input_file
+
+**********
+Errors:
+**********
+No stderr output captured.
+**********
+======================================================================
+Script: MyExampleScript.sh
+
+Contents:
+
+**********
+#!/bin/sh
+
+MSG1="Hello"
+MSG=$USER
+echo "$MSG1 $MSG2"
+echo "Hello $USER"
+echo
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash MyExampleScript.sh
+  CWD: week1/code
+  Exit code: 0
+  Runtime (s): 0.00
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Hello 
+Hello mhasoba
+
+
+**********
+No errors.
+======================================================================
+Script: boilerplate.sh
+
+Contents:
+
+**********
+#!/bin/sh
+# Author: Daniel Zhu haotian.zhu21@imperial.ac.uk
+# Script: boilerplate.sh
+# Desc: simple boilerplate for shell scripts
+# Arguments: none
+# Date: Oct 2025
+
+echo -e "\nThis is a shell script! \n"
+
+# exit
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash boilerplate.sh
+  CWD: week1/code
+  Exit code: 0
+  Runtime (s): 0.00
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+
+This is a shell script! 
+
+
+**********
+No errors.
+======================================================================
+Script: csvtospace.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+if [ $# -lt 2 ]; then
+    echo -e "Error: Missing input or output files\nUsage: bash csvtospace.sh input.csv output.csv"
+    exit 1
+fi 
+
+if [ ! -e "$1" ]; then
+    echo -e "Error: No such file or directory\nInput file not found"
+    exit 1
+fi
+
+
+cat $1 | tr ',' ' ' > $2
+echo "The revised csv is $2"
+cat $2
+
+ echo -e "Conversion complete!\nOutput saved as: $2"
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash csvtospace.sh
+  CWD: week1/code
+  Exit code: 1
+  Runtime (s): 0.00
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Error: Missing input or output files
+Usage: bash csvtospace.sh input.csv output.csv
+
+**********
+Errors:
+**********
+No stderr output captured.
+**********
+======================================================================
+Script: tabtocsv.sh
+
+Contents:
+
+**********
+#!/bin/sh
+# Author: Daniel Zhu haotian.zhu21@imperial.ac.uk
+# Script: tabtocsv.sh
+# Description: substitute the tabs in the files with commas
+#
+# Saves the output into a .csv file
+# Arguments: 1 -> tab delimited file
+# Date: Oct 2025
+
+if [ $# -lt 1 ]; then
+    echo -e "Error: Missing input file.\nUsage: bash tabtocsv.sh input_file"
+    exit 1
+fi
+
+if [ ! -e "$1" ]; then
+    echo -e "Error: Input file '$1' not found"
+    exit 1
+fi
+
+echo "Creating a comma delimited version of $1 ..."
+cat $1 | tr -s "\t" "," >> $1.csv
+echo "Done!"
+exit
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash tabtocsv.sh
+  CWD: week1/code
+  Exit code: 1
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Error: Missing input file.
+Usage: bash tabtocsv.sh input_file
+
+**********
+Errors:
+**********
+No stderr output captured.
+**********
+======================================================================
+Script: tiff2png.sh
+
+Contents:
+
+**********
+#!/bin/bash
+
+# need at least one input file
+[ $# -eq 0 ] && echo -e "No tif file provided. \nUsage: bash tiff2png.sh *.tif" && exit 1
+
+
+# convert each input file
+for f in "$@"; do
+    [ -f "$f" ] || { echo "Cannot find $f"; continue; }
+    out="../results/$(basename "$f" .tif).png"
+    echo "Converting $f"
+    convert "$f" "$out"
+done
+
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash tiff2png.sh
+  CWD: week1/code
+  Exit code: 1
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+No tif file provided. 
+Usage: bash tiff2png.sh *.tif
+
+**********
+Errors:
+**********
+No stderr output captured.
+**********
+======================================================================
+Script: variables.sh
+
+Contents:
+
+**********
+#!/bin/sh
+
+## Illustrates the use of variables
+
+# Special variables
+
+echo "This script was called with $# parameters"
+echo "The script's name is $0"
+echo "The arguments are $@"
+echo "The first argument is $1"
+echo "The second argument is $2"
+
+# Assigned Variabels; Explicit declaration:
+MY_VAR='some string'
+echo 'the current value of the varibale is:' $MY_VAR
+echo
+echo 'Please enter a new string'
+read MY_VAR
+echo
+echo 'the current value of the variable is:' $MY_VAR
+echo
+
+## Assigned Variables; Reading (multiple values) from user input:
+echo 'Enter two numbers separated by space(s)'
+read a b
+echo 
+echo 'you entered' $a 'and' $b '; Their sum is:' 
+
+## Assigned Varibales; Command substitution
+MY_SUM=$(expr $a + $b)
+echo $MY_SUM
+
+
+
+**********
+
+Run metadata:
+  Command: cd "week1/code" && bash variables.sh
+  CWD: week1/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 51
+
+Stdout (first 500 chars):
+
+**********
+This script was called with 0 parameters
+The script's name is variables.sh
+The arguments are 
+The first argument is 
+The second argument is 
+the current value of the varibale is: some string
+
+Please enter a new string
+
+the current value of the variable is:
+
+Enter two numbers separated by space(s)
+
+you entered and ; Their sum is:
+
+
+**********
+Warnings/Notes:
+**********
+expr: syntax error: missing argument after ‘+’
+
+**********
+======================================================================
+Script: MyExampleScript.py
+
+Contents:
+
+**********
+def foo(x):
+    x *= x # same as x = x*x
+    print(x)
+
+foo(2)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 MyExampleScript.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+4
+
+**********
+No errors.
+======================================================================
+Script: align_seqs.py
+
+Contents:
+
+**********
+import csv
+# A function that computes a score by returning the number of matches starting
+# from arbitrary startpoint (chosen by user)
+def calculate_score(s1, s2, l1, l2, startpoint):
+    matched = "" # to hold string displaying alignements
+    score = 0
+    for i in range(l2):
+        if (i + startpoint) < l1:
+            if s1[i + startpoint] == s2[i]: # if the bases match
+                matched = matched + "*"
+                score = score + 1
+            else:
+                matched = matched + "-"
+
+    # some formatted output
+    print("." * startpoint + matched)           
+    print("." * startpoint + s2)
+    print(s1)
+    print(score) 
+    print(" ")
+
+    return score
+
+# Test the function with some example starting points:
+# calculate_score(s1, s2, l1, l2, 0)
+# calculate_score(s1, s2, l1, l2, 1)
+# calculate_score(s1, s2, l1, l2, 5)
+
+def main():
+    input_file = "../data/sequences.csv"
+    output_file = "../results/alignment_results.txt"
+
+    with open(input_file, 'r') as csvfile:
+        reader = csv.reader(csvfile)
+        next(reader)
+        row = next(reader)
+        seq1 = row[0]
+        seq2 = row[1]
+    
+    l1 = len(seq1)
+    l2 = len(seq2)
+    if l1 >= l2:
+        s1 = seq1
+        s2 = seq2
+    else:
+        s1 = seq2
+        s2 = seq1
+        l1, l2 = l2, l1 # swap the two lengths
+
+    
+
+
+# now try to find the best match (highest score) for the two sequences
+    my_best_align = None
+    my_best_score = -1
+
+    for i in range(l1): # Note that you just take the last alignment with the highest score
+        z = calculate_score(s1, s2, l1, l2, i)
+        if z > my_best_score:
+            my_best_align = "." * i + s2 # think about what this is doing!
+            my_best_score = z 
+    print(my_best_align)
+    print(s1)
+    print("Best score:", my_best_score)
+
+    with open(output_file, 'w') as f:
+        f.write("DNA Sequence Alignment Results\n")
+        f.write("=" * 50 +"\n\n")
+        f.write("Best Alignment:\n")
+        f.write(f"{my_best_align}\n")
+        f.write(f"{s1}\n")
+        f.write(f"Best score:{my_best_score}\n")
+    print(f"\n Results saved to '{output_file}'")
+if __name__ == "__main__":
+    main()
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 align_seqs.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+-----*****
+CAATTCGGAT
+ATCGCCGGATTACGGG
+5
+ 
+.------*--*
+.CAATTCGGAT
+ATCGCCGGATTACGGG
+2
+ 
+..*---------
+..CAATTCGGAT
+ATCGCCGGATTACGGG
+1
+ 
+...--------*-
+...CAATTCGGAT
+ATCGCCGGATTACGGG
+1
+ 
+....*---------
+....CAATTCGGAT
+ATCGCCGGATTACGGG
+1
+ 
+.....*---*-----
+.....CAATTCGGAT
+ATCGCCGGATTACGGG
+2
+ 
+......--***--*--
+......CAATTCGGAT
+ATCGCCGGATTACGGG
+4
+ 
+.......-*-*-***-
+.......CAATTCGGAT
+ATCGCCGGATTACGGG
+5
+ 
+........------**
+........CAATTCGGAT
+ATCGCCGGATTACGGG
+2
+ 
+.........--*---*
+.........CAATTCGGAT
+ATCGCCG
+**********
+No errors.
+======================================================================
+Script: basic_csv.py
+
+Contents:
+
+**********
+import csv
+
+# Read a file containing:
+# 'Species','Infraorder','Family','Distribution','Body mass male (Kg)'
+with open('../data/testcsv.csv','r') as f:
+
+    csvread = csv.reader(f)
+    temp = []
+    for row in csvread:
+        temp.append(tuple(row))
+        print(row)
+        print("The species is", row[0])
+
+# write a file containing only species name and Body mass
+with open('../data/testcsv.csv','r') as f:
+    with open('../data/bodymass.csv','w') as g:
+
+        csvread = csv.reader(f)
+        csvwrite = csv.writer(g)
+        for row in csvread:
+            print(row)
+            csvwrite.writerow([row[0], row[4]])
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 basic_csv.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+['Species', 'Infraorder', 'Family', 'Distribution', 'Body mass male (Kg)']
+The species is Species
+['Daubentonia_madagascariensis', 'Chiromyiformes ', 'Daubentoniidae', 'Madagascar', '2.7']
+The species is Daubentonia_madagascariensis
+['Allocebus_trichotis', 'Lemuriformes', 'Cheirogaleidae', 'Madagascar', '0.1']
+The species is Allocebus_trichotis
+['Avahi_laniger', 'Lemuriformes', 'Indridae', 'America', '1.03']
+The species is Avahi_laniger
+['Avahi_occidentalis', 'Lemuriformes', 'Indridae', 'Madagas
+**********
+No errors.
+======================================================================
+Script: basic_io1.py
+
+Contents:
+
+**********
+#############################
+# FILE INPUT
+#############################
+#Open a file for reading
+f = open('../sandbox/test.txt', 'r')
+#use "implicit" for loop:
+#if the object is a file, python will cycle over lines
+for line in f:
+    print(line)
+
+#close the file
+f.close()
+
+#Same example, skip blank lines
+f = open('../sandbox/test.txt', 'r')
+for line in f:
+    if len(line.strip()) > 0:
+        print(line)
+
+f.close()
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 basic_io1.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+First Line 
+
+Second Line
+
+
+
+Third Line
+
+
+
+Fourth Line
+
+First Line 
+
+Second Line
+
+Third Line
+
+Fourth Line
+
+
+**********
+No errors.
+======================================================================
+Script: basic_io2.py
+
+Contents:
+
+**********
+#############################
+# FILE OUTPUT
+#############################
+# Save the elements of a list to a file
+list_to_save = range(100)
+
+f = open('../sandbox/testout.txt','w')
+for i in list_to_save:
+    f.write(str(i) + '\n') ## Add a new line at the end
+
+f.close()
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 basic_io2.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+No errors.
+======================================================================
+Script: basic_io3.py
+
+Contents:
+
+**********
+#############################
+# STORING OBJECTS
+#############################
+# To save an object (even complex) for later use
+my_dictionary = {"a key": 10, "another key": 11}
+
+import pickle
+
+f = open('../sandbox/testp.p','wb') ## note the b: accept binary files
+pickle.dump(my_dictionary, f)
+f.close()
+
+## Load the data again
+f = open('../sandbox/testp.p','rb')
+another_dictionary = pickle.load(f)
+f.close()
+
+print(another_dictionary)
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 basic_io3.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+{'a key': 10, 'another key': 11}
+
+**********
+No errors.
+======================================================================
+Script: boilerplate.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+
+"""Description of this program or application.
+You can use several lines"""
+
+__appname__ = '[application name here]'
+__author__ = 'Your Name (your@email.address)'
+__version__ = '0.0.1'
+__license__ = "License for this code/program"
+
+## imports ##
+import sys # module to interface our program with the operating system
+
+## constants ##
+
+
+## functions ##
+def main(argv):
+    """ Main entry point of the program """
+    print('This is a boilerplate') # NOTE: indented using two tabs or 4 spaces
+    return 0
+
+if __name__ == "__main__": 
+    """Makes sure the "main" function is called from command line"""  
+    status = main(sys.argv)
+    sys.exit(status)
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 boilerplate.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+This is a boilerplate
+
+**********
+No errors.
+======================================================================
+Script: cfexercises1.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+
+__author__ = 'Daniel Zhu (haotian.zhu21@imperial.ac.uk)'
+__version__ = '0.0.1'
+
+import sys
+
+def foo_1(x):
+    return x ** 0.5
+
+def foo_2(x, y):
+    if x > y:
+        return x
+    return y
+
+def foo_3(x, y, z):
+    if x > y:
+        x, y = y, x
+    if x > z:
+        x, z = z, x
+    if y > z:
+        y, z = z, y
+    return [x, y, z]
+
+def foo_4(x):
+    result = 1
+    for i in range(1, x + 1):
+        result = result * i
+    return result
+
+def foo_5(x): # a recursive function that calculates the factorial of x
+    if x == 1:
+        return 1
+    return x * foo_5(x - 1)
+     
+def foo_6(x): # Calculate the factorial of x in a different way; no if statement involved
+    facto = 1
+    while x >= 1:
+        facto = facto * x
+        x = x - 1
+    return facto
+
+def main(argv):
+    print("foo_1(9)     ->", foo_1(9))
+    print("foo_2(3,7)     ->", foo_2(3,7))
+    print("foo_3(9,1,5)     ->", foo_3(9,1,5))
+    print("foo_4(5)     ->", foo_4(5))
+    print("foo_5(10)     ->", foo_5(10))
+    print("foo_6(7)     ->", foo_6(7))
+    return 0
+
+if __name__ == "__main__":
+    status = main(sys.argv)
+    sys.exit(status)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 cfexercises1.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+foo_1(9)     -> 3.0
+foo_2(3,7)     -> 7
+foo_3(9,1,5)     -> [1, 5, 9]
+foo_4(5)     -> 120
+foo_5(10)     -> 3628800
+foo_6(7)     -> 5040
+
+**********
+No errors.
+======================================================================
+Script: cfexercises2.py
+
+Contents:
+
+**********
+
+########################
+def hello_1(x):
+    for j in range(x):
+        if j % 3 == 0:
+            print('hello')
+    print(' ')
+
+hello_1(12)
+
+########################
+def hello_2(x):
+    for j in range(x):
+        if j % 5 == 3:
+            print('hello')
+        elif j % 4 == 3:
+            print('hello')
+    print(' ')
+
+hello_2(12)
+
+########################
+def hello_3(x, y):
+    for i in range(x, y):
+        print('hello')
+    print(' ')
+
+hello_3(3, 17)
+
+########################
+def hello_4(x):
+    while x != 15:
+        print('hello')
+        x = x + 3
+    print(' ')
+
+hello_4(0)
+
+########################
+def hello_5(x):
+    while x < 100:
+        if x == 31:
+            for k in range(7):
+                print('hello')
+        elif x == 18:
+            print('hello')
+        x = x + 1
+    print(' ')
+
+hello_5(12)
+
+# WHILE loop with BREAK
+def hello_6(x, y):
+    while x: # while x is True
+        print("hello! " + str(y))
+        y += 1 # increment y by 1 
+        if y == 6:
+            break
+    print(' ')
+
+hello_6 (True, 0)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 cfexercises2.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+hello
+hello
+hello
+hello
+ 
+hello
+hello
+hello
+hello
+ 
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+ 
+hello
+hello
+hello
+hello
+hello
+ 
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+ 
+hello! 0
+hello! 1
+hello! 2
+hello! 3
+hello! 4
+hello! 5
+ 
+
+**********
+No errors.
+======================================================================
+Script: control_flow.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+
+"""Some functions exemplifying the use of control statements"""
+#docstrings are considered part of the running code (normal comments are
+#stripped). Hence, you can access your docstrings at run time.
+__author__ = 'Daniel Zhu (haotian.zhu21@imperial.ac.uk)'
+__version__ = '0.0.1'
+
+import sys
+
+def even_or_odd(x=0): # if not specified, x should take value 0.
+
+    """Find whether a number x is even or odd."""
+    if x % 2 == 0: #The conditional if
+        return f"{x} is Even!"
+    return f"{x} is Odd!"
+
+def largest_divisor_five(x=120):
+    """Find which is the largest divisor of x among 2,3,4,5."""
+    largest = 0
+    if x % 5 == 0:
+        largest = 5
+    elif x % 4 == 0: #means "else, if"
+        largest = 4
+    elif x % 3 == 0:
+        largest = 3
+    elif x % 2 == 0:
+        largest = 2
+    else: # When all other (if, elif) conditions are not met
+        return f"No divisor found for {x}!" # Each function can return a value or a variable.
+    return f"The largest divisor of {x} is {largest}"
+
+def is_prime(x=70):
+    """Find whether an integer is prime."""
+    for i in range(2, x): #  "range" returns a sequence of integers
+        if x % i == 0:
+            print(f"{x} is not a prime: {i} is a divisor") 
+            return False
+    print(f"{x} is a prime!")
+    return True 
+
+def find_all_primes(x=22):
+    """Find all the primes up to x"""
+    allprimes = []
+    for i in range(2, x + 1):
+        if is_prime(i):
+            allprimes.append(i)
+    print(f"There are {len(allprimes)} primes between 2 and {x}")
+    return allprimes
+      
+def main(argv):
+    print(even_or_odd(22))
+    print(even_or_odd(33))
+    print(largest_divisor_five(120))
+    print(largest_divisor_five(121))
+    print(is_prime(60))
+    print(is_prime(59))
+    print(find_all_primes(100))
+    return 0
+
+if (__name__ == "__main__"):
+    status = main(sys.argv)
+    sys.exit(status)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 control_flow.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+22 is Even!
+33 is Odd!
+The largest divisor of 120 is 5
+No divisor found for 121!
+60 is not a prime: 2 is a divisor
+False
+59 is a prime!
+True
+2 is a prime!
+3 is a prime!
+4 is not a prime: 2 is a divisor
+5 is a prime!
+6 is not a prime: 2 is a divisor
+7 is a prime!
+8 is not a prime: 2 is a divisor
+9 is not a prime: 3 is a divisor
+10 is not a prime: 2 is a divisor
+11 is a prime!
+12 is not a prime: 2 is a divisor
+13 is a prime!
+14 is not a prime: 2 is a divisor
+15 is not a prime: 3 is a divisor
+16 is
+**********
+No errors.
+======================================================================
+Script: debugme.py
+
+Contents:
+
+**********
+def buggyfunc(x):
+    y = x
+    for i in range(x):
+        try:
+            y = y-1
+            z = x/y
+        except ZeroDivisionError:
+            print(f"The result of dividing a number by zero is undefined")
+        except:
+            print(f"This didn't work;{x = }; {y = }")
+        else:
+            print(f"OK; {x = }, {z = };")
+    return z
+
+buggyfunc(20)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 debugme.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+OK; x = 20, z = 1.0526315789473684;
+OK; x = 20, z = 1.1111111111111112;
+OK; x = 20, z = 1.1764705882352942;
+OK; x = 20, z = 1.25;
+OK; x = 20, z = 1.3333333333333333;
+OK; x = 20, z = 1.4285714285714286;
+OK; x = 20, z = 1.5384615384615385;
+OK; x = 20, z = 1.6666666666666667;
+OK; x = 20, z = 1.8181818181818181;
+OK; x = 20, z = 2.0;
+OK; x = 20, z = 2.2222222222222223;
+OK; x = 20, z = 2.5;
+OK; x = 20, z = 2.857142857142857;
+OK; x = 20, z = 3.3333333333333335;
+OK; x = 20, z = 4.0;
+OK; x = 20, z = 5.0;
+**********
+No errors.
+======================================================================
+Script: dictionary.py
+
+Contents:
+
+**********
+taxa = [ ('Myotis lucifugus','Chiroptera'),
+         ('Gerbillus henleyi','Rodentia',),
+         ('Peromyscus crinitus', 'Rodentia'),
+         ('Mus domesticus', 'Rodentia'),
+         ('Cleithrionomys rutilus', 'Rodentia'),
+         ('Microgale dobsoni', 'Afrosoricida'),
+         ('Microgale talazaci', 'Afrosoricida'),
+         ('Lyacon pictus', 'Carnivora'),
+         ('Arctocephalus gazella', 'Carnivora'),
+         ('Canis lupus', 'Carnivora'),
+        ]
+
+# Write a python script to populate a dictionary called taxa_dic derived from
+# taxa so that it maps order names to sets of taxa and prints it to screen.
+# 
+# An example output is:
+#  
+# 'Chiroptera' : set(['Myotis lucifugus']) ... etc. 
+# OR, 
+# 'Chiroptera': {'Myotis  lucifugus'} ... etc
+
+#### Your solution here #### 
+#conventional python script
+taxa_dic = {}
+for species, order in taxa:
+        if order not in taxa_dic:
+                taxa_dic[order] = set()
+        taxa_dic[order].add(species)
+print(taxa_dic)
+
+
+
+
+# Now write a list comprehension that does the same (including the printing after the dictionary has been created)  
+ 
+#### Your solution here #### 
+#comprehension
+taxa_dic = {order:{ species for species, dic_order in taxa if dic_order == order}
+            for species,order in taxa}
+
+print(taxa_dic)
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 dictionary.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+{'Chiroptera': {'Myotis lucifugus'}, 'Rodentia': {'Peromyscus crinitus', 'Cleithrionomys rutilus', 'Gerbillus henleyi', 'Mus domesticus'}, 'Afrosoricida': {'Microgale dobsoni', 'Microgale talazaci'}, 'Carnivora': {'Canis lupus', 'Arctocephalus gazella', 'Lyacon pictus'}}
+{'Chiroptera': {'Myotis lucifugus'}, 'Rodentia': {'Peromyscus crinitus', 'Cleithrionomys rutilus', 'Gerbillus henleyi', 'Mus domesticus'}, 'Afrosoricida': {'Microgale dobsoni', 'Microgale talazaci'}, 'Carnivora': {'Canis lupus',
+**********
+No errors.
+======================================================================
+Script: lc1.py
+
+Contents:
+
+**********
+birds = ( ('Passerculus sandwichensis','Savannah sparrow',18.7),
+          ('Delichon urbica','House martin',19),
+          ('Junco phaeonotus','Yellow-eyed junco',19.5),
+          ('Junco hyemalis','Dark-eyed junco',19.6),
+          ('Tachycineata bicolor','Tree swallow',20.2),
+         )
+
+#(1) Write three separate list comprehensions that create three different
+# lists containing the latin names, common names and mean body masses for
+# each species in birds, respectively. 
+
+# (2) Now do the same using conventional loops (you can choose to do this 
+# before 1 !). 
+
+# A nice example out out is:
+# Step #1:
+# Latin names:
+# ['Passerculus sandwichensis', 'Delichon urbica', 'Junco phaeonotus', 'Junco hyemalis', 'Tachycineata bicolor']
+# ... etc.
+
+#list comprehensions 
+latin_names = [bird[0] for bird in birds]
+common_names = [bird[1] for bird in birds]
+mean_body_mass = [bird[2] for bird in birds]
+
+print("Latin names:")
+print(latin_names)
+print("Common names:")
+print(common_names)
+print("Mean body mass:")
+print(mean_body_mass)
+
+#conventional loops
+latin_names = []
+common_names = []
+mean_body_mass = []
+
+for bird in birds:
+    latin_names.append(bird[0])
+for bird in birds:
+    common_names.append(bird[1])
+for bird in birds:
+    mean_body_mass.append(bird[2])
+
+print("Latin names:")
+print(latin_names)
+print("Common names:")
+print(common_names)
+print("Mean body mass:")
+print(mean_body_mass)
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 lc1.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Latin names:
+['Passerculus sandwichensis', 'Delichon urbica', 'Junco phaeonotus', 'Junco hyemalis', 'Tachycineata bicolor']
+Common names:
+['Savannah sparrow', 'House martin', 'Yellow-eyed junco', 'Dark-eyed junco', 'Tree swallow']
+Mean body mass:
+[18.7, 19, 19.5, 19.6, 20.2]
+Latin names:
+['Passerculus sandwichensis', 'Delichon urbica', 'Junco phaeonotus', 'Junco hyemalis', 'Tachycineata bicolor']
+Common names:
+['Savannah sparrow', 'House martin', 'Yellow-eyed junco', 'Dark-eyed junco', 'Tree swa
+**********
+No errors.
+======================================================================
+Script: lc2.py
+
+Contents:
+
+**********
+# Average UK Rainfall (mm) for 1910 by month
+# http://www.metoffice.gov.uk/climate/uk/datasets
+rainfall = (('JAN',111.4),
+            ('FEB',126.1),
+            ('MAR', 49.9),
+            ('APR', 95.3),
+            ('MAY', 71.8),
+            ('JUN', 70.2),
+            ('JUL', 97.1),
+            ('AUG',140.2),
+            ('SEP', 27.0),
+            ('OCT', 89.4),
+            ('NOV',128.4),
+            ('DEC',142.2),
+           )
+
+# (1) Use a list comprehension to create a list of month,rainfall tuples where
+# the amount of rain was greater than 100 mm.
+rain_over_100 = [(month,rain) for (month,rain) in rainfall if rain > 100]
+print("Months and rainfall values when the amount of rain was greater than 100mm:")
+print(rain_over_100)
+
+ 
+# (2) Use a list comprehension to create a list of just month names where the
+# amount of rain was less than 50 mm. 
+rain_less_than_50 = [(month,rain) for (month,rain) in rainfall if rain < 50]
+print("Months and rainfall values when the amount of rain was less than 50mm:")
+print(rain_less_than_50)
+
+# (3) Now do (1) and (2) using conventional loops (you can choose to do 
+# this before 1 and 2 !). 
+#(1)with conventional loop
+rain_over_100 = []
+rain_less_than_50 = []
+
+for month,rain in rainfall:
+    if rain > 100:
+        rain_over_100.append((month,rain))
+print("Months and rainfall values when the amount of rain was greater than 100mm:")
+print(rain_over_100)
+
+for month,rain in rainfall:
+    if rain < 50:
+        rain_less_than_50.append((month,rain))
+print("Months and rainfall values when the amount of rain was less than 50mm:")
+print(rain_less_than_50)
+
+# A good example output is:
+#
+# Step #1:
+# Months and rainfall values when the amount of rain was greater than 100mm:
+# [('JAN', 111.4), ('FEB', 126.1), ('AUG', 140.2), ('NOV', 128.4), ('DEC', 142.2)]
+# ... etc.
+
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 lc2.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Months and rainfall values when the amount of rain was greater than 100mm:
+[('JAN', 111.4), ('FEB', 126.1), ('AUG', 140.2), ('NOV', 128.4), ('DEC', 142.2)]
+Months and rainfall values when the amount of rain was less than 50mm:
+[('MAR', 49.9), ('SEP', 27.0)]
+Months and rainfall values when the amount of rain was greater than 100mm:
+[('JAN', 111.4), ('FEB', 126.1), ('AUG', 140.2), ('NOV', 128.4), ('DEC', 142.2)]
+Months and rainfall values when the amount of rain was less than 50mm:
+[('MAR', 49.9),
+**********
+No errors.
+======================================================================
+Script: loops.py
+
+Contents:
+
+**********
+# FOR loops 
+for i in range(5):
+    print(i)
+
+my_list = [0, 2, "geronimo!", 3.0, True, False]
+for k in my_list:
+    print(k)
+
+total = 0
+summands = [0, 1, 11, 111, 1111]
+for s in summands:
+    total = total + s
+    print(total)
+
+#WHILE loop
+z = 0
+while z < 100:
+    z = z + 1
+    print(z)
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 loops.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+0
+1
+2
+3
+4
+0
+2
+geronimo!
+3.0
+True
+False
+0
+1
+12
+123
+1234
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+
+**********
+No errors.
+======================================================================
+Script: oaks.py
+
+Contents:
+
+**********
+## Finds just those taxa that are oak trees from a list of species
+
+taxa = [ 'Quercus robur',
+         'Fraxinus excelsior',
+         'Pinus sylvestris',
+         'Quercus cerris',
+         'Quercus petraea',
+       ]
+
+def is_an_oak(name):
+    return name.lower().startswith('quercus ')
+
+##Using for loops
+oaks_loops = set()
+for species in taxa:
+    if is_an_oak(species):
+        oaks_loops.add(species)
+print(oaks_loops)
+
+##Using list comprehensions   
+oaks_lc = set([species for species in taxa if is_an_oak(species)])
+print(oaks_lc)
+
+##Get names in UPPER CASE using for loops
+oaks_loops = set()
+for species in taxa:
+    if is_an_oak(species):
+        oaks_loops.add(species.upper())
+print(oaks_loops)
+
+##Get names in UPPER CASE using list comprehensions
+oaks_lc = set([species.upper() for species in taxa if is_an_oak(species)])
+print(oaks_lc)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 oaks.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+{'Quercus cerris', 'Quercus robur', 'Quercus petraea'}
+{'Quercus cerris', 'Quercus robur', 'Quercus petraea'}
+{'QUERCUS PETRAEA', 'QUERCUS ROBUR', 'QUERCUS CERRIS'}
+{'QUERCUS PETRAEA', 'QUERCUS ROBUR', 'QUERCUS CERRIS'}
+
+**********
+No errors.
+======================================================================
+Script: oaks_debugme.py
+
+Contents:
+
+**********
+import csv
+import sys
+import doctest
+
+#Define function
+def is_an_oak(name):
+    """ Returns True if name is starts with 'quercus' 
+    >>> is_an_oak('Quercus')
+    True
+
+    >>> is_an_oak('Quercus robur')
+    True
+
+    >>> is_an_oak('quercus')
+    True
+
+    >>> is_an_oak('Fagus sylvatica')
+    False
+
+    >>> is_an_oak('Quercuss')
+    True
+
+    >>> is_an_oak('Quercs')
+    True
+
+    >>> is_an_oak('Pinus')
+    False
+
+    >>> is_an_oak('')
+    False
+
+    >>> is_an_oak('QUERCUS ALBA')
+    True
+    """
+
+    if not name:
+        return False
+    
+    name_lower = name.lower().strip()
+    genus = name_lower.split()[0] if ' ' in name_lower else name_lower
+
+    if genus.startswith('quercus'):
+        return True
+    
+    if genus.startswith ('q') and 5 <= len(genus) <= 9:
+        target = 'quercus'
+        matches = sum(1 for i, char in enumerate(genus) if i < len(target) and char == target[i])
+        if matches >=5:
+            return True
+    return False
+
+
+def main(argv): 
+    f = open('../data/TestOaksData.csv','r')
+    g = open('../data/JustOaksData.csv','w')
+    taxa = csv.reader(f)
+    csvwrite = csv.writer(g)
+    csvwrite.writerow(['Genus', 'Species'])
+    next(taxa)
+
+    for row in taxa:
+        print(row)
+        print ("The genus is: ") 
+        print(row[0] + '\n')
+        if is_an_oak(row[0]):
+            print('FOUND AN OAK!\n')
+            csvwrite.writerow([row[0], row[1]])    
+
+    return 0
+    
+if (__name__ == "__main__"):
+    status = main(sys.argv)
+
+    print("\nRunning doctests...")
+    doctest.testmod()
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 oaks_debugme.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.04
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+['Quercus', ' robur']
+The genus is: 
+Quercus
+
+FOUND AN OAK!
+
+['Fraxinus', ' excelsior']
+The genus is: 
+Fraxinus
+
+['Pinus', ' sylvestris']
+The genus is: 
+Pinus
+
+['Quercus', ' cerris']
+The genus is: 
+Quercus
+
+FOUND AN OAK!
+
+['Quercus', ' petraea']
+The genus is: 
+Quercus
+
+FOUND AN OAK!
+
+
+Running doctests...
+
+**********
+No errors.
+======================================================================
+Script: scope.py
+
+Contents:
+
+**********
+_a_global = 10 # a global variable
+
+if _a_global >= 5:
+    _b_global = _a_global + 5 # also a global variable
+    
+print("Before calling a_function, outside the function, the value of _a_global is", _a_global)
+print("Before calling a_function, outside the function, the value of _b_global is", _b_global)
+
+def a_function():
+    _a_global = 4 # a local variable
+    
+    if _a_global >= 4:
+        _b_global = _a_global + 5 # also a local variable
+    
+    _a_local = 3
+    
+    print("Inside the function, the value of _a_global is", _a_global)
+    print("Inside the function, the value of _b_global is", _b_global)
+    print("Inside the function, the value of _a_local is", _a_local)
+    
+a_function()
+
+print("After calling a_function, outside the function, the value of _a_global is (still)", _a_global)
+print("After calling a_function, outside the function, the value of _b_global is (still)", _b_global)
+print("After calling a_function, outside the function, the value of _a_local is ", _a_local)
+
+#2
+_a_global = 10
+
+def a_function():
+    _a_local = 4
+    
+    print("Inside the function, the value _a_local is", _a_local)
+    print("Inside the function, the value of _a_global is", _a_global)
+    
+a_function()
+
+print("Outside the function, the value of _a_global is", _a_global)
+
+#3
+_a_global = 10
+
+print("Before calling a_function, outside the function, the value of _a_global is", _a_global)
+
+def a_function():
+    global _a_global
+    _a_global = 5
+    _a_local = 4
+    
+    print("Inside the function, the value of _a_global is", _a_global)
+    print("Inside the function, the value _a_local is", _a_local)
+    
+a_function()
+
+print("After calling a_function, outside the function, the value of _a_global now is", _a_global)
+
+#4
+def a_function():
+    _a_global = 10
+
+    def _a_function2():
+        global _a_global
+        _a_global = 20
+    
+    print("Before calling a_function2, value of _a_global is", _a_global)
+
+    _a_function2()
+    
+    print("After calling a_function2, value of _a_global is", _a_global)
+    
+a_function()
+
+print("The value of a_global in main workspace / namespace now is", _a_global)
+
+#5
+_a_global = 10
+
+def a_function():
+
+    def _a_function2():
+        global _a_global
+        _a_global = 20
+    
+    print("Before calling a_function2, value of _a_global is", _a_global)
+
+    _a_function2()
+    
+    print("After calling a_function2, value of _a_global is", _a_global)
+
+a_function()
+
+print("The value of a_global in main workspace / namespace is", _a_global)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 scope.py
+  CWD: week2/code
+  Exit code: 1
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 422
+
+Stdout (first 500 chars):
+
+**********
+Before calling a_function, outside the function, the value of _a_global is 10
+Before calling a_function, outside the function, the value of _b_global is 15
+Inside the function, the value of _a_global is 4
+Inside the function, the value of _b_global is 9
+Inside the function, the value of _a_local is 3
+After calling a_function, outside the function, the value of _a_global is (still) 10
+After calling a_function, outside the function, the value of _b_global is (still) 15
+
+**********
+Errors:
+**********
+Traceback (most recent call last):
+  File "/home/mhasoba/Documents/Teaching/MulQuaBio/MQB-TA/repos/DanielZhu_hz1321/week2/code/scope.py", line 25, in <module>
+    print("After calling a_function, outside the function, the value of _a_local is ", _a_local)
+                                                                                       ^^^^^^^^
+NameError: name '_a_local' is not defined. Did you mean: '_a_global'?
+
+**********
+======================================================================
+Script: sysargv.py
+
+Contents:
+
+**********
+#!/use/bin/env python3
+
+import sys
+print("This is the name of the script: ", sys.argv[0])
+print("Number of  arguments: ", len(sys.argv))
+print("The arguments are: ", str(sys.argv))
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 sysargv.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+This is the name of the script:  sysargv.py
+Number of  arguments:  1
+The arguments are:  ['sysargv.py']
+
+**********
+No errors.
+======================================================================
+Script: test_control_flow.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+
+"""Some functions exemplifying the use of control statements"""
+
+__author__ = 'Your Name (Your.Name@your.email.address)'
+__version__ = '0.0.1'
+
+import sys
+import doctest # Import the doctest module
+
+def even_or_odd(x=0):
+    """Find whether a number x is even or odd.
+      
+    >>> even_or_odd(10)
+    '10 is Even!'
+    
+    >>> even_or_odd(5)
+    '5 is Odd!'
+        
+    in case of negative numbers, the positive is taken:    
+    >>> even_or_odd(-2)
+    '-2 is Even!'
+    
+    """
+    #Define function to be tested
+    if x % 2 == 0:
+        return f"{x} is Even!"
+    return f"{x} is Odd!"
+
+def main(argv): 
+    print(even_or_odd(22))
+    print(even_or_odd(33))
+    return 0
+
+if (__name__ == "__main__"):
+    status = main(sys.argv)
+
+
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 test_control_flow.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.04
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+22 is Even!
+33 is Odd!
+
+**********
+No errors.
+======================================================================
+Script: tuple.py
+
+Contents:
+
+**********
+birds = ( ('Passerculus sandwichensis','Savannah sparrow',18.7),
+          ('Delichon urbica','House martin',19),
+          ('Junco phaeonotus','Yellow-eyed junco',19.5),
+          ('Junco hyemalis','Dark-eyed junco',19.6),
+          ('Tachycineata bicolor','Tree swallow',20.2),
+        )
+
+# Birds is a tuple of tuples of length three: latin name, common name, mass.
+# write a (short) script to print these on a separate line or output block by
+# species 
+# 
+# A nice example output is:
+# 
+# Latin name: Passerculus sandwichensis Common name: Savannah sparrow Mass: 18.7
+# ... etc.
+
+for bird in birds:
+    latin, common, mass = bird
+    print(f"Latin name: {latin}   Common name: {common}   Mass: {mass}")
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 tuple.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.02
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Latin name: Passerculus sandwichensis   Common name: Savannah sparrow   Mass: 18.7
+Latin name: Delichon urbica   Common name: House martin   Mass: 19
+Latin name: Junco phaeonotus   Common name: Yellow-eyed junco   Mass: 19.5
+Latin name: Junco hyemalis   Common name: Dark-eyed junco   Mass: 19.6
+Latin name: Tachycineata bicolor   Common name: Tree swallow   Mass: 20.2
+
+**********
+No errors.
+======================================================================
+Script: using_name.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+# Filename: using_name.py
+
+if __name__ == '__main__':
+    print('This program is being run by itself!')
+else:
+    print('I am being imported from another script/program/module!')
+
+print("This module's name is: " + __name__)
+**********
+
+Run metadata:
+  Command: cd "week2/code" && python3 using_name.py
+  CWD: week2/code
+  Exit code: 0
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+This program is being run by itself!
+This module's name is: __main__
+
+**********
+No errors.
+======================================================================
+Script: Florida.R
+
+Contents:
+
+**********
+rm(list=ls())
+load("../data/KeyWestAnnualMeanTemperature.RData")
+ls()
+
+class(ats)
+head(ats)
+
+plot(ats)
+
+r_obs <- cor(ats$Year, ats$Temp, method = "pearson")
+
+
+r_perm <- replicate(10000, {
+  cor(ats$Year, sample(ats$Temp, replace = FALSE), method = "pearson")
+})
+
+p_perm_right <- (sum(r_perm >= r_obs) + 1) / (10000 + 1)
+
+p_perm_two <- (sum(abs(r_perm) >= abs(r_obs)) + 1) / (10000 + 1)
+
+png("../results/perm_hist.png", width = 1200, height = 800, res = 150)
+hist(r_perm, breaks = 40,
+     main = "Permutation distribution of Pearson r (Temp ~ Year)\nKey West annual mean temperature",
+     xlab = "r under permutation (Temp shuffled)",
+     ylab = "Frequency")
+abline(v = r_obs, lwd = 3)
+legend("topleft",
+       legend = c(sprintf("Observed r = %.3f", r_obs),
+                  sprintf("One-sided p ≈ %.4f", p_perm_right),
+                  sprintf("Two-sided p ≈ %.4f", p_perm_two)),
+       bty = "n")
+dev.off()
+
+summary_lines <- c(
+  "Permutation test: Is Florida (Key West) getting warmer?",
+  sprintf("Observed Pearson correlation (Year, Temp): r = %.6f", r_obs),
+  sprintf("Permutations: 10000"),
+  sprintf("One-sided p-value (Pr[r_perm >= r_obs]): %.6f", p_perm_right),
+  sprintf("Two-sided p-value (Pr[|r_perm| >= |r_obs|]): %.6f", p_perm_two),
+  "Figure saved to ../results/perm_hist.png"
+)
+writeLines(summary_lines, "../results/florida_permutation_results.txt")
+
+# Also print to console
+cat(paste0(summary_lines, collapse = "\n"), "\n")
+
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave Florida.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.50
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+[1] "ats"
+[1] "data.frame"
+  Year     Temp
+1 1901 23.75000
+2 1902 24.66667
+3 1903 24.71667
+4 1904 24.51667
+5 1905 24.88333
+6 1906 24.63333
+pdf 
+  2 
+Permutation test: Is Florida (Key West) getting warmer?
+Observed Pearson correlation (Year, Temp): r = 0.533178
+Permutations: 10000
+One-sided p-value (Pr[r_perm >= r_obs]): 0.000100
+Two-sided p-value (Pr[|r_perm| >= |r_obs|]): 0.000100
+Figure saved to ../results/perm_hist.png 
+
+**********
+No errors.
+======================================================================
+Script: Girko.R
+
+Contents:
+
+**********
+library(ggplot2)
+
+build_ellipse <- function(hradius, vradius){ # function that returns an ellipse
+  npoints = 250
+  a <- seq(0, 2 * pi, length = npoints + 1)
+  x <- hradius * cos(a)
+  y <- vradius * sin(a)  
+  return(data.frame(x = x, y = y))
+}
+
+N <- 250 # Assign size of the matrix
+
+M <- matrix(rnorm(N * N), N, N) # Build the matrix
+
+eigvals <- eigen(M)$values # Find the eigenvalues
+
+eigDF <- data.frame("Real" = Re(eigvals), "Imaginary" = Im(eigvals)) # Build a dataframe
+
+my_radius <- sqrt(N) # The radius of the circle is sqrt(N)
+
+ellDF <- build_ellipse(my_radius, my_radius) # Dataframe to plot the ellipse
+
+names(ellDF) <- c("Real", "Imaginary") # rename the columns
+
+# plot the eigenvalues
+p <- ggplot(eigDF, aes(x = Real, y = Imaginary))
+p <- p +
+  geom_point(shape = I(3)) +
+  theme(legend.position = "none")
+
+# now add the vertical and horizontal line
+p <- p + geom_hline(aes(yintercept = 0))
+p <- p + geom_vline(aes(xintercept = 0))
+
+# finally, add the ellipse
+p <- p + geom_polygon(data = ellDF, aes(x = Real, y = Imaginary, alpha = 1/20, fill = "red"))
+p
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave Girko.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.74
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+No errors.
+======================================================================
+Script: R_conditionals.R
+
+Contents:
+
+**********
+# Checks if an integer is even
+is.even <- function(n = 2) {
+  if (n %% 2 == 0) {
+    return(paste(n,'is even!'))
+  } else {
+  return(paste(n,'is odd!'))
+  }
+}
+
+is.even(6)
+
+# Checks if a number is a power of 2
+is.power2 <- function(n = 2) {
+  if (log2(n) %% 1==0) {
+    return(paste(n, 'is a power of 2!'))
+  } else {
+  return(paste(n,'is not a power of 2!'))
+    }
+}
+
+is.power2(4)
+
+# Checks if a number is prime
+is.prime <- function(n) {
+  if (n==0) {
+    return(paste(n,'is a zero!'))
+  } else if (n==1) {
+    return(paste(n,'is just a unit!'))
+  }
+    
+  ints <- 2:(n-1)
+  
+  if (all(n%%ints!=0)) {
+    return(paste(n,'is a prime!'))
+  } else {
+  return(paste(n,'is a composite!'))
+    }
+}
+
+is.prime(3) 
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave R_conditionals.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.11
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+[1] "6 is even!"
+[1] "4 is a power of 2!"
+[1] "3 is a prime!"
+
+**********
+No errors.
+======================================================================
+Script: Ricker.R
+
+Contents:
+
+**********
+Ricker <- function(N0=1, r=1, K=10, generations=50)
+{
+  # Runs a simulation of the Ricker model
+  # Returns a vector of length generations
+  
+  N <- rep(NA, generations)    # Creates a vector of NA
+  
+  N[1] <- N0
+  for (t in 2:generations)
+  {
+    N[t] <- N[t-1] * exp(r*(1.0-(N[t-1]/K)))
+  }
+  return (N)
+}
+
+plot(Ricker(generations=10), type="l")
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave Ricker.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.15
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+No errors.
+======================================================================
+Script: TreeHeight.R
+
+Contents:
+
+**********
+# This function calculates heights of trees given distance of each tree 
+# from its base and angle to its top, using  the trigonometric formula 
+#
+# height = distance * tan(radians)
+#
+# ARGUMENTS
+# degrees:   The angle of elevation of tree
+# distance:  The distance from base of tree (e.g., meters)
+#
+# OUTPUT
+# The heights of the tree, same units as "distance"
+
+trees <- read.csv("../data/trees.csv")
+
+TreeHeight <- function(degrees, distance) {
+  radians <- degrees * pi / 180
+  height <- distance * tan(radians)
+  
+  return (height)
+}
+
+TreeHeight(trees$Angle.degrees, trees$Distance)
+
+trees$Tree.Height.m <- TreeHeight(trees$Angle.degrees, trees$Distance)
+
+
+write.csv(trees, "../results/TreeHts.csv", row.names = FALSE)
+
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave TreeHeight.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.12
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+  [1] 27.80212 45.24603 14.66548 14.93418 35.97036 32.41021 17.45824 30.13738
+  [9] 20.31248 24.43166 27.50213 25.15590 29.39248 28.18639 30.73989 39.73756
+ [17] 24.69074 17.75982 20.81735 35.04535 31.85708 31.93860 13.48215 33.32665
+ [25] 30.23270 35.95132 21.94397 40.90508 20.74785 34.99243 25.92783 28.39448
+ [33] 33.66718 20.86970 22.86062 28.73253 17.74079 28.69790 34.99812 23.59989
+ [41] 14.88996 16.44709 27.83739 16.55807 19.09028 31.43839 14.64553 18.13003
+ [49] 22.20170 15.83057 26.82779
+**********
+No errors.
+======================================================================
+Script: Vectorize1.R
+
+Contents:
+
+**********
+M <- matrix(runif(1000000),1000,1000)
+
+SumAllElements <- function(M) {
+  Dimensions <- dim(M)
+  Tot <- 0
+  for (i in 1:Dimensions[1]) {
+    for (j in 1:Dimensions[2]) {
+      Tot <- Tot + M[i,j]
+    }
+  }
+  return(Tot)
+}
+
+print("Using loops, the time taken is:")
+print (system.time((SumAllElements(M))))
+
+print("Using the in-built vectorized function, the time taken is:")
+print(system.time(sum(M)))
+
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave Vectorize1.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.19
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+[1] "Using loops, the time taken is:"
+   user  system elapsed 
+  0.040   0.001   0.041 
+[1] "Using the in-built vectorized function, the time taken is:"
+   user  system elapsed 
+  0.001   0.000   0.001 
+
+**********
+No errors.
+======================================================================
+Script: Vectorize2.R
+
+Contents:
+
+**********
+# Runs the stochastic Ricker equation with gaussian fluctuations
+
+rm(list = ls())
+
+stochrick <- function(p0 = runif(1000, .5, 1.5), r = 1.2, K = 1, sigma = 0.2,numyears = 100){
+
+  N <- matrix(NA, numyears, length(p0))  #initialize empty matrix
+
+  N[1, ] <- p0
+
+  for (pop in 1:length(p0)) { #loop through the populations
+
+    for (yr in 2:numyears){ #for each pop, loop through the years
+
+      N[yr, pop] <- N[yr-1, pop] * exp(r * (1 - N[yr - 1, pop] / K) + rnorm(1, 0, sigma)) # add one fluctuation from normal distribution
+    
+     }
+  
+  }
+ return(N)
+
+}
+
+# Now write another function called stochrickvect that vectorizes the above to
+# the extent possible, with improved performance: 
+stochrickvect <- function(p0 = runif(1000, .5, 1.5), r = 1.2, K = 1, sigma = 0.2, numyears = 100){
+  N <- matrix(NA, numyears, length(p0))  #initialize empty matrix
+  N[1, ] <- p0
+  
+  for (yr in 2:numyears){ #loop through years only
+    # Vectorized update across all populations at once
+    N[yr, ] <- N[yr-1, ] * exp(r * (1 - N[yr-1, ] / K) + rnorm(length(p0), 0, sigma))
+  }
+  
+  return(N)
+}
+# print("Vectorized Stochastic Ricker takes:")
+print(system.time(res1 <- stochrick()))
+# print(system.time(res2<-stochrickvect()))
+print(system.time(res2 <- stochrickvect()))
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave Vectorize2.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.31
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+   user  system elapsed 
+  0.144   0.022   0.166 
+   user  system elapsed 
+  0.008   0.000   0.008 
+
+**********
+No errors.
+======================================================================
+Script: apply1.R
+
+Contents:
+
+**********
+# Build a random matrix
+M <- matrix(rnorm(100), 10, 10)
+
+## Take the mean of each row
+RowMeans <- apply(M, 1, mean)
+print (RowMeans)
+
+## Now the variance
+RowVars <- apply(M, 1, var)
+print (RowVars)
+
+## By column
+ColMeans <- apply(M, 2, mean)
+print (ColMeans)
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave apply1.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.11
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+ [1] -0.08632656  0.28785503  0.14763450  0.30682976  0.33347625  0.54388424
+ [7]  0.05719453 -0.26168541  0.08315306  0.36324015
+ [1] 0.7054158 0.6170057 0.7654236 2.1526703 1.0812704 1.6250455 1.2296252
+ [8] 1.3548337 0.4598089 0.5552999
+ [1]  0.26767300  0.12505577  0.53895668 -0.06314894  0.24749764 -0.19202524
+ [7]  0.14035361  0.04098596  0.25771290  0.41219415
+
+**********
+No errors.
+======================================================================
+Script: apply2.R
+
+Contents:
+
+**********
+SomeOperation <- function(v) { # (What does this function do?)
+  if (sum(v) > 0) { #note that sum(v) is a single (scalar) value
+    return (v * 100)
+  } else { 
+    return (v)
+  }
+}
+
+M <- matrix(rnorm(100), 10, 10)
+print (apply(M, 1, SomeOperation))
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave apply2.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.12
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+            [,1]        [,2]        [,3]      [,4]        [,5]        [,6]
+ [1,] 119.736736  0.92482965  1.43317235  51.87169  -13.796287  0.18516956
+ [2,] -67.029292  1.53461004  0.07993235 -25.81848 -190.792413 -2.56936550
+ [3,]   8.961255  0.37608395 -0.05601299 293.79688   71.060266 -0.01012633
+ [4,]  11.426375 -0.02307141 -0.44243942 -20.73096   39.513117 -0.78672635
+ [5,]  14.597836 -0.81609746 -0.42461515 -15.80436   46.844518 -1.02335295
+ [6,] 196.000097 -0.96442376  0.09471627 -30.93591
+**********
+No errors.
+======================================================================
+Script: basic_io.R
+
+Contents:
+
+**********
+# A simple script to illustrate R input-output.  
+# Run line by line and check inputs outputs to understand what is happening  
+
+MyData <- read.csv("../data/trees.csv", header = TRUE) # import with headers
+
+write.csv(MyData, "../results/MyData.csv") #write it out as a new file
+
+# write.table(MyData[1,], file = "../results/MyData.csv",append=TRUE) # Append to it
+
+write.csv(MyData, "../results/MyData.csv", row.names=TRUE) # write row names
+
+write.table(MyData, "../results/MyData.csv", col.names=FALSE) # ignore column names
+
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave basic_io.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.11
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+No errors.
+======================================================================
+Script: boilerplate.R
+
+Contents:
+
+**********
+# A boilerplate R script
+
+MyFunction <- function(Arg1, Arg2) {
+  
+  # Statements involving Arg1, Arg2:
+  print(paste("Argument", as.character(Arg1), "is a", class(Arg1))) # print Arg1's type
+  print(paste("Argument", as.character(Arg2), "is a", class(Arg2))) # print Arg2's type
+  
+  return (c(Arg1, Arg2)) #this is optional, but very useful
+}
+
+MyFunction(1,2) #test the function
+MyFunction("Riki","Tiki") #A different test
+
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave boilerplate.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.12
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+[1] "Argument 1 is a numeric"
+[1] "Argument 2 is a numeric"
+[1] 1 2
+[1] "Argument Riki is a character"
+[1] "Argument Tiki is a character"
+[1] "Riki" "Tiki"
+
+**********
+No errors.
+======================================================================
+Script: break.R
+
+Contents:
+
+**********
+i <- 0 #Initialize i
+    while (i < Inf) {
+        if (i == 10) {
+            break 
+        } else { # Break out of the while loop!  
+            cat("i equals " , i , " \n")
+            i <- i + 1 # Update i
+    }
+}
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave break.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.12
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+i equals  0  
+i equals  1  
+i equals  2  
+i equals  3  
+i equals  4  
+i equals  5  
+i equals  6  
+i equals  7  
+i equals  8  
+i equals  9  
+
+**********
+No errors.
+======================================================================
+Script: browser.R
+
+Contents:
+
+**********
+Exponential <- function(N0 = 1, r = 1, generations = 10) {
+  # Runs a simulation of exponential growth
+  # Returns a vector of length generations
+  
+  N <- rep(NA, generations)    # Creates a vector of NA
+  
+  N[1] <- N0
+  for (t in 2:generations) {
+    N[t] <- N[t-1] * exp(r)
+    browser()
+  }
+  return (N)
+}
+
+plot(Exponential(), type="l", main="Exponential growth")
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave browser.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.15
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+Called from: Exponential()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+debug: N[t] <- N[t - 1] * exp(r)
+debug: browser()
+
+**********
+No errors.
+======================================================================
+Script: control_flow.R
+
+Contents:
+
+**********
+a <- TRUE
+if (a == TRUE) {
+    print ("a is TRUE")
+} else {
+    print ("a is FALSE")
+}
+
+z <- runif(1) ## Generate a uniformly distributed random number
+if (z <= 0.5) {print ("Less than a half")}
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave control_flow.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.11
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+[1] "a is TRUE"
+
+**********
+No errors.
+======================================================================
+Script: next.R
+
+Contents:
+
+**********
+for (i in 1:10) {
+  if ((i %% 2) == 0) # check if the number is odd
+    next # pass to next iteration of loop 
+  print(i)
+}
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave next.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.12
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+[1] 1
+[1] 3
+[1] 5
+[1] 7
+[1] 9
+
+**********
+No errors.
+======================================================================
+Script: preallocated.R
+
+Contents:
+
+**********
+PreallocFun <- function(x) {
+  a <- rep(NA, x) # pre-allocated vector
+  for (i in 1:x) {
+    a[i] <- i # assign
+    print(a)
+    print(object.size(a))
+  }
+}
+
+system.time(PreallocFun(10))
+
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave preallocated.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.13
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+ [1]  1 NA NA NA NA NA NA NA NA NA
+96 bytes
+ [1]  1  2 NA NA NA NA NA NA NA NA
+96 bytes
+ [1]  1  2  3 NA NA NA NA NA NA NA
+96 bytes
+ [1]  1  2  3  4 NA NA NA NA NA NA
+96 bytes
+ [1]  1  2  3  4  5 NA NA NA NA NA
+96 bytes
+ [1]  1  2  3  4  5  6 NA NA NA NA
+96 bytes
+ [1]  1  2  3  4  5  6  7 NA NA NA
+96 bytes
+ [1]  1  2  3  4  5  6  7  8 NA NA
+96 bytes
+ [1]  1  2  3  4  5  6  7  8  9 NA
+96 bytes
+ [1]  1  2  3  4  5  6  7  8  9 10
+96 bytes
+   user  system elapsed 
+  0.015   0.000   0.014 
+
+**********
+No errors.
+======================================================================
+Script: sample.R
+
+Contents:
+
+**********
+######### Functions ##########
+
+## A function to take a sample of size n from a population "popn" and return its mean
+myexperiment <- function(popn,n) {
+  pop_sample <- sample(popn, n, replace = FALSE)
+  return(mean(pop_sample))
+}
+
+## Calculate means using a FOR loop on a vector without preallocation:
+loopy_sample1 <- function(popn, n, num) {
+  result1 <- vector() #Initialize empty vector of size 1 
+  for(i in 1:num) {
+    result1 <- c(result1, myexperiment(popn, n))
+  }
+  return(result1)
+}
+
+## To run "num" iterations of the experiment using a FOR loop on a vector with preallocation:
+loopy_sample2 <- function(popn, n, num) {
+  result2 <- vector(,num) #Preallocate expected size
+  for(i in 1:num) {
+    result2[i] <- myexperiment(popn, n)
+  }
+  return(result2)
+}
+
+## To run "num" iterations of the experiment using a FOR loop on a list with preallocation:
+loopy_sample3 <- function(popn, n, num) {
+  result3 <- vector("list", num) #Preallocate expected size
+  for(i in 1:num) {
+    result3[[i]] <- myexperiment(popn, n)
+  }
+  return(result3)
+}
+
+
+## To run "num" iterations of the experiment using vectorization with lapply:
+lapply_sample <- function(popn, n, num) {
+  result4 <- lapply(1:num, function(i) myexperiment(popn, n))
+  return(result4)
+}
+
+## To run "num" iterations of the experiment using vectorization with sapply:
+sapply_sample <- function(popn, n, num) {
+  result5 <- sapply(1:num, function(i) myexperiment(popn, n))
+  return(result5)
+}
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave sample.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.12
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+No errors.
+======================================================================
+Script: try.R
+
+Contents:
+
+**********
+doit <- function(x) {
+    temp_x <- sample(x, replace = TRUE)
+    if(length(unique(temp_x)) > 30) {#only take mean if sample was sufficient
+         print(paste("Mean of this sample was:", as.character(mean(temp_x))))
+        } 
+    else {
+        stop("Couldn't calculate mean: too few unique values!")
+        }
+    }
+
+set.seed(1345) # again, to get the same result for illustration
+
+popn <- rnorm(50)
+
+hist(popn)
+
+result <- lapply(1:15, function(i) try(doit(popn), TRUE))
+class(result)
+result
+
+result <- vector("list", 15) #Preallocate/Initialize
+for(i in 1:15) {
+    result[[i]] <- try(doit(popn), TRUE)
+    }
+**********
+
+Run metadata:
+  Command: cd "week3/MyRCoursework/code" && Rscript --vanilla --slave try.R
+  CWD: week3/MyRCoursework/code
+  Exit code: 0
+  Runtime (s): 0.18
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+[1] "Mean of this sample was: -0.11620822588674"
+[1] "Mean of this sample was: -0.0468516755995931"
+[1] "Mean of this sample was: -0.0890228211466614"
+[1] "Mean of this sample was: -0.124229742255296"
+[1] "Mean of this sample was: 0.0314144452816157"
+[1] "Mean of this sample was: -0.233476945796405"
+[1] "Mean of this sample was: -0.196681538928001"
+[1] "Mean of this sample was: 0.0146969612111605"
+[1] "Mean of this sample was: -0.234913159471725"
+[1] "Mean of this sample was: -0.0497464588165691
+**********
+No errors.
+======================================================================
+Script: DataWrang.R
+
+Contents:
+
+**********
+################################################################
+################## Wrangling the Pound Hill Dataset ############
+################################################################
+
+############# Load the dataset ###############
+# header = false because the raw data don't have real headers
+MyData <- as.matrix(read.csv("../data/PoundHillData.csv", header = FALSE))
+
+# header = true because we do have metadata headers
+MyMetaData <- read.csv("../data/PoundHillMetaData.csv", header = TRUE, sep = ";")
+
+############# Inspect the dataset ###############
+head(MyData)
+dim(MyData)
+str(MyData)
+
+
+############# Transpose ###############
+# To get those species into columns and treatments into rows 
+MyData <- t(MyData) 
+head(MyData)
+dim(MyData)
+
+############# Replace species absences with zeros ###############
+MyData[MyData == ""] = 0
+
+############# Convert raw matrix to data frame ###############
+
+TempData <- as.data.frame(MyData[-1,],stringsAsFactors = F) #stringsAsFactors = F is important!
+colnames(TempData) <- MyData[1,] # assign column names from original data
+
+############# Convert from wide to long format  ###############
+require(reshape2) # load the reshape2 package
+
+?melt #check out the melt function
+
+MyWrangledData <- melt(TempData, id=c("Cultivation", "Block", "Plot", "Quadrat"), variable.name = "Species", value.name = "Count")
+
+MyWrangledData[, "Cultivation"] <- as.factor(MyWrangledData[, "Cultivation"])
+MyWrangledData[, "Block"] <- as.factor(MyWrangledData[, "Block"])
+MyWrangledData[, "Plot"] <- as.factor(MyWrangledData[, "Plot"])
+MyWrangledData[, "Quadrat"] <- as.factor(MyWrangledData[, "Quadrat"])
+MyWrangledData[, "Count"] <- as.integer(MyWrangledData[, "Count"])
+
+str(MyWrangledData)
+head(MyWrangledData)
+dim(MyWrangledData)
+
+############# Exploring the data (extend the script below)  ###############
+
+**********
+
+Run metadata:
+  Command: cd "week4/code" && Rscript --vanilla --slave DataWrang.R
+  CWD: week4/code
+  Exit code: 0
+  Runtime (s): 0.31
+  Timed out: No
+  Stderr bytes: 35
+
+Stdout (first 500 chars):
+
+**********
+     V1                     V2        V3        V4        V5        V6       
+[1,] "Cultivation"          "october" "october" "october" "october" "october"
+[2,] "Block"                "a"       "a"       "a"       "a"       "a"      
+[3,] "Plot"                 "1"       "1"       "1"       "1"       "1"      
+[4,] "Quadrat"              "Q1"      "Q2"      "Q3"      "Q4"      "Q5"     
+[5,] "Achillea millefolium" "4"       "8"       "3"       "20"      "6"      
+[6,] "Agrostis gigantea"    ""  
+**********
+Warnings/Notes:
+**********
+Loading required package: reshape2
+
+**********
+======================================================================
+Script: DataWrangTidy.R
+
+Contents:
+
+**********
+################################################################
+################## Wrangling the Pound Hill Dataset ############
+################################################################
+
+############# Load the dataset ###############
+# header = false because the raw data don't have real headers
+MyData <- as.matrix(read.csv("../data/PoundHillData.csv", header = FALSE))
+
+# header = true because we do have metadata headers
+MyMetaData <- read.csv("../data/PoundHillMetaData.csv", header = TRUE, sep = ";")
+
+############# Inspect the dataset ###############
+head(MyData)
+dim(MyData)
+str(MyData)
+fix(MyData) #you can also do this
+fix(MyMetaData)
+
+############# Transpose ###############
+# To get those species into columns and treatments into rows 
+MyData <- t(MyData) 
+head(MyData)
+dim(MyData)
+
+############# Replace species absences with zeros ###############
+MyData[MyData == ""] = 0
+
+############# Convert raw matrix to data frame ###############
+
+TempData <- as.data.frame(MyData[-1,],stringsAsFactors = F) #stringsAsFactors = F is important!
+colnames(TempData) <- MyData[1,] # assign column names from original data
+
+############# Convert from wide to long format using tidyverse ###############
+require(tidyverse) # load the tidyverse package (includes dplyr and tidyr)
+
+# Using pivot_longer from tidyr instead of melt from reshape2
+MyWrangledData <- TempData %>%
+  pivot_longer(cols = -c(Cultivation, Block, Plot, Quadrat), 
+               names_to = "Species", 
+               values_to = "Count")
+
+# Convert to appropriate data types
+MyWrangledData <- MyWrangledData %>%
+  mutate(
+    Cultivation = as.factor(Cultivation),
+    Block = as.factor(Block),
+    Plot = as.factor(Plot),
+    Quadrat = as.factor(Quadrat),
+    Count = as.integer(Count)
+  )
+
+str(MyWrangledData)
+head(MyWrangledData)
+dim(MyWrangledData)
+
+############# Exploring the data (extend the script below)  ###############
+**********
+
+Run metadata:
+  Command: cd "week4/code" && Rscript --vanilla --slave DataWrangTidy.R
+  CWD: week4/code
+  Exit code: -9
+  Runtime (s): 10.01
+  Timed out: Yes
+  Stderr bytes: 87
+
+Stdout (first 500 chars):
+
+**********
+     V1                     V2        V3        V4        V5        V6       
+[1,] "Cultivation"          "october" "october" "october" "october" "october"
+[2,] "Block"                "a"       "a"       "a"       "a"       "a"      
+[3,] "Plot"                 "1"       "1"       "1"       "1"       "1"      
+[4,] "Quadrat"              "Q1"      "Q2"      "Q3"      "Q4"      "Q5"     
+[5,] "Achillea millefolium" "4"       "8"       "3"       "20"      "6"      
+[6,] "Agrostis gigantea"    ""  
+**********
+Errors:
+**********
+Vim: Warning: Output is not to a terminal
+Vim: Warning: Input is not from a terminal
+
+
+**********
+======================================================================
+Script: GPDD_Data.R
+
+Contents:
+
+**********
+# GPDD_Data.R
+# Map GPDD population time series locations using the maps package
+
+rm(list = ls())
+
+# Install/load maps package
+if (!require(maps)) {
+    install.package("maps")
+    library(maps)
+} else {
+    library(maps)
+}
+
+# Load GPDD filtered dataset
+
+load("../data/GPDDFiltered.RData")
+
+
+# Remove rows with missing coordinates
+gpdd_sub <- gpdd[!is.na(gpdd$lat) & !is.na(gpdd$long), ]
+
+# Draw a world map
+map("world",
+    fill = TRUE,
+    col = "grey90",
+    bg  = "white",
+    mar = c(0, 0, 0, 0))
+
+# Add GPDD points
+points(gpdd_sub$long,
+       gpdd_sub$lat,
+       pch = 20,
+       col = "red",
+       cex = 0.5)
+
+# Bias: GPDD locations are heavily focused on Europe and North America,
+# with very few data points from the tropics, Africa, South America and Asia.
+# This creates a strong spatial bias, meaning analyses based on GPDD are
+# dominated by temperate, well-studied regions and are not globally
+# representative.
+
+
+
+**********
+
+Run metadata:
+  Command: cd "week4/code" && Rscript --vanilla --slave GPDD_Data.R
+  CWD: week4/code
+  Exit code: 0
+  Runtime (s): 0.29
+  Timed out: No
+  Stderr bytes: 31
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+Warnings/Notes:
+**********
+Loading required package: maps
+
+**********
+======================================================================
+Script: LV1.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+"""
+Lotka-Volterra Model Implementation
+Numerical integration of predator-prey dynamics
+"""
+
+import numpy as np
+from scipy.integrate import odeint
+import matplotlib.pyplot as plt
+import os
+
+# Create results directory if it doesn't exist
+if not os.path.exists('results'):
+    os.makedirs('results')
+
+# ============================================================================
+# Define the Lotka-Volterra differential equations
+# ============================================================================
+
+def dCR_dt(pops, t=0):
+    """
+    Calculate growth rates of consumer and resource populations.
+    
+    Parameters:
+    -----------
+    pops : array-like
+        Array containing [R, C] where R = resource, C = consumer
+    t : float
+        Time (required for odeint but not used in equations)
+    
+    Returns:
+    --------
+    numpy.array
+        Array containing [dR/dt, dC/dt]
+    """
+    R = pops[0]
+    C = pops[1]
+    dRdt = r * R - a * R * C
+    dCdt = -z * C + e * a * R * C
+    
+    return np.array([dRdt, dCdt])
+
+# ============================================================================
+# Set parameter values
+# ============================================================================
+
+r = 1.0      # intrinsic growth rate of resource
+a = 0.1      # per-capita search rate and attack success
+z = 1.5      # consumer mortality rate
+e = 0.75     # consumer efficiency (fraction converting resource to biomass)
+
+# ============================================================================
+# Define time vector
+# ============================================================================
+
+t = np.linspace(0, 15, 1000)  # integrate from 0 to 15 with 1000 sub-divisions
+
+# ============================================================================
+# Set initial conditions
+# ============================================================================
+
+R0 = 10      # initial resource density
+C0 = 5       # initial consumer density
+RC0 = np.array([R0, C0])
+
+# ============================================================================
+# Numerical integration
+# ============================================================================
+
+pops, infodict = odeint(dCR_dt, RC0, t, full_output=True)
+
+# Check if integration was successful
+print(f"Integration successful: {infodict['message']}")
+
+# ============================================================================
+# Figure 1: Time series plot
+# ============================================================================
+
+f1 = plt.figure()
+plt.plot(t, pops[:, 0], 'g-', label='Resource density')
+plt.plot(t, pops[:, 1], 'b-', label='Consumer density')
+plt.grid()
+plt.legend(loc='best')
+plt.xlabel('Time')
+plt.ylabel('Population density')
+plt.title('Consumer-Resource population dynamics')
+plt.tight_layout()
+plt.savefig('../results/LV_model.pdf')
+print("Figure 1 saved to results/LV_model.pdf")
+plt.close()
+
+# ============================================================================
+# Figure 2: Phase portrait (Consumer vs Resource)
+# ============================================================================
+
+f2 = plt.figure()
+plt.plot(pops[:, 0], pops[:, 1], 'r-', linewidth=2)
+plt.grid()
+plt.xlabel('Resource density')
+plt.ylabel('Consumer density')
+plt.title('Consumer-Resource population dynamics')
+plt.tight_layout()
+plt.savefig('../results/LV_phaseplane.pdf')
+print("Figure 2 saved to results/LV_phaseplane.pdf")
+plt.close()
+
+print("\nAll figures saved to the results directory without displaying on screen.")
+**********
+
+Run metadata:
+  Command: cd "week4/code" && python3 LV1.py
+  CWD: week4/code
+  Exit code: 1
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 224
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+Errors:
+**********
+Traceback (most recent call last):
+  File "/home/mhasoba/Documents/Teaching/MulQuaBio/MQB-TA/repos/DanielZhu_hz1321/week4/code/LV1.py", line 7, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+**********
+======================================================================
+Script: LV2.py
+
+Contents:
+
+**********
+#!/usr/bin/env python3
+"""
+Modified Lotka-Volterra Model with Resource Density Dependence
+Numerical integration of predator-prey dynamics with carrying capacity
+"""
+
+import numpy as np
+from scipy.integrate import odeint
+import matplotlib.pyplot as plt
+import sys
+import os
+
+# Create results directory if it doesn't exist
+if not os.path.exists('results'):
+    os.makedirs('results')
+
+# ============================================================================
+# Parse command-line arguments
+# ============================================================================
+
+if len(sys.argv) != 6:
+    print("Usage: python LV2.py r a z e K")
+    print("  r: intrinsic growth rate of resource")
+    print("  a: per-capita search rate")
+    print("  z: consumer mortality rate")
+    print("  e: consumer efficiency")
+    print("  K: resource carrying capacity")
+    sys.exit(1)
+
+r = float(sys.argv[1])
+a = float(sys.argv[2])
+z = float(sys.argv[3])
+e = float(sys.argv[4])
+K = float(sys.argv[5])
+
+# ============================================================================
+# Define the modified Lotka-Volterra differential equations
+# with resource density dependence
+# ============================================================================
+
+def dCR_dt(pops, t=0):
+    """
+    Calculate growth rates of consumer and resource populations
+    with logistic growth for the resource (density dependence).
+    
+    Parameters:
+    -----------
+    pops : array-like
+        Array containing [R, C] where R = resource, C = consumer
+    t : float
+        Time (required for odeint but not used in equations)
+    
+    Returns:
+    --------
+    numpy.array
+        Array containing [dR/dt, dC/dt]
+    """
+    R = pops[0]
+    C = pops[1]
+    
+    # Modified Lotka-Volterra with logistic growth for resource
+    dRdt = r * R * (1 - R / K) - a * R * C
+    dCdt = -z * C + e * a * R * C
+    
+    return np.array([dRdt, dCdt])
+
+# ============================================================================
+# Define time vector (can be adjusted)
+# ============================================================================
+
+t = np.linspace(0, 100, 2000)  # integrate from 0 to 100 with 2000 sub-divisions
+
+# ============================================================================
+# Set initial conditions
+# ============================================================================
+
+R0 = 5       # initial resource density
+C0 = 2       # initial consumer density
+RC0 = np.array([R0, C0])
+
+# ============================================================================
+# Numerical integration
+# ============================================================================
+
+pops, infodict = odeint(dCR_dt, RC0, t, full_output=True)
+
+# ============================================================================
+# Print final population values
+# ============================================================================
+
+final_R = pops[-1, 0]
+final_C = pops[-1, 1]
+
+print(f"=== Modified Lotka-Volterra Model with Density Dependence ===")
+print(f"Parameters: r={r}, a={a}, z={z}, e={e}, K={K}")
+print(f"Integration successful: {infodict['message']}")
+print(f"\nFinal population values at t={t[-1]}:")
+print(f"  Resource density (R): {final_R:.6f}")
+print(f"  Consumer density (C): {final_C:.6f}")
+
+if final_C > 0.001:
+    print(f"\n✓ Both predator and prey persist!")
+else:
+    print(f"\n✗ Consumer population went extinct")
+
+# ============================================================================
+# Create figure with time series plot
+# ============================================================================
+
+f1 = plt.figure(figsize=(10, 6))
+plt.plot(t, pops[:, 0], 'g-', linewidth=2, label='Resource density')
+plt.plot(t, pops[:, 1], 'b-', linewidth=2, label='Consumer density')
+plt.grid(True, alpha=0.3)
+plt.legend(loc='best', fontsize=11)
+plt.xlabel('Time', fontsize=12)
+plt.ylabel('Population density', fontsize=12)
+plt.title(f'Consumer-Resource population dynamics\n(r={r}, a={a}, z={z}, e={e}, K={K})', fontsize=12)
+plt.tight_layout()
+plt.savefig('../results/LV2_model.pdf')
+print(f"\nFigure saved to results/LV2_model.pdf")
+plt.close()
+**********
+
+Run metadata:
+  Command: cd "week4/code" && python3 LV2.py
+  CWD: week4/code
+  Exit code: 1
+  Runtime (s): 0.01
+  Timed out: No
+  Stderr bytes: 224
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+Errors:
+**********
+Traceback (most recent call last):
+  File "/home/mhasoba/Documents/Teaching/MulQuaBio/MQB-TA/repos/DanielZhu_hz1321/week4/code/LV2.py", line 7, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
+**********
+======================================================================
+Script: MyBars.R
+
+Contents:
+
+**********
+install.package("ggplot2")
+library(ggplot2) 
+
+a <- read.table("../data/Results.txt", header = TRUE)
+a$ymin <- rep(0, dim(a)[1]) # append a column of zeros
+
+# Print the first linerange
+p <- ggplot(a)
+p <- p + geom_linerange(data = a, aes(
+  x = x,
+  ymin = ymin,
+  ymax = y1,
+  size = (0.5)
+),
+colour = "#E69F00",
+alpha = 1/2, show.legend = FALSE)
+
+# Print the second linerange
+p <- p + geom_linerange(data = a, aes(
+  x = x,
+  ymin = ymin,
+  ymax = y2,
+  size = (0.5)
+),
+colour = "#56B4E9",
+alpha = 1/2, show.legend = FALSE)
+
+# Print the third linerange:
+p <- p + geom_linerange(data = a, aes(
+  x = x,
+  ymin = ymin,
+  ymax = y3,
+  size = (0.5)
+),
+colour = "#D55E00",
+alpha = 1/2, show.legend = FALSE)
+
+# Annotate the plot with labels:
+p <- p + geom_text(data = a, aes(x = x, y = -500, label = Label))
+
+# now set the axis labels, remove the legend, and prepare for bw printing
+p <- p + scale_x_continuous("My x axis",
+                            breaks = seq(3, 5, by = 0.05)) + 
+  scale_y_continuous("My y axis") + 
+  theme_bw() + 
+  theme(legend.position = "none") 
+p
+
+pdf("../results/MyBars.pdf")
+print(p)
+dev.off()
+**********
+
+Run metadata:
+  Command: cd "week4/code" && Rscript --vanilla --slave MyBars.R
+  CWD: week4/code
+  Exit code: 1
+  Runtime (s): 0.11
+  Timed out: No
+  Stderr bytes: 100
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+Errors:
+**********
+Error in install.package("ggplot2") : 
+  could not find function "install.package"
+Execution halted
+
+**********
+======================================================================
+Script: PP_Regress.R
+
+Contents:
+
+**********
+library(ggplot2)
+library(dplyr)
+library(broom)
+
+df <- read.csv("../data/EcolArchives-E089-51-D1.csv")
+
+df$Predator.mass <- as.numeric(df$Predator.mass)
+df$Prey.mass <- as.numeric(df$Prey.mass)
+
+df_clean <- df[!is.na(df$Predator.mass) & !is.na(df$Prey.mass) & 
+                 !is.na(df$Predator.lifestage) & !is.na(df$Type.of.feeding.interaction), ]
+df_clean <- df_clean[df_clean$Predator.mass > 0 & df_clean$Prey.mass > 0, ]
+
+df_clean$Group <- paste(df_clean$Predator.lifestage, df_clean$Type.of.feeding.interaction, sep = " - ")
+
+unique_groups <- unique(df_clean$Group)
+
+regression_results <- data.frame(Predator.lifestage = character(), Type.of.feeding.interaction = character(), n_observations = integer(), Slope = numeric(), Intercept = numeric(), R.squared = numeric(), F.statistic = numeric(), p.value = numeric(), stringsAsFactors = FALSE)
+
+for (group in unique_groups) {
+  group_data <- df_clean[df_clean$Group == group, ]
+  
+  if (nrow(group_data) < 3) {
+    next
+  }
+  
+  lm_model <- lm(log10(Prey.mass) ~ log10(Predator.mass), data = group_data)
+  glance_stats <- glance(lm_model)
+  
+  slope <- coef(lm_model)[2]
+  intercept <- coef(lm_model)[1]
+  r_squared <- glance_stats$r.squared
+  f_stat <- glance_stats$statistic
+  p_val <- glance_stats$p.value
+  n_obs <- nrow(group_data)
+  
+  parts <- strsplit(group, " - ")[[1]]
+  lifestage <- parts[1]
+  feeding_type <- parts[2]
+  
+  new_row <- data.frame(Predator.lifestage = lifestage, Type.of.feeding.interaction = feeding_type, n_observations = n_obs, Slope = round(slope, 6), Intercept = round(intercept, 6), R.squared = round(r_squared, 6), F.statistic = round(f_stat, 6), p.value = round(p_val, 6))
+  
+  regression_results <- rbind(regression_results, new_row)
+}
+
+print(regression_results)
+
+output_dir <- "../results"
+if (!dir.exists(output_dir)) {
+  dir.create(output_dir, recursive = TRUE)
+}
+
+csv_path <- file.path(output_dir, "PP_Regress_Results.csv")
+write.csv(regression_results, csv_path, row.names = FALSE)
+
+p <- ggplot(df_clean, aes(x = Prey.mass, y = Predator.mass)) +
+  geom_point(aes(color = Predator.lifestage), alpha = 0.6, size = 1.5, shape = 3) +
+  geom_smooth(aes(color = Predator.lifestage), method = "lm", se = FALSE, 
+              alpha = 0.15, formula = y ~ x, linewidth = 0.8, fullrange = TRUE) +
+  facet_wrap(~Type.of.feeding.interaction, scales = "fixed", ncol = 1, strip.position = "right") +
+  scale_x_log10(labels = scales::scientific) +
+  scale_y_log10(labels = scales::scientific) +
+  labs(x = "Prey Mass in grams", y = "Predator mass in grams", color = "Predator.lifeStage") +
+  theme_minimal() +
+  theme(strip.text.y = element_text(size = 10, face = "bold", angle = 0),
+        strip.placement = "right",
+        axis.text = element_text(size = 8),
+        axis.title = element_text(size = 10),
+        axis.title.y = element_text(angle = 90),
+        legend.position = "bottom",
+        legend.title = element_text(size = 9),
+        legend.text = element_text(size = 8),
+        panel.grid.major = element_line(color = "gray95", linewidth = 0.3),
+        panel.grid.minor = element_line(color = "gray99", linewidth = 0.2),
+        plot.margin = margin(5, 15, 5, 5))
+
+print(p)
+
+pdf_path <- file.path(output_dir, "PP_Regress.pdf")
+pdf(pdf_path, width = 8.5, height = 11)
+print(p)
+dev.off()
+
+
+**********
+
+Run metadata:
+  Command: cd "week4/code" && Rscript --vanilla --slave PP_Regress.R
+  CWD: week4/code
+  Exit code: 0
+  Runtime (s): 2.00
+  Timed out: No
+  Stderr bytes: 210
+
+Stdout (first 500 chars):
+
+**********
+                       Predator.lifestage Type.of.feeding.interaction
+log10(Predator.mass)                adult      predacious/piscivorous
+log10(Predator.mass)1               adult                 piscivorous
+log10(Predator.mass)2            juvenile                 piscivorous
+log10(Predator.mass)3            juvenile                  predacious
+log10(Predator.mass)4               adult                  predacious
+log10(Predator.mass)5               larva                  predacious
+log10(Pred
+**********
+Warnings/Notes:
+**********
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+**********
+======================================================================
+Script: plotLin.R
+
+Contents:
+
+**********
+install.package("ggplot2")
+library(ggplot2) 
+
+x <- seq(0, 100, by = 0.1)
+y <- -4. + 0.25 * x +
+  rnorm(length(x), mean = 0., sd = 2.5)
+
+# and put them in a dataframe
+my_data <- data.frame(x = x, y = y)
+
+# perform a linear regression
+my_lm <- summary(lm(y ~ x, data = my_data))
+
+# plot the data
+p <-  ggplot(my_data, aes(x = x, y = y,
+                          colour = abs(my_lm$residual))
+) +
+  geom_point() +
+  scale_colour_gradient(low = "black", high = "red") +
+  theme(legend.position = "none") +
+  scale_x_continuous(
+    expression(alpha^2 * pi / beta * sqrt(Theta)))
+
+# add the regression line
+p <- p + geom_abline(
+  intercept = my_lm$coefficients[1][1],
+  slope = my_lm$coefficients[2][1],
+  colour = "red")
+# throw some math on the plot
+p <- p + geom_text(aes(x = 60, y = 0,
+                       label = "sqrt(alpha) * 2* pi"), 
+                   parse = TRUE, size = 6, 
+                   colour = "blue")
+
+p
+
+pdf("../results/MyLinReg.pdf")
+print(p)
+dev.off()
+**********
+
+Run metadata:
+  Command: cd "week4/code" && Rscript --vanilla --slave plotLin.R
+  CWD: week4/code
+  Exit code: 1
+  Runtime (s): 0.11
+  Timed out: No
+  Stderr bytes: 100
+
+Stdout (first 500 chars):
+
+**********
+
+**********
+Errors:
+**********
+Error in install.package("ggplot2") : 
+  could not find function "install.package"
+Execution halted
+
+**********
+======================================================================
+Script: profileme.py
+
+Contents:
+
+**********
+def my_squares(iters):
+    out = []
+    for i in range(iters):
+        out.append(i ** 2)
+    return out
+
+def my_join(iters, string):
+    out = ''
+    for i in range(iters):
+        out += string.join(", ")
+    return out
+
+def run_my_funcs(x,y):
+    print(x,y)
+    my_squares(x)
+    my_join(x,y)
+    return 0
+
+run_my_funcs(10000000,"My string")
+**********
+
+Run metadata:
+  Command: cd "week4/code" && python3 profileme.py
+  CWD: week4/code
+  Exit code: 0
+  Runtime (s): 1.74
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+10000000 My string
+
+**********
+No errors.
+======================================================================
+Script: profileme2.py
+
+Contents:
+
+**********
+def my_squares(iters):
+    out = [i ** 2 for i in range(iters)]
+    return out
+
+def my_join(iters, string):
+    out = ''
+    for i in range(iters):
+        out += ", " + string
+    return out
+
+def run_my_funcs(x,y):
+    print(x,y)
+    my_squares(x)
+    my_join(x,y)
+    return 0
+
+run_my_funcs(10000000,"My string")
+**********
+
+Run metadata:
+  Command: cd "week4/code" && python3 profileme2.py
+  CWD: week4/code
+  Exit code: 0
+  Runtime (s): 0.91
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+10000000 My string
+
+**********
+No errors.
+======================================================================
+Script: timeitme.py
+
+Contents:
+
+**********
+##############################################################################
+# loops vs. list comprehensions: which is faster?
+##############################################################################
+
+iters = 1000000
+
+import timeit
+
+from profileme import my_squares as my_squares_loops
+
+from profileme2 import my_squares as my_squares_lc
+
+##############################################################################
+# loops vs. the join method for strings: which is faster?
+##############################################################################
+
+mystring = "my string"
+
+from profileme import my_join as my_join_join
+
+from profileme2 import my_join as my_join
+
+**********
+
+Run metadata:
+  Command: cd "week4/code" && python3 timeitme.py
+  CWD: week4/code
+  Exit code: 0
+  Runtime (s): 2.70
+  Timed out: No
+  Stderr bytes: 0
+
+Stdout (first 500 chars):
+
+**********
+10000000 My string
+10000000 My string
+
+**********
+No errors.
+======================================================================
+FUNCTIONAL CORRECTNESS (Criterion 2)
+======================================================================
+
+Scripts executed: 60
+Scripts successful: 48
+Scripts with errors: 12
+Success rate: 80.0%
+
+Expected outputs check:
+  Expected: 1
+  Found: 0
+  Missing: 1
+  Note: Missing expected files are treated as incomplete outputs.
+
+Scripts that error on a clean run are treated as non-runnable under Criterion 2.
+
+Criterion evidence snapshot:
+  Criterion 2:
+  - Scripts executed: 60
+  - Scripts with errors: 12
+  - Missing expected outputs: 1
+
+
+======================================================================
+FEEDBACK SUMMARY
+======================================================================
+
+Scripts tested: 65
+Scripts successful: 53
+Scripts with errors: 12
+Missing expected outputs: 2
+Warnings/Notes: 41
+
+Groupwork evidence (Criteria 6-7): collected (group repo URL provided)
+
+IMPORTANT DEBUGGING GUIDANCE:
+------------------------------
+
+Please review all warnings and errors, and your directory structure based on the above log.
+
+Read every warning/error above and reproduce failures locally.
+
+Then ask yourself: Why did I not get these warnings or errors on my machine when I tested my code?
+
+Most common causes:
+
+• File paths: Your local machine may have different directory structures
+• Dependencies: Missing packages or different versions
+• File permissions: Scripts may not be executable on the testing server
+• Case sensitivity: Linux systems are case-sensitive (your laptop may not be)
+• Working directory: Scripts may assume they run from a specific location
+• Input files: Required data files may be missing or in wrong locations
+
+Debugging steps:
+1. Test your code in a clean environment (fresh directory)
+2. Check all file paths are relative and correct
+3. Verify all required files are present and properly named
+4. Test on a case-sensitive system if possible
+5. Run your scripts from different directories to check robustness
+
+**Fix these issues and test again. Good debugging skills are essential for scientific computing!**
+
