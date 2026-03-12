@@ -5,6 +5,9 @@ echo "=================================="
 echo "Running MiniProject pipeline"
 echo "=================================="
 
+echo "Step 0: Install all required packages to run R scripts"
+Rscript -e 'install.packages(c("dplyr", "tidyr", "minpack.lm", "ggplot2", "gridExtra", "scales"), repos = "https://cloud.r-project.org")'
+
 echo ""
 echo "Step 1: Data preparation"
 Rscript Code/data_preparation.R

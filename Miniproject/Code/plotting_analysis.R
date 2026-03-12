@@ -1,11 +1,4 @@
 # Script 3: Plotting
-install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("tidyr")
-install.packages("gridExtra")
-install.packages("scales")
-install.packages("minpack.lm")
-
 library(ggplot2)
 library(dplyr)
 library(tidyr)
