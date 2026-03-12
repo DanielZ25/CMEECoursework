@@ -1,6 +1,7 @@
 # Miniproject: Fitting Mathematical Models to Microbial Population Growth Data
 
 **Author:** Daniel Zhu 
+
 **Institution:** Imperial College London
 
 ---
