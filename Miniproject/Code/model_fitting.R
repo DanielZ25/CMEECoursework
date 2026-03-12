@@ -1,5 +1,7 @@
 # Script 2: Model fitting
 install.packages("minpack.lm")
+install.packages("dplyr")
+
 library(minpack.lm)
 library(dplyr)
 

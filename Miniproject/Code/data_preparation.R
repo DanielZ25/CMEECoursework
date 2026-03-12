@@ -1,4 +1,6 @@
 # Script 1: Data preparations
+install.packages("dplyr")
+
 library(dplyr)
 
 df_raw <- read.csv("Data/logistic_growth_data.csv", stringsAsFactors = FALSE)
