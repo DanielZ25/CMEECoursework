@@ -1,0 +1,95 @@
+OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,raw_record_count,ground_truth_decision,concept_label,measurement_subtype,data_quality_flag,decision_reason,V1,V2,V3,V4,V5,V6,V7,V8
+Body Mass,mean daily weight of larvae during their feeding periods,mg,7,include,body size and morphometrics,body_mass_or_weight,,Direct organism-level body mass or linear morphometric,20,4,7,7,6,7,7,7
+Body Mass,mean daily weight of nymphs during their feeding periods,mg,4,include,body size and morphometrics,body_mass_or_weight,,Direct organism-level body mass or linear morphometric,20,4,7,7,6,7,7,7
+Body Mass,mean daily weight of nymphs during their pharate periods,mg,3,include,body size and morphometrics,body_mass_or_weight,,Direct organism-level body mass or linear morphometric,20,4,7,7,6,7,7,7
+body mass,mean weight of female,mg,5,include,body size and morphometrics,body_mass_or_weight,,Direct organism-level body mass or linear morphometric,20,-1,7,7,6,7,7,7
+Body Mass,Weight of an individual engorged female,mg,25,include,body size and morphometrics,body_mass_or_weight,,Direct organism-level body mass or linear morphometric,20,4,7,7,6,7,7,7
+body size,dry mass,mg,24,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,individual-level mass,mg,1304,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,individual-level wet mass,mg,33,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,mean body weight,mg,144,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,mean body weight of engorged adult females,mg,4,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean dry mass,mg,6,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,mean dry mass. relationship between dry mass and wing length,mg,9,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,mean of weight (engorged),mg,2,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean of weight (unfed),mg,3,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean weight of engored nymphs,mg,1,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean weight of engorged tick,mg,1,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean weight of nymphs post-feeding,mg,18,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean wet mass,mg,268,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,mean wet mass (waxless and gravid),mg,3,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,5,3,6,6,6
+body size,mean wet mass of an individual tick post engorgement,mg,28,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean wet mass on the day feeding was completed,mg,24,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size,mean wet mass on the day feeding was completed (engorged),mg,20,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,7,7,6,7,7,7
+body size (alate nymph),mean wet mass,days,17,include,body size and morphometrics,body_mass_or_weight,unit inconsistent with mass definition,Explicit body-size label; retain definition/unit anomalies for audit,-1,4,-1,5,3,6,6,6
+body size (alate),mean wet mass,mg,7,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,-1,4,7,5,3,6,6,6
+body size (apterous nymph),mean wet mass,days,6,include,body size and morphometrics,body_mass_or_weight,unit inconsistent with mass definition,Explicit body-size label; retain definition/unit anomalies for audit,-1,4,7,5,3,6,6,6
+body size (apterous),mean wet mass,mg,13,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,-1,4,7,5,3,6,6,6
+body size (mass),mean wet mass,mg,6,include,body size and morphometrics,body_mass_or_weight,,Explicit body-size label; retain definition/unit anomalies for audit,20,4,7,5,3,6,6,6
+weight,Mean weight 14 days after hatching,ug,4,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,11,-1,7,7,6,7,7,7
+Weight,mean weight of engorged nymphs moulting to males,mg,2,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,12,4,7,7,6,7,7,7
+Weight,mean weight of larvae during their feeding period,mg,17,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,12,4,7,7,6,7,7,7
+Weight,mean weight of nymphs during their feeding period,mg,9,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,12,4,7,7,6,7,7,7
+weight,Mean weight on day of engorgement,ug,4,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,11,4,7,7,6,7,7,7
+weight,Mean weight on day of hatching,ug,4,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,11,4,8,7,6,7,7,7
+Weight,Weight of an individual engorged female in grams held at constant temperature,g,33,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,12,4,-1,7,6,7,7,7
+weight,"Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity""",mg,12,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,11,-1,5,8,7,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,1,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,11,5,5,8,7,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,3,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,12,5,5,8,7,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,1,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,11,5,5,8,7,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,3,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,12,5,5,8,7,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,1,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,11,5,5,8,7,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,3,include,body size and morphometrics,body_mass_or_weight,,Definition measures the weight of an individual organism or life stage,12,5,5,8,7,8,8,8
+body length,mean length (engorged ),mm,2,include,body size and morphometrics,linear_morphometric,,Direct organism-level body mass or linear morphometric,18,4,6,-1,6,7,-1,7
+body length,mean length (unfed ),mm,3,include,body size and morphometrics,linear_morphometric,,Direct organism-level body mass or linear morphometric,18,4,6,-1,6,7,7,7
+body length,replicate-level mean body length,mm,11,include,body size and morphometrics,linear_morphometric,,Direct organism-level body mass or linear morphometric,18,-1,-1,-1,-1,-1,-1,-1
+body size,mean head width,mm,162,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,19,-1,6,5,-1,-1,-1,-1
+body size,mean length,mm,12,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,6,5,3,6,6,6
+body size,mean thorax length,mm,20,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,6,5,-1,-1,-1,-1
+body size,mean width,mm,12,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,6,5,-1,-1,-1,-1
+body size,mean wing length,mm,142,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,19,4,6,5,3,6,6,6
+body size,mean wing length (mm),mm,25,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,19,-1,6,5,3,6,-1,-1
+body size (length),mean body length,mm,5,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,18,4,6,5,3,6,6,6
+body size (length),mean body length (adult),mm,12,include,body size and morphometrics,linear_morphometric,,Explicit body-size label; retain definition/unit anomalies for audit,18,4,6,5,3,6,6,6
+body width,mean width (engorged),mm,2,include,body size and morphometrics,linear_morphometric,,Direct organism-level body mass or linear morphometric,-1,4,-1,-1,6,7,-1,7
+body width,mean width (unfed),mm,3,include,body size and morphometrics,linear_morphometric,,Direct organism-level body mass or linear morphometric,-1,-1,6,-1,6,7,7,7
+head capsule width,mean width of head capsule,mm,15,include,body size and morphometrics,linear_morphometric,,Direct organism-level body mass or linear morphometric,-1,-1,-1,-1,-1,-1,-1,-1
+hypostome length,mean length of hypostome (appendage on the mouth),mm,4,include,body size and morphometrics,linear_morphometric,,Direct organism-level body mass or linear morphometric,-1,-1,-1,-1,-1,-1,-1,-1
+bloodmeal weight,individual-level weight of bloodmeal,mg,45,exclude,,excluded,,Measures a consumed blood meal rather than organism body size,-1,-1,-1,-1,-1,-1,-1,-1
+conversion efficiency,Mean index of conversion efficiency- (cumulative egg weight (g)/ replete female tick wt (g) )*100,percent,16,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,0,2,1,2,2,2,2,2
+conversion efficiency,the ratio of laid eggs to engorged female body mass calculated as the sum of all eggs laid divided by the sum of all females laying eggs,ratio,1,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,0,2,1,2,2,2,2,2
+conversion efficiency,total number of eggs produced divided by engorged weight,eggs individual-1 mg-1,5,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,0,2,1,2,2,2,2,2
+conversion efficiency index,percentage of adult female weight post feeding that was converted into egg mass,percent,22,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,0,2,1,2,2,2,2,2
+conversion efficiency index,total mg eggs produced divided by mg engorged weight,proportion,22,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,0,2,1,2,2,2,2,2
+Efficency,Percent weight transfered from engorged female at constant temperature to mass of eggs,percent,4,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,0,2,1,2,2,2,2,2
+egg conversion ratio,mean weight of eggs / mean weight of engorged females,percent,10,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,-1,2,1,2,2,2,2,2
+egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,120,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,10,4,8,7,6,7,7,7
+egg mass,mean egg mass weight,mg,30,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,10,4,8,7,6,7,7,7
+egg mass,mean weight of eggs,mg,1,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,10,4,8,7,6,7,7,7
+Egg Mass,Weight of eggs laid by an individual female,mg,25,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,10,4,8,7,6,7,7,7
+egg size,mean weight of egg mass produced by adult female ticks,mg,7,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,10,-1,-1,7,6,7,7,7
+fecundity,individual-level weight of lifetime eggs per individual,mg eggs individual-1,235,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,30,10,4,4,5,3,3,3
+fecundity,mean lifetime offspring as a function of size and adult and growth temperature,offspring individual-1,8,exclude,,excluded,,Mentions size/mass/length only as contextual information,30,10,4,4,5,3,3,3
+fecundity rate,mean weight of egg mass per day,mg eggs day-1,18,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,29,10,4,4,5,3,3,3
+feed conversion rate,ability to produce eggs relative to the weight at detachment of each engorged female,percent,30,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,-1,2,1,2,2,2,2,2
+growth rate,mean daily growth rate (the product of ln pupal weight divided by larval development time),ln(mg day-1),72,exclude,,excluded,,Derived rate or efficiency rather than a direct size measurement,6,-1,-1,-1,-1,-1,-1,-1
+growth rate,mean relative growth rate (ln(adult moult weight (ug)) - ln(birth wt (ug))/development time),ug ug-1 day-1,9,exclude,,excluded,,Derived rate or efficiency rather than a direct size measurement,6,-1,-1,-1,-1,-1,-1,-1
+lipid content,median proportion of lipid content of the tick- calculated by (dried weight - lipid weight) / dried weight,NA,34,exclude,,excluded,,"Context, behaviour, composition or duration rather than body size",1,-1,-1,-1,-1,-1,-1,-1
+longevity,mean duration of life stage as a function of body size,days,8,exclude,,excluded,,"Context, behaviour, composition or duration rather than body size",9,16,18,14,14,13,14,17
+Questing Height,questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,5,exclude,,excluded,,"Context, behaviour, composition or duration rather than body size",-1,-1,-1,-1,-1,-1,-1,-1
+Questing Height,questing height -- Average (across 43 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,4,exclude,,excluded,,"Context, behaviour, composition or duration rather than body size",-1,-1,-1,-1,-1,-1,-1,-1
+reproductive efficiency index,mean number of eggs per mg weight of engorged female,eggs individual-1 mg-1,6,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,-1,-1,1,2,2,2,2,2
+reproductive efficiency index,ratio of lifetime eggs to engorged female weight,eggs individual-1 day-1,4,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,-1,2,1,2,2,2,2,2
+starvation tolerance,individual-level starvation tolerance as a function of temperature and body size (interactor1size),days,164,exclude,,excluded,,"Context, behaviour, composition or duration rather than body size",-1,-1,-1,-1,-1,-1,-1,-1
+weight,Mean egg mass,mg,4,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,11,4,8,7,6,7,7,7
+Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,33,exclude,,excluded,,Measures eggs or reproductive output rather than organism body size,12,-1,-1,7,6,7,7,7
+weight loss,cumulative weight loss across time (see notes for time intervals),percent,61,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,-1,-1,3,4,5,4,4
+weight loss,mean weight loss,mg,30,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,-1,-1,3,4,5,4,4
+weight loss,nymphal weight loss during molting stage,percent,12,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,3,3,3,4,5,4,4
+weight loss,Percentage loss in body weight during female prefeeding period,percent,4,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,-1,-1,3,4,5,4,4
+weight loss,Percentage loss in body weight during larval molting period,percent,4,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,3,3,3,4,5,4,4
+weight loss,Percentage loss in body weight during larval prefeeding period,percent,4,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,3,3,3,4,5,4,4
+weight loss,Percentage loss in body weight during nymphal molting period,percent,4,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,3,3,3,4,5,4,4
+weight loss,Percentage loss in body weight during nymphal prefeeding period,percent,4,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,3,3,3,4,5,4,4
+weight loss,proportionate weight loss in relation to temperature and population,proportion,72,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,-1,-1,-1,-1,-1,-1,-1
+Weight loss,Weight loss of ticks exposed to dry air for 24 hours,percent,16,exclude,,excluded,,Measures change in weight rather than body size at a time point,5,-1,-1,3,-1,-1,-1,-1

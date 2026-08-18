@@ -1,0 +1,61 @@
+Results
+
+3.1 Semantic heterogeneity in VecTraits
+
+The initial analysis measured terminological variation in the VecTraits database. Across 41,147 records, 189 original trait names were represented. Sixty-two names had more than one definition, and 40 had more than one unit. Fecundity had the greatest variation, with 32 definitions and 24 units recorded under the same trait name. Trait names alone therefore did not consistently distinguish the biological concepts represented in the database.
+
+[FIGURE 1: bar chart or table showing the heterogeneity counts — 189 names, 62 multi-definition, 40 multi-unit, and the fecundity breakdown (32 defs / 24 units). Could be the same visual style as the presentation slide.]
+
+Collapsing the records to unique (OriginalTraitName, OriginalTraitDef) pairs left 461 trait concepts. These concepts were used as the units of analysis in the subsequent clustering experiments.
+
+3.2 Feature expansion
+
+The input was expanded cumulatively from trait name alone (V1) to all available fields (V20). Embeddings were regenerated and HDBSCAN was rerun for each version. The largest change in the early versions occurred when the definition was added at V2: the number of clusters fell sharply and previously separate records were brought together. Later additions had less effect until the finer taxonomic fields were introduced.
+
+At V10, adding genus increased the noise rate from approximately 0.24 to 0.32. This was accompanied by greater fragmentation of the clusters. The numeric and geographic fields added in the later versions did not produce a consistent improvement in the internal cluster summaries.
+
+[FIGURE 2: the feature-expansion rarefaction curve — number of clusters, noise rate, and average cluster size plotted across V1–V20, with the V10 genus "cliff" annotated.]
+
+3.3 Field ordering and silhouette hijacking
+
+Field order was also tested because the embedding model received the fields as a concatenated text sequence. All 720 possible orderings of the six-field input were enumerated. The median Adjusted Rand Index relative to the original ordering was approximately 0.41, indicating substantial variation among the resulting cluster assignments.
+
+Simulated annealing was then used to search the larger ordering spaces. In the six-field test, the search found an ordering with a silhouette score of 0.347, compared with the exhaustive optimum of 0.363.
+
+For the 20-field input, the search reached a silhouette score of 0.585. Inspection of the cluster contents gave a different account of this result. Twenty-three of the 43 clusters had a single latitude and longitude but contained several traits, while coordinate type was constant in 88% of clusters. The score was therefore associated with grouping by measurement location, rather than grouping by trait.
+
+The search was repeated with the geographic and numeric fields removed. This 13-field search reached a silhouette score of 0.435. However, 32 of the 41 clusters contained records from a single genus while also containing several traits. These clusters were organised mainly by organism identity. Neither result matched the study aim of grouping related traits across taxa, despite the relatively high silhouette scores.
+
+[FIGURE 3: two-panel diagnostic figure. Panel A: the 20-field "geographic hijack" — e.g. a table or plot showing clusters with constant lat/long but diverse traits. Panel B: the 13-field "taxonomic hijack" — clusters with single genus but diverse traits. Alternatively, a simulated-annealing convergence plot showing the silhouette climbing to 0.585 / 0.435.]
+
+3.4 Fecundity ground-truth: a consolidation case
+
+Seventy-two fecundity-related trait concepts were tracked across V1 to V8. For each version, the analysis recorded the number of non-noise clusters occupied, the number of concepts assigned to noise, and the proportion assigned to the dominant cluster. These results were compared with the silhouette score calculated for the full dataset.
+
+At V1, the fecundity concepts occupied four clusters. Nineteen were assigned to noise, and 33% were found in the dominant cluster. V1 nevertheless had the highest silhouette score of the eight versions, at 0.72. At V2, 86% of the concepts were assigned to one non-noise cluster, with ten concepts remaining as noise. The dominant-cluster share ranged from 90% to 94% between V3 and V8, apart from V5, where the concepts occupied two non-noise clusters. The highest share was observed at V6, where 94% were assigned to the dominant cluster and four remained as noise.
+
+The silhouette scores for V2 to V8 ranged from 0.26 to 0.30. Within this case study, the silhouette ranking did not agree with the grouping of fecundity concepts: V1 had the highest silhouette score but the lowest dominant-cluster share.
+
+[TABLE 1: fecundity results V1–V8. Columns: Version | Field added | Silhouette | Clusters occupied | Noise | Dominant share. Data: V1 name 0.72 / 4 / 19 / 33%; V2 +def 0.26 / 1 / 10 / 86%; V3 +unit 0.27 / 1 / 5 / 93%; V4 +order 0.28 / 1 / 7 / 90%; V5 +family 0.29 / 2 / 5 / 92%; V6 +stage 0.29 / 1 / 4 / 94%; V7 +class 0.30 / 1 / 5 / 93%; V8 +phylum 0.30 / 1 / 5 / 93%.]
+
+[FIGURE 4: grouped bar chart of fecundity — dominant-cluster share vs silhouette (×100) across V1–V8, showing the inverse relationship (this is the presentation chart, extended to V1–V8).]
+
+3.5 Body size ground-truth: a differentiation case
+
+The body-size analysis included 56 concepts: 41 body mass or weight measurements and 15 linear morphometric measurements, such as wing length, body length and width. At V2, the dominant body-mass cluster contained 32 of the 41 body-mass concepts and had a purity of 0.70. The dominant linear cluster contained 9 of the 15 linear concepts and had a purity of 0.20. The two subtypes were therefore mixed with other concepts at this stage.
+
+After unit was added at V3, the dominant cluster for each subtype had a purity of 1.0. This means that the two dominant clusters contained no concepts from the other body-size subtype. Coverage was not complete: 31 of the 41 body-mass concepts and 11 of the 15 linear concepts were assigned to their respective dominant clusters.
+
+[TABLE 2: body size by subtype. Columns: Version | Subtype | n | In dominant cluster | Purity. Data: V2 body_mass 41 / 32 / 0.70; V2 linear 15 / 9 / 0.20; V3 body_mass 41 / 31 / 1.0; V3 linear 15 / 11 / 1.0.]
+
+The units provide a plausible basis for this separation because the body-mass records were generally expressed in mass units, such as mg or g, whereas the linear measurements were expressed in units such as mm. The change between V2 and V3 was therefore a separation into subtype-pure dominant clusters, rather than the assignment of every body-size concept to one of those clusters.
+
+[FIGURE 5: illustration of the body-size hierarchy that the clustering recovered — body size splitting into body mass/weight and linear morphometrics (with wing length, body length, width under the latter). Could be a tree diagram, optionally paired with the V2-vs-V3 purity change.]
+
+3.6 Cross-case comparison
+
+The two case studies favoured different versions under their case-specific criteria. Fecundity had its highest dominant-cluster share at V6, after life stage had been added. The body-size subtypes first reached a dominant-cluster purity of 1.0 at V3, after unit had been added, although several concepts remained outside those dominant clusters.
+
+The silhouette score was calculated across all 461 concepts, so each version had the same score in both case studies. It did not identify the version with the strongest case-specific result for either trait in a consistent way. No single version produced the highest observed performance in both ground-truth analyses.
+
+[FIGURE 6 (optional): side-by-side summary contrasting the two cases — fecundity (consolidation, best V6) vs body size (differentiation, best V3) — against the shared, flat silhouette curve. This figure makes the "no single optimal version" point visually.]

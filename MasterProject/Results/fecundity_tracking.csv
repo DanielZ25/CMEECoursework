@@ -1,0 +1,73 @@
+OriginalTraitName,OriginalTraitDef,include_basis,V1,V2,V3,V4,V5,V6,V7,V8,V20
+Oviposition Rate,mean number of eggs per female,name,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Reproductive average daily fecundity,the number of newborn nymphs (N1) per female per day,name,-1,10,4,4,5,3,3,3,-1
+Reproductive average total fecundity,the number of newborn nymphs (N1) per female,name,-1,10,4,4,5,3,3,3,-1
+age specific fecundity,mean number of female offspring individual-1 at specific age,name,-1,-1,4,-1,5,3,3,3,-1
+age-specific daily fecundity,new nymphs produced each day,name,-1,10,4,4,5,3,3,3,-1
+average daily fecundity,daily fecundity of female aphids,name,-1,-1,4,-1,5,3,3,3,-1
+effective fecundity,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,name,-1,10,4,4,5,3,3,3,12
+egg count,mean number of eggs layed,name,10,-1,-1,-1,6,-1,-1,-1,-1
+fecundity,individual-level lifetime eggs,name,30,10,4,4,5,3,3,3,10
+fecundity,individual-level mean eggs per gonotrophic cycle,name,30,10,4,4,5,3,3,3,10
+fecundity,individual-level weight of lifetime eggs per individual,name,30,10,4,4,5,3,3,3,14
+fecundity,mean duration of life stage,name,30,10,4,4,5,3,3,3,12
+fecundity,mean eggs individual-1,name,30,10,4,4,5,3,3,3,-1
+fecundity,mean eggs produced per plant,name,30,10,4,4,5,3,3,3,13
+fecundity,mean lifetime egg punctures,name,30,10,4,4,5,3,3,3,-1
+fecundity,mean lifetime eggs,name,30,10,4,4,5,3,3,3,10
+fecundity,mean lifetime eggs individual-1,name,30,10,4,4,5,3,3,3,13
+fecundity,mean lifetime eggs laid per female,name,31,10,4,4,5,3,3,3,14
+fecundity,mean lifetime eggs per 10 individuals,name,30,10,4,4,5,3,3,3,10
+fecundity,mean lifetime eggs per individual,name,30,10,4,4,5,3,3,3,13
+fecundity,mean lifetime eggs per individual (across all humdity levels),name,30,10,4,4,5,3,3,3,13
+fecundity,mean lifetime eggs produced by an individual female,name,30,10,4,4,5,3,3,3,14
+fecundity,mean lifetime nymphs individual-1,name,31,10,4,4,5,3,3,3,12
+fecundity,mean lifetime offspring,name,30,10,4,4,5,3,3,3,12
+fecundity,mean lifetime offspring as a function of size and adult and growth temperature,name,30,10,4,4,5,3,3,3,13
+fecundity,mean lifetime progeny,name,30,10,4,4,5,3,3,3,12
+fecundity,mean lifetime progeny per female,name,30,10,4,4,5,3,3,3,12
+fecundity,mean lifetime total number of nymphs,name,31,10,4,4,5,3,3,3,12
+fecundity,mean liftetime eggs,name,31,10,4,4,5,3,3,3,-1
+fecundity,mean number of eggs per cycle,name,30,10,4,4,5,3,3,3,10
+fecundity,mean number of eggs per cycle (1st),name,31,10,4,4,5,3,3,3,10
+fecundity,mean number of female offspring individual-1,name,30,10,4,4,5,3,3,3,-1
+fecundity,mean number of lifetime eggs by a tick,name,31,10,4,4,5,3,3,3,14
+fecundity,mean number of progeny in a reproductive period equal to development time,name,30,10,4,4,5,3,3,3,12
+fecundity,mean of daily newborn nymph counts,name,30,10,4,4,5,3,3,3,12
+fecundity,mean offspring per reproduction day,name,30,10,4,4,5,3,3,3,12
+fecundity,mean population-level offspring (100 individuals),name,31,10,4,4,5,3,3,3,12
+fecundity,number of aphids produced,name,30,10,4,4,5,3,3,3,12
+fecundity,total number of eggs produced,name,30,10,4,4,5,3,3,3,14
+fecundity,total population-level number of offspring produced,name,31,10,4,4,5,3,3,3,12
+fecundity (alate),mean lifetime offspring,name,-1,10,4,4,5,3,3,3,12
+fecundity (apterous),mean lifetime offspring,name,-1,10,4,4,5,3,3,3,12
+fecundity rate,maximum number of eggs produced in a single day by an individual female,name,29,10,4,4,5,3,3,3,14
+fecundity rate,maximum number of offspring per female per day,name,29,10,4,4,5,3,3,3,12
+fecundity rate,maximum progengy individual-1 day-1,name,29,10,4,4,5,3,3,3,12
+fecundity rate,maximum progeny per unit time,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean duration of life stage,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean eggs individual-1 day-1,name,29,10,4,4,5,3,3,3,-1
+fecundity rate,mean eggs per unit time,name,29,10,4,4,5,3,3,3,13
+fecundity rate,mean eggs produced by an individual female per day,name,29,10,4,4,5,3,3,3,14
+fecundity rate,mean lifetime offspring,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean maximum progeny per unit time,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean number of eggs individual-1 day-1,name,29,10,4,4,5,3,3,3,13
+fecundity rate,mean number of nymphs per day per female,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean number of offspring per reproductive cycle,name,29,10,4,4,5,3,3,3,-1
+fecundity rate,mean offspring per day,name,29,10,4,4,5,3,3,3,13
+fecundity rate,mean offspring per reproduction day,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean offspring per unit time,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean progeny per unit time,name,29,10,4,4,5,3,3,3,12
+fecundity rate,mean weight of egg mass per day,name,29,10,4,4,5,3,3,3,14
+fecundity rate,peak number of eggs per day per individual,name,29,10,4,4,5,3,3,3,14
+fecundity rate (alate),mean offspring per unit time,name,-1,10,4,4,5,3,3,3,12
+fecundity rate (apterous),mean offspring per unit time,name,-1,10,4,4,5,3,3,3,12
+maximum fecundity,mean duration from onset of reproduction to maximum reproductive output,name,-1,-1,4,4,5,3,3,3,-1
+mean fecundity,mean number of offspring produced by females,name,-1,10,4,4,5,3,3,3,12
+mean fecundity,number of nymphs deposited,name,-1,10,4,4,5,3,3,3,-1
+peak fecundity,day post engorgement on which an individual female laid most eggs,name,-1,-1,-1,-1,-1,3,3,3,-1
+reproductive capacity,mean lifetime nymphs (30 days),name,-1,-1,4,4,-1,3,-1,-1,-1
+reproductive capacity,proportion of individuals that laid eggs after first blood meal,name,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fertility,number of offspring produced,definition,-1,-1,4,4,5,3,3,3,-1
+nymph production,number of nymphs produced / female,definition,-1,-1,-1,-1,-1,-1,-1,-1,-1

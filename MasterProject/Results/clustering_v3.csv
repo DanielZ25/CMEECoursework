@@ -1,0 +1,462 @@
+OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,text,version,cluster_id
+development time,mean duration of life stage,days,Trait: development time. Definition: mean duration of life stage. Unit: days.,v3,15
+fecundity,mean lifetime offspring,offspring individual-1,Trait: fecundity. Definition: mean lifetime offspring. Unit: offspring individual-1.,v3,4
+longevity,mean duration of life stage,days,Trait: longevity. Definition: mean duration of life stage. Unit: days.,v3,16
+reproductive period,mean duration of life stage,days,Trait: reproductive period. Definition: mean duration of life stage. Unit: days.,v3,14
+survival,proportion surviving life stage,proportion,Trait: survival. Definition: proportion surviving life stage. Unit: proportion.,v3,17
+mortality rate,per capita daily mortality,individual-1 day-1,Trait: mortality rate. Definition: per capita daily mortality. Unit: individual-1 day-1.,v3,-1
+ovipositional period,mean duration of life stage,days,Trait: ovipositional period. Definition: mean duration of life stage. Unit: days.,v3,14
+survival,percent surviving life stage,percent,Trait: survival. Definition: percent surviving life stage. Unit: percent.,v3,17
+development time,median duration of life stage,days,Trait: development time. Definition: median duration of life stage. Unit: days.,v3,15
+longevity,median duration of life stage,days,Trait: longevity. Definition: median duration of life stage. Unit: days.,v3,16
+fecundity rate,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,nymphs unit time-1,Trait: fecundity rate. Definition: mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time. Unit: nymphs unit time-1.,v3,4
+mortality,percent not surviving life stage,percent,Trait: mortality. Definition: percent not surviving life stage. Unit: percent.,v3,16
+pre-oviposition period,mean duration from adult emergence to onset of reproduction,days,Trait: pre-oviposition period. Definition: mean duration from adult emergence to onset of reproduction. Unit: days.,v3,14
+fecundity,mean lifetime nymphs individual-1,nymphs individual-1,Trait: fecundity. Definition: mean lifetime nymphs individual-1. Unit: nymphs individual-1.,v3,4
+fecundity rate,mean eggs individual-1 day-1,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean eggs individual-1 day-1. Unit: eggs individual-1 day-1.,v3,4
+fecundity rate,mean offspring per day,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean offspring per day. Unit: eggs individual-1 day-1.,v3,4
+blood feeding frequency,mean lifetime blood meals individual-1,blood meals,Trait: blood feeding frequency. Definition: mean lifetime blood meals individual-1. Unit: blood meals.,v3,-1
+body size,mean wet mass,mg,Trait: body size. Definition: mean wet mass. Unit: mg.,v3,7
+development time,mean duration period from aphid birth to its first reproduction,days,Trait: development time. Definition: mean duration period from aphid birth to its first reproduction. Unit: days.,v3,15
+fecundity,mean number of progeny in a reproductive period equal to development time,progeny indidividual-1,Trait: fecundity. Definition: mean number of progeny in a reproductive period equal to development time. Unit: progeny indidividual-1.,v3,4
+body size,mean wing length (mm),mm,Trait: body size. Definition: mean wing length (mm). Unit: mm.,v3,6
+longevity,median adult lifespan,days,Trait: longevity. Definition: median adult lifespan. Unit: days.,v3,16
+ovipositioning,proportion of blood fed mosquitoes laying egg rafts,proportion,Trait: ovipositioning. Definition: proportion of blood fed mosquitoes laying egg rafts. Unit: proportion.,v3,-1
+development rate,mean rate of life stage completion,days-1,Trait: development rate. Definition: mean rate of life stage completion. Unit: days-1.,v3,15
+fecundity,mean lifetime eggs individual-1,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs individual-1. Unit: eggs individual-1.,v3,4
+egg viability,mean percentage of viable eggs produced per female,eggs individual-1,Trait: egg viability. Definition: mean percentage of viable eggs produced per female. Unit: eggs individual-1.,v3,-1
+fecundity,mean eggs produced per plant,eggs plant-1,Trait: fecundity. Definition: mean eggs produced per plant. Unit: eggs plant-1.,v3,4
+fat content,mean lipid content per individual,ug mg-1 individual-1,Trait: fat content. Definition: mean lipid content per individual. Unit: ug mg-1 individual-1.,v3,-1
+development rate,rate of life stage completion,days-1,Trait: development rate. Definition: rate of life stage completion. Unit: days-1.,v3,15
+pre-blood meal period,average duration from emergence to first blood meal,days,Trait: pre-blood meal period. Definition: average duration from emergence to first blood meal. Unit: days.,v3,-1
+fecundity,mean number of eggs per cycle,eggs individual-1 cycle-1,Trait: fecundity. Definition: mean number of eggs per cycle. Unit: eggs individual-1 cycle-1.,v3,4
+gonotrophic cycle,mean number of gonotrophic cycles completed in individuals lifetime,days,Trait: gonotrophic cycle. Definition: mean number of gonotrophic cycles completed in individuals lifetime. Unit: days.,v3,2
+resource consumption rate,mean daily resource consumption rate,cm2 day-1,Trait: resource consumption rate. Definition: mean daily resource consumption rate. Unit: cm2 day-1.,v3,-1
+blood feeding,percent taking one bloodmeal,percent,Trait: blood feeding. Definition: percent taking one bloodmeal. Unit: percent.,v3,-1
+transmission potential,percent of individuals with transmission potential,percent,Trait: transmission potential. Definition: percent of individuals with transmission potential. Unit: percent.,v3,-1
+post-oviposition period,mean duration of life stage,days,Trait: post-oviposition period. Definition: mean duration of life stage. Unit: days.,v3,14
+fecundity,mean lifetime egg punctures,egg punctures individual-1,Trait: fecundity. Definition: mean lifetime egg punctures. Unit: egg punctures individual-1.,v3,4
+lipid content,mean lipid content per individual,ug,Trait: lipid content. Definition: mean lipid content per individual. Unit: ug.,v3,-1
+protein content,mean protein content per individual,ug,Trait: protein content. Definition: mean protein content per individual. Unit: ug.,v3,-1
+glycogen content,mean glycogen content per individual,ug,Trait: glycogen content. Definition: mean glycogen content per individual. Unit: ug.,v3,-1
+body size,mean wet mass (waxless and gravid),mg,Trait: body size. Definition: mean wet mass (waxless and gravid). Unit: mg.,v3,7
+fecundity rate,mean eggs per unit time,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean eggs per unit time. Unit: eggs individual-1 day-1.,v3,4
+fecundity rate,mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate. Definition: mean offspring per unit time. Unit: offspring individual-1 day-1.,v3,4
+ovariole number,mean number of ovarioles per individual,ovarioles individual-1,Trait: ovariole number. Definition: mean number of ovarioles per individual. Unit: ovarioles individual-1.,v3,-1
+reproductive capacity,mean lifetime nymphs (30 days),nymphs individual-1,Trait: reproductive capacity. Definition: mean lifetime nymphs (30 days). Unit: nymphs individual-1.,v3,4
+mortality rate,mean per capita rate of mortality during life stage,individual-1 day-1,Trait: mortality rate. Definition: mean per capita rate of mortality during life stage. Unit: individual-1 day-1.,v3,16
+pre-reproductive period,mean duration of life stage,days,Trait: pre-reproductive period. Definition: mean duration of life stage. Unit: days.,v3,14
+fecundity,mean lifetime eggs per 10 individuals,eggs 10 individuals-1,Trait: fecundity. Definition: mean lifetime eggs per 10 individuals. Unit: eggs 10 individuals-1.,v3,4
+hatching rate,percent surviving life stage,percent,Trait: hatching rate. Definition: percent surviving life stage. Unit: percent.,v3,12
+hatching rate,mean duration of life stage,percent,Trait: hatching rate. Definition: mean duration of life stage. Unit: percent.,v3,12
+mortality,mean duration of life stage,days,Trait: mortality. Definition: mean duration of life stage. Unit: days.,v3,16
+body size,mean length,mm,Trait: body size. Definition: mean length. Unit: mm.,v3,6
+body size,mean width,mm,Trait: body size. Definition: mean width. Unit: mm.,v3,6
+resource consumption rate,mean lifetime prey consumed,individual prey individual-1,Trait: resource consumption rate. Definition: mean lifetime prey consumed. Unit: individual prey individual-1.,v3,-1
+age specific fecundity,mean number of female offspring individual-1 at specific age,females individual-1,Trait: age specific fecundity. Definition: mean number of female offspring individual-1 at specific age. Unit: females individual-1.,v3,4
+fecundity,mean number of female offspring individual-1,females individual-1,Trait: fecundity. Definition: mean number of female offspring individual-1. Unit: females individual-1.,v3,4
+development time,mean duration of life cycle (egg-to-egg),days,Trait: development time. Definition: mean duration of life cycle (egg-to-egg). Unit: days.,v3,15
+fecundity,mean lifetime eggs per individual (across all humdity levels),eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs per individual (across all humdity levels). Unit: eggs individual-1.,v3,4
+fecundity,mean lifetime eggs per individual,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs per individual. Unit: eggs individual-1.,v3,4
+survival,percent surviving life stage (across all humidity levels),percent,Trait: survival. Definition: percent surviving life stage (across all humidity levels). Unit: percent.,v3,-1
+development time,mean duration of life stage (across all humidity levels),days,Trait: development time. Definition: mean duration of life stage (across all humidity levels). Unit: days.,v3,15
+mortality,cummulative mortality percentage across immature stages,percent,Trait: mortality. Definition: cummulative mortality percentage across immature stages. Unit: percent.,v3,16
+hatch time,mean duration of life stage,hours,Trait: hatch time. Definition: mean duration of life stage. Unit: hours.,v3,-1
+development time,mean duration for 50 percent of eggs to hatch,days,Trait: development time. Definition: mean duration for 50 percent of eggs to hatch. Unit: days.,v3,15
+fecundity rate,maximum progengy individual-1 day-1,progeny individual-1 day-1,Trait: fecundity rate. Definition: maximum progengy individual-1 day-1. Unit: progeny individual-1 day-1.,v3,4
+gonotrophic cycle,mean duration of gonotrophic cycle (7th),days,Trait: gonotrophic cycle. Definition: mean duration of gonotrophic cycle (7th). Unit: days.,v3,2
+fecundity,mean number of eggs per cycle (1st),eggs individual-1 cycle-1,Trait: fecundity. Definition: mean number of eggs per cycle (1st). Unit: eggs individual-1 cycle-1.,v3,4
+mortality,proportion not surviving life stage,proportion,Trait: mortality. Definition: proportion not surviving life stage. Unit: proportion.,v3,16
+development time,median duration for egg development,days,Trait: development time. Definition: median duration for egg development. Unit: days.,v3,15
+development time,mean duration for egg development,days,Trait: development time. Definition: mean duration for egg development. Unit: days.,v3,15
+hatching range,range of the number of days all eggs hatched from when the first egg hatching started,days,Trait: hatching range. Definition: range of the number of days all eggs hatched from when the first egg hatching started. Unit: days.,v3,-1
+fecundity rate,mean lifetime offspring,offspring individual-1 day-1,Trait: fecundity rate. Definition: mean lifetime offspring. Unit: offspring individual-1 day-1.,v3,4
+pre-reproductive period,mean duration from adult emergence to onset of reproduction,days,Trait: pre-reproductive period. Definition: mean duration from adult emergence to onset of reproduction. Unit: days.,v3,14
+age at first reproduction,mean age at first reproduction,days,Trait: age at first reproduction. Definition: mean age at first reproduction. Unit: days.,v3,14
+body size,mean dry mass,mg,Trait: body size. Definition: mean dry mass. Unit: mg.,v3,7
+body size,mean head width,mm,Trait: body size. Definition: mean head width. Unit: mm.,v3,6
+fecundity,mean offspring per reproduction day,offspring individual-1 day-1,Trait: fecundity. Definition: mean offspring per reproduction day. Unit: offspring individual-1 day-1.,v3,4
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of growth temperature,minutes,Trait: chill-coma recovery time. Definition: mean duration for individuals to regain full movement after being cold shocked as function of growth temperature. Unit: minutes.,v3,-1
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of adult temperature,minutes,Trait: chill-coma recovery time. Definition: mean duration for individuals to regain full movement after being cold shocked as function of adult temperature. Unit: minutes.,v3,-1
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of adult temperature,minutes,Trait: heat knockdown time. Definition: mean duration individuals can tolerate heat exposure before movement ceases as a function of adult temperature. Unit: minutes.,v3,-1
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of sex and growth temperature,minutes,Trait: heat knockdown time. Definition: mean duration individuals can tolerate heat exposure before movement ceases as a function of sex and growth temperature. Unit: minutes.,v3,-1
+fecundity,mean lifetime offspring as a function of size and adult and growth temperature,offspring individual-1,Trait: fecundity. Definition: mean lifetime offspring as a function of size and adult and growth temperature. Unit: offspring individual-1.,v3,4
+body size,mean thorax length,mm,Trait: body size. Definition: mean thorax length. Unit: mm.,v3,6
+development time,duration of life stage,days,Trait: development time. Definition: duration of life stage. Unit: days.,v3,15
+development rate,mean duration of life stage,days,Trait: development rate. Definition: mean duration of life stage. Unit: days.,v3,15
+consumption rate,mean relative consumption rate,mg of aphids,Trait: consumption rate. Definition: mean relative consumption rate. Unit: mg of aphids.,v3,-1
+growth rate,mean daily growth rate (the product of ln pupal weight divided by larval development time),ln(mg day-1),Trait: growth rate. Definition: mean daily growth rate (the product of ln pupal weight divided by larval development time). Unit: ln(mg day-1).,v3,-1
+body size,mean body weight,mg,Trait: body size. Definition: mean body weight. Unit: mg.,v3,7
+weight loss,proportionate weight loss in relation to temperature and population,proportion,Trait: weight loss. Definition: proportionate weight loss in relation to temperature and population. Unit: proportion.,v3,-1
+mortality,time to 50% mortality,days,Trait: mortality. Definition: time to 50% mortality. Unit: days.,v3,16
+development time,mean duration of life cycle,days,Trait: development time. Definition: mean duration of life cycle. Unit: days.,v3,15
+feeding rate,mean lifetime feeding punctures,feeding punctures individual-1,Trait: feeding rate. Definition: mean lifetime feeding punctures. Unit: feeding punctures individual-1.,v3,-1
+EIP (extrinsic incubation period),day sporozoites first detected in salivary glands,days,Trait: EIP (extrinsic incubation period). Definition: day sporozoites first detected in salivary glands. Unit: days.,v3,-1
+oocyst prevalence,not stated,percent,Trait: oocyst prevalence. Definition: not stated. Unit: percent.,v3,-1
+oocyst intensity,not stated,not stated,Trait: oocyst intensity. Definition: not stated. Unit: not stated.,v3,-1
+sporozoite prevalence,not stated,percent,Trait: sporozoite prevalence. Definition: not stated. Unit: percent.,v3,-1
+copulation duration,mean copulation duration,hours individual-1 lifetime-1,Trait: copulation duration. Definition: mean copulation duration. Unit: hours individual-1 lifetime-1.,v3,-1
+hatchability,mean percentage of eggs hatching,percent,Trait: hatchability. Definition: mean percentage of eggs hatching. Unit: percent.,v3,12
+prey consumption,mean number of prey consumed,number of individual prey individual-1,Trait: prey consumption. Definition: mean number of prey consumed. Unit: number of individual prey individual-1.,v3,-1
+fecundity rate,mean number of eggs individual-1 day-1,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean number of eggs individual-1 day-1. Unit: eggs individual-1 day-1.,v3,4
+mortality rate,mean death rate during life stage,individual-1 day-1,Trait: mortality rate. Definition: mean death rate during life stage. Unit: individual-1 day-1.,v3,16
+metabolic rate,mean CO2 production (VCO2) (RMR: resting metabolic rate),uL h-1,Trait: metabolic rate. Definition: mean CO2 production (VCO2) (RMR: resting metabolic rate). Unit: uL h-1.,v3,0
+parasite maturation time,mean duration time from infective feed to mature infection,days,Trait: parasite maturation time. Definition: mean duration time from infective feed to mature infection. Unit: days.,v3,-1
+interlarval period,mean frequency of larval production,days,Trait: interlarval period. Definition: mean frequency of larval production. Unit: days.,v3,-1
+fecundity rate,mean number of offspring per reproductive cycle,offspring individual-1 cycle-1,Trait: fecundity rate. Definition: mean number of offspring per reproductive cycle. Unit: offspring individual-1 cycle-1.,v3,4
+survival,probability of survival after exposure to extreme temperatures,probability,Trait: survival. Definition: probability of survival after exposure to extreme temperatures. Unit: probability.,v3,-1
+metabolic rate,mean CO2 production rate as a function of exposure temperature and acclimation temperature (secondstressor),ml CO2 h-1,Trait: metabolic rate. Definition: mean CO2 production rate as a function of exposure temperature and acclimation temperature (secondstressor). Unit: ml CO2 h-1.,v3,0
+metabolic rate,mean CO2 production rate,ul CO2 h-1,Trait: metabolic rate. Definition: mean CO2 production rate. Unit: ul CO2 h-1.,v3,0
+fat consumption rate,mean daily rate of fat consumption,mg day-1,Trait: fat consumption rate. Definition: mean daily rate of fat consumption. Unit: mg day-1.,v3,-1
+pre-reproductive period,mean duration to production of first larva,days,Trait: pre-reproductive period. Definition: mean duration to production of first larva. Unit: days.,v3,14
+fecundity,mean lifetime eggs,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs. Unit: eggs individual-1.,v3,4
+blood feeding,mean lifetime blood feeds,blood meals individual-1,Trait: blood feeding. Definition: mean lifetime blood feeds. Unit: blood meals individual-1.,v3,-1
+metabolic rate (active),mean active metabolic rate (AMR),ml CO2 h-1,Trait: metabolic rate (active). Definition: mean active metabolic rate (AMR). Unit: ml CO2 h-1.,v3,0
+relative activity,amount of activity as a percentage of maximum recorded activity,percent,Trait: relative activity. Definition: amount of activity as a percentage of maximum recorded activity. Unit: percent.,v3,-1
+metabolic rate,mean respiratory CO2 rate (RCO2),pmol mg-1 s-1,Trait: metabolic rate. Definition: mean respiratory CO2 rate (RCO2). Unit: pmol mg-1 s-1.,v3,0
+metabolic heat rate,mean metabolic heat rate (or 455RCO2),uW mg-1,Trait: metabolic heat rate. Definition: mean metabolic heat rate (or 455RCO2). Unit: uW mg-1.,v3,0
+anabolic rate,mean anabolic rate,uW mg-1,Trait: anabolic rate. Definition: mean anabolic rate. Unit: uW mg-1.,v3,0
+metabolic rate (resting),mean oxygen consumption of inactive individuals that produced fewer than 0.3 spikes/sec over several minutes of observation,Ml O2 g thorax-1 h-1,Trait: metabolic rate (resting). Definition: mean oxygen consumption of inactive individuals that produced fewer than 0.3 spikes/sec over several minutes of observation. Unit: Ml O2 g thorax-1 h-1.,v3,0
+metabolic rate,mean oxygen uptake rate,ml O2 g-1 h-1,Trait: metabolic rate. Definition: mean oxygen uptake rate. Unit: ml O2 g-1 h-1.,v3,0
+metabolic rate (standard),mean CO2 production rate (VCO2),ml CO2 g-1 h-1,Trait: metabolic rate (standard). Definition: mean CO2 production rate (VCO2). Unit: ml CO2 g-1 h-1.,v3,0
+gonotrophic cycle 1,individual-level duration of first gonotrophic cycle,days,Trait: gonotrophic cycle 1. Definition: individual-level duration of first gonotrophic cycle. Unit: days.,v3,2
+gonotrophic cycle 2,individual-level duration of second gonotrophic cycle,days,Trait: gonotrophic cycle 2. Definition: individual-level duration of second gonotrophic cycle. Unit: days.,v3,2
+fecundity,individual-level mean eggs per gonotrophic cycle,eggs cycle-1,Trait: fecundity. Definition: individual-level mean eggs per gonotrophic cycle. Unit: eggs cycle-1.,v3,4
+gonotrophic cycle,individual-level lifetime number of cycles completed,lifetime cycles,Trait: gonotrophic cycle. Definition: individual-level lifetime number of cycles completed. Unit: lifetime cycles.,v3,2
+development time,individual-level duration of life stage,days,Trait: development time. Definition: individual-level duration of life stage. Unit: days.,v3,15
+longevity,individual-level duration of life stage,days,Trait: longevity. Definition: individual-level duration of life stage. Unit: days.,v3,16
+development rate,individual-level rate of life stage completion,days-1,Trait: development rate. Definition: individual-level rate of life stage completion. Unit: days-1.,v3,15
+body size,individual-level mass,mg,Trait: body size. Definition: individual-level mass. Unit: mg.,v3,7
+body size,individual-level wet mass,mg,Trait: body size. Definition: individual-level wet mass. Unit: mg.,v3,7
+viral load,individual-level viral load,PFU (plaque-forming units),Trait: viral load. Definition: individual-level viral load. Unit: PFU (plaque-forming units).,v3,-1
+starvation tolerance,individual-level starvation tolerance as a function of temperature and body size (interactor1size),days,Trait: starvation tolerance. Definition: individual-level starvation tolerance as a function of temperature and body size (interactor1size). Unit: days.,v3,-1
+recovery time,individual-level duration to recover movement after exposure to extreme temperature,seconds,Trait: recovery time. Definition: individual-level duration to recover movement after exposure to extreme temperature. Unit: seconds.,v3,-1
+mortality rate,individual-level per capita daily rate of mortality,indivdual-1 day-1,Trait: mortality rate. Definition: individual-level per capita daily rate of mortality. Unit: indivdual-1 day-1.,v3,16
+survival,individual-level binomial survival,1 = survived life stage,Trait: survival. Definition: individual-level binomial survival. Unit: 1 = survived life stage.,v3,-1
+juvenile life span,individual-level duration from hatching to death or adult eclosion,days,Trait: juvenile life span. Definition: individual-level duration from hatching to death or adult eclosion. Unit: days.,v3,-1
+fecundity,individual-level lifetime eggs,eggs individual-1,Trait: fecundity. Definition: individual-level lifetime eggs. Unit: eggs individual-1.,v3,4
+bloodmeal weight,individual-level weight of bloodmeal,mg,Trait: bloodmeal weight. Definition: individual-level weight of bloodmeal. Unit: mg.,v3,-1
+knockdown time,mean time for 50% knockdown of femelaes under exposure to deltamethrin concentration (see notes),minutes,Trait: knockdown time. Definition: mean time for 50% knockdown of femelaes under exposure to deltamethrin concentration (see notes). Unit: minutes.,v3,-1
+incubation period,mean duration of egg incubation period (lay to hatching),days,Trait: incubation period. Definition: mean duration of egg incubation period (lay to hatching). Unit: days.,v3,11
+development time,mean duration of larval attachment developmental phase,days,Trait: development time. Definition: mean duration of larval attachment developmental phase. Unit: days.,v3,15
+premolt period (nymphal),mean duration of nymphal premolting phase,days,Trait: premolt period (nymphal). Definition: mean duration of nymphal premolting phase. Unit: days.,v3,20
+feeding time,mean duration of adult female feeding developmental phase,days,Trait: feeding time. Definition: mean duration of adult female feeding developmental phase. Unit: days.,v3,-1
+preoviposition period,mean duration of prereproductive period (end of feeding until oviposition),days,Trait: preoviposition period. Definition: mean duration of prereproductive period (end of feeding until oviposition). Unit: days.,v3,14
+ovipositional period,mean duration of reproductive period,days,Trait: ovipositional period. Definition: mean duration of reproductive period. Unit: days.,v3,14
+body size,mean wet mass on the day feeding was completed,mg,Trait: body size. Definition: mean wet mass on the day feeding was completed. Unit: mg.,v3,7
+weight loss,nymphal weight loss during molting stage,percent,Trait: weight loss. Definition: nymphal weight loss during molting stage. Unit: percent.,v3,3
+egg size,mean weight of egg mass produced by adult female ticks,mg,Trait: egg size. Definition: mean weight of egg mass produced by adult female ticks. Unit: mg.,v3,-1
+conversion efficiency index,percentage of adult female weight post feeding that was converted into egg mass,percent,Trait: conversion efficiency index. Definition: percentage of adult female weight post feeding that was converted into egg mass. Unit: percent.,v3,1
+premolt period (larval),mean duration of larval premolting phase,days,Trait: premolt period (larval). Definition: mean duration of larval premolting phase. Unit: days.,v3,20
+molting time,mean duration of nymphal molting phase,days,Trait: molting time. Definition: mean duration of nymphal molting phase. Unit: days.,v3,20
+survival rate,percentage of ticks that survived the larval stage,percent,Trait: survival rate. Definition: percentage of ticks that survived the larval stage. Unit: percent.,v3,18
+survival rate,percentage of ticks that survived the larval moult,percent,Trait: survival rate. Definition: percentage of ticks that survived the larval moult. Unit: percent.,v3,18
+survival time,mean survival time of fasting larvae,days,Trait: survival time. Definition: mean survival time of fasting larvae. Unit: days.,v3,9
+body size,mean weight of nymphs post-feeding,mg,Trait: body size. Definition: mean weight of nymphs post-feeding. Unit: mg.,v3,7
+premolt period (nymphal),mean time to complete nymphal moulting,days,Trait: premolt period (nymphal). Definition: mean time to complete nymphal moulting. Unit: days.,v3,20
+survival rate,percentage of ticks that survived the nymphal moult,percent,Trait: survival rate. Definition: percentage of ticks that survived the nymphal moult. Unit: percent.,v3,18
+sex ratio,ratio of male ticks to female ticks,ratio,Trait: sex ratio. Definition: ratio of male ticks to female ticks. Unit: ratio.,v3,-1
+feeding time,mean duration of feeding developmental phase,days,Trait: feeding time. Definition: mean duration of feeding developmental phase. Unit: days.,v3,-1
+body size,mean body weight of engorged adult females,mg,Trait: body size. Definition: mean body weight of engorged adult females. Unit: mg.,v3,7
+fecundity,mean lifetime eggs laid per female,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs laid per female. Unit: eggs individual-1.,v3,4
+body size,mean wet mass on the day feeding was completed (engorged),mg,Trait: body size. Definition: mean wet mass on the day feeding was completed (engorged). Unit: mg.,v3,7
+survival rate,percentage of ticks that survived adult engorgement,percent,Trait: survival rate. Definition: percentage of ticks that survived adult engorgement. Unit: percent.,v3,18
+fecundity,mean lifetime eggs produced by an individual female,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs produced by an individual female. Unit: eggs individual-1.,v3,4
+survival rate,percentage of ticks that survived the nymphal stage,percent,Trait: survival rate. Definition: percentage of ticks that survived the nymphal stage. Unit: percent.,v3,18
+premolt period (larval),mean time to complete larval moulting,days,Trait: premolt period (larval). Definition: mean time to complete larval moulting. Unit: days.,v3,20
+fertility,percentage of females that laid fertile eggs,percent,Trait: fertility. Definition: percentage of females that laid fertile eggs. Unit: percent.,v3,-1
+oviposition failure,mean probability of failure to oviposit,probability,Trait: oviposition failure. Definition: mean probability of failure to oviposit. Unit: probability.,v3,-1
+preoviposition period,mean duration of period before oviposition,days,Trait: preoviposition period. Definition: mean duration of period before oviposition. Unit: days.,v3,14
+ovipositional period,mean duration of ovipositional period,days,Trait: ovipositional period. Definition: mean duration of ovipositional period. Unit: days.,v3,14
+conversion efficiency index,total mg eggs produced divided by mg engorged weight,proportion,Trait: conversion efficiency index. Definition: total mg eggs produced divided by mg engorged weight. Unit: proportion.,v3,1
+fecundity rate,mean weight of egg mass per day,mg eggs day-1,Trait: fecundity rate. Definition: mean weight of egg mass per day. Unit: mg eggs day-1.,v3,4
+fecundity,individual-level weight of lifetime eggs per individual,mg eggs individual-1,Trait: fecundity. Definition: individual-level weight of lifetime eggs per individual. Unit: mg eggs individual-1.,v3,4
+hatch rate,mean hatching rate of egg batches,percent,Trait: hatch rate. Definition: mean hatching rate of egg batches. Unit: percent.,v3,12
+incubation period,median time from oviposition to hatching,days,Trait: incubation period. Definition: median time from oviposition to hatching. Unit: days.,v3,11
+weight loss,cumulative weight loss across time (see notes for time intervals),percent,Trait: weight loss. Definition: cumulative weight loss across time (see notes for time intervals). Unit: percent.,v3,-1
+development rate,mean development rate per day,percent day-1,Trait: development rate. Definition: mean development rate per day. Unit: percent day-1.,v3,15
+egg mass,mean egg mass weight,mg,Trait: egg mass. Definition: mean egg mass weight. Unit: mg.,v3,8
+feed conversion rate,ability to produce eggs relative to the weight at detachment of each engorged female,percent,Trait: feed conversion rate. Definition: ability to produce eggs relative to the weight at detachment of each engorged female. Unit: percent.,v3,1
+incubation period,time from start of oviposition until first eggs hatched,days,Trait: incubation period. Definition: time from start of oviposition until first eggs hatched. Unit: days.,v3,11
+larval hatch rate,percentage of unfertilized eggs that were subsequently fertilized,percent,Trait: larval hatch rate. Definition: percentage of unfertilized eggs that were subsequently fertilized. Unit: percent.,v3,12
+mortality,number of dead individuals per group,individuals,Trait: mortality. Definition: number of dead individuals per group. Unit: individuals.,v3,-1
+weight loss,mean weight loss,mg,Trait: weight loss. Definition: mean weight loss. Unit: mg.,v3,-1
+hatch rate,percentage of unfertilized eggs that were subsequently fertilized,percent,Trait: hatch rate. Definition: percentage of unfertilized eggs that were subsequently fertilized. Unit: percent.,v3,12
+feeding preference,mean number of individual ticks selecting to feed on human (see notes for %),individuals,Trait: feeding preference. Definition: mean number of individual ticks selecting to feed on human (see notes for %). Unit: individuals.,v3,-1
+survival rate,percent surviving to oviposition,percent,Trait: survival rate. Definition: percent surviving to oviposition. Unit: percent.,v3,-1
+preoviposition period,mean duration of life stage,days,Trait: preoviposition period. Definition: mean duration of life stage. Unit: days.,v3,14
+hatch rate,percentage of egg masses producing larvae,percent,Trait: hatch rate. Definition: percentage of egg masses producing larvae. Unit: percent.,v3,12
+development time,mean duration from when eggs were deposited to hatch,days,Trait: development time. Definition: mean duration from when eggs were deposited to hatch. Unit: days.,v3,15
+molt success rate (larval),percentage that molted,percent,Trait: molt success rate (larval). Definition: percentage that molted. Unit: percent.,v3,10
+premolt period (larval),mean duration of life stage,days,Trait: premolt period (larval). Definition: mean duration of life stage. Unit: days.,v3,20
+molt success rate (nymphal),percentage that molted,percent,Trait: molt success rate (nymphal). Definition: percentage that molted. Unit: percent.,v3,10
+premolt period,mean duration of life stage,days,Trait: premolt period. Definition: mean duration of life stage. Unit: days.,v3,20
+premolt period (nymphal),mean duration of life stage,days,Trait: premolt period (nymphal). Definition: mean duration of life stage. Unit: days.,v3,20
+survival rate,percent surviving life stage,percent,Trait: survival rate. Definition: percent surviving life stage. Unit: percent.,v3,17
+fecundity,total number of eggs produced,eggs individual-1,Trait: fecundity. Definition: total number of eggs produced. Unit: eggs individual-1.,v3,4
+body mass,mean weight of female,mg,Trait: body mass. Definition: mean weight of female. Unit: mg.,v3,7
+longevity,duration for 50% mortality,days,Trait: longevity. Definition: duration for 50% mortality. Unit: days.,v3,16
+conversion efficiency,total number of eggs produced divided by engorged weight,eggs individual-1 mg-1,Trait: conversion efficiency. Definition: total number of eggs produced divided by engorged weight. Unit: eggs individual-1 mg-1.,v3,1
+incubation period,mean duration from oviposition to hatching,days,Trait: incubation period. Definition: mean duration from oviposition to hatching. Unit: days.,v3,11
+hatch ratio,hatching ratio of eggs,percent,Trait: hatch ratio. Definition: hatching ratio of eggs. Unit: percent.,v3,12
+molting period (larval),mean duration of life stage,days,Trait: molting period (larval). Definition: mean duration of life stage. Unit: days.,v3,-1
+molting ratio (larval),percentage that molted during life stage,percent,Trait: molting ratio (larval). Definition: percentage that molted during life stage. Unit: percent.,v3,10
+molting period (nymphal),mean duration of life stage,days,Trait: molting period (nymphal). Definition: mean duration of life stage. Unit: days.,v3,20
+molting ratio (nymphal),percentage that molted during life stage,percent,Trait: molting ratio (nymphal). Definition: percentage that molted during life stage. Unit: percent.,v3,10
+prefeeding period (larval),mean duration of life stage,days,Trait: prefeeding period (larval). Definition: mean duration of life stage. Unit: days.,v3,19
+feeding period (larval),mean duration of life stage,days,Trait: feeding period (larval). Definition: mean duration of life stage. Unit: days.,v3,19
+prefeeding period (nymphal),mean duration of life stage,days,Trait: prefeeding period (nymphal). Definition: mean duration of life stage. Unit: days.,v3,19
+feeding period (nymphal),mean duration of life stage,days,Trait: feeding period (nymphal). Definition: mean duration of life stage. Unit: days.,v3,19
+prefeeding period (adult),mean duration of life stage,days,Trait: prefeeding period (adult). Definition: mean duration of life stage. Unit: days.,v3,19
+feeding period (adult),mean duration of life stage,days,Trait: feeding period (adult). Definition: mean duration of life stage. Unit: days.,v3,19
+lifespan,mean duration of entire life,days,Trait: lifespan. Definition: mean duration of entire life. Unit: days.,v3,16
+fecundity,mean number of lifetime eggs by a tick,eggs individual-1,Trait: fecundity. Definition: mean number of lifetime eggs by a tick. Unit: eggs individual-1.,v3,4
+molt success rate (larval),percentage that molted during life stage,percent,Trait: molt success rate (larval). Definition: percentage that molted during life stage. Unit: percent.,v3,10
+molt success rate (nymphal),percentage that molted during life stage,percent,Trait: molt success rate (nymphal). Definition: percentage that molted during life stage. Unit: percent.,v3,10
+reproductive efficiency index,mean number of eggs per mg weight of engorged female,eggs individual-1 mg-1,Trait: reproductive efficiency index. Definition: mean number of eggs per mg weight of engorged female. Unit: eggs individual-1 mg-1.,v3,1
+pre-hatch period,number of days until hatching,days,Trait: pre-hatch period. Definition: number of days until hatching. Unit: days.,v3,-1
+mortality (larval),duration for 100% mortality (unfed larvae),weeks,Trait: mortality (larval). Definition: duration for 100% mortality (unfed larvae). Unit: weeks.,v3,-1
+mortality (nymphal),duration for 50% mortality (unfed nymphs),weeks,Trait: mortality (nymphal). Definition: duration for 50% mortality (unfed nymphs). Unit: weeks.,v3,-1
+mortality (adult),mean duration for 100% mortality (unfed adults),weeks,Trait: mortality (adult). Definition: mean duration for 100% mortality (unfed adults). Unit: weeks.,v3,16
+fecundity rate,mean eggs produced by an individual female per day,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean eggs produced by an individual female per day. Unit: eggs individual-1 day-1.,v3,4
+development time,mean time to complete nymphal devlopment,days,Trait: development time. Definition: mean time to complete nymphal devlopment. Unit: days.,v3,15
+fecundity rate,peak number of eggs per day per individual,eggs individual-1 day-1,Trait: fecundity rate. Definition: peak number of eggs per day per individual. Unit: eggs individual-1 day-1.,v3,4
+reproductive efficiency index,ratio of lifetime eggs to engorged female weight,eggs individual-1 day-1,Trait: reproductive efficiency index. Definition: ratio of lifetime eggs to engorged female weight. Unit: eggs individual-1 day-1.,v3,1
+survival rate,percentage of ticks that survived the adult stage,percent,Trait: survival rate. Definition: percentage of ticks that survived the adult stage. Unit: percent.,v3,18
+survival time,mean survival time of larvae post hatch,days,Trait: survival time. Definition: mean survival time of larvae post hatch. Unit: days.,v3,9
+longevity,mean duration of life stage as a function of body size,days,Trait: longevity. Definition: mean duration of life stage as a function of body size. Unit: days.,v3,16
+body size,mean dry mass. relationship between dry mass and wing length,mg,Trait: body size. Definition: mean dry mass. relationship between dry mass and wing length. Unit: mg.,v3,7
+mortality,time taken for 50% of adults to die,days,Trait: mortality. Definition: time taken for 50% of adults to die. Unit: days.,v3,-1
+survival,proportion of individuals surviving life stage (emergence rate),proportion,Trait: survival. Definition: proportion of individuals surviving life stage (emergence rate). Unit: proportion.,v3,17
+body size,dry mass,mg,Trait: body size. Definition: dry mass. Unit: mg.,v3,7
+body size,mean wing length,mm,Trait: body size. Definition: mean wing length. Unit: mm.,v3,6
+mortality,percentage not surviving life stage,percent,Trait: mortality. Definition: percentage not surviving life stage. Unit: percent.,v3,16
+survival,percentage of individuals surviving life stage (emergence rate),individuals,Trait: survival. Definition: percentage of individuals surviving life stage (emergence rate). Unit: individuals.,v3,17
+reproductive capacity,proportion of individuals that laid eggs after first blood meal,proportion,Trait: reproductive capacity. Definition: proportion of individuals that laid eggs after first blood meal. Unit: proportion.,v3,-1
+fertility,mean number of hatched eggs in an individuals lifetime,eggs individual-1,Trait: fertility. Definition: mean number of hatched eggs in an individuals lifetime. Unit: eggs individual-1.,v3,4
+survival rate,mean percentage surviving life stage,percent,Trait: survival rate. Definition: mean percentage surviving life stage. Unit: percent.,v3,17
+lifespan,mean duration of entrie lifespan (from egg to adult death),days,Trait: lifespan. Definition: mean duration of entrie lifespan (from egg to adult death). Unit: days.,v3,-1
+preoviposition period,mean duration from adult emergence to onset of reproduction,days,Trait: preoviposition period. Definition: mean duration from adult emergence to onset of reproduction. Unit: days.,v3,14
+total preoviposition period,mean duration from egg to onset of reproduction,days,Trait: total preoviposition period. Definition: mean duration from egg to onset of reproduction. Unit: days.,v3,14
+oviposition period,mean duration of life stage,days,Trait: oviposition period. Definition: mean duration of life stage. Unit: days.,v3,14
+fecundity,mean eggs individual-1,eggs,Trait: fecundity. Definition: mean eggs individual-1. Unit: eggs.,v3,4
+sex ratio,mean proportion of female adults cohort-1,ratio,Trait: sex ratio. Definition: mean proportion of female adults cohort-1. Unit: ratio.,v3,-1
+developmental time,mean duration of life stage,days,Trait: developmental time. Definition: mean duration of life stage. Unit: days.,v3,15
+longevity,mean duration of life,days,Trait: longevity. Definition: mean duration of life. Unit: days.,v3,16
+fecundity,mean lifetime total number of nymphs,progeny individual-1,Trait: fecundity. Definition: mean lifetime total number of nymphs. Unit: progeny individual-1.,v3,4
+mortality,mean percent not surviving life stage,percent,Trait: mortality. Definition: mean percent not surviving life stage. Unit: percent.,v3,16
+sex ratio,ratio of male psyllids to female psyllids,ratio,Trait: sex ratio. Definition: ratio of male psyllids to female psyllids. Unit: ratio.,v3,-1
+head capsule width,mean width of head capsule,mm,Trait: head capsule width. Definition: mean width of head capsule. Unit: mm.,v3,-1
+fecundity,mean liftetime eggs,eggs individual-1,Trait: fecundity. Definition: mean liftetime eggs. Unit: eggs individual-1.,v3,4
+cold hardiness,percent of eggs hatched after being exposed to freezing temperatures for a given duration of time,percent,Trait: cold hardiness. Definition: percent of eggs hatched after being exposed to freezing temperatures for a given duration of time. Unit: percent.,v3,-1
+temperature thresholds for oviposition,number of psyllid eggs laid over a 48 hour period at temperatures at which female psyllids were held,number of eggs,Trait: temperature thresholds for oviposition. Definition: number of psyllid eggs laid over a 48 hour period at temperatures at which female psyllids were held. Unit: number of eggs.,v3,-1
+mortality rate,inverse of mean longevity,days-1,Trait: mortality rate. Definition: inverse of mean longevity. Unit: days-1.,v3,-1
+fecundity,mean lifetime progeny,progeny individual-1,Trait: fecundity. Definition: mean lifetime progeny. Unit: progeny individual-1.,v3,4
+longevity,percent not surviving life stage,days,Trait: longevity. Definition: percent not surviving life stage. Unit: days.,v3,16
+fecundity rate,mean progeny per unit time,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean progeny per unit time. Unit: progeny individual-1 day-1.,v3,4
+reproductive and post-reproductive periods,mean duration of life stage,days,Trait: reproductive and post-reproductive periods. Definition: mean duration of life stage. Unit: days.,v3,14
+age at first reproduction,mean duration of life stage,days,Trait: age at first reproduction. Definition: mean duration of life stage. Unit: days.,v3,14
+life cycle,mean duration of entire life cycle,days,Trait: life cycle. Definition: mean duration of entire life cycle. Unit: days.,v3,-1
+age at first reproduction,mean duration from birth to onset of reproduction,days,Trait: age at first reproduction. Definition: mean duration from birth to onset of reproduction. Unit: days.,v3,14
+fecundity rate,mean maximum progeny per unit time,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean maximum progeny per unit time. Unit: progeny individual-1 day-1.,v3,4
+development rate,replicate-level mean rate of life stage completion,days-1,Trait: development rate. Definition: replicate-level mean rate of life stage completion. Unit: days-1.,v3,15
+development time,mean duration of juvenile stages and from adult emergence to the onset of reproduction,days,Trait: development time. Definition: mean duration of juvenile stages and from adult emergence to the onset of reproduction. Unit: days.,v3,15
+fecundity rate,maximum number of offspring per female per day,nymphs individual-1 day-1,Trait: fecundity rate. Definition: maximum number of offspring per female per day. Unit: nymphs individual-1 day-1.,v3,4
+fecundity rate,mean number of nymphs per day per female,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean number of nymphs per day per female. Unit: progeny individual-1 day-1.,v3,4
+development rate,inverse of the mean duration of life stage,days-1,Trait: development rate. Definition: inverse of the mean duration of life stage. Unit: days-1.,v3,15
+fecundity,mean duration of life stage,progeny individual-1,Trait: fecundity. Definition: mean duration of life stage. Unit: progeny individual-1.,v3,4
+age at first reproduction,mean age at the onset of reproduction,days,Trait: age at first reproduction. Definition: mean age at the onset of reproduction. Unit: days.,v3,14
+post-reproductive period,mean duration of life stage,days,Trait: post-reproductive period. Definition: mean duration of life stage. Unit: days.,v3,14
+growth rate,mean relative growth rate (ln(adult moult weight (ug)) - ln(birth wt (ug))/development time),ug ug-1 day-1,Trait: growth rate. Definition: mean relative growth rate (ln(adult moult weight (ug)) - ln(birth wt (ug))/development time). Unit: ug ug-1 day-1.,v3,-1
+body length,replicate-level mean body length,mm,Trait: body length. Definition: replicate-level mean body length. Unit: mm.,v3,-1
+fecundity rate,maximum progeny per unit time,progeny individual-1 day-1,Trait: fecundity rate. Definition: maximum progeny per unit time. Unit: progeny individual-1 day-1.,v3,4
+effective fecundity,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,nymphs unit time-1,Trait: effective fecundity. Definition: mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time. Unit: nymphs unit time-1.,v3,4
+body size (alate),mean wet mass,mg,Trait: body size (alate). Definition: mean wet mass. Unit: mg.,v3,7
+body size (apterous),mean wet mass,mg,Trait: body size (apterous). Definition: mean wet mass. Unit: mg.,v3,7
+maximum fecundity,mean duration from onset of reproduction to maximum reproductive output,days,Trait: maximum fecundity. Definition: mean duration from onset of reproduction to maximum reproductive output. Unit: days.,v3,4
+fecundity rate,mean duration of life stage,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean duration of life stage. Unit: progeny individual-1 day-1.,v3,4
+pre-reproductive period,mean rate of life stage completion,days,Trait: pre-reproductive period. Definition: mean rate of life stage completion. Unit: days.,v3,14
+reproductive period,mean rate of life stage completion,days,Trait: reproductive period. Definition: mean rate of life stage completion. Unit: days.,v3,14
+post-reproductive period,mean rate of life stage completion,days,Trait: post-reproductive period. Definition: mean rate of life stage completion. Unit: days.,v3,14
+longevity,mean rate of life stage completion,days,Trait: longevity. Definition: mean rate of life stage completion. Unit: days.,v3,16
+body size (alate nymph),mean wet mass,days,Trait: body size (alate nymph). Definition: mean wet mass. Unit: days.,v3,-1
+body size (apterous nymph),mean wet mass,days,Trait: body size (apterous nymph). Definition: mean wet mass. Unit: days.,v3,7
+fecundity (alate),mean lifetime offspring,days,Trait: fecundity (alate). Definition: mean lifetime offspring. Unit: days.,v3,4
+fecundity (apterous),mean lifetime offspring,days,Trait: fecundity (apterous). Definition: mean lifetime offspring. Unit: days.,v3,4
+development time,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,days,Trait: development time. Definition: mean duration of life stage as a function of rearing food type (secondstressor) and temperature. Unit: days.,v3,15
+longevity,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,days,Trait: longevity. Definition: mean duration of life stage as a function of rearing food type (secondstressor) and temperature. Unit: days.,v3,16
+fecundity,mean population-level offspring (100 individuals),days,Trait: fecundity. Definition: mean population-level offspring (100 individuals). Unit: days.,v3,4
+longevity,mean duration of adult lifespan as a function of temperature and the number of instars completed prior to reproductive adulthood (secondstressor),days,Trait: longevity. Definition: mean duration of adult lifespan as a function of temperature and the number of instars completed prior to reproductive adulthood (secondstressor). Unit: days.,v3,16
+fecundity,total population-level number of offspring produced,offspring,Trait: fecundity. Definition: total population-level number of offspring produced. Unit: offspring.,v3,4
+body size (length),mean body length,mm,Trait: body size (length). Definition: mean body length. Unit: mm.,v3,6
+fecundity rate,mean offspring per reproduction day,offspring individual-1 day-1,Trait: fecundity rate. Definition: mean offspring per reproduction day. Unit: offspring individual-1 day-1.,v3,4
+fecundity,mean lifetime progeny per female,progeny individual-1,Trait: fecundity. Definition: mean lifetime progeny per female. Unit: progeny individual-1.,v3,4
+body size (length),mean body length (adult),mm,Trait: body size (length). Definition: mean body length (adult). Unit: mm.,v3,6
+body size (mass),mean wet mass,mg,Trait: body size (mass). Definition: mean wet mass. Unit: mg.,v3,7
+fecundity rate (apterous),mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate (apterous). Definition: mean offspring per unit time. Unit: offspring individual-1 day-1.,v3,4
+fecundity rate (alate),mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate (alate). Definition: mean offspring per unit time. Unit: offspring individual-1 day-1.,v3,4
+longevity (apterous),mean duration of life stage,days,Trait: longevity (apterous). Definition: mean duration of life stage. Unit: days.,v3,16
+longevity (alate),mean duration of life stage,days,Trait: longevity (alate). Definition: mean duration of life stage. Unit: days.,v3,16
+development duration,period at 4th instar,days,Trait: development duration. Definition: period at 4th instar. Unit: days.,v3,-1
+fertility,number of offspring produced,number of offspring,Trait: fertility. Definition: number of offspring produced. Unit: number of offspring.,v3,4
+oviposition,period of oviposition in days,days,Trait: oviposition. Definition: period of oviposition in days. Unit: days.,v3,14
+adult longevity,lifespan over time,days,Trait: adult longevity. Definition: lifespan over time. Unit: days.,v3,16
+pre-reproductive period,period of time before female aphids reproduce,days,Trait: pre-reproductive period. Definition: period of time before female aphids reproduce. Unit: days.,v3,-1
+reproductive period,period of time where female aphids reproduce,days,Trait: reproductive period. Definition: period of time where female aphids reproduce. Unit: days.,v3,-1
+nymph production,number of nymphs produced / female,number of nymphs produced / female,Trait: nymph production. Definition: number of nymphs produced / female. Unit: number of nymphs produced / female.,v3,-1
+longevity,aphid lifespan,days,Trait: longevity. Definition: aphid lifespan. Unit: days.,v3,13
+longevity,lifespan of aphids,days,Trait: longevity. Definition: lifespan of aphids. Unit: days.,v3,13
+fecundity,mean of daily newborn nymph counts,mean number of nymphs,Trait: fecundity. Definition: mean of daily newborn nymph counts. Unit: mean number of nymphs.,v3,4
+pre-reproduction period,duration of developmental phases in days,days,Trait: pre-reproduction period. Definition: duration of developmental phases in days. Unit: days.,v3,14
+reproduction period,duration of developmental phases in days,days,Trait: reproduction period. Definition: duration of developmental phases in days. Unit: days.,v3,14
+post-reproduction period,duration of developmental phases in days,days,Trait: post-reproduction period. Definition: duration of developmental phases in days. Unit: days.,v3,14
+survival,cumulative daily survival,lx,Trait: survival. Definition: cumulative daily survival. Unit: lx.,v3,-1
+average daily fecundity,daily fecundity of female aphids,mx,Trait: average daily fecundity. Definition: daily fecundity of female aphids. Unit: mx.,v3,4
+development time,nymphal development time,days,Trait: development time. Definition: nymphal development time. Unit: days.,v3,15
+adult longevity,period from adult emergence until death,days,Trait: adult longevity. Definition: period from adult emergence until death. Unit: days.,v3,-1
+mean fecundity,number of nymphs deposited,oviparae/gynoparae,Trait: mean fecundity. Definition: number of nymphs deposited. Unit: oviparae/gynoparae.,v3,4
+percent survival,percent of adult aphids that were still alive each day,percent,Trait: percent survival. Definition: percent of adult aphids that were still alive each day. Unit: percent.,v3,-1
+longevity,adult aphid survival,days,Trait: longevity. Definition: adult aphid survival. Unit: days.,v3,13
+age-specific daily fecundity,new nymphs produced each day,mean number of nymphs,Trait: age-specific daily fecundity. Definition: new nymphs produced each day. Unit: mean number of nymphs.,v3,4
+feeding behavior,initiation of stylet penetration of leaf tissue,percent,Trait: feeding behavior. Definition: initiation of stylet penetration of leaf tissue. Unit: percent.,v3,-1
+developmental time,number of days at each developmental stage,days,Trait: developmental time. Definition: number of days at each developmental stage. Unit: days.,v3,15
+mean longevity,mean lifespan in days,days,Trait: mean longevity. Definition: mean lifespan in days. Unit: days.,v3,16
+mean fecundity,mean number of offspring produced by females,female/female,Trait: mean fecundity. Definition: mean number of offspring produced by females. Unit: female/female.,v3,4
+Pre-reproductive average,Period from birth until first molt,days,Trait: Pre-reproductive average. Definition: Period from birth until first molt. Unit: days.,v3,-1
+Reproductive average,Period from the adult stage (genital plate appeared and the complete development of the cauda) until the end of reproduction,days,Trait: Reproductive average. Definition: Period from the adult stage (genital plate appeared and the complete development of the cauda) until the end of reproduction. Unit: days.,v3,-1
+Reproductive average daily fecundity,the number of newborn nymphs (N1) per female per day,nymphs per day,Trait: Reproductive average daily fecundity. Definition: the number of newborn nymphs (N1) per female per day. Unit: nymphs per day.,v3,4
+Reproductive average total fecundity,the number of newborn nymphs (N1) per female,nymphs,Trait: Reproductive average total fecundity. Definition: the number of newborn nymphs (N1) per female. Unit: nymphs.,v3,4
+Post-reproductive average,period from the end of reproduction until death,days,Trait: Post-reproductive average. Definition: period from the end of reproduction until death. Unit: days.,v3,-1
+Longevity,"sum of all life stage periods in study (pre-reproductive, reproductive, and post-reproductive)",days,"Trait: Longevity. Definition: sum of all life stage periods in study (pre-reproductive, reproductive, and post-reproductive). Unit: days.",v3,16
+development time,mean nymphal development time,days,Trait: development time. Definition: mean nymphal development time. Unit: days.,v3,15
+adult longevity,lifespan of adult aphids,days,Trait: adult longevity. Definition: lifespan of adult aphids. Unit: days.,v3,13
+aphid longevity,lifespan of aphids,days,Trait: aphid longevity. Definition: lifespan of aphids. Unit: days.,v3,13
+fecundity,number of aphids produced,number of offspring,Trait: fecundity. Definition: number of aphids produced. Unit: number of offspring.,v3,4
+body size,mean of weight (unfed),mg,Trait: body size. Definition: mean of weight (unfed). Unit: mg.,v3,7
+body size,mean of weight (engorged),mg,Trait: body size. Definition: mean of weight (engorged). Unit: mg.,v3,7
+hypostome length,mean length of hypostome (appendage on the mouth),mm,Trait: hypostome length. Definition: mean length of hypostome (appendage on the mouth). Unit: mm.,v3,-1
+body length,mean length (unfed ),mm,Trait: body length. Definition: mean length (unfed ). Unit: mm.,v3,6
+body length,mean length (engorged ),mm,Trait: body length. Definition: mean length (engorged ). Unit: mm.,v3,6
+body width,mean width (unfed),mm,Trait: body width. Definition: mean width (unfed). Unit: mm.,v3,6
+body width,mean width (engorged),mm,Trait: body width. Definition: mean width (engorged). Unit: mm.,v3,-1
+development time,mean duration of incubation period,days,Trait: development time. Definition: mean duration of incubation period. Unit: days.,v3,15
+development time,mean duration of attachment period,days,Trait: development time. Definition: mean duration of attachment period. Unit: days.,v3,15
+development time,mean duration of premoulting period,days,Trait: development time. Definition: mean duration of premoulting period. Unit: days.,v3,15
+feeding period,mean duration of feeding period,days,Trait: feeding period. Definition: mean duration of feeding period. Unit: days.,v3,-1
+preoviposition period,mean days in preoviposition,days,Trait: preoviposition period. Definition: mean days in preoviposition. Unit: days.,v3,14
+longevity,individual-level duration of adult female life stage,days,Trait: longevity. Definition: individual-level duration of adult female life stage. Unit: days.,v3,16
+preoviposition period,individual-level duration of prereproductive period (end of feeding until oviposition),days,Trait: preoviposition period. Definition: individual-level duration of prereproductive period (end of feeding until oviposition). Unit: days.,v3,14
+ovipositional period,individual-level duration of reproductive period,days,Trait: ovipositional period. Definition: individual-level duration of reproductive period. Unit: days.,v3,14
+fecundity rate,maximum number of eggs produced in a single day by an individual female,eggs individual-1 day-1,Trait: fecundity rate. Definition: maximum number of eggs produced in a single day by an individual female. Unit: eggs individual-1 day-1.,v3,4
+peak fecundity,day post engorgement on which an individual female laid most eggs,days,Trait: peak fecundity. Definition: day post engorgement on which an individual female laid most eggs. Unit: days.,v3,-1
+body size,mean wet mass of an individual tick post engorgement,mg,Trait: body size. Definition: mean wet mass of an individual tick post engorgement. Unit: mg.,v3,7
+survival rate,percentage of starved larval ticks that survived to the days listed,percent,Trait: survival rate. Definition: percentage of starved larval ticks that survived to the days listed. Unit: percent.,v3,18
+survival time,mean survival time of fasting nymphs,days,Trait: survival time. Definition: mean survival time of fasting nymphs. Unit: days.,v3,9
+Pre-Oviposition Period,Pre-oviposition period of ticks held at constant temperature,days,Trait: Pre-Oviposition Period. Definition: Pre-oviposition period of ticks held at constant temperature. Unit: days.,v3,-1
+Oviposition Rate,mean number of eggs per female,eggs,Trait: Oviposition Rate. Definition: mean number of eggs per female. Unit: eggs.,v3,-1
+Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,Trait: Weight. Definition: Weight of eggs laid by an individual engorged female raised at constant temp. Unit: g.,v3,-1
+Weight,Weight of an individual engorged female in grams held at constant temperature,g,Trait: Weight. Definition: Weight of an individual engorged female in grams held at constant temperature. Unit: g.,v3,-1
+Weight,mean weight of larvae during their feeding period,mg,Trait: Weight. Definition: mean weight of larvae during their feeding period. Unit: mg.,v3,7
+Weight,mean weight of nymphs during their feeding period,mg,Trait: Weight. Definition: mean weight of nymphs during their feeding period. Unit: mg.,v3,7
+Weight,mean weight of engorged nymphs moulting to males,mg,Trait: Weight. Definition: mean weight of engorged nymphs moulting to males. Unit: mg.,v3,7
+Incubation Period,Incubation period of ticks held at constant temperature,days,Trait: Incubation Period. Definition: Incubation period of ticks held at constant temperature. Unit: days.,v3,-1
+Molting Period,number of days required for an individual engorged nymph to molt into an adult,days,Trait: Molting Period. Definition: number of days required for an individual engorged nymph to molt into an adult. Unit: days.,v3,-1
+Feeding Period,number of days required for nymphs to fully engorge,days,Trait: Feeding Period. Definition: number of days required for nymphs to fully engorge. Unit: days.,v3,-1
+Feeding Period of Nymphs (Days),number of days required for nymphs to fully engorge,days,Trait: Feeding Period of Nymphs (Days). Definition: number of days required for nymphs to fully engorge. Unit: days.,v3,-1
+incubation period,mean Incubation Period in days from egg to larvae at constant temps,days,Trait: incubation period. Definition: mean Incubation Period in days from egg to larvae at constant temps. Unit: days.,v3,11
+feeding period,mean Feeding Period in days at larval state at constant temps,days,Trait: feeding period. Definition: mean Feeding Period in days at larval state at constant temps. Unit: days.,v3,-1
+premolting period,mean Premolting Period in days at larval state at const temps,days,Trait: premolting period. Definition: mean Premolting Period in days at larval state at const temps. Unit: days.,v3,20
+feeding period,mean Feeding Period in days at nymph state at constant temps,days,Trait: feeding period. Definition: mean Feeding Period in days at nymph state at constant temps. Unit: days.,v3,19
+premolting period,mean Premolting Period in days at nymph state at constant temps,days,Trait: premolting period. Definition: mean Premolting Period in days at nymph state at constant temps. Unit: days.,v3,20
+feeding period,mean Feeding Period in days at adult female state at const temps,days,Trait: feeding period. Definition: mean Feeding Period in days at adult female state at const temps. Unit: days.,v3,-1
+preoviposition period,mean Preoviposition Period in days at adult female state at const temps,days,Trait: preoviposition period. Definition: mean Preoviposition Period in days at adult female state at const temps. Unit: days.,v3,14
+oviposition period,mean Oviposition Period in days at adult female state at const temps,days,Trait: oviposition period. Definition: mean Oviposition Period in days at adult female state at const temps. Unit: days.,v3,14
+weight,Mean weight on day of hatching,ug,Trait: weight. Definition: Mean weight on day of hatching. Unit: ug.,v3,8
+weight,Mean weight 14 days after hatching,ug,Trait: weight. Definition: Mean weight 14 days after hatching. Unit: ug.,v3,7
+weight,Mean weight on day of engorgement,ug,Trait: weight. Definition: Mean weight on day of engorgement. Unit: ug.,v3,7
+weight loss,Percentage loss in body weight during larval prefeeding period,percent,Trait: weight loss. Definition: Percentage loss in body weight during larval prefeeding period. Unit: percent.,v3,3
+weight loss,Percentage loss in body weight during larval molting period,percent,Trait: weight loss. Definition: Percentage loss in body weight during larval molting period. Unit: percent.,v3,3
+weight loss,Percentage loss in body weight during nymphal prefeeding period,percent,Trait: weight loss. Definition: Percentage loss in body weight during nymphal prefeeding period. Unit: percent.,v3,3
+weight loss,Percentage loss in body weight during nymphal molting period,percent,Trait: weight loss. Definition: Percentage loss in body weight during nymphal molting period. Unit: percent.,v3,3
+weight loss,Percentage loss in body weight during female prefeeding period,percent,Trait: weight loss. Definition: Percentage loss in body weight during female prefeeding period. Unit: percent.,v3,-1
+weight,"Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity""",mg,"Trait: weight. Definition: Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity"". Unit: mg.",v3,5
+weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,Trait: weight. Definition: Weight of undisturbed female Hyalomma impeltatum after molting. Unit: mg.,v3,5
+weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,Trait: weight. Definition: Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt). Unit: mg.,v3,5
+weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,Trait: weight. Definition: Weight of undisturbed female Hyalomma impeltatum after engorgement. Unit: mg.,v3,5
+weight,Mean egg mass,mg,Trait: weight. Definition: Mean egg mass. Unit: mg.,v3,8
+Efficency,Percent weight transfered from engorged female at constant temperature to mass of eggs,percent,Trait: Efficency. Definition: Percent weight transfered from engorged female at constant temperature to mass of eggs. Unit: percent.,v3,1
+Weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,Trait: Weight. Definition: Weight of undisturbed female Hyalomma impeltatum after molting. Unit: mg.,v3,5
+Weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,Trait: Weight. Definition: Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt). Unit: mg.,v3,5
+Weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,Trait: Weight. Definition: Weight of undisturbed female Hyalomma impeltatum after engorgement. Unit: mg.,v3,5
+egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,Trait: egg mass. Definition: Mean egg mass by oviposition day of females raised at constant temps. Unit: mg.,v3,8
+preoviposition period,mean time required for an engorged female tick to begin laying eggs,days,Trait: preoviposition period. Definition: mean time required for an engorged female tick to begin laying eggs. Unit: days.,v3,14
+incubation period,mean time required for an egg to hatch (from time of completion of egg deposition to eclosion of first larva),days,Trait: incubation period. Definition: mean time required for an egg to hatch (from time of completion of egg deposition to eclosion of first larva). Unit: days.,v3,11
+hardening period,mean time for a tick to become hardened,days,Trait: hardening period. Definition: mean time for a tick to become hardened. Unit: days.,v3,-1
+feeding period,mean time required for nymphs to feed,days,Trait: feeding period. Definition: mean time required for nymphs to feed. Unit: days.,v3,19
+moulting period,mean time required for nymphs to moult,days,Trait: moulting period. Definition: mean time required for nymphs to moult. Unit: days.,v3,20
+engorgement period,mean time required for females to become engorged,days,Trait: engorgement period. Definition: mean time required for females to become engorged. Unit: days.,v3,-1
+body size,mean weight of engorged tick,mg,Trait: body size. Definition: mean weight of engorged tick. Unit: mg.,v3,7
+egg mass,mean weight of eggs,mg,Trait: egg mass. Definition: mean weight of eggs. Unit: mg.,v3,8
+egg count,mean number of eggs layed,mg,Trait: egg count. Definition: mean number of eggs layed. Unit: mg.,v3,-1
+body size,mean weight of engored nymphs,mg,Trait: body size. Definition: mean weight of engored nymphs. Unit: mg.,v3,7
+hatchability,the percent of laid eggs that successfully hatched,percent,Trait: hatchability. Definition: the percent of laid eggs that successfully hatched. Unit: percent.,v3,12
+conversion efficiency,the ratio of laid eggs to engorged female body mass calculated as the sum of all eggs laid divided by the sum of all females laying eggs,ratio,Trait: conversion efficiency. Definition: the ratio of laid eggs to engorged female body mass calculated as the sum of all eggs laid divided by the sum of all females laying eggs. Unit: ratio.,v3,1
+survival time,mean time for egg survival,days,Trait: survival time. Definition: mean time for egg survival. Unit: days.,v3,9
+survival time,mean time for unfed larva survival,days,Trait: survival time. Definition: mean time for unfed larva survival. Unit: days.,v3,9
+survival time,mean time for engorged nymph survival,days,Trait: survival time. Definition: mean time for engorged nymph survival. Unit: days.,v3,9
+survival time,mean time for unfed adult survival,days,Trait: survival time. Definition: mean time for unfed adult survival. Unit: days.,v3,9
+survival time,mean time for engorged adult survival,days,Trait: survival time. Definition: mean time for engorged adult survival. Unit: days.,v3,9
+survival rate,percentage of unfed adults that survive,percent,Trait: survival rate. Definition: percentage of unfed adults that survive. Unit: percent.,v3,-1
+survival rate,percentage of ticks that survived at 5 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 5 degrees celcius. Unit: percent.,v3,18
+survival rate,percentage of ticks that survived at 17 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 17 degrees celcius. Unit: percent.,v3,18
+survival rate,percentage of ticks that survived at 24 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 24 degrees celcius. Unit: percent.,v3,18
+survival rate,percentage of ticks that survived at 30 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 30 degrees celcius. Unit: percent.,v3,18
+percent moult,percentage moulted engorged on calves,days,Trait: percent moult. Definition: percentage moulted engorged on calves. Unit: days.,v3,-1
+premolting period,average pre-moulting period engorged on calves,days,Trait: premolting period. Definition: average pre-moulting period engorged on calves. Unit: days.,v3,-1
+survival time,average number of days unfed nymphs survived,days,Trait: survival time. Definition: average number of days unfed nymphs survived. Unit: days.,v3,9
+percent moult,percentage moulted engorged on rabbits,percent,Trait: percent moult. Definition: percentage moulted engorged on rabbits. Unit: percent.,v3,-1
+engorgement period,average duration of engorgement on calves,days,Trait: engorgement period. Definition: average duration of engorgement on calves. Unit: days.,v3,-1
+engorgement period,average duration of engorgement on rabbits,days,Trait: engorgement period. Definition: average duration of engorgement on rabbits. Unit: days.,v3,-1
+hatchability,percent of eggs successfully hatching based on the day of oviposition during which it was laid,percent,Trait: hatchability. Definition: percent of eggs successfully hatching based on the day of oviposition during which it was laid. Unit: percent.,v3,12
+feeding time,time required for larval ticks to reach engorgement post attachment,days,Trait: feeding time. Definition: time required for larval ticks to reach engorgement post attachment. Unit: days.,v3,-1
+molting period,time required for engorged larval ticks to molt,days,Trait: molting period. Definition: time required for engorged larval ticks to molt. Unit: days.,v3,-1
+survival rate,percentage of larval ticks that molted following engorgement,percent,Trait: survival rate. Definition: percentage of larval ticks that molted following engorgement. Unit: percent.,v3,18
+preoviposition period,mean time until onset of oviposition,days,Trait: preoviposition period. Definition: mean time until onset of oviposition. Unit: days.,v3,14
+pre hatching period,mean time until hatching,days,Trait: pre hatching period. Definition: mean time until hatching. Unit: days.,v3,-1
+hatching period,mean time from initiation to completion of hatching,days,Trait: hatching period. Definition: mean time from initiation to completion of hatching. Unit: days.,v3,12
+egg conversion ratio,mean weight of eggs / mean weight of engorged females,percent,Trait: egg conversion ratio. Definition: mean weight of eggs / mean weight of engorged females. Unit: percent.,v3,1
+hatchability,percent surviving life stage,percent,Trait: hatchability. Definition: percent surviving life stage. Unit: percent.,v3,12
+questing,mean percent of ticks questing,percent,Trait: questing. Definition: mean percent of ticks questing. Unit: percent.,v3,-1
+preoviposition,Mean preoviposition period in days,days,Trait: preoviposition. Definition: Mean preoviposition period in days. Unit: days.,v3,14
+oviposition,Mean ovipostion period in days,days,Trait: oviposition. Definition: Mean ovipostion period in days. Unit: days.,v3,14
+conversion efficiency,Mean index of conversion efficiency- (cumulative egg weight (g)/ replete female tick wt (g) )*100,percent,Trait: conversion efficiency. Definition: Mean index of conversion efficiency- (cumulative egg weight (g)/ replete female tick wt (g) )*100. Unit: percent.,v3,1
+egg hatch,Mean percentage of eggs hatched,percent,Trait: egg hatch. Definition: Mean percentage of eggs hatched. Unit: percent.,v3,12
+incubation period,mean egg incubation period,days,Trait: incubation period. Definition: mean egg incubation period. Unit: days.,v3,11
+lipid content,median proportion of lipid content of the tick- calculated by (dried weight - lipid weight) / dried weight,NA,Trait: lipid content. Definition: median proportion of lipid content of the tick- calculated by (dried weight - lipid weight) / dried weight. Unit: NA.,v3,-1
+Questing Height,questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,Trait: Questing Height. Definition: questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline. Unit: mm.,v3,-1
+Distance Traveled,Average distance covered per hour while questing,mm,Trait: Distance Traveled. Definition: Average distance covered per hour while questing. Unit: mm.,v3,-1
+Questing Time,Mean proportion of time tick seen questing (legs spread more than 50 percent) across the 38 hours,percent,Trait: Questing Time. Definition: Mean proportion of time tick seen questing (legs spread more than 50 percent) across the 38 hours. Unit: percent.,v3,-1
+Questing Height,questing height -- Average (across 43 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,Trait: Questing Height. Definition: questing height -- Average (across 43 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline. Unit: mm.,v3,-1
+Mortality Rate,number that survived the 38 hours,count,Trait: Mortality Rate. Definition: number that survived the 38 hours. Unit: count.,v3,-1
+Mortality Rate,number that survived the 43 hours,count,Trait: Mortality Rate. Definition: number that survived the 43 hours. Unit: count.,v3,-1
+Water loss,Water loss of ticks exposed to dry air for 24 hours,mg/cm2,Trait: Water loss. Definition: Water loss of ticks exposed to dry air for 24 hours. Unit: mg/cm2.,v3,-1
+Weight loss,Weight loss of ticks exposed to dry air for 24 hours,percent,Trait: Weight loss. Definition: Weight loss of ticks exposed to dry air for 24 hours. Unit: percent.,v3,-1
+Water loss,Water loss of dead engorged ticks exposed to dry air at a certain temperature for 30 mins,mg/cm2,Trait: Water loss. Definition: Water loss of dead engorged ticks exposed to dry air at a certain temperature for 30 mins. Unit: mg/cm2.,v3,-1
+Development time,Mean time from engorgement to moulting,days,Trait: Development time. Definition: Mean time from engorgement to moulting. Unit: days.,v3,15
+Mortality Rate,Percent mortality in engorged ticks before moulting,percent,Trait: Mortality Rate. Definition: Percent mortality in engorged ticks before moulting. Unit: percent.,v3,-1
+Oviposition Period,Oviposition Period 1/period(day) in engorged females,days-1,Trait: Oviposition Period. Definition: Oviposition Period 1/period(day) in engorged females. Unit: days-1.,v3,14
+Pre-Oviposition Period in engorged females,Pre-Oviposition Period in engorged females,days-1,Trait: Pre-Oviposition Period in engorged females. Definition: Pre-Oviposition Period in engorged females. Unit: days-1.,v3,-1
+Development Rate (Egg),1 / time for egg incubation across const temps,days-1,Trait: Development Rate (Egg). Definition: 1 / time for egg incubation across const temps. Unit: days-1.,v3,-1
+Development Rate (Larva),1 / development time of Engorged Larva,days-1,Trait: Development Rate (Larva). Definition: 1 / development time of Engorged Larva. Unit: days-1.,v3,-1
+Development Rate (Nymph),1 / development time of Engorged Nymph,days-1,Trait: Development Rate (Nymph). Definition: 1 / development time of Engorged Nymph. Unit: days-1.,v3,-1
+preoviposition period,Mean Pre-Oviposition Period,days,Trait: preoviposition period. Definition: Mean Pre-Oviposition Period. Unit: days.,v3,14
+incubation period,Mean Incubation Period,days,Trait: incubation period. Definition: Mean Incubation Period. Unit: days.,v3,11
+oviposition,daily average number of eggs / female,eggs,Trait: oviposition. Definition: daily average number of eggs / female. Unit: eggs.,v3,-1
+Body Mass,Weight of an individual engorged female,mg,Trait: Body Mass. Definition: Weight of an individual engorged female. Unit: mg.,v3,7
+Egg Mass,Weight of eggs laid by an individual female,mg,Trait: Egg Mass. Definition: Weight of eggs laid by an individual female. Unit: mg.,v3,8
+Body Mass,mean daily weight of larvae during their feeding periods,mg,Trait: Body Mass. Definition: mean daily weight of larvae during their feeding periods. Unit: mg.,v3,7
+Body Mass,mean daily weight of nymphs during their pharate periods,mg,Trait: Body Mass. Definition: mean daily weight of nymphs during their pharate periods. Unit: mg.,v3,7
+Body Mass,mean daily weight of nymphs during their feeding periods,mg,Trait: Body Mass. Definition: mean daily weight of nymphs during their feeding periods. Unit: mg.,v3,7
+Development Rate,percent of immature stages remaining x days after attatchment,percent,Trait: Development Rate. Definition: percent of immature stages remaining x days after attatchment. Unit: percent.,v3,-1
+Development Rate,Percent of emerging males who develop on day X after attatchment (premolt period),percent,Trait: Development Rate. Definition: Percent of emerging males who develop on day X after attatchment (premolt period). Unit: percent.,v3,-1
+Development Rate,Percent of emerging females who develop on day X after attatchment (premolt period),percent,Trait: Development Rate. Definition: Percent of emerging females who develop on day X after attatchment (premolt period). Unit: percent.,v3,-1

@@ -1,0 +1,268 @@
+trait_category,OriginalTraitName,OriginalTraitDef,ground_truth_source
+Body mass / weight,Body Mass,Weight of an individual engorged female,body_size_tracking.csv
+Body mass / weight,Body Mass,mean daily weight of larvae during their feeding periods,body_size_tracking.csv
+Body mass / weight,Body Mass,mean daily weight of nymphs during their feeding periods,body_size_tracking.csv
+Body mass / weight,Body Mass,mean daily weight of nymphs during their pharate periods,body_size_tracking.csv
+Body mass / weight,Weight,Weight of an individual engorged female in grams held at constant temperature,body_size_tracking.csv
+Body mass / weight,Weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,body_size_tracking.csv
+Body mass / weight,Weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),body_size_tracking.csv
+Body mass / weight,Weight,Weight of undisturbed female Hyalomma impeltatum after molting,body_size_tracking.csv
+Body mass / weight,Weight,mean weight of engorged nymphs moulting to males,body_size_tracking.csv
+Body mass / weight,Weight,mean weight of larvae during their feeding period,body_size_tracking.csv
+Body mass / weight,Weight,mean weight of nymphs during their feeding period,body_size_tracking.csv
+Body mass / weight,body mass,mean weight of female,body_size_tracking.csv
+Body mass / weight,body size,dry mass,body_size_tracking.csv
+Body mass / weight,body size,individual-level mass,body_size_tracking.csv
+Body mass / weight,body size,individual-level wet mass,body_size_tracking.csv
+Body mass / weight,body size,mean body weight,body_size_tracking.csv
+Body mass / weight,body size,mean body weight of engorged adult females,body_size_tracking.csv
+Body mass / weight,body size,mean dry mass,body_size_tracking.csv
+Body mass / weight,body size,mean dry mass. relationship between dry mass and wing length,body_size_tracking.csv
+Body mass / weight,body size,mean of weight (engorged),body_size_tracking.csv
+Body mass / weight,body size,mean of weight (unfed),body_size_tracking.csv
+Body mass / weight,body size,mean weight of engored nymphs,body_size_tracking.csv
+Body mass / weight,body size,mean weight of engorged tick,body_size_tracking.csv
+Body mass / weight,body size,mean weight of nymphs post-feeding,body_size_tracking.csv
+Body mass / weight,body size,mean wet mass,body_size_tracking.csv
+Body mass / weight,body size,mean wet mass (waxless and gravid),body_size_tracking.csv
+Body mass / weight,body size,mean wet mass of an individual tick post engorgement,body_size_tracking.csv
+Body mass / weight,body size,mean wet mass on the day feeding was completed,body_size_tracking.csv
+Body mass / weight,body size,mean wet mass on the day feeding was completed (engorged),body_size_tracking.csv
+Body mass / weight,body size (alate nymph),mean wet mass,body_size_tracking.csv
+Body mass / weight,body size (alate),mean wet mass,body_size_tracking.csv
+Body mass / weight,body size (apterous nymph),mean wet mass,body_size_tracking.csv
+Body mass / weight,body size (apterous),mean wet mass,body_size_tracking.csv
+Body mass / weight,body size (mass),mean wet mass,body_size_tracking.csv
+Body mass / weight,weight,Mean weight 14 days after hatching,body_size_tracking.csv
+Body mass / weight,weight,Mean weight on day of engorgement,body_size_tracking.csv
+Body mass / weight,weight,Mean weight on day of hatching,body_size_tracking.csv
+Body mass / weight,weight,"Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity""",body_size_tracking.csv
+Body mass / weight,weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,body_size_tracking.csv
+Body mass / weight,weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),body_size_tracking.csv
+Body mass / weight,weight,Weight of undisturbed female Hyalomma impeltatum after molting,body_size_tracking.csv
+Development rate,Development Rate,Percent of emerging females who develop on day X after attatchment (premolt period),additional_trait_ground_truth.csv
+Development rate,Development Rate,Percent of emerging males who develop on day X after attatchment (premolt period),additional_trait_ground_truth.csv
+Development rate,Development Rate,percent of immature stages remaining x days after attatchment,additional_trait_ground_truth.csv
+Development rate,Development Rate (Egg),1 / time for egg incubation across const temps,additional_trait_ground_truth.csv
+Development rate,Development Rate (Larva),1 / development time of Engorged Larva,additional_trait_ground_truth.csv
+Development rate,Development Rate (Nymph),1 / development time of Engorged Nymph,additional_trait_ground_truth.csv
+Development rate,development rate,individual-level rate of life stage completion,additional_trait_ground_truth.csv
+Development rate,development rate,inverse of the mean duration of life stage,additional_trait_ground_truth.csv
+Development rate,development rate,mean development rate per day,additional_trait_ground_truth.csv
+Development rate,development rate,mean duration of life stage,additional_trait_ground_truth.csv
+Development rate,development rate,mean rate of life stage completion,additional_trait_ground_truth.csv
+Development rate,development rate,rate of life stage completion,additional_trait_ground_truth.csv
+Development rate,development rate,replicate-level mean rate of life stage completion,additional_trait_ground_truth.csv
+Development time,Development time,Mean time from engorgement to moulting,additional_trait_ground_truth.csv
+Development time,development duration,period at 4th instar,additional_trait_ground_truth.csv
+Development time,development time,duration of life stage,additional_trait_ground_truth.csv
+Development time,development time,individual-level duration of life stage,additional_trait_ground_truth.csv
+Development time,development time,mean duration for 50 percent of eggs to hatch,additional_trait_ground_truth.csv
+Development time,development time,mean duration for egg development,additional_trait_ground_truth.csv
+Development time,development time,mean duration from when eggs were deposited to hatch,additional_trait_ground_truth.csv
+Development time,development time,mean duration of attachment period,additional_trait_ground_truth.csv
+Development time,development time,mean duration of incubation period,additional_trait_ground_truth.csv
+Development time,development time,mean duration of juvenile stages and from adult emergence to the onset of reproduction,additional_trait_ground_truth.csv
+Development time,development time,mean duration of larval attachment developmental phase,additional_trait_ground_truth.csv
+Development time,development time,mean duration of life cycle,additional_trait_ground_truth.csv
+Development time,development time,mean duration of life cycle (egg-to-egg),additional_trait_ground_truth.csv
+Development time,development time,mean duration of life stage,additional_trait_ground_truth.csv
+Development time,development time,mean duration of life stage (across all humidity levels),additional_trait_ground_truth.csv
+Development time,development time,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,additional_trait_ground_truth.csv
+Development time,development time,mean duration of premoulting period,additional_trait_ground_truth.csv
+Development time,development time,mean duration period from aphid birth to its first reproduction,additional_trait_ground_truth.csv
+Development time,development time,mean nymphal development time,additional_trait_ground_truth.csv
+Development time,development time,mean time to complete nymphal devlopment,additional_trait_ground_truth.csv
+Development time,development time,median duration for egg development,additional_trait_ground_truth.csv
+Development time,development time,median duration of life stage,additional_trait_ground_truth.csv
+Development time,development time,nymphal development time,additional_trait_ground_truth.csv
+Development time,developmental time,mean duration of life stage,additional_trait_ground_truth.csv
+Development time,developmental time,number of days at each developmental stage,additional_trait_ground_truth.csv
+Egg incubation period,Incubation Period,Incubation period of ticks held at constant temperature,additional_trait_ground_truth.csv
+Egg incubation period,incubation period,Mean Incubation Period,additional_trait_ground_truth.csv
+Egg incubation period,incubation period,mean Incubation Period in days from egg to larvae at constant temps,additional_trait_ground_truth.csv
+Egg incubation period,incubation period,mean duration from oviposition to hatching,additional_trait_ground_truth.csv
+Egg incubation period,incubation period,mean duration of egg incubation period (lay to hatching),additional_trait_ground_truth.csv
+Egg incubation period,incubation period,mean egg incubation period,additional_trait_ground_truth.csv
+Egg incubation period,incubation period,mean time required for an egg to hatch (from time of completion of egg deposition to eclosion of first larva),additional_trait_ground_truth.csv
+Egg incubation period,incubation period,median time from oviposition to hatching,additional_trait_ground_truth.csv
+Egg incubation period,incubation period,time from start of oviposition until first eggs hatched,additional_trait_ground_truth.csv
+Egg-hatching success,egg hatch,Mean percentage of eggs hatched,additional_trait_ground_truth.csv
+Egg-hatching success,egg viability,mean percentage of viable eggs produced per female,additional_trait_ground_truth.csv
+Egg-hatching success,hatch rate,mean hatching rate of egg batches,additional_trait_ground_truth.csv
+Egg-hatching success,hatch rate,percentage of egg masses producing larvae,additional_trait_ground_truth.csv
+Egg-hatching success,hatch rate,percentage of unfertilized eggs that were subsequently fertilized,additional_trait_ground_truth.csv
+Egg-hatching success,hatch ratio,hatching ratio of eggs,additional_trait_ground_truth.csv
+Egg-hatching success,hatchability,mean percentage of eggs hatching,additional_trait_ground_truth.csv
+Egg-hatching success,hatchability,percent of eggs successfully hatching based on the day of oviposition during which it was laid,additional_trait_ground_truth.csv
+Egg-hatching success,hatchability,percent surviving life stage,additional_trait_ground_truth.csv
+Egg-hatching success,hatchability,the percent of laid eggs that successfully hatched,additional_trait_ground_truth.csv
+Egg-hatching success,hatching rate,mean duration of life stage,additional_trait_ground_truth.csv
+Egg-hatching success,hatching rate,percent surviving life stage,additional_trait_ground_truth.csv
+Egg-hatching success,larval hatch rate,percentage of unfertilized eggs that were subsequently fertilized,additional_trait_ground_truth.csv
+Fecundity,Oviposition Rate,mean number of eggs per female,fecundity_tracking.csv
+Fecundity,Reproductive average daily fecundity,the number of newborn nymphs (N1) per female per day,fecundity_tracking.csv
+Fecundity,Reproductive average total fecundity,the number of newborn nymphs (N1) per female,fecundity_tracking.csv
+Fecundity,age specific fecundity,mean number of female offspring individual-1 at specific age,fecundity_tracking.csv
+Fecundity,age-specific daily fecundity,new nymphs produced each day,fecundity_tracking.csv
+Fecundity,average daily fecundity,daily fecundity of female aphids,fecundity_tracking.csv
+Fecundity,effective fecundity,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,fecundity_tracking.csv
+Fecundity,egg count,mean number of eggs layed,fecundity_tracking.csv
+Fecundity,fecundity,individual-level lifetime eggs,fecundity_tracking.csv
+Fecundity,fecundity,individual-level mean eggs per gonotrophic cycle,fecundity_tracking.csv
+Fecundity,fecundity,individual-level weight of lifetime eggs per individual,fecundity_tracking.csv
+Fecundity,fecundity,mean duration of life stage,fecundity_tracking.csv
+Fecundity,fecundity,mean eggs individual-1,fecundity_tracking.csv
+Fecundity,fecundity,mean eggs produced per plant,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime egg punctures,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime eggs,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime eggs individual-1,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime eggs laid per female,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime eggs per 10 individuals,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime eggs per individual,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime eggs per individual (across all humdity levels),fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime eggs produced by an individual female,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime nymphs individual-1,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime offspring,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime offspring as a function of size and adult and growth temperature,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime progeny,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime progeny per female,fecundity_tracking.csv
+Fecundity,fecundity,mean lifetime total number of nymphs,fecundity_tracking.csv
+Fecundity,fecundity,mean liftetime eggs,fecundity_tracking.csv
+Fecundity,fecundity,mean number of eggs per cycle,fecundity_tracking.csv
+Fecundity,fecundity,mean number of eggs per cycle (1st),fecundity_tracking.csv
+Fecundity,fecundity,mean number of female offspring individual-1,fecundity_tracking.csv
+Fecundity,fecundity,mean number of lifetime eggs by a tick,fecundity_tracking.csv
+Fecundity,fecundity,mean number of progeny in a reproductive period equal to development time,fecundity_tracking.csv
+Fecundity,fecundity,mean of daily newborn nymph counts,fecundity_tracking.csv
+Fecundity,fecundity,mean offspring per reproduction day,fecundity_tracking.csv
+Fecundity,fecundity,mean population-level offspring (100 individuals),fecundity_tracking.csv
+Fecundity,fecundity,number of aphids produced,fecundity_tracking.csv
+Fecundity,fecundity,total number of eggs produced,fecundity_tracking.csv
+Fecundity,fecundity,total population-level number of offspring produced,fecundity_tracking.csv
+Fecundity,fecundity (alate),mean lifetime offspring,fecundity_tracking.csv
+Fecundity,fecundity (apterous),mean lifetime offspring,fecundity_tracking.csv
+Fecundity,fecundity rate,maximum number of eggs produced in a single day by an individual female,fecundity_tracking.csv
+Fecundity,fecundity rate,maximum number of offspring per female per day,fecundity_tracking.csv
+Fecundity,fecundity rate,maximum progengy individual-1 day-1,fecundity_tracking.csv
+Fecundity,fecundity rate,maximum progeny per unit time,fecundity_tracking.csv
+Fecundity,fecundity rate,mean duration of life stage,fecundity_tracking.csv
+Fecundity,fecundity rate,mean eggs individual-1 day-1,fecundity_tracking.csv
+Fecundity,fecundity rate,mean eggs per unit time,fecundity_tracking.csv
+Fecundity,fecundity rate,mean eggs produced by an individual female per day,fecundity_tracking.csv
+Fecundity,fecundity rate,mean lifetime offspring,fecundity_tracking.csv
+Fecundity,fecundity rate,mean maximum progeny per unit time,fecundity_tracking.csv
+Fecundity,fecundity rate,mean number of eggs individual-1 day-1,fecundity_tracking.csv
+Fecundity,fecundity rate,mean number of nymphs per day per female,fecundity_tracking.csv
+Fecundity,fecundity rate,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,fecundity_tracking.csv
+Fecundity,fecundity rate,mean number of offspring per reproductive cycle,fecundity_tracking.csv
+Fecundity,fecundity rate,mean offspring per day,fecundity_tracking.csv
+Fecundity,fecundity rate,mean offspring per reproduction day,fecundity_tracking.csv
+Fecundity,fecundity rate,mean offspring per unit time,fecundity_tracking.csv
+Fecundity,fecundity rate,mean progeny per unit time,fecundity_tracking.csv
+Fecundity,fecundity rate,mean weight of egg mass per day,fecundity_tracking.csv
+Fecundity,fecundity rate,peak number of eggs per day per individual,fecundity_tracking.csv
+Fecundity,fecundity rate (alate),mean offspring per unit time,fecundity_tracking.csv
+Fecundity,fecundity rate (apterous),mean offspring per unit time,fecundity_tracking.csv
+Fecundity,fertility,number of offspring produced,fecundity_tracking.csv
+Fecundity,maximum fecundity,mean duration from onset of reproduction to maximum reproductive output,fecundity_tracking.csv
+Fecundity,mean fecundity,mean number of offspring produced by females,fecundity_tracking.csv
+Fecundity,mean fecundity,number of nymphs deposited,fecundity_tracking.csv
+Fecundity,nymph production,number of nymphs produced / female,fecundity_tracking.csv
+Fecundity,peak fecundity,day post engorgement on which an individual female laid most eggs,fecundity_tracking.csv
+Fecundity,reproductive capacity,mean lifetime nymphs (30 days),fecundity_tracking.csv
+Fecundity,reproductive capacity,proportion of individuals that laid eggs after first blood meal,fecundity_tracking.csv
+Linear morphometrics,body length,mean length (engorged ),body_size_tracking.csv
+Linear morphometrics,body length,mean length (unfed ),body_size_tracking.csv
+Linear morphometrics,body length,replicate-level mean body length,body_size_tracking.csv
+Linear morphometrics,body size,mean head width,body_size_tracking.csv
+Linear morphometrics,body size,mean length,body_size_tracking.csv
+Linear morphometrics,body size,mean thorax length,body_size_tracking.csv
+Linear morphometrics,body size,mean width,body_size_tracking.csv
+Linear morphometrics,body size,mean wing length,body_size_tracking.csv
+Linear morphometrics,body size,mean wing length (mm),body_size_tracking.csv
+Linear morphometrics,body size (length),mean body length,body_size_tracking.csv
+Linear morphometrics,body size (length),mean body length (adult),body_size_tracking.csv
+Linear morphometrics,body width,mean width (engorged),body_size_tracking.csv
+Linear morphometrics,body width,mean width (unfed),body_size_tracking.csv
+Linear morphometrics,head capsule width,mean width of head capsule,body_size_tracking.csv
+Linear morphometrics,hypostome length,mean length of hypostome (appendage on the mouth),body_size_tracking.csv
+Longevity / lifespan,Longevity,"sum of all life stage periods in study (pre-reproductive, reproductive, and post-reproductive)",additional_trait_ground_truth.csv
+Longevity / lifespan,adult longevity,lifespan of adult aphids,additional_trait_ground_truth.csv
+Longevity / lifespan,adult longevity,lifespan over time,additional_trait_ground_truth.csv
+Longevity / lifespan,adult longevity,period from adult emergence until death,additional_trait_ground_truth.csv
+Longevity / lifespan,aphid longevity,lifespan of aphids,additional_trait_ground_truth.csv
+Longevity / lifespan,juvenile life span,individual-level duration from hatching to death or adult eclosion,additional_trait_ground_truth.csv
+Longevity / lifespan,lifespan,mean duration of entire life,additional_trait_ground_truth.csv
+Longevity / lifespan,lifespan,mean duration of entrie lifespan (from egg to adult death),additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,adult aphid survival,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,aphid lifespan,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,duration for 50% mortality,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,individual-level duration of adult female life stage,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,individual-level duration of life stage,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,lifespan of aphids,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,mean duration of adult lifespan as a function of temperature and the number of instars completed prior to reproductive adulthood (secondstressor),additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,mean duration of life,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,mean duration of life stage,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,mean duration of life stage as a function of body size,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,mean rate of life stage completion,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,median adult lifespan,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,median duration of life stage,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity,percent not surviving life stage,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity (alate),mean duration of life stage,additional_trait_ground_truth.csv
+Longevity / lifespan,longevity (apterous),mean duration of life stage,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,average number of days unfed nymphs survived,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean survival time of fasting larvae,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean survival time of fasting nymphs,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean survival time of larvae post hatch,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean time for egg survival,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean time for engorged adult survival,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean time for engorged nymph survival,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean time for unfed adult survival,additional_trait_ground_truth.csv
+Longevity / lifespan,survival time,mean time for unfed larva survival,additional_trait_ground_truth.csv
+Pre-oviposition interval,Pre-Oviposition Period,Pre-oviposition period of ticks held at constant temperature,additional_trait_ground_truth.csv
+Pre-oviposition interval,age at first reproduction,mean age at first reproduction,additional_trait_ground_truth.csv
+Pre-oviposition interval,age at first reproduction,mean age at the onset of reproduction,additional_trait_ground_truth.csv
+Pre-oviposition interval,age at first reproduction,mean duration from birth to onset of reproduction,additional_trait_ground_truth.csv
+Pre-oviposition interval,age at first reproduction,mean duration of life stage,additional_trait_ground_truth.csv
+Pre-oviposition interval,pre-oviposition period,mean duration from adult emergence to onset of reproduction,additional_trait_ground_truth.csv
+Pre-oviposition interval,pre-reproductive period,mean duration from adult emergence to onset of reproduction,additional_trait_ground_truth.csv
+Pre-oviposition interval,pre-reproductive period,mean duration of life stage,additional_trait_ground_truth.csv
+Pre-oviposition interval,pre-reproductive period,mean duration to production of first larva,additional_trait_ground_truth.csv
+Pre-oviposition interval,pre-reproductive period,mean rate of life stage completion,additional_trait_ground_truth.csv
+Pre-oviposition interval,pre-reproductive period,period of time before female aphids reproduce,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,Mean Pre-Oviposition Period,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,individual-level duration of prereproductive period (end of feeding until oviposition),additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean Preoviposition Period in days at adult female state at const temps,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean days in preoviposition,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean duration from adult emergence to onset of reproduction,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean duration of life stage,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean duration of period before oviposition,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean duration of prereproductive period (end of feeding until oviposition),additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean time required for an engorged female tick to begin laying eggs,additional_trait_ground_truth.csv
+Pre-oviposition interval,preoviposition period,mean time until onset of oviposition,additional_trait_ground_truth.csv
+Survival proportion,survival,cumulative daily survival,additional_trait_ground_truth.csv
+Survival proportion,survival,individual-level binomial survival,additional_trait_ground_truth.csv
+Survival proportion,survival,percent surviving life stage,additional_trait_ground_truth.csv
+Survival proportion,survival,percent surviving life stage (across all humidity levels),additional_trait_ground_truth.csv
+Survival proportion,survival,percentage of individuals surviving life stage (emergence rate),additional_trait_ground_truth.csv
+Survival proportion,survival,probability of survival after exposure to extreme temperatures,additional_trait_ground_truth.csv
+Survival proportion,survival,proportion of individuals surviving life stage (emergence rate),additional_trait_ground_truth.csv
+Survival proportion,survival,proportion surviving life stage,additional_trait_ground_truth.csv
+Survival proportion,survival rate,mean percentage surviving life stage,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percent surviving life stage,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percent surviving to oviposition,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of larval ticks that molted following engorgement,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of starved larval ticks that survived to the days listed,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived adult engorgement,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived at 17 degrees celcius,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived at 24 degrees celcius,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived at 30 degrees celcius,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived at 5 degrees celcius,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived the adult stage,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived the larval moult,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived the larval stage,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived the nymphal moult,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of ticks that survived the nymphal stage,additional_trait_ground_truth.csv
+Survival proportion,survival rate,percentage of unfed adults that survive,additional_trait_ground_truth.csv

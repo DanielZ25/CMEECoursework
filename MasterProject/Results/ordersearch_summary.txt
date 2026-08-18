@@ -1,0 +1,8 @@
+=== 6-field validation ===
+search best : order>family>name>unit>def>stage
+search sil  : 0.3468
+true optimum: order>family>name>def>stage>unit (sil 0.363, from 720 enumeration)
+
+=== 20-field search ===
+best ordering: long > genus > family > location > tempunit > order > kingdom > habitat > lat > species > temp > class > loctype > coordtype > stage > labfield > name > def > unit > phylum
+best silhouette: 0.5853

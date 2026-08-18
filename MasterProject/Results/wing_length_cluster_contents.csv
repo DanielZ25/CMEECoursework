@@ -1,0 +1,172 @@
+version,cluster_id,OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,is_wing_length_ground_truth
+V1,19,body size,mean wet mass,mg,False
+V1,19,body size,mean wing length (mm),mm,True
+V1,19,body size,mean wet mass (waxless and gravid),mg,False
+V1,19,body size,mean length,mm,False
+V1,19,body size,mean width,mm,False
+V1,19,body size,mean dry mass,mg,False
+V1,19,body size,mean head width,mm,False
+V1,19,body size,mean thorax length,mm,False
+V1,19,body size,mean body weight,mg,False
+V1,19,body size,individual-level mass,mg,False
+V1,19,body size,individual-level wet mass,mg,False
+V1,19,body size,mean wet mass on the day feeding was completed,mg,False
+V1,19,body size,mean weight of nymphs post-feeding,mg,False
+V1,19,body size,mean body weight of engorged adult females,mg,False
+V1,19,body size,mean wet mass on the day feeding was completed (engorged),mg,False
+V1,19,body size,mean dry mass. relationship between dry mass and wing length,mg,False
+V1,19,body size,dry mass,mg,False
+V1,19,body size,mean wing length,mm,True
+V1,19,body size,mean of weight (unfed),mg,False
+V1,19,body size,mean of weight (engorged),mg,False
+V1,19,body size,mean wet mass of an individual tick post engorgement,mg,False
+V1,19,body size,mean weight of engorged tick,mg,False
+V1,19,body size,mean weight of engored nymphs,mg,False
+V2,4,body size,mean wet mass,mg,False
+V2,4,body size,mean wet mass (waxless and gravid),mg,False
+V2,4,body size,mean length,mm,False
+V2,4,body size,mean width,mm,False
+V2,4,body size,mean dry mass,mg,False
+V2,4,body size,mean thorax length,mm,False
+V2,4,body size,mean body weight,mg,False
+V2,4,body size,individual-level mass,mg,False
+V2,4,body size,individual-level wet mass,mg,False
+V2,4,body size,mean wet mass on the day feeding was completed,mg,False
+V2,4,body size,mean weight of nymphs post-feeding,mg,False
+V2,4,body size,mean body weight of engorged adult females,mg,False
+V2,4,body size,mean wet mass on the day feeding was completed (engorged),mg,False
+V2,4,egg mass,mean egg mass weight,mg,False
+V2,4,body size,mean dry mass. relationship between dry mass and wing length,mg,False
+V2,4,body size,dry mass,mg,False
+V2,4,body size,mean wing length,mm,True
+V2,4,body size (alate),mean wet mass,mg,False
+V2,4,body size (apterous),mean wet mass,mg,False
+V2,4,body size (alate nymph),mean wet mass,days,False
+V2,4,body size (apterous nymph),mean wet mass,days,False
+V2,4,body size (length),mean body length,mm,False
+V2,4,body size (length),mean body length (adult),mm,False
+V2,4,body size (mass),mean wet mass,mg,False
+V2,4,body size,mean of weight (unfed),mg,False
+V2,4,body size,mean of weight (engorged),mg,False
+V2,4,body length,mean length (unfed ),mm,False
+V2,4,body length,mean length (engorged ),mm,False
+V2,4,body width,mean width (engorged),mm,False
+V2,4,body size,mean wet mass of an individual tick post engorgement,mg,False
+V2,4,Weight,Weight of an individual engorged female in grams held at constant temperature,g,False
+V2,4,Weight,mean weight of larvae during their feeding period,mg,False
+V2,4,Weight,mean weight of nymphs during their feeding period,mg,False
+V2,4,Weight,mean weight of engorged nymphs moulting to males,mg,False
+V2,4,weight,Mean weight on day of hatching,ug,False
+V2,4,weight,Mean weight on day of engorgement,ug,False
+V2,4,weight,Mean egg mass,mg,False
+V2,4,egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,False
+V2,4,body size,mean weight of engorged tick,mg,False
+V2,4,egg mass,mean weight of eggs,mg,False
+V2,4,body size,mean weight of engored nymphs,mg,False
+V2,4,Body Mass,Weight of an individual engorged female,mg,False
+V2,4,Egg Mass,Weight of eggs laid by an individual female,mg,False
+V2,4,Body Mass,mean daily weight of larvae during their feeding periods,mg,False
+V2,4,Body Mass,mean daily weight of nymphs during their pharate periods,mg,False
+V2,4,Body Mass,mean daily weight of nymphs during their feeding periods,mg,False
+V3,6,body size,mean wing length (mm),mm,True
+V3,6,body size,mean length,mm,False
+V3,6,body size,mean width,mm,False
+V3,6,body size,mean head width,mm,False
+V3,6,body size,mean thorax length,mm,False
+V3,6,body size,mean wing length,mm,True
+V3,6,body size (length),mean body length,mm,False
+V3,6,body size (length),mean body length (adult),mm,False
+V3,6,body length,mean length (unfed ),mm,False
+V3,6,body length,mean length (engorged ),mm,False
+V3,6,body width,mean width (unfed),mm,False
+V4,5,body size,mean wet mass,mg,False
+V4,5,body size,mean wing length (mm),mm,True
+V4,5,body size,mean wet mass (waxless and gravid),mg,False
+V4,5,body size,mean length,mm,False
+V4,5,body size,mean width,mm,False
+V4,5,body size,mean dry mass,mg,False
+V4,5,body size,mean head width,mm,False
+V4,5,body size,mean thorax length,mm,False
+V4,5,body size,mean body weight,mg,False
+V4,5,body size,individual-level mass,mg,False
+V4,5,body size,individual-level wet mass,mg,False
+V4,5,body size,mean dry mass. relationship between dry mass and wing length,mg,False
+V4,5,body size,dry mass,mg,False
+V4,5,body size,mean wing length,mm,True
+V4,5,body size (alate),mean wet mass,mg,False
+V4,5,body size (apterous),mean wet mass,mg,False
+V4,5,body size (alate nymph),mean wet mass,days,False
+V4,5,body size (apterous nymph),mean wet mass,days,False
+V4,5,body size (length),mean body length,mm,False
+V4,5,body size (length),mean body length (adult),mm,False
+V4,5,body size (mass),mean wet mass,mg,False
+V5,3,body size,mean wet mass,mg,False
+V5,3,body size,mean wing length (mm),mm,True
+V5,3,body size,mean wet mass (waxless and gravid),mg,False
+V5,3,body size,mean length,mm,False
+V5,3,body size,mean dry mass,mg,False
+V5,3,body size,mean body weight,mg,False
+V5,3,body size,individual-level mass,mg,False
+V5,3,body size,individual-level wet mass,mg,False
+V5,3,body size,mean dry mass. relationship between dry mass and wing length,mg,False
+V5,3,body size,dry mass,mg,False
+V5,3,body size,mean wing length,mm,True
+V5,3,body size (alate),mean wet mass,mg,False
+V5,3,body size (apterous),mean wet mass,mg,False
+V5,3,body size (alate nymph),mean wet mass,days,False
+V5,3,body size (apterous nymph),mean wet mass,days,False
+V5,3,body size (length),mean body length,mm,False
+V5,3,body size (length),mean body length (adult),mm,False
+V5,3,body size (mass),mean wet mass,mg,False
+V6,6,body size,mean wet mass,mg,False
+V6,6,body size,mean wing length (mm),mm,True
+V6,6,body size,mean wet mass (waxless and gravid),mg,False
+V6,6,body size,mean length,mm,False
+V6,6,body size,mean dry mass,mg,False
+V6,6,body size,mean body weight,mg,False
+V6,6,body size,individual-level mass,mg,False
+V6,6,body size,individual-level wet mass,mg,False
+V6,6,body size,mean dry mass. relationship between dry mass and wing length,mg,False
+V6,6,body size,dry mass,mg,False
+V6,6,body size,mean wing length,mm,True
+V6,6,body size (alate),mean wet mass,mg,False
+V6,6,body size (apterous),mean wet mass,mg,False
+V6,6,body size (alate nymph),mean wet mass,days,False
+V6,6,body size (apterous nymph),mean wet mass,days,False
+V6,6,body size (length),mean body length,mm,False
+V6,6,body size (length),mean body length (adult),mm,False
+V6,6,body size (mass),mean wet mass,mg,False
+V7,6,body size,mean wet mass,mg,False
+V7,6,body size,mean wet mass (waxless and gravid),mg,False
+V7,6,body size,mean length,mm,False
+V7,6,body size,mean dry mass,mg,False
+V7,6,body size,mean body weight,mg,False
+V7,6,body size,individual-level mass,mg,False
+V7,6,body size,individual-level wet mass,mg,False
+V7,6,body size,mean dry mass. relationship between dry mass and wing length,mg,False
+V7,6,body size,dry mass,mg,False
+V7,6,body size,mean wing length,mm,True
+V7,6,body size (alate),mean wet mass,mg,False
+V7,6,body size (apterous),mean wet mass,mg,False
+V7,6,body size (alate nymph),mean wet mass,days,False
+V7,6,body size (apterous nymph),mean wet mass,days,False
+V7,6,body size (length),mean body length,mm,False
+V7,6,body size (length),mean body length (adult),mm,False
+V7,6,body size (mass),mean wet mass,mg,False
+V8,6,body size,mean wet mass,mg,False
+V8,6,body size,mean wet mass (waxless and gravid),mg,False
+V8,6,body size,mean length,mm,False
+V8,6,body size,mean dry mass,mg,False
+V8,6,body size,mean body weight,mg,False
+V8,6,body size,individual-level mass,mg,False
+V8,6,body size,individual-level wet mass,mg,False
+V8,6,body size,mean dry mass. relationship between dry mass and wing length,mg,False
+V8,6,body size,dry mass,mg,False
+V8,6,body size,mean wing length,mm,True
+V8,6,body size (alate),mean wet mass,mg,False
+V8,6,body size (apterous),mean wet mass,mg,False
+V8,6,body size (alate nymph),mean wet mass,days,False
+V8,6,body size (apterous nymph),mean wet mass,days,False
+V8,6,body size (length),mean body length,mm,False
+V8,6,body size (length),mean body length (adult),mm,False
+V8,6,body size (mass),mean wet mass,mg,False

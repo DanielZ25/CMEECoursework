@@ -1,0 +1,97 @@
+column,coverage_pct,used_in_clustering,reason_excluded
+Id,100%,,"Metadata, not trait content"
+DatasetID,100%,,"Metadata, not trait content"
+OriginalTraitName,100%,V1-V6,
+OriginalTraitDef,100%,V2-V6,
+OriginalTraitValue,100%,,"Numeric value, not semantic content"
+Habitat,100%,,"Describes experimental condition, not trait semantics"
+LabField,100%,,"Describes experimental condition, not trait semantics"
+LocationDatePrecision,100%,,"Describes experimental condition, not trait semantics"
+Interactor1,100%,,
+Interactor1Kingdom,100%,,
+Interactor1Phylum,100%,,
+Interactor1Class,100%,,
+Interactor1Order,100%,V4-V6,
+Interactor1Family,100%,V5-V6,
+Interactor1Genus,100%,,
+Interactor1Species,100%,,
+Citation,100%,,"Metadata, not trait content"
+SubmittedBy,100%,,"Metadata, not trait content"
+ContributorEmail,100%,,"Metadata, not trait content"
+EmbargoReleaseDate,100%,,"Metadata, not trait content"
+OriginalTraitUnit,99.90%,V3-V6,
+FigureTable,99.80%,,Database formatting field
+DefaultChartXaxis,99.80%,,Database formatting field
+Location,99.20%,,Geographic metadata
+Interactor1TempUnit,98.80%,,"Describes experimental condition, not trait semantics"
+LocationType,98.70%,,Geographic metadata
+Interactor1Stage,98.70%,V6,
+Interactor1Temp,98.60%,,"Describes experimental condition, not trait semantics"
+DefaultChartCategory,95.10%,,Database formatting field
+Latitude,94.60%,,Geographic metadata
+Longitude,94.60%,,Geographic metadata
+CoordinateType,92.60%,,Geographic metadata
+DOI,92.30%,,"Metadata, not trait content"
+Interactor1GrowthTempUnit,71.40%,,"Describes experimental condition, not trait semantics"
+Interactor1GrowthTemp,71.30%,,"Describes experimental condition, not trait semantics"
+OriginalID,59.30%,,
+Interactor1Common,54.30%,,
+Notes,45.70%,,
+Interactor1Number,45.70%,,
+SecondStressor,43%,,
+SecondStressorValue,42.30%,,
+Interactor1Sex,42%,,Low coverage
+SecondStressorDef,41.30%,,
+SecondStressorUnit,39.70%,,
+IndividualID,37.70%,,
+LocationDate,37.40%,,
+OriginalErrorUnit,28.80%,,
+OriginalErrorPos,28.70%,,
+OriginalErrorNeg,28.50%,,
+CuratedByCitation,26.20%,,
+CuratedByDOI,26.20%,,
+StandardisedTraitDef,20.20%,,
+StandardisedTraitName,20.10%,,
+StandardisedTraitValue,7.70%,,
+StandardisedTraitUnit,5.40%,,
+Replicates,4.10%,,
+Interactor2Kingdom,3.20%,,
+Interactor2Order,3.20%,,
+Interactor2Family,3.20%,,
+Interactor2Genus,3.20%,,
+Interactor2Species,3.20%,,
+Interactor1Size,3%,,
+Interactor1SizeUnit,3%,,
+Interactor1SizeType,3%,,
+Interactor2Phylum,3%,,
+Interactor2Class,3%,,
+TotalObsTimeUnit,2.80%,,
+TimeStart,2.40%,,
+Interactor1OrigTime,2.30%,,
+Interactor1OrigTimeUnit,2.30%,,
+Interactor2Common,2.20%,,
+TotalObsTimeValue,2.20%,,
+Interactor2Stage,1.80%,,
+TimeEnd,1.70%,,
+Interactor1DenUnit,1.70%,,
+Interactor1Wholepart,1%,,
+TotalObsTimeNotes,1%,,
+Interactor1DenValue,0.70%,,
+Interactor2Temp,0.50%,,
+Interactor2TempUnit,0.50%,,
+Interactor2GrowthTemp,0.40%,,
+Interactor2GrowthTempUnit,0.40%,,
+Interactor1SizeSI,0.30%,,
+Interactor1SizeUnitSI,0.30%,,
+Interactor1TempMethod,0.20%,,
+Interactor1Acc,0.20%,,
+Interactor1AccTemp,0.10%,,
+Interactor1AccTime,0.10%,,
+Interactor1AccTimeUnit,0.10%,,
+Interactor1OrigTempNotes,0.10%,,
+AmbientTemp,0.10%,,
+AmbientTempMethod,0.10%,,
+AmbientTempUnit,0.10%,,
+Interactor1GrowthDur,0%,,
+Interactor1GrowthdDurUnit,0%,,
+Interactor1GrowthType,0%,,

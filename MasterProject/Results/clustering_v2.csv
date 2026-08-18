@@ -1,0 +1,462 @@
+OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,text,version,cluster_id
+development time,mean duration of life stage,days,Trait: development time. Definition: mean duration of life stage.,v2,16
+fecundity,mean lifetime offspring,offspring individual-1,Trait: fecundity. Definition: mean lifetime offspring.,v2,11
+longevity,mean duration of life stage,days,Trait: longevity. Definition: mean duration of life stage.,v2,17
+reproductive period,mean duration of life stage,days,Trait: reproductive period. Definition: mean duration of life stage.,v2,18
+survival,proportion surviving life stage,proportion,Trait: survival. Definition: proportion surviving life stage.,v2,14
+mortality rate,per capita daily mortality,individual-1 day-1,Trait: mortality rate. Definition: per capita daily mortality.,v2,-1
+ovipositional period,mean duration of life stage,days,Trait: ovipositional period. Definition: mean duration of life stage.,v2,18
+survival,percent surviving life stage,percent,Trait: survival. Definition: percent surviving life stage.,v2,14
+development time,median duration of life stage,days,Trait: development time. Definition: median duration of life stage.,v2,16
+longevity,median duration of life stage,days,Trait: longevity. Definition: median duration of life stage.,v2,17
+fecundity rate,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,nymphs unit time-1,Trait: fecundity rate. Definition: mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time.,v2,11
+mortality,percent not surviving life stage,percent,Trait: mortality. Definition: percent not surviving life stage.,v2,12
+pre-oviposition period,mean duration from adult emergence to onset of reproduction,days,Trait: pre-oviposition period. Definition: mean duration from adult emergence to onset of reproduction.,v2,18
+fecundity,mean lifetime nymphs individual-1,nymphs individual-1,Trait: fecundity. Definition: mean lifetime nymphs individual-1.,v2,11
+fecundity rate,mean eggs individual-1 day-1,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean eggs individual-1 day-1.,v2,11
+fecundity rate,mean offspring per day,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean offspring per day.,v2,11
+blood feeding frequency,mean lifetime blood meals individual-1,blood meals,Trait: blood feeding frequency. Definition: mean lifetime blood meals individual-1.,v2,-1
+body size,mean wet mass,mg,Trait: body size. Definition: mean wet mass.,v2,5
+development time,mean duration period from aphid birth to its first reproduction,days,Trait: development time. Definition: mean duration period from aphid birth to its first reproduction.,v2,16
+fecundity,mean number of progeny in a reproductive period equal to development time,progeny indidividual-1,Trait: fecundity. Definition: mean number of progeny in a reproductive period equal to development time.,v2,11
+body size,mean wing length (mm),mm,Trait: body size. Definition: mean wing length (mm).,v2,-1
+longevity,median adult lifespan,days,Trait: longevity. Definition: median adult lifespan.,v2,17
+ovipositioning,proportion of blood fed mosquitoes laying egg rafts,proportion,Trait: ovipositioning. Definition: proportion of blood fed mosquitoes laying egg rafts.,v2,-1
+development rate,mean rate of life stage completion,days-1,Trait: development rate. Definition: mean rate of life stage completion.,v2,16
+fecundity,mean lifetime eggs individual-1,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs individual-1.,v2,11
+egg viability,mean percentage of viable eggs produced per female,eggs individual-1,Trait: egg viability. Definition: mean percentage of viable eggs produced per female.,v2,-1
+fecundity,mean eggs produced per plant,eggs plant-1,Trait: fecundity. Definition: mean eggs produced per plant.,v2,11
+fat content,mean lipid content per individual,ug mg-1 individual-1,Trait: fat content. Definition: mean lipid content per individual.,v2,1
+development rate,rate of life stage completion,days-1,Trait: development rate. Definition: rate of life stage completion.,v2,16
+pre-blood meal period,average duration from emergence to first blood meal,days,Trait: pre-blood meal period. Definition: average duration from emergence to first blood meal.,v2,-1
+fecundity,mean number of eggs per cycle,eggs individual-1 cycle-1,Trait: fecundity. Definition: mean number of eggs per cycle.,v2,11
+gonotrophic cycle,mean number of gonotrophic cycles completed in individuals lifetime,days,Trait: gonotrophic cycle. Definition: mean number of gonotrophic cycles completed in individuals lifetime.,v2,2
+resource consumption rate,mean daily resource consumption rate,cm2 day-1,Trait: resource consumption rate. Definition: mean daily resource consumption rate.,v2,-1
+blood feeding,percent taking one bloodmeal,percent,Trait: blood feeding. Definition: percent taking one bloodmeal.,v2,-1
+transmission potential,percent of individuals with transmission potential,percent,Trait: transmission potential. Definition: percent of individuals with transmission potential.,v2,-1
+post-oviposition period,mean duration of life stage,days,Trait: post-oviposition period. Definition: mean duration of life stage.,v2,18
+fecundity,mean lifetime egg punctures,egg punctures individual-1,Trait: fecundity. Definition: mean lifetime egg punctures.,v2,11
+lipid content,mean lipid content per individual,ug,Trait: lipid content. Definition: mean lipid content per individual.,v2,1
+protein content,mean protein content per individual,ug,Trait: protein content. Definition: mean protein content per individual.,v2,1
+glycogen content,mean glycogen content per individual,ug,Trait: glycogen content. Definition: mean glycogen content per individual.,v2,1
+body size,mean wet mass (waxless and gravid),mg,Trait: body size. Definition: mean wet mass (waxless and gravid).,v2,5
+fecundity rate,mean eggs per unit time,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean eggs per unit time.,v2,11
+fecundity rate,mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate. Definition: mean offspring per unit time.,v2,11
+ovariole number,mean number of ovarioles per individual,ovarioles individual-1,Trait: ovariole number. Definition: mean number of ovarioles per individual.,v2,-1
+reproductive capacity,mean lifetime nymphs (30 days),nymphs individual-1,Trait: reproductive capacity. Definition: mean lifetime nymphs (30 days).,v2,-1
+mortality rate,mean per capita rate of mortality during life stage,individual-1 day-1,Trait: mortality rate. Definition: mean per capita rate of mortality during life stage.,v2,12
+pre-reproductive period,mean duration of life stage,days,Trait: pre-reproductive period. Definition: mean duration of life stage.,v2,18
+fecundity,mean lifetime eggs per 10 individuals,eggs 10 individuals-1,Trait: fecundity. Definition: mean lifetime eggs per 10 individuals.,v2,11
+hatching rate,percent surviving life stage,percent,Trait: hatching rate. Definition: percent surviving life stage.,v2,13
+hatching rate,mean duration of life stage,percent,Trait: hatching rate. Definition: mean duration of life stage.,v2,13
+mortality,mean duration of life stage,days,Trait: mortality. Definition: mean duration of life stage.,v2,12
+body size,mean length,mm,Trait: body size. Definition: mean length.,v2,5
+body size,mean width,mm,Trait: body size. Definition: mean width.,v2,5
+resource consumption rate,mean lifetime prey consumed,individual prey individual-1,Trait: resource consumption rate. Definition: mean lifetime prey consumed.,v2,-1
+age specific fecundity,mean number of female offspring individual-1 at specific age,females individual-1,Trait: age specific fecundity. Definition: mean number of female offspring individual-1 at specific age.,v2,-1
+fecundity,mean number of female offspring individual-1,females individual-1,Trait: fecundity. Definition: mean number of female offspring individual-1.,v2,11
+development time,mean duration of life cycle (egg-to-egg),days,Trait: development time. Definition: mean duration of life cycle (egg-to-egg).,v2,16
+fecundity,mean lifetime eggs per individual (across all humdity levels),eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs per individual (across all humdity levels).,v2,11
+fecundity,mean lifetime eggs per individual,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs per individual.,v2,11
+survival,percent surviving life stage (across all humidity levels),percent,Trait: survival. Definition: percent surviving life stage (across all humidity levels).,v2,-1
+development time,mean duration of life stage (across all humidity levels),days,Trait: development time. Definition: mean duration of life stage (across all humidity levels).,v2,16
+mortality,cummulative mortality percentage across immature stages,percent,Trait: mortality. Definition: cummulative mortality percentage across immature stages.,v2,12
+hatch time,mean duration of life stage,hours,Trait: hatch time. Definition: mean duration of life stage.,v2,-1
+development time,mean duration for 50 percent of eggs to hatch,days,Trait: development time. Definition: mean duration for 50 percent of eggs to hatch.,v2,16
+fecundity rate,maximum progengy individual-1 day-1,progeny individual-1 day-1,Trait: fecundity rate. Definition: maximum progengy individual-1 day-1.,v2,11
+gonotrophic cycle,mean duration of gonotrophic cycle (7th),days,Trait: gonotrophic cycle. Definition: mean duration of gonotrophic cycle (7th).,v2,2
+fecundity,mean number of eggs per cycle (1st),eggs individual-1 cycle-1,Trait: fecundity. Definition: mean number of eggs per cycle (1st).,v2,11
+mortality,proportion not surviving life stage,proportion,Trait: mortality. Definition: proportion not surviving life stage.,v2,12
+development time,median duration for egg development,days,Trait: development time. Definition: median duration for egg development.,v2,16
+development time,mean duration for egg development,days,Trait: development time. Definition: mean duration for egg development.,v2,16
+hatching range,range of the number of days all eggs hatched from when the first egg hatching started,days,Trait: hatching range. Definition: range of the number of days all eggs hatched from when the first egg hatching started.,v2,-1
+fecundity rate,mean lifetime offspring,offspring individual-1 day-1,Trait: fecundity rate. Definition: mean lifetime offspring.,v2,11
+pre-reproductive period,mean duration from adult emergence to onset of reproduction,days,Trait: pre-reproductive period. Definition: mean duration from adult emergence to onset of reproduction.,v2,18
+age at first reproduction,mean age at first reproduction,days,Trait: age at first reproduction. Definition: mean age at first reproduction.,v2,18
+body size,mean dry mass,mg,Trait: body size. Definition: mean dry mass.,v2,5
+body size,mean head width,mm,Trait: body size. Definition: mean head width.,v2,-1
+fecundity,mean offspring per reproduction day,offspring individual-1 day-1,Trait: fecundity. Definition: mean offspring per reproduction day.,v2,11
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of growth temperature,minutes,Trait: chill-coma recovery time. Definition: mean duration for individuals to regain full movement after being cold shocked as function of growth temperature.,v2,-1
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of adult temperature,minutes,Trait: chill-coma recovery time. Definition: mean duration for individuals to regain full movement after being cold shocked as function of adult temperature.,v2,-1
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of adult temperature,minutes,Trait: heat knockdown time. Definition: mean duration individuals can tolerate heat exposure before movement ceases as a function of adult temperature.,v2,-1
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of sex and growth temperature,minutes,Trait: heat knockdown time. Definition: mean duration individuals can tolerate heat exposure before movement ceases as a function of sex and growth temperature.,v2,-1
+fecundity,mean lifetime offspring as a function of size and adult and growth temperature,offspring individual-1,Trait: fecundity. Definition: mean lifetime offspring as a function of size and adult and growth temperature.,v2,11
+body size,mean thorax length,mm,Trait: body size. Definition: mean thorax length.,v2,5
+development time,duration of life stage,days,Trait: development time. Definition: duration of life stage.,v2,16
+development rate,mean duration of life stage,days,Trait: development rate. Definition: mean duration of life stage.,v2,16
+consumption rate,mean relative consumption rate,mg of aphids,Trait: consumption rate. Definition: mean relative consumption rate.,v2,-1
+growth rate,mean daily growth rate (the product of ln pupal weight divided by larval development time),ln(mg day-1),Trait: growth rate. Definition: mean daily growth rate (the product of ln pupal weight divided by larval development time).,v2,-1
+body size,mean body weight,mg,Trait: body size. Definition: mean body weight.,v2,5
+weight loss,proportionate weight loss in relation to temperature and population,proportion,Trait: weight loss. Definition: proportionate weight loss in relation to temperature and population.,v2,-1
+mortality,time to 50% mortality,days,Trait: mortality. Definition: time to 50% mortality.,v2,-1
+development time,mean duration of life cycle,days,Trait: development time. Definition: mean duration of life cycle.,v2,16
+feeding rate,mean lifetime feeding punctures,feeding punctures individual-1,Trait: feeding rate. Definition: mean lifetime feeding punctures.,v2,-1
+EIP (extrinsic incubation period),day sporozoites first detected in salivary glands,days,Trait: EIP (extrinsic incubation period). Definition: day sporozoites first detected in salivary glands.,v2,-1
+oocyst prevalence,not stated,percent,Trait: oocyst prevalence. Definition: not stated.,v2,-1
+oocyst intensity,not stated,not stated,Trait: oocyst intensity. Definition: not stated.,v2,-1
+sporozoite prevalence,not stated,percent,Trait: sporozoite prevalence. Definition: not stated.,v2,-1
+copulation duration,mean copulation duration,hours individual-1 lifetime-1,Trait: copulation duration. Definition: mean copulation duration.,v2,-1
+hatchability,mean percentage of eggs hatching,percent,Trait: hatchability. Definition: mean percentage of eggs hatching.,v2,13
+prey consumption,mean number of prey consumed,number of individual prey individual-1,Trait: prey consumption. Definition: mean number of prey consumed.,v2,-1
+fecundity rate,mean number of eggs individual-1 day-1,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean number of eggs individual-1 day-1.,v2,11
+mortality rate,mean death rate during life stage,individual-1 day-1,Trait: mortality rate. Definition: mean death rate during life stage.,v2,12
+metabolic rate,mean CO2 production (VCO2) (RMR: resting metabolic rate),uL h-1,Trait: metabolic rate. Definition: mean CO2 production (VCO2) (RMR: resting metabolic rate).,v2,0
+parasite maturation time,mean duration time from infective feed to mature infection,days,Trait: parasite maturation time. Definition: mean duration time from infective feed to mature infection.,v2,-1
+interlarval period,mean frequency of larval production,days,Trait: interlarval period. Definition: mean frequency of larval production.,v2,-1
+fecundity rate,mean number of offspring per reproductive cycle,offspring individual-1 cycle-1,Trait: fecundity rate. Definition: mean number of offspring per reproductive cycle.,v2,11
+survival,probability of survival after exposure to extreme temperatures,probability,Trait: survival. Definition: probability of survival after exposure to extreme temperatures.,v2,-1
+metabolic rate,mean CO2 production rate as a function of exposure temperature and acclimation temperature (secondstressor),ml CO2 h-1,Trait: metabolic rate. Definition: mean CO2 production rate as a function of exposure temperature and acclimation temperature (secondstressor).,v2,0
+metabolic rate,mean CO2 production rate,ul CO2 h-1,Trait: metabolic rate. Definition: mean CO2 production rate.,v2,0
+fat consumption rate,mean daily rate of fat consumption,mg day-1,Trait: fat consumption rate. Definition: mean daily rate of fat consumption.,v2,1
+pre-reproductive period,mean duration to production of first larva,days,Trait: pre-reproductive period. Definition: mean duration to production of first larva.,v2,-1
+fecundity,mean lifetime eggs,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs.,v2,11
+blood feeding,mean lifetime blood feeds,blood meals individual-1,Trait: blood feeding. Definition: mean lifetime blood feeds.,v2,-1
+metabolic rate (active),mean active metabolic rate (AMR),ml CO2 h-1,Trait: metabolic rate (active). Definition: mean active metabolic rate (AMR).,v2,0
+relative activity,amount of activity as a percentage of maximum recorded activity,percent,Trait: relative activity. Definition: amount of activity as a percentage of maximum recorded activity.,v2,-1
+metabolic rate,mean respiratory CO2 rate (RCO2),pmol mg-1 s-1,Trait: metabolic rate. Definition: mean respiratory CO2 rate (RCO2).,v2,0
+metabolic heat rate,mean metabolic heat rate (or 455RCO2),uW mg-1,Trait: metabolic heat rate. Definition: mean metabolic heat rate (or 455RCO2).,v2,0
+anabolic rate,mean anabolic rate,uW mg-1,Trait: anabolic rate. Definition: mean anabolic rate.,v2,0
+metabolic rate (resting),mean oxygen consumption of inactive individuals that produced fewer than 0.3 spikes/sec over several minutes of observation,Ml O2 g thorax-1 h-1,Trait: metabolic rate (resting). Definition: mean oxygen consumption of inactive individuals that produced fewer than 0.3 spikes/sec over several minutes of observation.,v2,0
+metabolic rate,mean oxygen uptake rate,ml O2 g-1 h-1,Trait: metabolic rate. Definition: mean oxygen uptake rate.,v2,0
+metabolic rate (standard),mean CO2 production rate (VCO2),ml CO2 g-1 h-1,Trait: metabolic rate (standard). Definition: mean CO2 production rate (VCO2).,v2,0
+gonotrophic cycle 1,individual-level duration of first gonotrophic cycle,days,Trait: gonotrophic cycle 1. Definition: individual-level duration of first gonotrophic cycle.,v2,2
+gonotrophic cycle 2,individual-level duration of second gonotrophic cycle,days,Trait: gonotrophic cycle 2. Definition: individual-level duration of second gonotrophic cycle.,v2,2
+fecundity,individual-level mean eggs per gonotrophic cycle,eggs cycle-1,Trait: fecundity. Definition: individual-level mean eggs per gonotrophic cycle.,v2,11
+gonotrophic cycle,individual-level lifetime number of cycles completed,lifetime cycles,Trait: gonotrophic cycle. Definition: individual-level lifetime number of cycles completed.,v2,2
+development time,individual-level duration of life stage,days,Trait: development time. Definition: individual-level duration of life stage.,v2,16
+longevity,individual-level duration of life stage,days,Trait: longevity. Definition: individual-level duration of life stage.,v2,17
+development rate,individual-level rate of life stage completion,days-1,Trait: development rate. Definition: individual-level rate of life stage completion.,v2,16
+body size,individual-level mass,mg,Trait: body size. Definition: individual-level mass.,v2,5
+body size,individual-level wet mass,mg,Trait: body size. Definition: individual-level wet mass.,v2,5
+viral load,individual-level viral load,PFU (plaque-forming units),Trait: viral load. Definition: individual-level viral load.,v2,-1
+starvation tolerance,individual-level starvation tolerance as a function of temperature and body size (interactor1size),days,Trait: starvation tolerance. Definition: individual-level starvation tolerance as a function of temperature and body size (interactor1size).,v2,-1
+recovery time,individual-level duration to recover movement after exposure to extreme temperature,seconds,Trait: recovery time. Definition: individual-level duration to recover movement after exposure to extreme temperature.,v2,-1
+mortality rate,individual-level per capita daily rate of mortality,indivdual-1 day-1,Trait: mortality rate. Definition: individual-level per capita daily rate of mortality.,v2,-1
+survival,individual-level binomial survival,1 = survived life stage,Trait: survival. Definition: individual-level binomial survival.,v2,-1
+juvenile life span,individual-level duration from hatching to death or adult eclosion,days,Trait: juvenile life span. Definition: individual-level duration from hatching to death or adult eclosion.,v2,-1
+fecundity,individual-level lifetime eggs,eggs individual-1,Trait: fecundity. Definition: individual-level lifetime eggs.,v2,11
+bloodmeal weight,individual-level weight of bloodmeal,mg,Trait: bloodmeal weight. Definition: individual-level weight of bloodmeal.,v2,-1
+knockdown time,mean time for 50% knockdown of femelaes under exposure to deltamethrin concentration (see notes),minutes,Trait: knockdown time. Definition: mean time for 50% knockdown of femelaes under exposure to deltamethrin concentration (see notes).,v2,-1
+incubation period,mean duration of egg incubation period (lay to hatching),days,Trait: incubation period. Definition: mean duration of egg incubation period (lay to hatching).,v2,10
+development time,mean duration of larval attachment developmental phase,days,Trait: development time. Definition: mean duration of larval attachment developmental phase.,v2,16
+premolt period (nymphal),mean duration of nymphal premolting phase,days,Trait: premolt period (nymphal). Definition: mean duration of nymphal premolting phase.,v2,19
+feeding time,mean duration of adult female feeding developmental phase,days,Trait: feeding time. Definition: mean duration of adult female feeding developmental phase.,v2,19
+preoviposition period,mean duration of prereproductive period (end of feeding until oviposition),days,Trait: preoviposition period. Definition: mean duration of prereproductive period (end of feeding until oviposition).,v2,18
+ovipositional period,mean duration of reproductive period,days,Trait: ovipositional period. Definition: mean duration of reproductive period.,v2,18
+body size,mean wet mass on the day feeding was completed,mg,Trait: body size. Definition: mean wet mass on the day feeding was completed.,v2,5
+weight loss,nymphal weight loss during molting stage,percent,Trait: weight loss. Definition: nymphal weight loss during molting stage.,v2,4
+egg size,mean weight of egg mass produced by adult female ticks,mg,Trait: egg size. Definition: mean weight of egg mass produced by adult female ticks.,v2,-1
+conversion efficiency index,percentage of adult female weight post feeding that was converted into egg mass,percent,Trait: conversion efficiency index. Definition: percentage of adult female weight post feeding that was converted into egg mass.,v2,3
+premolt period (larval),mean duration of larval premolting phase,days,Trait: premolt period (larval). Definition: mean duration of larval premolting phase.,v2,19
+molting time,mean duration of nymphal molting phase,days,Trait: molting time. Definition: mean duration of nymphal molting phase.,v2,19
+survival rate,percentage of ticks that survived the larval stage,percent,Trait: survival rate. Definition: percentage of ticks that survived the larval stage.,v2,15
+survival rate,percentage of ticks that survived the larval moult,percent,Trait: survival rate. Definition: percentage of ticks that survived the larval moult.,v2,15
+survival time,mean survival time of fasting larvae,days,Trait: survival time. Definition: mean survival time of fasting larvae.,v2,7
+body size,mean weight of nymphs post-feeding,mg,Trait: body size. Definition: mean weight of nymphs post-feeding.,v2,5
+premolt period (nymphal),mean time to complete nymphal moulting,days,Trait: premolt period (nymphal). Definition: mean time to complete nymphal moulting.,v2,19
+survival rate,percentage of ticks that survived the nymphal moult,percent,Trait: survival rate. Definition: percentage of ticks that survived the nymphal moult.,v2,15
+sex ratio,ratio of male ticks to female ticks,ratio,Trait: sex ratio. Definition: ratio of male ticks to female ticks.,v2,-1
+feeding time,mean duration of feeding developmental phase,days,Trait: feeding time. Definition: mean duration of feeding developmental phase.,v2,-1
+body size,mean body weight of engorged adult females,mg,Trait: body size. Definition: mean body weight of engorged adult females.,v2,5
+fecundity,mean lifetime eggs laid per female,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs laid per female.,v2,11
+body size,mean wet mass on the day feeding was completed (engorged),mg,Trait: body size. Definition: mean wet mass on the day feeding was completed (engorged).,v2,5
+survival rate,percentage of ticks that survived adult engorgement,percent,Trait: survival rate. Definition: percentage of ticks that survived adult engorgement.,v2,15
+fecundity,mean lifetime eggs produced by an individual female,eggs individual-1,Trait: fecundity. Definition: mean lifetime eggs produced by an individual female.,v2,11
+survival rate,percentage of ticks that survived the nymphal stage,percent,Trait: survival rate. Definition: percentage of ticks that survived the nymphal stage.,v2,15
+premolt period (larval),mean time to complete larval moulting,days,Trait: premolt period (larval). Definition: mean time to complete larval moulting.,v2,19
+fertility,percentage of females that laid fertile eggs,percent,Trait: fertility. Definition: percentage of females that laid fertile eggs.,v2,-1
+oviposition failure,mean probability of failure to oviposit,probability,Trait: oviposition failure. Definition: mean probability of failure to oviposit.,v2,-1
+preoviposition period,mean duration of period before oviposition,days,Trait: preoviposition period. Definition: mean duration of period before oviposition.,v2,18
+ovipositional period,mean duration of ovipositional period,days,Trait: ovipositional period. Definition: mean duration of ovipositional period.,v2,18
+conversion efficiency index,total mg eggs produced divided by mg engorged weight,proportion,Trait: conversion efficiency index. Definition: total mg eggs produced divided by mg engorged weight.,v2,3
+fecundity rate,mean weight of egg mass per day,mg eggs day-1,Trait: fecundity rate. Definition: mean weight of egg mass per day.,v2,11
+fecundity,individual-level weight of lifetime eggs per individual,mg eggs individual-1,Trait: fecundity. Definition: individual-level weight of lifetime eggs per individual.,v2,11
+hatch rate,mean hatching rate of egg batches,percent,Trait: hatch rate. Definition: mean hatching rate of egg batches.,v2,13
+incubation period,median time from oviposition to hatching,days,Trait: incubation period. Definition: median time from oviposition to hatching.,v2,10
+weight loss,cumulative weight loss across time (see notes for time intervals),percent,Trait: weight loss. Definition: cumulative weight loss across time (see notes for time intervals).,v2,-1
+development rate,mean development rate per day,percent day-1,Trait: development rate. Definition: mean development rate per day.,v2,-1
+egg mass,mean egg mass weight,mg,Trait: egg mass. Definition: mean egg mass weight.,v2,5
+feed conversion rate,ability to produce eggs relative to the weight at detachment of each engorged female,percent,Trait: feed conversion rate. Definition: ability to produce eggs relative to the weight at detachment of each engorged female.,v2,3
+incubation period,time from start of oviposition until first eggs hatched,days,Trait: incubation period. Definition: time from start of oviposition until first eggs hatched.,v2,10
+larval hatch rate,percentage of unfertilized eggs that were subsequently fertilized,percent,Trait: larval hatch rate. Definition: percentage of unfertilized eggs that were subsequently fertilized.,v2,-1
+mortality,number of dead individuals per group,individuals,Trait: mortality. Definition: number of dead individuals per group.,v2,-1
+weight loss,mean weight loss,mg,Trait: weight loss. Definition: mean weight loss.,v2,-1
+hatch rate,percentage of unfertilized eggs that were subsequently fertilized,percent,Trait: hatch rate. Definition: percentage of unfertilized eggs that were subsequently fertilized.,v2,13
+feeding preference,mean number of individual ticks selecting to feed on human (see notes for %),individuals,Trait: feeding preference. Definition: mean number of individual ticks selecting to feed on human (see notes for %).,v2,-1
+survival rate,percent surviving to oviposition,percent,Trait: survival rate. Definition: percent surviving to oviposition.,v2,-1
+preoviposition period,mean duration of life stage,days,Trait: preoviposition period. Definition: mean duration of life stage.,v2,18
+hatch rate,percentage of egg masses producing larvae,percent,Trait: hatch rate. Definition: percentage of egg masses producing larvae.,v2,13
+development time,mean duration from when eggs were deposited to hatch,days,Trait: development time. Definition: mean duration from when eggs were deposited to hatch.,v2,16
+molt success rate (larval),percentage that molted,percent,Trait: molt success rate (larval). Definition: percentage that molted.,v2,8
+premolt period (larval),mean duration of life stage,days,Trait: premolt period (larval). Definition: mean duration of life stage.,v2,19
+molt success rate (nymphal),percentage that molted,percent,Trait: molt success rate (nymphal). Definition: percentage that molted.,v2,8
+premolt period,mean duration of life stage,days,Trait: premolt period. Definition: mean duration of life stage.,v2,19
+premolt period (nymphal),mean duration of life stage,days,Trait: premolt period (nymphal). Definition: mean duration of life stage.,v2,19
+survival rate,percent surviving life stage,percent,Trait: survival rate. Definition: percent surviving life stage.,v2,14
+fecundity,total number of eggs produced,eggs individual-1,Trait: fecundity. Definition: total number of eggs produced.,v2,11
+body mass,mean weight of female,mg,Trait: body mass. Definition: mean weight of female.,v2,-1
+longevity,duration for 50% mortality,days,Trait: longevity. Definition: duration for 50% mortality.,v2,17
+conversion efficiency,total number of eggs produced divided by engorged weight,eggs individual-1 mg-1,Trait: conversion efficiency. Definition: total number of eggs produced divided by engorged weight.,v2,3
+incubation period,mean duration from oviposition to hatching,days,Trait: incubation period. Definition: mean duration from oviposition to hatching.,v2,10
+hatch ratio,hatching ratio of eggs,percent,Trait: hatch ratio. Definition: hatching ratio of eggs.,v2,-1
+molting period (larval),mean duration of life stage,days,Trait: molting period (larval). Definition: mean duration of life stage.,v2,19
+molting ratio (larval),percentage that molted during life stage,percent,Trait: molting ratio (larval). Definition: percentage that molted during life stage.,v2,8
+molting period (nymphal),mean duration of life stage,days,Trait: molting period (nymphal). Definition: mean duration of life stage.,v2,19
+molting ratio (nymphal),percentage that molted during life stage,percent,Trait: molting ratio (nymphal). Definition: percentage that molted during life stage.,v2,8
+prefeeding period (larval),mean duration of life stage,days,Trait: prefeeding period (larval). Definition: mean duration of life stage.,v2,19
+feeding period (larval),mean duration of life stage,days,Trait: feeding period (larval). Definition: mean duration of life stage.,v2,19
+prefeeding period (nymphal),mean duration of life stage,days,Trait: prefeeding period (nymphal). Definition: mean duration of life stage.,v2,19
+feeding period (nymphal),mean duration of life stage,days,Trait: feeding period (nymphal). Definition: mean duration of life stage.,v2,19
+prefeeding period (adult),mean duration of life stage,days,Trait: prefeeding period (adult). Definition: mean duration of life stage.,v2,19
+feeding period (adult),mean duration of life stage,days,Trait: feeding period (adult). Definition: mean duration of life stage.,v2,19
+lifespan,mean duration of entire life,days,Trait: lifespan. Definition: mean duration of entire life.,v2,17
+fecundity,mean number of lifetime eggs by a tick,eggs individual-1,Trait: fecundity. Definition: mean number of lifetime eggs by a tick.,v2,11
+molt success rate (larval),percentage that molted during life stage,percent,Trait: molt success rate (larval). Definition: percentage that molted during life stage.,v2,8
+molt success rate (nymphal),percentage that molted during life stage,percent,Trait: molt success rate (nymphal). Definition: percentage that molted during life stage.,v2,8
+reproductive efficiency index,mean number of eggs per mg weight of engorged female,eggs individual-1 mg-1,Trait: reproductive efficiency index. Definition: mean number of eggs per mg weight of engorged female.,v2,-1
+pre-hatch period,number of days until hatching,days,Trait: pre-hatch period. Definition: number of days until hatching.,v2,-1
+mortality (larval),duration for 100% mortality (unfed larvae),weeks,Trait: mortality (larval). Definition: duration for 100% mortality (unfed larvae).,v2,-1
+mortality (nymphal),duration for 50% mortality (unfed nymphs),weeks,Trait: mortality (nymphal). Definition: duration for 50% mortality (unfed nymphs).,v2,-1
+mortality (adult),mean duration for 100% mortality (unfed adults),weeks,Trait: mortality (adult). Definition: mean duration for 100% mortality (unfed adults).,v2,-1
+fecundity rate,mean eggs produced by an individual female per day,eggs individual-1 day-1,Trait: fecundity rate. Definition: mean eggs produced by an individual female per day.,v2,11
+development time,mean time to complete nymphal devlopment,days,Trait: development time. Definition: mean time to complete nymphal devlopment.,v2,16
+fecundity rate,peak number of eggs per day per individual,eggs individual-1 day-1,Trait: fecundity rate. Definition: peak number of eggs per day per individual.,v2,11
+reproductive efficiency index,ratio of lifetime eggs to engorged female weight,eggs individual-1 day-1,Trait: reproductive efficiency index. Definition: ratio of lifetime eggs to engorged female weight.,v2,3
+survival rate,percentage of ticks that survived the adult stage,percent,Trait: survival rate. Definition: percentage of ticks that survived the adult stage.,v2,15
+survival time,mean survival time of larvae post hatch,days,Trait: survival time. Definition: mean survival time of larvae post hatch.,v2,7
+longevity,mean duration of life stage as a function of body size,days,Trait: longevity. Definition: mean duration of life stage as a function of body size.,v2,17
+body size,mean dry mass. relationship between dry mass and wing length,mg,Trait: body size. Definition: mean dry mass. relationship between dry mass and wing length.,v2,5
+mortality,time taken for 50% of adults to die,days,Trait: mortality. Definition: time taken for 50% of adults to die.,v2,-1
+survival,proportion of individuals surviving life stage (emergence rate),proportion,Trait: survival. Definition: proportion of individuals surviving life stage (emergence rate).,v2,14
+body size,dry mass,mg,Trait: body size. Definition: dry mass.,v2,5
+body size,mean wing length,mm,Trait: body size. Definition: mean wing length.,v2,5
+mortality,percentage not surviving life stage,percent,Trait: mortality. Definition: percentage not surviving life stage.,v2,12
+survival,percentage of individuals surviving life stage (emergence rate),individuals,Trait: survival. Definition: percentage of individuals surviving life stage (emergence rate).,v2,14
+reproductive capacity,proportion of individuals that laid eggs after first blood meal,proportion,Trait: reproductive capacity. Definition: proportion of individuals that laid eggs after first blood meal.,v2,-1
+fertility,mean number of hatched eggs in an individuals lifetime,eggs individual-1,Trait: fertility. Definition: mean number of hatched eggs in an individuals lifetime.,v2,11
+survival rate,mean percentage surviving life stage,percent,Trait: survival rate. Definition: mean percentage surviving life stage.,v2,14
+lifespan,mean duration of entrie lifespan (from egg to adult death),days,Trait: lifespan. Definition: mean duration of entrie lifespan (from egg to adult death).,v2,-1
+preoviposition period,mean duration from adult emergence to onset of reproduction,days,Trait: preoviposition period. Definition: mean duration from adult emergence to onset of reproduction.,v2,18
+total preoviposition period,mean duration from egg to onset of reproduction,days,Trait: total preoviposition period. Definition: mean duration from egg to onset of reproduction.,v2,18
+oviposition period,mean duration of life stage,days,Trait: oviposition period. Definition: mean duration of life stage.,v2,18
+fecundity,mean eggs individual-1,eggs,Trait: fecundity. Definition: mean eggs individual-1.,v2,11
+sex ratio,mean proportion of female adults cohort-1,ratio,Trait: sex ratio. Definition: mean proportion of female adults cohort-1.,v2,-1
+developmental time,mean duration of life stage,days,Trait: developmental time. Definition: mean duration of life stage.,v2,16
+longevity,mean duration of life,days,Trait: longevity. Definition: mean duration of life.,v2,17
+fecundity,mean lifetime total number of nymphs,progeny individual-1,Trait: fecundity. Definition: mean lifetime total number of nymphs.,v2,11
+mortality,mean percent not surviving life stage,percent,Trait: mortality. Definition: mean percent not surviving life stage.,v2,12
+sex ratio,ratio of male psyllids to female psyllids,ratio,Trait: sex ratio. Definition: ratio of male psyllids to female psyllids.,v2,-1
+head capsule width,mean width of head capsule,mm,Trait: head capsule width. Definition: mean width of head capsule.,v2,-1
+fecundity,mean liftetime eggs,eggs individual-1,Trait: fecundity. Definition: mean liftetime eggs.,v2,11
+cold hardiness,percent of eggs hatched after being exposed to freezing temperatures for a given duration of time,percent,Trait: cold hardiness. Definition: percent of eggs hatched after being exposed to freezing temperatures for a given duration of time.,v2,-1
+temperature thresholds for oviposition,number of psyllid eggs laid over a 48 hour period at temperatures at which female psyllids were held,number of eggs,Trait: temperature thresholds for oviposition. Definition: number of psyllid eggs laid over a 48 hour period at temperatures at which female psyllids were held.,v2,-1
+mortality rate,inverse of mean longevity,days-1,Trait: mortality rate. Definition: inverse of mean longevity.,v2,-1
+fecundity,mean lifetime progeny,progeny individual-1,Trait: fecundity. Definition: mean lifetime progeny.,v2,11
+longevity,percent not surviving life stage,days,Trait: longevity. Definition: percent not surviving life stage.,v2,-1
+fecundity rate,mean progeny per unit time,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean progeny per unit time.,v2,11
+reproductive and post-reproductive periods,mean duration of life stage,days,Trait: reproductive and post-reproductive periods. Definition: mean duration of life stage.,v2,18
+age at first reproduction,mean duration of life stage,days,Trait: age at first reproduction. Definition: mean duration of life stage.,v2,18
+life cycle,mean duration of entire life cycle,days,Trait: life cycle. Definition: mean duration of entire life cycle.,v2,-1
+age at first reproduction,mean duration from birth to onset of reproduction,days,Trait: age at first reproduction. Definition: mean duration from birth to onset of reproduction.,v2,18
+fecundity rate,mean maximum progeny per unit time,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean maximum progeny per unit time.,v2,11
+development rate,replicate-level mean rate of life stage completion,days-1,Trait: development rate. Definition: replicate-level mean rate of life stage completion.,v2,16
+development time,mean duration of juvenile stages and from adult emergence to the onset of reproduction,days,Trait: development time. Definition: mean duration of juvenile stages and from adult emergence to the onset of reproduction.,v2,16
+fecundity rate,maximum number of offspring per female per day,nymphs individual-1 day-1,Trait: fecundity rate. Definition: maximum number of offspring per female per day.,v2,11
+fecundity rate,mean number of nymphs per day per female,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean number of nymphs per day per female.,v2,11
+development rate,inverse of the mean duration of life stage,days-1,Trait: development rate. Definition: inverse of the mean duration of life stage.,v2,16
+fecundity,mean duration of life stage,progeny individual-1,Trait: fecundity. Definition: mean duration of life stage.,v2,11
+age at first reproduction,mean age at the onset of reproduction,days,Trait: age at first reproduction. Definition: mean age at the onset of reproduction.,v2,18
+post-reproductive period,mean duration of life stage,days,Trait: post-reproductive period. Definition: mean duration of life stage.,v2,18
+growth rate,mean relative growth rate (ln(adult moult weight (ug)) - ln(birth wt (ug))/development time),ug ug-1 day-1,Trait: growth rate. Definition: mean relative growth rate (ln(adult moult weight (ug)) - ln(birth wt (ug))/development time).,v2,-1
+body length,replicate-level mean body length,mm,Trait: body length. Definition: replicate-level mean body length.,v2,-1
+fecundity rate,maximum progeny per unit time,progeny individual-1 day-1,Trait: fecundity rate. Definition: maximum progeny per unit time.,v2,11
+effective fecundity,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,nymphs unit time-1,Trait: effective fecundity. Definition: mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time.,v2,11
+body size (alate),mean wet mass,mg,Trait: body size (alate). Definition: mean wet mass.,v2,5
+body size (apterous),mean wet mass,mg,Trait: body size (apterous). Definition: mean wet mass.,v2,5
+maximum fecundity,mean duration from onset of reproduction to maximum reproductive output,days,Trait: maximum fecundity. Definition: mean duration from onset of reproduction to maximum reproductive output.,v2,-1
+fecundity rate,mean duration of life stage,progeny individual-1 day-1,Trait: fecundity rate. Definition: mean duration of life stage.,v2,11
+pre-reproductive period,mean rate of life stage completion,days,Trait: pre-reproductive period. Definition: mean rate of life stage completion.,v2,18
+reproductive period,mean rate of life stage completion,days,Trait: reproductive period. Definition: mean rate of life stage completion.,v2,18
+post-reproductive period,mean rate of life stage completion,days,Trait: post-reproductive period. Definition: mean rate of life stage completion.,v2,18
+longevity,mean rate of life stage completion,days,Trait: longevity. Definition: mean rate of life stage completion.,v2,17
+body size (alate nymph),mean wet mass,days,Trait: body size (alate nymph). Definition: mean wet mass.,v2,5
+body size (apterous nymph),mean wet mass,days,Trait: body size (apterous nymph). Definition: mean wet mass.,v2,5
+fecundity (alate),mean lifetime offspring,days,Trait: fecundity (alate). Definition: mean lifetime offspring.,v2,11
+fecundity (apterous),mean lifetime offspring,days,Trait: fecundity (apterous). Definition: mean lifetime offspring.,v2,11
+development time,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,days,Trait: development time. Definition: mean duration of life stage as a function of rearing food type (secondstressor) and temperature.,v2,17
+longevity,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,days,Trait: longevity. Definition: mean duration of life stage as a function of rearing food type (secondstressor) and temperature.,v2,17
+fecundity,mean population-level offspring (100 individuals),days,Trait: fecundity. Definition: mean population-level offspring (100 individuals).,v2,11
+longevity,mean duration of adult lifespan as a function of temperature and the number of instars completed prior to reproductive adulthood (secondstressor),days,Trait: longevity. Definition: mean duration of adult lifespan as a function of temperature and the number of instars completed prior to reproductive adulthood (secondstressor).,v2,17
+fecundity,total population-level number of offspring produced,offspring,Trait: fecundity. Definition: total population-level number of offspring produced.,v2,11
+body size (length),mean body length,mm,Trait: body size (length). Definition: mean body length.,v2,5
+fecundity rate,mean offspring per reproduction day,offspring individual-1 day-1,Trait: fecundity rate. Definition: mean offspring per reproduction day.,v2,11
+fecundity,mean lifetime progeny per female,progeny individual-1,Trait: fecundity. Definition: mean lifetime progeny per female.,v2,11
+body size (length),mean body length (adult),mm,Trait: body size (length). Definition: mean body length (adult).,v2,5
+body size (mass),mean wet mass,mg,Trait: body size (mass). Definition: mean wet mass.,v2,5
+fecundity rate (apterous),mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate (apterous). Definition: mean offspring per unit time.,v2,11
+fecundity rate (alate),mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate (alate). Definition: mean offspring per unit time.,v2,11
+longevity (apterous),mean duration of life stage,days,Trait: longevity (apterous). Definition: mean duration of life stage.,v2,17
+longevity (alate),mean duration of life stage,days,Trait: longevity (alate). Definition: mean duration of life stage.,v2,17
+development duration,period at 4th instar,days,Trait: development duration. Definition: period at 4th instar.,v2,-1
+fertility,number of offspring produced,number of offspring,Trait: fertility. Definition: number of offspring produced.,v2,-1
+oviposition,period of oviposition in days,days,Trait: oviposition. Definition: period of oviposition in days.,v2,18
+adult longevity,lifespan over time,days,Trait: adult longevity. Definition: lifespan over time.,v2,-1
+pre-reproductive period,period of time before female aphids reproduce,days,Trait: pre-reproductive period. Definition: period of time before female aphids reproduce.,v2,-1
+reproductive period,period of time where female aphids reproduce,days,Trait: reproductive period. Definition: period of time where female aphids reproduce.,v2,-1
+nymph production,number of nymphs produced / female,number of nymphs produced / female,Trait: nymph production. Definition: number of nymphs produced / female.,v2,-1
+longevity,aphid lifespan,days,Trait: longevity. Definition: aphid lifespan.,v2,9
+longevity,lifespan of aphids,days,Trait: longevity. Definition: lifespan of aphids.,v2,9
+fecundity,mean of daily newborn nymph counts,mean number of nymphs,Trait: fecundity. Definition: mean of daily newborn nymph counts.,v2,11
+pre-reproduction period,duration of developmental phases in days,days,Trait: pre-reproduction period. Definition: duration of developmental phases in days.,v2,-1
+reproduction period,duration of developmental phases in days,days,Trait: reproduction period. Definition: duration of developmental phases in days.,v2,-1
+post-reproduction period,duration of developmental phases in days,days,Trait: post-reproduction period. Definition: duration of developmental phases in days.,v2,-1
+survival,cumulative daily survival,lx,Trait: survival. Definition: cumulative daily survival.,v2,-1
+average daily fecundity,daily fecundity of female aphids,mx,Trait: average daily fecundity. Definition: daily fecundity of female aphids.,v2,-1
+development time,nymphal development time,days,Trait: development time. Definition: nymphal development time.,v2,-1
+adult longevity,period from adult emergence until death,days,Trait: adult longevity. Definition: period from adult emergence until death.,v2,-1
+mean fecundity,number of nymphs deposited,oviparae/gynoparae,Trait: mean fecundity. Definition: number of nymphs deposited.,v2,11
+percent survival,percent of adult aphids that were still alive each day,percent,Trait: percent survival. Definition: percent of adult aphids that were still alive each day.,v2,-1
+longevity,adult aphid survival,days,Trait: longevity. Definition: adult aphid survival.,v2,9
+age-specific daily fecundity,new nymphs produced each day,mean number of nymphs,Trait: age-specific daily fecundity. Definition: new nymphs produced each day.,v2,11
+feeding behavior,initiation of stylet penetration of leaf tissue,percent,Trait: feeding behavior. Definition: initiation of stylet penetration of leaf tissue.,v2,-1
+developmental time,number of days at each developmental stage,days,Trait: developmental time. Definition: number of days at each developmental stage.,v2,-1
+mean longevity,mean lifespan in days,days,Trait: mean longevity. Definition: mean lifespan in days.,v2,-1
+mean fecundity,mean number of offspring produced by females,female/female,Trait: mean fecundity. Definition: mean number of offspring produced by females.,v2,11
+Pre-reproductive average,Period from birth until first molt,days,Trait: Pre-reproductive average. Definition: Period from birth until first molt.,v2,-1
+Reproductive average,Period from the adult stage (genital plate appeared and the complete development of the cauda) until the end of reproduction,days,Trait: Reproductive average. Definition: Period from the adult stage (genital plate appeared and the complete development of the cauda) until the end of reproduction.,v2,-1
+Reproductive average daily fecundity,the number of newborn nymphs (N1) per female per day,nymphs per day,Trait: Reproductive average daily fecundity. Definition: the number of newborn nymphs (N1) per female per day.,v2,11
+Reproductive average total fecundity,the number of newborn nymphs (N1) per female,nymphs,Trait: Reproductive average total fecundity. Definition: the number of newborn nymphs (N1) per female.,v2,11
+Post-reproductive average,period from the end of reproduction until death,days,Trait: Post-reproductive average. Definition: period from the end of reproduction until death.,v2,-1
+Longevity,"sum of all life stage periods in study (pre-reproductive, reproductive, and post-reproductive)",days,"Trait: Longevity. Definition: sum of all life stage periods in study (pre-reproductive, reproductive, and post-reproductive).",v2,17
+development time,mean nymphal development time,days,Trait: development time. Definition: mean nymphal development time.,v2,16
+adult longevity,lifespan of adult aphids,days,Trait: adult longevity. Definition: lifespan of adult aphids.,v2,9
+aphid longevity,lifespan of aphids,days,Trait: aphid longevity. Definition: lifespan of aphids.,v2,9
+fecundity,number of aphids produced,number of offspring,Trait: fecundity. Definition: number of aphids produced.,v2,11
+body size,mean of weight (unfed),mg,Trait: body size. Definition: mean of weight (unfed).,v2,5
+body size,mean of weight (engorged),mg,Trait: body size. Definition: mean of weight (engorged).,v2,5
+hypostome length,mean length of hypostome (appendage on the mouth),mm,Trait: hypostome length. Definition: mean length of hypostome (appendage on the mouth).,v2,-1
+body length,mean length (unfed ),mm,Trait: body length. Definition: mean length (unfed ).,v2,5
+body length,mean length (engorged ),mm,Trait: body length. Definition: mean length (engorged ).,v2,5
+body width,mean width (unfed),mm,Trait: body width. Definition: mean width (unfed).,v2,-1
+body width,mean width (engorged),mm,Trait: body width. Definition: mean width (engorged).,v2,5
+development time,mean duration of incubation period,days,Trait: development time. Definition: mean duration of incubation period.,v2,16
+development time,mean duration of attachment period,days,Trait: development time. Definition: mean duration of attachment period.,v2,16
+development time,mean duration of premoulting period,days,Trait: development time. Definition: mean duration of premoulting period.,v2,16
+feeding period,mean duration of feeding period,days,Trait: feeding period. Definition: mean duration of feeding period.,v2,19
+preoviposition period,mean days in preoviposition,days,Trait: preoviposition period. Definition: mean days in preoviposition.,v2,18
+longevity,individual-level duration of adult female life stage,days,Trait: longevity. Definition: individual-level duration of adult female life stage.,v2,17
+preoviposition period,individual-level duration of prereproductive period (end of feeding until oviposition),days,Trait: preoviposition period. Definition: individual-level duration of prereproductive period (end of feeding until oviposition).,v2,18
+ovipositional period,individual-level duration of reproductive period,days,Trait: ovipositional period. Definition: individual-level duration of reproductive period.,v2,18
+fecundity rate,maximum number of eggs produced in a single day by an individual female,eggs individual-1 day-1,Trait: fecundity rate. Definition: maximum number of eggs produced in a single day by an individual female.,v2,11
+peak fecundity,day post engorgement on which an individual female laid most eggs,days,Trait: peak fecundity. Definition: day post engorgement on which an individual female laid most eggs.,v2,-1
+body size,mean wet mass of an individual tick post engorgement,mg,Trait: body size. Definition: mean wet mass of an individual tick post engorgement.,v2,5
+survival rate,percentage of starved larval ticks that survived to the days listed,percent,Trait: survival rate. Definition: percentage of starved larval ticks that survived to the days listed.,v2,15
+survival time,mean survival time of fasting nymphs,days,Trait: survival time. Definition: mean survival time of fasting nymphs.,v2,7
+Pre-Oviposition Period,Pre-oviposition period of ticks held at constant temperature,days,Trait: Pre-Oviposition Period. Definition: Pre-oviposition period of ticks held at constant temperature.,v2,-1
+Oviposition Rate,mean number of eggs per female,eggs,Trait: Oviposition Rate. Definition: mean number of eggs per female.,v2,-1
+Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,Trait: Weight. Definition: Weight of eggs laid by an individual engorged female raised at constant temp.,v2,-1
+Weight,Weight of an individual engorged female in grams held at constant temperature,g,Trait: Weight. Definition: Weight of an individual engorged female in grams held at constant temperature.,v2,5
+Weight,mean weight of larvae during their feeding period,mg,Trait: Weight. Definition: mean weight of larvae during their feeding period.,v2,5
+Weight,mean weight of nymphs during their feeding period,mg,Trait: Weight. Definition: mean weight of nymphs during their feeding period.,v2,5
+Weight,mean weight of engorged nymphs moulting to males,mg,Trait: Weight. Definition: mean weight of engorged nymphs moulting to males.,v2,5
+Incubation Period,Incubation period of ticks held at constant temperature,days,Trait: Incubation Period. Definition: Incubation period of ticks held at constant temperature.,v2,-1
+Molting Period,number of days required for an individual engorged nymph to molt into an adult,days,Trait: Molting Period. Definition: number of days required for an individual engorged nymph to molt into an adult.,v2,19
+Feeding Period,number of days required for nymphs to fully engorge,days,Trait: Feeding Period. Definition: number of days required for nymphs to fully engorge.,v2,-1
+Feeding Period of Nymphs (Days),number of days required for nymphs to fully engorge,days,Trait: Feeding Period of Nymphs (Days). Definition: number of days required for nymphs to fully engorge.,v2,-1
+incubation period,mean Incubation Period in days from egg to larvae at constant temps,days,Trait: incubation period. Definition: mean Incubation Period in days from egg to larvae at constant temps.,v2,10
+feeding period,mean Feeding Period in days at larval state at constant temps,days,Trait: feeding period. Definition: mean Feeding Period in days at larval state at constant temps.,v2,19
+premolting period,mean Premolting Period in days at larval state at const temps,days,Trait: premolting period. Definition: mean Premolting Period in days at larval state at const temps.,v2,19
+feeding period,mean Feeding Period in days at nymph state at constant temps,days,Trait: feeding period. Definition: mean Feeding Period in days at nymph state at constant temps.,v2,19
+premolting period,mean Premolting Period in days at nymph state at constant temps,days,Trait: premolting period. Definition: mean Premolting Period in days at nymph state at constant temps.,v2,19
+feeding period,mean Feeding Period in days at adult female state at const temps,days,Trait: feeding period. Definition: mean Feeding Period in days at adult female state at const temps.,v2,19
+preoviposition period,mean Preoviposition Period in days at adult female state at const temps,days,Trait: preoviposition period. Definition: mean Preoviposition Period in days at adult female state at const temps.,v2,18
+oviposition period,mean Oviposition Period in days at adult female state at const temps,days,Trait: oviposition period. Definition: mean Oviposition Period in days at adult female state at const temps.,v2,18
+weight,Mean weight on day of hatching,ug,Trait: weight. Definition: Mean weight on day of hatching.,v2,5
+weight,Mean weight 14 days after hatching,ug,Trait: weight. Definition: Mean weight 14 days after hatching.,v2,-1
+weight,Mean weight on day of engorgement,ug,Trait: weight. Definition: Mean weight on day of engorgement.,v2,5
+weight loss,Percentage loss in body weight during larval prefeeding period,percent,Trait: weight loss. Definition: Percentage loss in body weight during larval prefeeding period.,v2,4
+weight loss,Percentage loss in body weight during larval molting period,percent,Trait: weight loss. Definition: Percentage loss in body weight during larval molting period.,v2,4
+weight loss,Percentage loss in body weight during nymphal prefeeding period,percent,Trait: weight loss. Definition: Percentage loss in body weight during nymphal prefeeding period.,v2,4
+weight loss,Percentage loss in body weight during nymphal molting period,percent,Trait: weight loss. Definition: Percentage loss in body weight during nymphal molting period.,v2,4
+weight loss,Percentage loss in body weight during female prefeeding period,percent,Trait: weight loss. Definition: Percentage loss in body weight during female prefeeding period.,v2,-1
+weight,"Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity""",mg,"Trait: weight. Definition: Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity"".",v2,-1
+weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,Trait: weight. Definition: Weight of undisturbed female Hyalomma impeltatum after molting.,v2,6
+weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,Trait: weight. Definition: Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt).,v2,6
+weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,Trait: weight. Definition: Weight of undisturbed female Hyalomma impeltatum after engorgement.,v2,6
+weight,Mean egg mass,mg,Trait: weight. Definition: Mean egg mass.,v2,5
+Efficency,Percent weight transfered from engorged female at constant temperature to mass of eggs,percent,Trait: Efficency. Definition: Percent weight transfered from engorged female at constant temperature to mass of eggs.,v2,3
+Weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,Trait: Weight. Definition: Weight of undisturbed female Hyalomma impeltatum after molting.,v2,6
+Weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,Trait: Weight. Definition: Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt).,v2,6
+Weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,Trait: Weight. Definition: Weight of undisturbed female Hyalomma impeltatum after engorgement.,v2,6
+egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,Trait: egg mass. Definition: Mean egg mass by oviposition day of females raised at constant temps.,v2,5
+preoviposition period,mean time required for an engorged female tick to begin laying eggs,days,Trait: preoviposition period. Definition: mean time required for an engorged female tick to begin laying eggs.,v2,18
+incubation period,mean time required for an egg to hatch (from time of completion of egg deposition to eclosion of first larva),days,Trait: incubation period. Definition: mean time required for an egg to hatch (from time of completion of egg deposition to eclosion of first larva).,v2,10
+hardening period,mean time for a tick to become hardened,days,Trait: hardening period. Definition: mean time for a tick to become hardened.,v2,-1
+feeding period,mean time required for nymphs to feed,days,Trait: feeding period. Definition: mean time required for nymphs to feed.,v2,19
+moulting period,mean time required for nymphs to moult,days,Trait: moulting period. Definition: mean time required for nymphs to moult.,v2,19
+engorgement period,mean time required for females to become engorged,days,Trait: engorgement period. Definition: mean time required for females to become engorged.,v2,-1
+body size,mean weight of engorged tick,mg,Trait: body size. Definition: mean weight of engorged tick.,v2,5
+egg mass,mean weight of eggs,mg,Trait: egg mass. Definition: mean weight of eggs.,v2,5
+egg count,mean number of eggs layed,mg,Trait: egg count. Definition: mean number of eggs layed.,v2,-1
+body size,mean weight of engored nymphs,mg,Trait: body size. Definition: mean weight of engored nymphs.,v2,5
+hatchability,the percent of laid eggs that successfully hatched,percent,Trait: hatchability. Definition: the percent of laid eggs that successfully hatched.,v2,13
+conversion efficiency,the ratio of laid eggs to engorged female body mass calculated as the sum of all eggs laid divided by the sum of all females laying eggs,ratio,Trait: conversion efficiency. Definition: the ratio of laid eggs to engorged female body mass calculated as the sum of all eggs laid divided by the sum of all females laying eggs.,v2,3
+survival time,mean time for egg survival,days,Trait: survival time. Definition: mean time for egg survival.,v2,7
+survival time,mean time for unfed larva survival,days,Trait: survival time. Definition: mean time for unfed larva survival.,v2,7
+survival time,mean time for engorged nymph survival,days,Trait: survival time. Definition: mean time for engorged nymph survival.,v2,7
+survival time,mean time for unfed adult survival,days,Trait: survival time. Definition: mean time for unfed adult survival.,v2,7
+survival time,mean time for engorged adult survival,days,Trait: survival time. Definition: mean time for engorged adult survival.,v2,7
+survival rate,percentage of unfed adults that survive,percent,Trait: survival rate. Definition: percentage of unfed adults that survive.,v2,-1
+survival rate,percentage of ticks that survived at 5 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 5 degrees celcius.,v2,15
+survival rate,percentage of ticks that survived at 17 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 17 degrees celcius.,v2,15
+survival rate,percentage of ticks that survived at 24 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 24 degrees celcius.,v2,15
+survival rate,percentage of ticks that survived at 30 degrees celcius,percent,Trait: survival rate. Definition: percentage of ticks that survived at 30 degrees celcius.,v2,15
+percent moult,percentage moulted engorged on calves,days,Trait: percent moult. Definition: percentage moulted engorged on calves.,v2,-1
+premolting period,average pre-moulting period engorged on calves,days,Trait: premolting period. Definition: average pre-moulting period engorged on calves.,v2,-1
+survival time,average number of days unfed nymphs survived,days,Trait: survival time. Definition: average number of days unfed nymphs survived.,v2,7
+percent moult,percentage moulted engorged on rabbits,percent,Trait: percent moult. Definition: percentage moulted engorged on rabbits.,v2,-1
+engorgement period,average duration of engorgement on calves,days,Trait: engorgement period. Definition: average duration of engorgement on calves.,v2,-1
+engorgement period,average duration of engorgement on rabbits,days,Trait: engorgement period. Definition: average duration of engorgement on rabbits.,v2,-1
+hatchability,percent of eggs successfully hatching based on the day of oviposition during which it was laid,percent,Trait: hatchability. Definition: percent of eggs successfully hatching based on the day of oviposition during which it was laid.,v2,13
+feeding time,time required for larval ticks to reach engorgement post attachment,days,Trait: feeding time. Definition: time required for larval ticks to reach engorgement post attachment.,v2,-1
+molting period,time required for engorged larval ticks to molt,days,Trait: molting period. Definition: time required for engorged larval ticks to molt.,v2,-1
+survival rate,percentage of larval ticks that molted following engorgement,percent,Trait: survival rate. Definition: percentage of larval ticks that molted following engorgement.,v2,15
+preoviposition period,mean time until onset of oviposition,days,Trait: preoviposition period. Definition: mean time until onset of oviposition.,v2,18
+pre hatching period,mean time until hatching,days,Trait: pre hatching period. Definition: mean time until hatching.,v2,-1
+hatching period,mean time from initiation to completion of hatching,days,Trait: hatching period. Definition: mean time from initiation to completion of hatching.,v2,13
+egg conversion ratio,mean weight of eggs / mean weight of engorged females,percent,Trait: egg conversion ratio. Definition: mean weight of eggs / mean weight of engorged females.,v2,3
+hatchability,percent surviving life stage,percent,Trait: hatchability. Definition: percent surviving life stage.,v2,13
+questing,mean percent of ticks questing,percent,Trait: questing. Definition: mean percent of ticks questing.,v2,-1
+preoviposition,Mean preoviposition period in days,days,Trait: preoviposition. Definition: Mean preoviposition period in days.,v2,18
+oviposition,Mean ovipostion period in days,days,Trait: oviposition. Definition: Mean ovipostion period in days.,v2,18
+conversion efficiency,Mean index of conversion efficiency- (cumulative egg weight (g)/ replete female tick wt (g) )*100,percent,Trait: conversion efficiency. Definition: Mean index of conversion efficiency- (cumulative egg weight (g)/ replete female tick wt (g) )*100.,v2,3
+egg hatch,Mean percentage of eggs hatched,percent,Trait: egg hatch. Definition: Mean percentage of eggs hatched.,v2,-1
+incubation period,mean egg incubation period,days,Trait: incubation period. Definition: mean egg incubation period.,v2,10
+lipid content,median proportion of lipid content of the tick- calculated by (dried weight - lipid weight) / dried weight,NA,Trait: lipid content. Definition: median proportion of lipid content of the tick- calculated by (dried weight - lipid weight) / dried weight.,v2,-1
+Questing Height,questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,Trait: Questing Height. Definition: questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline.,v2,-1
+Distance Traveled,Average distance covered per hour while questing,mm,Trait: Distance Traveled. Definition: Average distance covered per hour while questing.,v2,-1
+Questing Time,Mean proportion of time tick seen questing (legs spread more than 50 percent) across the 38 hours,percent,Trait: Questing Time. Definition: Mean proportion of time tick seen questing (legs spread more than 50 percent) across the 38 hours.,v2,-1
+Questing Height,questing height -- Average (across 43 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,Trait: Questing Height. Definition: questing height -- Average (across 43 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline.,v2,-1
+Mortality Rate,number that survived the 38 hours,count,Trait: Mortality Rate. Definition: number that survived the 38 hours.,v2,-1
+Mortality Rate,number that survived the 43 hours,count,Trait: Mortality Rate. Definition: number that survived the 43 hours.,v2,-1
+Water loss,Water loss of ticks exposed to dry air for 24 hours,mg/cm2,Trait: Water loss. Definition: Water loss of ticks exposed to dry air for 24 hours.,v2,-1
+Weight loss,Weight loss of ticks exposed to dry air for 24 hours,percent,Trait: Weight loss. Definition: Weight loss of ticks exposed to dry air for 24 hours.,v2,-1
+Water loss,Water loss of dead engorged ticks exposed to dry air at a certain temperature for 30 mins,mg/cm2,Trait: Water loss. Definition: Water loss of dead engorged ticks exposed to dry air at a certain temperature for 30 mins.,v2,-1
+Development time,Mean time from engorgement to moulting,days,Trait: Development time. Definition: Mean time from engorgement to moulting.,v2,16
+Mortality Rate,Percent mortality in engorged ticks before moulting,percent,Trait: Mortality Rate. Definition: Percent mortality in engorged ticks before moulting.,v2,-1
+Oviposition Period,Oviposition Period 1/period(day) in engorged females,days-1,Trait: Oviposition Period. Definition: Oviposition Period 1/period(day) in engorged females.,v2,-1
+Pre-Oviposition Period in engorged females,Pre-Oviposition Period in engorged females,days-1,Trait: Pre-Oviposition Period in engorged females. Definition: Pre-Oviposition Period in engorged females.,v2,-1
+Development Rate (Egg),1 / time for egg incubation across const temps,days-1,Trait: Development Rate (Egg). Definition: 1 / time for egg incubation across const temps.,v2,-1
+Development Rate (Larva),1 / development time of Engorged Larva,days-1,Trait: Development Rate (Larva). Definition: 1 / development time of Engorged Larva.,v2,-1
+Development Rate (Nymph),1 / development time of Engorged Nymph,days-1,Trait: Development Rate (Nymph). Definition: 1 / development time of Engorged Nymph.,v2,-1
+preoviposition period,Mean Pre-Oviposition Period,days,Trait: preoviposition period. Definition: Mean Pre-Oviposition Period.,v2,18
+incubation period,Mean Incubation Period,days,Trait: incubation period. Definition: Mean Incubation Period.,v2,10
+oviposition,daily average number of eggs / female,eggs,Trait: oviposition. Definition: daily average number of eggs / female.,v2,-1
+Body Mass,Weight of an individual engorged female,mg,Trait: Body Mass. Definition: Weight of an individual engorged female.,v2,5
+Egg Mass,Weight of eggs laid by an individual female,mg,Trait: Egg Mass. Definition: Weight of eggs laid by an individual female.,v2,5
+Body Mass,mean daily weight of larvae during their feeding periods,mg,Trait: Body Mass. Definition: mean daily weight of larvae during their feeding periods.,v2,5
+Body Mass,mean daily weight of nymphs during their pharate periods,mg,Trait: Body Mass. Definition: mean daily weight of nymphs during their pharate periods.,v2,5
+Body Mass,mean daily weight of nymphs during their feeding periods,mg,Trait: Body Mass. Definition: mean daily weight of nymphs during their feeding periods.,v2,5
+Development Rate,percent of immature stages remaining x days after attatchment,percent,Trait: Development Rate. Definition: percent of immature stages remaining x days after attatchment.,v2,-1
+Development Rate,Percent of emerging males who develop on day X after attatchment (premolt period),percent,Trait: Development Rate. Definition: Percent of emerging males who develop on day X after attatchment (premolt period).,v2,-1
+Development Rate,Percent of emerging females who develop on day X after attatchment (premolt period),percent,Trait: Development Rate. Definition: Percent of emerging females who develop on day X after attatchment (premolt period).,v2,-1

@@ -1,0 +1,887 @@
+query_trait,ontology,term_id,term_label,term_definition
+development time,OBA,OBA:0002217,embryo development rate,The rate of a embryo development.
+development time,OBA,OBA:0003600,artery development rate,The rate of a artery development.
+development time,OBA,OBA:0004100,blastocyst development morphology,The morphology of a blastocyst development.
+development time,OBA,OBA:0004352,spermatid development occurrence,The occurrence of a spermatid development.
+development time,OBA,OBA:1000796,cloaca development quality,The quality of a cloaca development.
+survival,OBA,OBA:2044232,level of survival motor neuron protein in blood serum,The amount of a survival motor neuron protein when measured in blood serum.
+survival,OBA,OBA:2059004,level of survival motor neuron protein (human) in cerebrospinal fluid,The amount of a survival motor neuron protein (human) when measured in cerebrospinal fluid.
+survival,OBA,OBA:2050909,level of survival of motor neuron-related-splicing factor 30 in blood,The amount of a survival of motor neuron-related-splicing factor 30 when measured in blood.
+survival,OBA,OBA:2043556,level of survival of motor neuron-related-splicing factor 30 in blood serum,The amount of a survival of motor neuron-related-splicing factor 30 when measured in blood serum.
+survival,OBA,OBA:2056414,level of survival of motor neuron-related-splicing factor 30 (human) in cerebrospinal fluid,The amount of a survival of motor neuron-related-splicing factor 30 (human) when measured in cerebrospinal fluid.
+body size,OBA,OBA:0000107,multivesicular body size,The size of a multivesicular body.
+body size,OBA,OBA:0002793,ciliary body size,The size of a ciliary body.
+body size,OBA,OBA:0003321,pineal body size,The size of a pineal body.
+body size,OBA,OBA:VT0100005,body size trait,The size of a multicellular organism.
+body size,OBA,OBA:0002168,skin of body size,The size of a skin of body.
+longevity,OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+juvenile life span,OBA,OBA:0003653,multicellular organism life span,The life span of a multicellular organism.
+juvenile life span,OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+juvenile life span,OBA,PATO:0000050,life span,NA
+juvenile life span,OBA,PATO:0001603,increased life span,NA
+juvenile life span,OBA,PATO:0001604,decreased life span,NA
+fecundity,OBA,PATO:0000273,fecundity,NA
+fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+fecundity,OBA,PATO:0001695,increased fecundity,NA
+fecundity,OBA,PATO:0001696,decreased fecundity,NA
+fecundity,OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+mortality,OBA,OBA:2050757,level of mortality factor 4-like protein 1 in blood,The amount of a mortality factor 4-like protein 1 when measured in blood.
+mortality,OBA,OBA:2050758,level of mortality factor 4-like protein 2 in blood,The amount of a mortality factor 4-like protein 2 when measured in blood.
+mortality,OBA,OBA:2042401,level of mortality factor 4-like protein 1 in blood serum,The amount of a mortality factor 4-like protein 1 when measured in blood serum.
+mortality,OBA,OBA:2042402,level of mortality factor 4-like protein 2 in blood serum,The amount of a mortality factor 4-like protein 2 when measured in blood serum.
+mortality,OBA,OBA:2058865,level of mortality factor 4-like protein 2 (human) in cerebrospinal fluid,The amount of a mortality factor 4-like protein 2 (human) when measured in cerebrospinal fluid.
+cold hardiness,OBA,OBA:2041033,level of cold-inducible RNA-binding protein in blood serum,The amount of a cold-inducible RNA-binding protein when measured in blood serum.
+cold hardiness,OBA,OBA:2058752,level of cold-inducible RNA-binding protein (human) in cerebrospinal fluid,The amount of a cold-inducible RNA-binding protein (human) when measured in cerebrospinal fluid.
+cold hardiness,OBA,OBA:2041165,level of cold shock domain-containing protein C2 in blood serum,The amount of a cold shock domain-containing protein C2 when measured in blood serum.
+cold hardiness,OBA,OBA:2041166,level of cold shock domain-containing protein E1 in blood serum,The amount of a cold shock domain-containing protein E1 when measured in blood serum.
+cold hardiness,OBA,OBA:2056371,level of cold shock domain-containing protein E1 (human) in cerebrospinal fluid,The amount of a cold shock domain-containing protein E1 (human) when measured in cerebrospinal fluid.
+survival rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+survival rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+survival rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+survival rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+survival rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+development rate,OBA,OBA:0002217,embryo development rate,The rate of a embryo development.
+development rate,OBA,OBA:0003600,artery development rate,The rate of a artery development.
+development rate,OBA,OBA:0003599,ovarian follicle development rate,The rate of a ovarian follicle development.
+development rate,OBA,OBA:0004171,lung alveolus development rate,The rate of a lung alveolus development.
+development rate,OBA,OBA:0005316,mesenchymal cell proliferation involved in lung development rate,The rate of a mesenchymal cell proliferation involved in lung development.
+fecundity rate,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+fecundity rate,OBA,PATO:0000273,fecundity,NA
+fecundity rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+fecundity rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+fecundity rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+pre-reproductive period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+pre-reproductive period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+pre-reproductive period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+pre-reproductive period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+pre-reproductive period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+mortality rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+mortality rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+mortality rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+mortality rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+mortality rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+reproductive period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+reproductive period,OBA,OBA:0002007,reproductive system size,The size of a reproductive system.
+reproductive period,OBA,OBA:0002409,reproductive system displaced,The displaced of a reproductive system.
+reproductive period,OBA,OBA:2050117,reproductive behavior trait,The quality of a reproductive behavior.
+reproductive period,OBA,OBA:VT0005389,reproductive system trait,The quality when measured in reproductive system.
+recovery time,OBA,PATO:0000165,time,NA
+recovery time,OBA,OBA:2040171,sleep duration trait,The duration of a sleep.
+recovery time,OBA,OBA:2040011,trait in response to mycophenolic acid,A trait that affects the response to a stimulus with mycophenolic acid.
+recovery time,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+recovery time,OBA,OBA:2001010,age of onset of essential hypertension,The age at which essential hypertension manifestations first appear.
+weight loss,OBA,HP:0001824,Weight loss,NA
+weight loss,OBA,OBA:0003744,regulation of water loss via skin rate,regulation of water loss via skin (GO_0033561) was obsoleted
+weight loss,OBA,OBA:VT0004257,placenta mass,The mass of a placenta.
+weight loss,OBA,OBA:2051506,level of loss of heterozygosity 11 chromosomal region 2 gene A protein in blood,The amount of a loss of heterozygosity 11 chromosomal region 2 gene A protein when measured in blood.
+weight loss,OBA,HP:0000572,Visual loss,NA
+oocyst prevalence,OBA,HP:0002315,Headache,"Headache is one of the most common types of recurrent pain as well as one of the most frequent symptoms in neurology. In addition to occasional headaches, there are well-defined headache disorders that vary in incidence, prevalence and duration and can be divided into two broad categories. In secondary headache disorders, headaches are attributed to another condition, such as brain tumor or head injury; for the primary disorders the headache is not due to another condition."
+ovipositional period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+ovipositional period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+ovipositional period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+ovipositional period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+ovipositional period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+gonotrophic cycle,OBA,OBA:0004567,ovulation cycle duration,The duration of a ovulation cycle.
+gonotrophic cycle,OBA,OBA:0004569,ovulation cycle amount,The amount of a ovulation cycle.
+gonotrophic cycle,OBA,OBA:1000268,cell cycle quality,The quality of a cell cycle.
+gonotrophic cycle,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+gonotrophic cycle,OBA,OBA:VT0000427,hair cycle trait,The quality of a hair cycle.
+starvation tolerance,OBA,GO:0002507,tolerance induction,NA
+starvation tolerance,OBA,GO:0002427,mucosal tolerance induction,NA
+starvation tolerance,OBA,GO:0002465,peripheral tolerance induction,NA
+starvation tolerance,OBA,GO:0002508,central tolerance induction,NA
+starvation tolerance,OBA,GO:0010931,macrophage tolerance induction,NA
+preoviposition period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+preoviposition period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+preoviposition period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+preoviposition period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+preoviposition period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+egg mass,OBA,OBA:VT1000294,egg quantity,The amount of a egg cell.
+egg mass,OBA,OBA:1001091,egg shell trait,The quality of a eggshell.
+egg mass,OBA,OBA:1001092,egg shell color,The color of a eggshell.
+egg mass,OBA,OBA:2040151,shelled egg length,The length of a shelled egg.
+egg mass,OBA,OBA:2040152,shelled egg width,The width of a shelled egg.
+gonotrophic cycle 1,OBA,OBA:0004567,ovulation cycle duration,The duration of a ovulation cycle.
+gonotrophic cycle 1,OBA,OBA:0004569,ovulation cycle amount,The amount of a ovulation cycle.
+gonotrophic cycle 1,OBA,OBA:1000268,cell cycle quality,The quality of a cell cycle.
+gonotrophic cycle 1,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+gonotrophic cycle 1,OBA,OBA:VT0000427,hair cycle trait,The quality of a hair cycle.
+survival time,OBA,OBA:2044232,level of survival motor neuron protein in blood serum,The amount of a survival motor neuron protein when measured in blood serum.
+survival time,OBA,OBA:2059004,level of survival motor neuron protein (human) in cerebrospinal fluid,The amount of a survival motor neuron protein (human) when measured in cerebrospinal fluid.
+survival time,OBA,OBA:2050909,level of survival of motor neuron-related-splicing factor 30 in blood,The amount of a survival of motor neuron-related-splicing factor 30 when measured in blood.
+survival time,OBA,OBA:2043556,level of survival of motor neuron-related-splicing factor 30 in blood serum,The amount of a survival of motor neuron-related-splicing factor 30 when measured in blood serum.
+survival time,OBA,OBA:2056414,level of survival of motor neuron-related-splicing factor 30 (human) in cerebrospinal fluid,The amount of a survival of motor neuron-related-splicing factor 30 (human) when measured in cerebrospinal fluid.
+post-reproductive period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+post-reproductive period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+post-reproductive period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+post-reproductive period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+post-reproductive period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+molting period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+molting period,OBA,GO:0042303,molting cycle,NA
+molting period,OBA,GO:0022404,molting cycle process,NA
+molting period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+molting period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+pre-oviposition period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+pre-oviposition period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+pre-oviposition period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+pre-oviposition period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+pre-oviposition period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+resource consumption rate,OBA,OBA:1000654,saccharin consumption quality,The quality of a saccharin consumption.
+resource consumption rate,OBA,OBA:1000679,cocaine consumption quality,The quality of a cocaine consumption.
+resource consumption rate,OBA,OBA:1000690,food consumption quality,The quality of a food consumption.
+resource consumption rate,OBA,OBA:1000840,alcohol consumption quality,The quality of a alcohol consumption.
+resource consumption rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+age specific fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+age specific fecundity,OBA,PATO:0000273,fecundity,NA
+age specific fecundity,OBA,OBA:2045410,multicellular organism age,The age of a multicellular organism.
+age specific fecundity,OBA,PATO:0001695,increased fecundity,NA
+age specific fecundity,OBA,PATO:0001696,decreased fecundity,NA
+life cycle,OBA,UBERON:0000104,life cycle,NA
+life cycle,OBA,OBA:2020001,life cycle stage trait,The quality of a life cycle stage.
+life cycle,OBA,OBA:2045261,quality of life cycle,The quality of a life cycle.
+life cycle,OBA,UBERON:0000105,life cycle stage,NA
+life cycle,OBA,OBA:0003653,multicellular organism life span,The life span of a multicellular organism.
+premolt period (nymphal),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+premolt period (nymphal),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+premolt period (nymphal),OBA,PR:000050150,period circadian protein homolog,Category=family.
+premolt period (nymphal),OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+premolt period (nymphal),OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+Weight,OBA,OBA:VT0004257,placenta mass,The mass of a placenta.
+Weight,OBA,OBA:2057477,level of low molecular weight phosphotyrosine protein phosphatase (human) in cerebrospinal fluid,The amount of a low molecular weight phosphotyrosine protein phosphatase (human) when measured in cerebrospinal fluid.
+Weight,OBA,HP:0001824,Weight loss,NA
+Weight,OBA,HP:0004324,Increased body weight,Abnormally increased body weight.
+Weight,OBA,HP:0004325,Decreased body weight,Abnormally low body weight.
+incubation period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+incubation period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+incubation period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+incubation period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+incubation period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+age at first reproduction,OBA,OBA:2042685,level of out at first protein in blood serum,The amount of a out at first protein when measured in blood serum.
+age at first reproduction,OBA,OBA:2045410,multicellular organism age,The age of a multicellular organism.
+age at first reproduction,OBA,OBA:2059570,level of out at first protein homolog (human) in cerebrospinal fluid,The amount of a out at first protein homolog (human) when measured in cerebrospinal fluid.
+age at first reproduction,OBA,OBA:2001001,age of onset of asthma,The age at which asthma manifestations first appear.
+age at first reproduction,OBA,OBA:2001004,age of onset of cataract,The age at which cataract manifestations first appear.
+sporozoite prevalence,OBA,HP:0002315,Headache,"Headache is one of the most common types of recurrent pain as well as one of the most frequent symptoms in neurology. In addition to occasional headaches, there are well-defined headache disorders that vary in incidence, prevalence and duration and can be divided into two broad categories. In secondary headache disorders, headaches are attributed to another condition, such as brain tumor or head injury; for the primary disorders the headache is not due to another condition."
+percent survival,OBA,OBA:2044232,level of survival motor neuron protein in blood serum,The amount of a survival motor neuron protein when measured in blood serum.
+percent survival,OBA,OBA:2059004,level of survival motor neuron protein (human) in cerebrospinal fluid,The amount of a survival motor neuron protein (human) when measured in cerebrospinal fluid.
+percent survival,OBA,OBA:2050909,level of survival of motor neuron-related-splicing factor 30 in blood,The amount of a survival of motor neuron-related-splicing factor 30 when measured in blood.
+percent survival,OBA,OBA:2043556,level of survival of motor neuron-related-splicing factor 30 in blood serum,The amount of a survival of motor neuron-related-splicing factor 30 when measured in blood serum.
+percent survival,OBA,OBA:2056414,level of survival of motor neuron-related-splicing factor 30 (human) in cerebrospinal fluid,The amount of a survival of motor neuron-related-splicing factor 30 (human) when measured in cerebrospinal fluid.
+temperature thresholds for oviposition,OBA,OBA:1000356,temperature homeostasis quality,The quality of a temperature homeostasis.
+temperature thresholds for oviposition,OBA,OBA:VT0005535,body temperature trait,The temperature of a multicellular organism.
+temperature thresholds for oviposition,OBA,OBA:1000912,circadian temperature homeostasis quality,The quality of a circadian temperature homeostasis.
+temperature thresholds for oviposition,OBA,PATO:0000146,temperature,NA
+temperature thresholds for oviposition,OBA,GO:0001659,temperature homeostasis,NA
+growth rate,OBA,PATO:0001492,growth rate,NA
+growth rate,OBA,OBA:0002215,growth rate trait,The rate of a growth.
+growth rate,OBA,OBA:2045230,growth rate attribute,The growth rate of a growth.
+growth rate,OBA,OBA:0002148,growth hormone secretion rate,The rate of a growth hormone secretion.
+growth rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+metabolic rate,OBA,OBA:0002575,galactose metabolic process rate,The rate of a galactose metabolic process.
+metabolic rate,OBA,OBA:0003195,fructose metabolic process rate,The rate of a fructose metabolic process.
+metabolic rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+metabolic rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+metabolic rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+premolt period (larval),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+premolt period (larval),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+premolt period (larval),OBA,PATO:0001185,larval,NA
+premolt period (larval),OBA,PR:000050150,period circadian protein homolog,Category=family.
+premolt period (larval),OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+hatch rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+hatch rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+hatch rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+hatch rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+hatch rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+oocyst intensity,OBA,OBA:VT1000190,estrus intensity,The intensity of a estrus.
+oocyst intensity,OBA,OBA:0003827,cellular response to stimulus intensity,The intensity of a cellular response to stimulus.
+oocyst intensity,OBA,PATO:0000049,intensity,NA
+oocyst intensity,OBA,PATO:0001782,increased intensity,NA
+oocyst intensity,OBA,PATO:0001783,decreased intensity,NA
+age-specific daily fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+age-specific daily fecundity,OBA,PATO:0000273,fecundity,NA
+age-specific daily fecundity,OBA,PATO:0001695,increased fecundity,NA
+age-specific daily fecundity,OBA,PATO:0001696,decreased fecundity,NA
+age-specific daily fecundity,OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+development duration,OBA,OBA:0004003,parturition duration,The duration of a parturition.
+development duration,OBA,OBA:1001086,QRS duration,See also EFO_0005054
+development duration,OBA,OBA:VT1000653,lactation duration,The length of a lactation.
+development duration,OBA,OBA:0003416,penile erection duration,The duration of a penile erection.
+development duration,OBA,OBA:0004567,ovulation cycle duration,The duration of a ovulation cycle.
+developmental time,OBA,OBA:0002199,developmental process onset quality,The onset quality of a developmental process.
+developmental time,OBA,OBA:2041354,level of developmental pluripotency-associated protein 4 in blood serum,The amount of a developmental pluripotency-associated protein 4 when measured in blood serum.
+developmental time,OBA,OBA:2041986,level of interferon-related developmental regulator 1 in blood serum,The amount of a interferon-related developmental regulator 1 when measured in blood serum.
+developmental time,OBA,OBA:2055948,level of interferon-related developmental regulator 1 (human) in cerebrospinal fluid,The amount of a interferon-related developmental regulator 1 (human) when measured in cerebrospinal fluid.
+developmental time,OBA,OBA:2059480,level of developmental pluripotency-associated protein 4 (human) in cerebrospinal fluid,The amount of a developmental pluripotency-associated protein 4 (human) when measured in cerebrospinal fluid.
+gonotrophic cycle 2,OBA,OBA:0004567,ovulation cycle duration,The duration of a ovulation cycle.
+gonotrophic cycle 2,OBA,OBA:0004569,ovulation cycle amount,The amount of a ovulation cycle.
+gonotrophic cycle 2,OBA,OBA:1000268,cell cycle quality,The quality of a cell cycle.
+gonotrophic cycle 2,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+gonotrophic cycle 2,OBA,OBA:VT0000427,hair cycle trait,The quality of a hair cycle.
+average daily fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+average daily fecundity,OBA,PATO:0000273,fecundity,NA
+average daily fecundity,OBA,PATO:0001695,increased fecundity,NA
+average daily fecundity,OBA,PATO:0001696,decreased fecundity,NA
+average daily fecundity,OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+Development time,OBA,OBA:0002217,embryo development rate,The rate of a embryo development.
+Development time,OBA,OBA:0003600,artery development rate,The rate of a artery development.
+Development time,OBA,OBA:0004100,blastocyst development morphology,The morphology of a blastocyst development.
+Development time,OBA,OBA:0004352,spermatid development occurrence,The occurrence of a spermatid development.
+Development time,OBA,OBA:1000796,cloaca development quality,The quality of a cloaca development.
+Water loss,OBA,OBA:0003744,regulation of water loss via skin rate,regulation of water loss via skin (GO_0033561) was obsoleted
+Water loss,OBA,OBA:VT0003853,skin water amount,The amount of a water when measured in zone of skin.
+Water loss,OBA,OBA:VT1000432,muscle water amount,The amount of a water when measured in muscle organ.
+Water loss,OBA,OBA:0002165,skin of body water composition,The water composition of a skin of body.
+Water loss,OBA,OBA:0003876,zone of skin water composition,The water composition of a zone of skin.
+viral load,OBA,OBA:0000181,viral protein levels,NA
+viral load,OBA,OBA:2051394,level of ecotropic viral integration site 5 protein in blood,The amount of a ecotropic viral integration site 5 protein when measured in blood.
+viral load,OBA,GO:0016032,viral process,See also the biological process terms 'viral infectious cycle ; GO:0019058' and 'lysogeny ; GO:0030069'.
+viral load,OBA,MONDO:0001507,viral labyrinthitis,NA
+viral load,OBA,MONDO:0002270,viral gastritis,NA
+adult longevity,OBA,OBA:1000037,adult organism mass,The mass of a adult organism.
+adult longevity,OBA,OBA:2041551,level of fetal and adult testis-expressed transcript protein in blood serum,The amount of a fetal and adult testis-expressed transcript protein when measured in blood serum.
+adult longevity,OBA,OBA:2080239,level of fetal and adult testis-expressed transcript protein (human) in cerebrospinal fluid,The amount of a fetal and adult testis-expressed transcript protein (human) when measured in cerebrospinal fluid.
+adult longevity,OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+adult longevity,OBA,UBERON:0007023,adult organism,NA
+bloodmeal weight,OBA,OBA:VT0004257,placenta mass,The mass of a placenta.
+bloodmeal weight,OBA,OBA:2057477,level of low molecular weight phosphotyrosine protein phosphatase (human) in cerebrospinal fluid,The amount of a low molecular weight phosphotyrosine protein phosphatase (human) when measured in cerebrospinal fluid.
+bloodmeal weight,OBA,HP:0001824,Weight loss,NA
+bloodmeal weight,OBA,HP:0004324,Increased body weight,Abnormally increased body weight.
+bloodmeal weight,OBA,HP:0004325,Decreased body weight,Abnormally low body weight.
+Development Rate,OBA,OBA:0002217,embryo development rate,The rate of a embryo development.
+Development Rate,OBA,OBA:0003600,artery development rate,The rate of a artery development.
+Development Rate,OBA,OBA:0003599,ovarian follicle development rate,The rate of a ovarian follicle development.
+Development Rate,OBA,OBA:0004171,lung alveolus development rate,The rate of a lung alveolus development.
+Development Rate,OBA,OBA:0005316,mesenchymal cell proliferation involved in lung development rate,The rate of a mesenchymal cell proliferation involved in lung development.
+conversion efficiency index,OBA,OBA:2045455,body mass to height ratio,A compound attribute that is the ratio of body mass to body height.
+conversion efficiency index,OBA,OBA:2045456,body mass to body extent ratio,A compound attribute that is the ratio of body mass to body extent.
+conversion efficiency index,OBA,GO:0014862,regulation of skeletal muscle contraction by chemo-mechanical energy conversion,NA
+conversion efficiency index,OBA,OBA:2045282,facial pigmentation,The degree of pigmentation of a face.
+conversion efficiency index,OBA,OBA:0003330,calcaneus size,The size of a calcaneus.
+feeding behavior,OBA,GO:0007631,feeding behavior,See also the biological process term 'behavior ; GO:0007610'.
+feeding behavior,OBA,NBO:0000079,feeding behavior,"The act of bringing an object or substance into the body by swallowing, surrounding or absorbing it [NBO:SMAC]"
+feeding behavior,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding behavior,OBA,NBO:0000270,feeding behavior phenotype,NA
+feeding behavior,OBA,GO:0060259,regulation of feeding behavior,NA
+metabolic rate (standard),OBA,OBA:0002575,galactose metabolic process rate,The rate of a galactose metabolic process.
+metabolic rate (standard),OBA,OBA:0003195,fructose metabolic process rate,The rate of a fructose metabolic process.
+metabolic rate (standard),OBA,OBA:0002011,micturition rate,The rate of a micturition.
+metabolic rate (standard),OBA,OBA:0002200,reflex rate,The rate of a reflex.
+metabolic rate (standard),OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+Body Mass,OBA,OBA:VT0001259,body mass,The mass of a multicellular organism.
+Body Mass,OBA,OBA:VT0010482,body fat mass,The mass of a adipose tissue.
+Body Mass,OBA,OBA:2045456,body mass to body extent ratio,A compound attribute that is the ratio of body mass to body extent.
+Body Mass,OBA,OBA:2045455,body mass to height ratio,A compound attribute that is the ratio of body mass to body height.
+Body Mass,OBA,OBA:2030004,total skin mass,The mass of a skin of body.
+fat consumption rate,OBA,OBA:1000654,saccharin consumption quality,The quality of a saccharin consumption.
+fat consumption rate,OBA,OBA:1000679,cocaine consumption quality,The quality of a cocaine consumption.
+fat consumption rate,OBA,OBA:1000690,food consumption quality,The quality of a food consumption.
+fat consumption rate,OBA,OBA:1000840,alcohol consumption quality,The quality of a alcohol consumption.
+fat consumption rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+molt success rate (larval),OBA,OBA:0002011,micturition rate,The rate of a micturition.
+molt success rate (larval),OBA,OBA:0002200,reflex rate,The rate of a reflex.
+molt success rate (larval),OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+molt success rate (larval),OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+molt success rate (larval),OBA,OBA:0003172,anagen rate,The rate of a anagen.
+Mortality Rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+Mortality Rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+Mortality Rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+Mortality Rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+Mortality Rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+Pre-reproductive average,OBA,OBA:2050113,LDL particle size,The size of a low-density lipoprotein particle.
+Pre-reproductive average,OBA,OBA:2050114,VLDL particle size,The size of a very-low-density lipoprotein particle.
+Pre-reproductive average,OBA,OBA:2050115,HDL particle size,The size of a high-density lipoprotein particle.
+Pre-reproductive average,OBA,OBA:2040030,trait in response to ethanol,A trait that affects the response to a stimulus with ethanol.
+Pre-reproductive average,OBA,OBA:VT0001253,body height,The height of a multicellular organism.
+lipid content,OBA,HP:0009058,Increased muscle lipid content,Increased neutral lipid content may be observed on muscle biopsies specimen with the specific staining of Sudan black or oil red O techniques by optic microscopy.
+lipid content,OBA,OBA:2045435,stomach content pH,The acidity of a stomach lumen.
+lipid content,OBA,OBA:VT0010714,milk zinc content,The amount of a zinc atom when measured in milk.
+lipid content,OBA,OBA:VT0001547,lipid amount,The amount of a lipid when measured in anatomical entity.
+lipid content,OBA,OBA:2045301,erythrocyte hemoglobin content trait,The amount of a hemoglobin when measured in erythrocyte.
+metabolic rate (resting),OBA,OBA:0002575,galactose metabolic process rate,The rate of a galactose metabolic process.
+metabolic rate (resting),OBA,OBA:0003195,fructose metabolic process rate,The rate of a fructose metabolic process.
+metabolic rate (resting),OBA,OBA:0000134,resting membrane potential,NA
+metabolic rate (resting),OBA,OBA:1000821,resting posture quality,The quality of a resting posture.
+metabolic rate (resting),OBA,OBA:1001087,heart rate,The rate of a heart contraction.
+feeding time,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding time,OBA,GO:0007631,feeding behavior,See also the biological process term 'behavior ; GO:0007610'.
+feeding time,OBA,HP:0011968,Feeding difficulties,"Difficulties with eating and drinking, resulting in decreased oral nutrition"
+feeding time,OBA,NBO:0000079,feeding behavior,"The act of bringing an object or substance into the body by swallowing, surrounding or absorbing it [NBO:SMAC]"
+feeding time,OBA,NBO:0000270,feeding behavior phenotype,NA
+Molting Period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+Molting Period,OBA,GO:0042303,molting cycle,NA
+Molting Period,OBA,GO:0022404,molting cycle process,NA
+Molting Period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+Molting Period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+percent moult,OBA,OBA:2050351,breast density,The mass density of a breast.
+percent moult,OBA,HP:0010814,Abnormal position of hair whorl,"Placement of hair whorl should be described as parietal, vertex, eccentric, etc. In addition, the number of hair whorls should be noted. Five percent of the population has two whorls."
+percent moult,OBA,HP:0033144,Abnormal circulating ceruloplasmin concentration,"Ceruloplasmin is a serum ferroxidase responsible for 90 percent of copper transport. Also, ceruloplasmin is a positive acute-phase reactant, meaning its levels will increase in inflammatory conditions or cell injury."
+percent moult,OBA,HP:0002188,Delayed CNS myelination,"A delay in the process of myelination, which normally begins in the fifth fetal month and is about 90 percent complete at the age of two years. Myelination continues into early adulthood."
+percent moult,OBA,HP:0010813,Abnormal number of hair whorls,"Most individuals have one clockwise hair whorl at a single point on the scalp lateral to the midline but close to the vertex of the skull. Five percent of the population has two whorls. A double hair whorl is sometimes referred to as a double crown. In 10%, whorl direction is counter-clockwise."
+premolting period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+premolting period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+premolting period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+premolting period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+premolting period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+weight,OBA,OBA:VT0004257,placenta mass,The mass of a placenta.
+weight,OBA,OBA:2057477,level of low molecular weight phosphotyrosine protein phosphatase (human) in cerebrospinal fluid,The amount of a low molecular weight phosphotyrosine protein phosphatase (human) when measured in cerebrospinal fluid.
+weight,OBA,HP:0001824,Weight loss,NA
+weight,OBA,HP:0004324,Increased body weight,Abnormally increased body weight.
+weight,OBA,HP:0004325,Decreased body weight,Abnormally low body weight.
+feed conversion rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+feed conversion rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+feed conversion rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+feed conversion rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+feed conversion rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+mortality (adult),OBA,OBA:2050757,level of mortality factor 4-like protein 1 in blood,The amount of a mortality factor 4-like protein 1 when measured in blood.
+mortality (adult),OBA,OBA:2050758,level of mortality factor 4-like protein 2 in blood,The amount of a mortality factor 4-like protein 2 when measured in blood.
+mortality (adult),OBA,OBA:2042401,level of mortality factor 4-like protein 1 in blood serum,The amount of a mortality factor 4-like protein 1 when measured in blood serum.
+mortality (adult),OBA,OBA:2042402,level of mortality factor 4-like protein 2 in blood serum,The amount of a mortality factor 4-like protein 2 when measured in blood serum.
+mortality (adult),OBA,OBA:1000037,adult organism mass,The mass of a adult organism.
+mortality (nymphal),OBA,OBA:2050757,level of mortality factor 4-like protein 1 in blood,The amount of a mortality factor 4-like protein 1 when measured in blood.
+mortality (nymphal),OBA,OBA:2050758,level of mortality factor 4-like protein 2 in blood,The amount of a mortality factor 4-like protein 2 when measured in blood.
+mortality (nymphal),OBA,OBA:2042401,level of mortality factor 4-like protein 1 in blood serum,The amount of a mortality factor 4-like protein 1 when measured in blood serum.
+mortality (nymphal),OBA,OBA:2042402,level of mortality factor 4-like protein 2 in blood serum,The amount of a mortality factor 4-like protein 2 when measured in blood serum.
+mortality (nymphal),OBA,OBA:2058865,level of mortality factor 4-like protein 2 (human) in cerebrospinal fluid,The amount of a mortality factor 4-like protein 2 (human) when measured in cerebrospinal fluid.
+peak fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+peak fecundity,OBA,PATO:0000273,fecundity,NA
+peak fecundity,OBA,PATO:0001695,increased fecundity,NA
+peak fecundity,OBA,PATO:0001696,decreased fecundity,NA
+peak fecundity,OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+molt success rate (nymphal),OBA,OBA:0002011,micturition rate,The rate of a micturition.
+molt success rate (nymphal),OBA,OBA:0002200,reflex rate,The rate of a reflex.
+molt success rate (nymphal),OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+molt success rate (nymphal),OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+molt success rate (nymphal),OBA,OBA:0003172,anagen rate,The rate of a anagen.
+Egg Mass,OBA,OBA:VT1000294,egg quantity,The amount of a egg cell.
+Egg Mass,OBA,OBA:1001091,egg shell trait,The quality of a eggshell.
+Egg Mass,OBA,OBA:1001092,egg shell color,The color of a eggshell.
+Egg Mass,OBA,OBA:2040151,shelled egg length,The length of a shelled egg.
+Egg Mass,OBA,OBA:2040152,shelled egg width,The width of a shelled egg.
+hatch time,OBA,PATO:0000165,time,NA
+hatch time,OBA,OBA:2040171,sleep duration trait,The duration of a sleep.
+hatch time,OBA,OBA:2040011,trait in response to mycophenolic acid,A trait that affects the response to a stimulus with mycophenolic acid.
+hatch time,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+hatch time,OBA,OBA:2001010,age of onset of essential hypertension,The age at which essential hypertension manifestations first appear.
+conversion efficiency,OBA,GO:0014862,regulation of skeletal muscle contraction by chemo-mechanical energy conversion,NA
+conversion efficiency,OBA,OBA:2040170,sleep quality,The quality of a sleep.
+conversion efficiency,OBA,OBA:VT0015058,brain physiology trait,The functionality of a brain.
+conversion efficiency,OBA,OBA:2045295,brain connectivity attribute,The structure of a brain.
+conversion efficiency,OBA,CHEBI:62803,fuel additive,Any additive that enhances the efficiency of fuel.
+consumption rate,OBA,OBA:1000654,saccharin consumption quality,The quality of a saccharin consumption.
+consumption rate,OBA,OBA:1000679,cocaine consumption quality,The quality of a cocaine consumption.
+consumption rate,OBA,OBA:1000690,food consumption quality,The quality of a food consumption.
+consumption rate,OBA,OBA:1000840,alcohol consumption quality,The quality of a alcohol consumption.
+consumption rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+molting time,OBA,GO:0042303,molting cycle,NA
+molting time,OBA,GO:0022404,molting cycle process,NA
+molting time,OBA,PATO:0000165,time,NA
+molting time,OBA,OBA:2040171,sleep duration trait,The duration of a sleep.
+molting time,OBA,OBA:2040011,trait in response to mycophenolic acid,A trait that affects the response to a stimulus with mycophenolic acid.
+larval hatch rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+larval hatch rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+larval hatch rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+larval hatch rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+larval hatch rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+Oviposition Rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+Oviposition Rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+Oviposition Rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+Oviposition Rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+Oviposition Rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+aphid longevity,OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+feeding period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+feeding period,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+feeding period,OBA,GO:0007631,feeding behavior,See also the biological process term 'behavior ; GO:0007610'.
+feeding period,OBA,HP:0011968,Feeding difficulties,"Difficulties with eating and drinking, resulting in decreased oral nutrition"
+fertility,OBA,PATO:0000274,fertility,NA
+fertility,OBA,OBA:VT0010464,fertility trait,The fertility of a multicellular organism.
+fertility,OBA,OBA:VT0001922,male fertility trait,The fertility of a male organism.
+fertility,OBA,OBA:VT0001923,female fertility trait,The female fertility of a female organism.
+fertility,OBA,OBA:0003685,multicellular organism male fertility,The male fertility of a multicellular organism.
+oviposition period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+oviposition period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+oviposition period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+oviposition period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+oviposition period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+body size (alate nymph),OBA,OBA:0000107,multivesicular body size,The size of a multivesicular body.
+body size (alate nymph),OBA,OBA:0002793,ciliary body size,The size of a ciliary body.
+body size (alate nymph),OBA,OBA:0003321,pineal body size,The size of a pineal body.
+body size (alate nymph),OBA,OBA:VT0100005,body size trait,The size of a multicellular organism.
+body size (alate nymph),OBA,OBA:0002168,skin of body size,The size of a skin of body.
+body size (length),OBA,OBA:VT0001256,body length,The length of a multicellular organism.
+body size (length),OBA,OBA:0000107,multivesicular body size,The size of a multivesicular body.
+body size (length),OBA,OBA:0002793,ciliary body size,The size of a ciliary body.
+body size (length),OBA,OBA:0003321,pineal body size,The size of a pineal body.
+body size (length),OBA,OBA:VT0100005,body size trait,The size of a multicellular organism.
+molting period (larval),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+molting period (larval),OBA,GO:0042303,molting cycle,NA
+molting period (larval),OBA,GO:0022404,molting cycle process,NA
+molting period (larval),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+molting period (larval),OBA,PATO:0001185,larval,NA
+molting period (nymphal),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+molting period (nymphal),OBA,GO:0042303,molting cycle,NA
+molting period (nymphal),OBA,GO:0022404,molting cycle process,NA
+molting period (nymphal),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+molting period (nymphal),OBA,PR:000050150,period circadian protein homolog,Category=family.
+Weight loss,OBA,HP:0001824,Weight loss,NA
+Weight loss,OBA,OBA:0003744,regulation of water loss via skin rate,regulation of water loss via skin (GO_0033561) was obsoleted
+Weight loss,OBA,OBA:VT0004257,placenta mass,The mass of a placenta.
+Weight loss,OBA,OBA:2051506,level of loss of heterozygosity 11 chromosomal region 2 gene A protein in blood,The amount of a loss of heterozygosity 11 chromosomal region 2 gene A protein when measured in blood.
+Weight loss,OBA,HP:0000572,Visual loss,NA
+body length,OBA,OBA:VT0001256,body length,The length of a multicellular organism.
+body length,OBA,OBA:2045456,body mass to body extent ratio,A compound attribute that is the ratio of body mass to body extent.
+body length,OBA,OBA:0000102,microvillus length,The length of a microvillus.
+body length,OBA,OBA:0002056,face length,The length of a face.
+body length,OBA,OBA:0002069,chin length,The length of a chin.
+egg hatch,OBA,OBA:VT1000294,egg quantity,The amount of a egg cell.
+egg hatch,OBA,OBA:1001091,egg shell trait,The quality of a eggshell.
+egg hatch,OBA,OBA:1001092,egg shell color,The color of a eggshell.
+egg hatch,OBA,OBA:2040151,shelled egg length,The length of a shelled egg.
+egg hatch,OBA,OBA:2040152,shelled egg width,The width of a shelled egg.
+feeding preference,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding preference,OBA,OBA:1000817,conditioned place preference behavior quality,The quality of a conditioned place preference behavior.
+feeding preference,OBA,NBO:0000141,food preference,NA
+feeding preference,OBA,NBO:0000133,liquid preference/aversion,NA
+feeding preference,OBA,NBO:0000135,food preference/aversion,NA
+oviposition failure,OBA,HP:0001399,Hepatic failure,NA
+oviposition failure,OBA,MONDO:0005252,heart failure,NA
+oviposition failure,OBA,HP:0001508,Failure to thrive,"Although there is no clear consensus on the exact definition of FTT, it is usually diagnoses in a child growing below the 3rd percentile or in a child whose decreased growth has cross two major growth percentiles (for example, from above the 75th percentile to below the 25th percentile)."
+oviposition failure,OBA,HP:0001635,Congestive heart failure,NA
+oviposition failure,OBA,HP:0006554,Acute hepatic failure,NA
+sex ratio,OBA,OBA:1001089,multicellular organism sex,The biological sex of a multicellular organism.
+sex ratio,OBA,OBA:VT0002210,sex determination trait,The quality of a sex determination.
+sex ratio,OBA,OBA:0002003,multicellular organism phenotypic sex,The phenotypic sex of a multicellular organism.
+sex ratio,OBA,OBA:0004263,testis sex cord amount,The amount of a testis sex cord.
+sex ratio,OBA,OBA:1000853,primary sex determination quality,The quality of a primary sex determination.
+Feeding Period of Nymphs (Days),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+Feeding Period of Nymphs (Days),OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+Feeding Period of Nymphs (Days),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+Feeding Period of Nymphs (Days),OBA,GO:0060259,regulation of feeding behavior,NA
+Feeding Period of Nymphs (Days),OBA,NBO:0002436,regulation of feeding behavior,NA
+hatching range,OBA,OBA:0003853,blastocyst hatching amount,The amount of a blastocyst hatching.
+hatching range,OBA,OBA:0003854,blastocyst hatching onset quality,The onset quality of a blastocyst hatching.
+hatching range,OBA,GO:0035188,hatching,NA
+hatching range,OBA,GO:0001835,blastocyst hatching,"See also the Anatomical Dictionary for Mouse Development ontology terms 'TS4, zona pellucida ; EMAP:22' and 'TS5, embryo ; EMAP:23'."
+hatching range,OBA,GO:0009792,embryo development ending in birth or egg hatching,NA
+head capsule width,OBA,OBA:VT0000027,head width,The width of a head.
+head capsule width,OBA,OBA:1000085,nucleus width,The width of a nucleus.
+head capsule width,OBA,OBA:2040146,cell width,The width of a cell.
+head capsule width,OBA,OBA:VT0000132,epiphysis width,The width of a epiphysis.
+head capsule width,OBA,OBA:VT0003588,ureter width,The width of a ureter.
+mortality (larval),OBA,OBA:2050757,level of mortality factor 4-like protein 1 in blood,The amount of a mortality factor 4-like protein 1 when measured in blood.
+mortality (larval),OBA,OBA:2050758,level of mortality factor 4-like protein 2 in blood,The amount of a mortality factor 4-like protein 2 when measured in blood.
+mortality (larval),OBA,OBA:2042401,level of mortality factor 4-like protein 1 in blood serum,The amount of a mortality factor 4-like protein 1 when measured in blood serum.
+mortality (larval),OBA,OBA:2042402,level of mortality factor 4-like protein 2 in blood serum,The amount of a mortality factor 4-like protein 2 when measured in blood serum.
+mortality (larval),OBA,OBA:2058865,level of mortality factor 4-like protein 2 (human) in cerebrospinal fluid,The amount of a mortality factor 4-like protein 2 (human) when measured in cerebrospinal fluid.
+nymph production,OBA,OBA:0004453,interferon-alpha production rate,The rate of a interferon-alpha production.
+nymph production,OBA,OBA:0004454,interferon-beta production rate,The rate of a interferon-beta production.
+nymph production,OBA,OBA:0004465,interleukin-1 production rate,The rate of a interleukin-1 production.
+nymph production,OBA,OBA:0004468,interleukin-10 production rate,The rate of a interleukin-10 production.
+nymph production,OBA,OBA:0004469,interleukin-12 production rate,The rate of a interleukin-12 production.
+body size (apterous),OBA,OBA:0000107,multivesicular body size,The size of a multivesicular body.
+body size (apterous),OBA,OBA:0002793,ciliary body size,The size of a ciliary body.
+body size (apterous),OBA,OBA:0003321,pineal body size,The size of a pineal body.
+body size (apterous),OBA,OBA:VT0100005,body size trait,The size of a multicellular organism.
+body size (apterous),OBA,OBA:0002168,skin of body size,The size of a skin of body.
+fecundity (apterous),OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+fecundity (apterous),OBA,PATO:0000273,fecundity,NA
+fecundity (apterous),OBA,PATO:0001695,increased fecundity,NA
+fecundity (apterous),OBA,PATO:0001696,decreased fecundity,NA
+fecundity (apterous),OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+interlarval period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+interlarval period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+interlarval period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+interlarval period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+interlarval period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+effective fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+effective fecundity,OBA,PATO:0000273,fecundity,NA
+effective fecundity,OBA,PATO:0001695,increased fecundity,NA
+effective fecundity,OBA,PATO:0001696,decreased fecundity,NA
+effective fecundity,OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+post-oviposition period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+post-oviposition period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+post-oviposition period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+post-oviposition period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+post-oviposition period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+anabolic rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+anabolic rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+anabolic rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+anabolic rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+anabolic rate,OBA,OBA:0003172,anagen rate,The rate of a anagen.
+mean fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+mean fecundity,OBA,PATO:0000273,fecundity,NA
+mean fecundity,OBA,PATO:0001695,increased fecundity,NA
+mean fecundity,OBA,PATO:0001696,decreased fecundity,NA
+mean fecundity,OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+metabolic heat rate,OBA,OBA:0002575,galactose metabolic process rate,The rate of a galactose metabolic process.
+metabolic heat rate,OBA,OBA:0003195,fructose metabolic process rate,The rate of a fructose metabolic process.
+metabolic heat rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+metabolic heat rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+metabolic heat rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+EIP (extrinsic incubation period),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+EIP (extrinsic incubation period),OBA,OBA:1000286,extrinsic muscle of tongue quality,The quality of a extrinsic muscle of tongue.
+EIP (extrinsic incubation period),OBA,OBA:1000391,"blood coagulation, extrinsic pathway quality","The quality of a blood coagulation, extrinsic pathway."
+EIP (extrinsic incubation period),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+EIP (extrinsic incubation period),OBA,GO:0007598,"blood coagulation, extrinsic pathway","See also the biological process term 'blood coagulation, intrinsic pathway ; GO:0007597' and 'blood coagulation, common pathway ; GO:0072377'."
+egg conversion ratio,OBA,OBA:VT1000294,egg quantity,The amount of a egg cell.
+egg conversion ratio,OBA,OBA:1001091,egg shell trait,The quality of a eggshell.
+egg conversion ratio,OBA,OBA:1001092,egg shell color,The color of a eggshell.
+egg conversion ratio,OBA,OBA:2040151,shelled egg length,The length of a shelled egg.
+egg conversion ratio,OBA,OBA:2040152,shelled egg width,The width of a shelled egg.
+fecundity (alate),OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+fecundity (alate),OBA,PATO:0000273,fecundity,NA
+fecundity (alate),OBA,PATO:0001695,increased fecundity,NA
+fecundity (alate),OBA,PATO:0001696,decreased fecundity,NA
+fecundity (alate),OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+prey consumption,OBA,OBA:1000654,saccharin consumption quality,The quality of a saccharin consumption.
+prey consumption,OBA,OBA:1000679,cocaine consumption quality,The quality of a cocaine consumption.
+prey consumption,OBA,OBA:1000690,food consumption quality,The quality of a food consumption.
+prey consumption,OBA,OBA:1000840,alcohol consumption quality,The quality of a alcohol consumption.
+prey consumption,OBA,NBO:0000130,liquid consumption,NA
+reproductive efficiency index,OBA,OBA:0002007,reproductive system size,The size of a reproductive system.
+reproductive efficiency index,OBA,OBA:0002409,reproductive system displaced,The displaced of a reproductive system.
+reproductive efficiency index,OBA,OBA:2050117,reproductive behavior trait,The quality of a reproductive behavior.
+reproductive efficiency index,OBA,OBA:VT0005389,reproductive system trait,The quality when measured in reproductive system.
+reproductive efficiency index,OBA,OBA:0004643,male reproductive organ morphology,The morphology of a male reproductive organ.
+Distance Traveled,OBA,OBA:1000003,inter-canthal distance,The length of a anatomical line between inner canthi.
+Distance Traveled,OBA,OBA:1000004,distance between ears,The length of a anatomical line between outer ears.
+Distance Traveled,OBA,OBA:1000005,inter-pupillar distance,The length of a anatomical line between pupils.
+Distance Traveled,OBA,HP:0006610,Wide intermamillary distance,NA
+Distance Traveled,OBA,HP:0040157,Abnormal intermamillary distance,NA
+Questing Height,OBA,OBA:0002073,forehead height,The height of a forehead.
+Questing Height,OBA,OBA:0003407,ilium height,The height of a ilium.
+Questing Height,OBA,OBA:0003758,ureter height,The height of a ureter.
+Questing Height,OBA,OBA:0003869,lip height,The height of a lip.
+Questing Height,OBA,OBA:0004448,cranium height,The height of a cranium.
+Questing Time,OBA,PATO:0000165,time,NA
+Questing Time,OBA,OBA:2040171,sleep duration trait,The duration of a sleep.
+Questing Time,OBA,OBA:2040011,trait in response to mycophenolic acid,A trait that affects the response to a stimulus with mycophenolic acid.
+Questing Time,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+Questing Time,OBA,OBA:2001010,age of onset of essential hypertension,The age at which essential hypertension manifestations first appear.
+blood feeding,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+blood feeding,OBA,OBA:0003648,blood volume,The volume of a blood.
+blood feeding,OBA,OBA:0004561,blood osmolality,The osmolality of a blood.
+blood feeding,OBA,OBA:0004999,blood size,The size of a blood.
+blood feeding,OBA,OBA:2045409,blood pH,The acidity of a blood.
+heat knockdown time,OBA,OBA:2040442,level of heat shock protein 105 kDa in blood serum,The amount of a heat shock protein 105 kDa when measured in blood serum.
+heat knockdown time,OBA,OBA:2041950,level of heat shock protein beta-3 in blood serum,The amount of a heat shock protein beta-3 when measured in blood serum.
+heat knockdown time,OBA,OBA:2041951,level of heat shock protein beta-6 in blood serum,The amount of a heat shock protein beta-6 when measured in blood serum.
+heat knockdown time,OBA,OBA:2050696,level of heat shock factor 2-binding protein in blood,The amount of a heat shock factor 2-binding protein when measured in blood.
+heat knockdown time,OBA,OBA:2051470,level of heat shock factor-binding protein 1 in blood,The amount of a heat shock factor-binding protein 1 when measured in blood.
+knockdown time,OBA,PATO:0000165,time,NA
+knockdown time,OBA,OBA:2040171,sleep duration trait,The duration of a sleep.
+knockdown time,OBA,OBA:2040011,trait in response to mycophenolic acid,A trait that affects the response to a stimulus with mycophenolic acid.
+knockdown time,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+knockdown time,OBA,OBA:2001010,age of onset of essential hypertension,The age at which essential hypertension manifestations first appear.
+Longevity,OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+body size (alate),OBA,OBA:0000107,multivesicular body size,The size of a multivesicular body.
+body size (alate),OBA,OBA:0002793,ciliary body size,The size of a ciliary body.
+body size (alate),OBA,OBA:0003321,pineal body size,The size of a pineal body.
+body size (alate),OBA,OBA:VT0100005,body size trait,The size of a multicellular organism.
+body size (alate),OBA,OBA:0002168,skin of body size,The size of a skin of body.
+egg size,OBA,OBA:VT1000294,egg quantity,The amount of a egg cell.
+egg size,OBA,OBA:1001091,egg shell trait,The quality of a eggshell.
+egg size,OBA,OBA:1001092,egg shell color,The color of a eggshell.
+egg size,OBA,OBA:2040151,shelled egg length,The length of a shelled egg.
+egg size,OBA,OBA:2040152,shelled egg width,The width of a shelled egg.
+engorgement period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+engorgement period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+engorgement period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+engorgement period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+engorgement period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+feeding rate,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+feeding rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+feeding rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+feeding rate,OBA,OBA:0002850,spermatogenesis rate,The rate of a spermatogenesis.
+reproductive capacity,OBA,OBA:VT0001942,lung capacity,The volume of a lung.
+reproductive capacity,OBA,OBA:VT0002846,aorta capacity,The volume of a aorta.
+reproductive capacity,OBA,OBA:VT0010133,gizzard capacity,The volume of a gizzard.
+reproductive capacity,OBA,OBA:VT0010199,stomach capacity,The volume of a stomach.
+reproductive capacity,OBA,OBA:VT0010204,proventriculus capacity,The volume of a proventriculus.
+Post-reproductive average,OBA,OBA:2050113,LDL particle size,The size of a low-density lipoprotein particle.
+Post-reproductive average,OBA,OBA:2050114,VLDL particle size,The size of a very-low-density lipoprotein particle.
+Post-reproductive average,OBA,OBA:2050115,HDL particle size,The size of a high-density lipoprotein particle.
+Post-reproductive average,OBA,OBA:2040030,trait in response to ethanol,A trait that affects the response to a stimulus with ethanol.
+Post-reproductive average,OBA,OBA:VT0001253,body height,The height of a multicellular organism.
+Reproductive average,OBA,OBA:0002007,reproductive system size,The size of a reproductive system.
+Reproductive average,OBA,OBA:0002409,reproductive system displaced,The displaced of a reproductive system.
+Reproductive average,OBA,OBA:2050117,reproductive behavior trait,The quality of a reproductive behavior.
+Reproductive average,OBA,OBA:VT0005389,reproductive system trait,The quality when measured in reproductive system.
+Reproductive average,OBA,OBA:0004643,male reproductive organ morphology,The morphology of a male reproductive organ.
+Reproductive average daily fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+Reproductive average daily fecundity,OBA,PATO:0000273,fecundity,NA
+Reproductive average daily fecundity,OBA,OBA:0002007,reproductive system size,The size of a reproductive system.
+Reproductive average daily fecundity,OBA,OBA:0002409,reproductive system displaced,The displaced of a reproductive system.
+Reproductive average daily fecundity,OBA,OBA:2050117,reproductive behavior trait,The quality of a reproductive behavior.
+Reproductive average total fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+Reproductive average total fecundity,OBA,PATO:0000273,fecundity,NA
+Reproductive average total fecundity,OBA,OBA:0002007,reproductive system size,The size of a reproductive system.
+Reproductive average total fecundity,OBA,OBA:0002409,reproductive system displaced,The displaced of a reproductive system.
+Reproductive average total fecundity,OBA,OBA:2050117,reproductive behavior trait,The quality of a reproductive behavior.
+body size (apterous nymph),OBA,OBA:0000107,multivesicular body size,The size of a multivesicular body.
+body size (apterous nymph),OBA,OBA:0002793,ciliary body size,The size of a ciliary body.
+body size (apterous nymph),OBA,OBA:0003321,pineal body size,The size of a pineal body.
+body size (apterous nymph),OBA,OBA:VT0100005,body size trait,The size of a multicellular organism.
+body size (apterous nymph),OBA,OBA:0002168,skin of body size,The size of a skin of body.
+body size (mass),OBA,OBA:VT0001259,body mass,The mass of a multicellular organism.
+body size (mass),OBA,OBA:VT0010482,body fat mass,The mass of a adipose tissue.
+body size (mass),OBA,OBA:2045456,body mass to body extent ratio,A compound attribute that is the ratio of body mass to body extent.
+body size (mass),OBA,OBA:0000107,multivesicular body size,The size of a multivesicular body.
+body size (mass),OBA,OBA:0002793,ciliary body size,The size of a ciliary body.
+fecundity rate (apterous),OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+fecundity rate (apterous),OBA,PATO:0000273,fecundity,NA
+fecundity rate (apterous),OBA,OBA:0002011,micturition rate,The rate of a micturition.
+fecundity rate (apterous),OBA,OBA:0002200,reflex rate,The rate of a reflex.
+fecundity rate (apterous),OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+hatching period,OBA,OBA:0003853,blastocyst hatching amount,The amount of a blastocyst hatching.
+hatching period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+hatching period,OBA,OBA:0003854,blastocyst hatching onset quality,The onset quality of a blastocyst hatching.
+hatching period,OBA,GO:0035188,hatching,NA
+hatching period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+hatching rate,OBA,OBA:0003853,blastocyst hatching amount,The amount of a blastocyst hatching.
+hatching rate,OBA,OBA:0003854,blastocyst hatching onset quality,The onset quality of a blastocyst hatching.
+hatching rate,OBA,OBA:0002011,micturition rate,The rate of a micturition.
+hatching rate,OBA,OBA:0002200,reflex rate,The rate of a reflex.
+hatching rate,OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+lifespan,OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+lifespan,OBA,GO:0008340,determination of adult lifespan,NA
+lifespan,OBA,CHEBI:176497,geroprotector,"Any compound that supports healthy aging, slows the biological aging process, or extends lifespan."
+lifespan,OBA,HP:0031467,Dysregulated negative emotional state,"Manifestations may be conveyed through self-report or observed through behavior, allowing applicability across the lifespan and in individuals with limited verbal communication. This term refers to an observed negative emotional state rather than enduring traits of personality or temperament."
+longevity (apterous),OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+metabolic rate (active),OBA,OBA:0002575,galactose metabolic process rate,The rate of a galactose metabolic process.
+metabolic rate (active),OBA,OBA:0003195,fructose metabolic process rate,The rate of a fructose metabolic process.
+metabolic rate (active),OBA,OBA:0002011,micturition rate,The rate of a micturition.
+metabolic rate (active),OBA,OBA:0002200,reflex rate,The rate of a reflex.
+metabolic rate (active),OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+pre hatching period,OBA,OBA:0003853,blastocyst hatching amount,The amount of a blastocyst hatching.
+pre hatching period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+pre hatching period,OBA,OBA:0003854,blastocyst hatching onset quality,The onset quality of a blastocyst hatching.
+pre hatching period,OBA,GO:0035188,hatching,NA
+pre hatching period,OBA,OBA:0005182,pre-Botzinger complex morphology,The morphology of a pre-Botzinger complex.
+pre-hatch period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+pre-hatch period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+pre-hatch period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+pre-hatch period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+pre-hatch period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+relative activity,OBA,OBA:2045259,urine relative density,The concentration of of a urine.
+relative activity,OBA,OBA:2045294,asparaginase activity,The process quality of a L-asparagine catabolic process.
+relative activity,OBA,OBA:VT0002504,serotonin activity,The functionality of a serotonin when measured in anatomical entity.
+relative activity,OBA,OBA:0003310,catalase activity rate,The rate of a catalase activity.
+relative activity,OBA,OBA:0005492,glucokinase activity rate,The rate of a glucokinase activity.
+reproductive and post-reproductive periods,OBA,OBA:0002007,reproductive system size,The size of a reproductive system.
+reproductive and post-reproductive periods,OBA,OBA:0002409,reproductive system displaced,The displaced of a reproductive system.
+reproductive and post-reproductive periods,OBA,OBA:2050117,reproductive behavior trait,The quality of a reproductive behavior.
+reproductive and post-reproductive periods,OBA,OBA:VT0005389,reproductive system trait,The quality when measured in reproductive system.
+reproductive and post-reproductive periods,OBA,OBA:0004643,male reproductive organ morphology,The morphology of a male reproductive organ.
+Development Rate (Egg),OBA,OBA:0002217,embryo development rate,The rate of a embryo development.
+Development Rate (Egg),OBA,OBA:0003600,artery development rate,The rate of a artery development.
+Development Rate (Egg),OBA,OBA:0003599,ovarian follicle development rate,The rate of a ovarian follicle development.
+Development Rate (Egg),OBA,OBA:0004171,lung alveolus development rate,The rate of a lung alveolus development.
+Development Rate (Egg),OBA,OBA:0005316,mesenchymal cell proliferation involved in lung development rate,The rate of a mesenchymal cell proliferation involved in lung development.
+Development Rate (Larva),OBA,OBA:0002217,embryo development rate,The rate of a embryo development.
+Development Rate (Larva),OBA,OBA:0003600,artery development rate,The rate of a artery development.
+Development Rate (Larva),OBA,OBA:0003599,ovarian follicle development rate,The rate of a ovarian follicle development.
+Development Rate (Larva),OBA,OBA:0004171,lung alveolus development rate,The rate of a lung alveolus development.
+Development Rate (Larva),OBA,OBA:0005316,mesenchymal cell proliferation involved in lung development rate,The rate of a mesenchymal cell proliferation involved in lung development.
+Development Rate (Nymph),OBA,OBA:0002217,embryo development rate,The rate of a embryo development.
+Development Rate (Nymph),OBA,OBA:0003600,artery development rate,The rate of a artery development.
+Development Rate (Nymph),OBA,OBA:0003599,ovarian follicle development rate,The rate of a ovarian follicle development.
+Development Rate (Nymph),OBA,OBA:0004171,lung alveolus development rate,The rate of a lung alveolus development.
+Development Rate (Nymph),OBA,OBA:0005316,mesenchymal cell proliferation involved in lung development rate,The rate of a mesenchymal cell proliferation involved in lung development.
+Oviposition Period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+Oviposition Period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+Oviposition Period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+Oviposition Period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+Oviposition Period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+Pre-Oviposition Period in engorged females,OBA,HP:0008647,Pubertal developmental failure in females,NA
+Pre-Oviposition Period in engorged females,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+Pre-Oviposition Period in engorged females,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+Pre-Oviposition Period in engorged females,OBA,OBA:1000116,axon located in,The located in of a axon.
+Pre-Oviposition Period in engorged females,OBA,PR:000050150,period circadian protein homolog,Category=family.
+body mass,OBA,OBA:VT0001259,body mass,The mass of a multicellular organism.
+body mass,OBA,OBA:VT0010482,body fat mass,The mass of a adipose tissue.
+body mass,OBA,OBA:2045456,body mass to body extent ratio,A compound attribute that is the ratio of body mass to body extent.
+body mass,OBA,OBA:2045455,body mass to height ratio,A compound attribute that is the ratio of body mass to body height.
+body mass,OBA,OBA:2030004,total skin mass,The mass of a skin of body.
+body width,OBA,OBA:VT0015039,body width,The width of a multicellular organism.
+body width,OBA,OBA:1000085,nucleus width,The width of a nucleus.
+body width,OBA,OBA:2040146,cell width,The width of a cell.
+body width,OBA,OBA:VT0000027,head width,The width of a head.
+body width,OBA,OBA:VT0000132,epiphysis width,The width of a epiphysis.
+copulation duration,OBA,OBA:0004003,parturition duration,The duration of a parturition.
+copulation duration,OBA,OBA:1001086,QRS duration,See also EFO_0005054
+copulation duration,OBA,OBA:VT1000653,lactation duration,The length of a lactation.
+copulation duration,OBA,GO:0007620,copulation,NA
+copulation duration,OBA,OBA:0003416,penile erection duration,The duration of a penile erection.
+fecundity rate (alate),OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+fecundity rate (alate),OBA,PATO:0000273,fecundity,NA
+fecundity rate (alate),OBA,OBA:0002011,micturition rate,The rate of a micturition.
+fecundity rate (alate),OBA,OBA:0002200,reflex rate,The rate of a reflex.
+fecundity rate (alate),OBA,OBA:0002672,gluconeogenesis rate,The rate of a gluconeogenesis.
+hatch ratio,OBA,OBA:2045389,leukocyte ratio,The ratio of a leukocyte.
+hatch ratio,OBA,OBA:2045390,basophil ratio,The ratio of a basophil.
+hatch ratio,OBA,OBA:2045391,eosinophil ratio,The ratio of a eosinophil.
+hatch ratio,OBA,OBA:2045459,digit length ratio,A compound attribute that is the ratio of digit length to digit length.
+hatch ratio,OBA,OBA:1000024,subcutaneous adipose tissue ratio,The ratio of a subcutaneous adipose tissue.
+longevity (alate),OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+maximum fecundity,OBA,OBA:0003697,multicellular organism fecundity,The fecundity of a multicellular organism.
+maximum fecundity,OBA,PATO:0000273,fecundity,NA
+maximum fecundity,OBA,PATO:0001695,increased fecundity,NA
+maximum fecundity,OBA,PATO:0001696,decreased fecundity,NA
+maximum fecundity,OBA,PATO:0045017,normal fecundity,A fecundity which is relatively normal or average.
+molting ratio (larval),OBA,GO:0042303,molting cycle,NA
+molting ratio (larval),OBA,GO:0022404,molting cycle process,NA
+molting ratio (larval),OBA,OBA:2045389,leukocyte ratio,The ratio of a leukocyte.
+molting ratio (larval),OBA,OBA:2045390,basophil ratio,The ratio of a basophil.
+molting ratio (larval),OBA,OBA:2045391,eosinophil ratio,The ratio of a eosinophil.
+molting ratio (nymphal),OBA,GO:0042303,molting cycle,NA
+molting ratio (nymphal),OBA,GO:0022404,molting cycle process,NA
+molting ratio (nymphal),OBA,OBA:2045389,leukocyte ratio,The ratio of a leukocyte.
+molting ratio (nymphal),OBA,OBA:2045390,basophil ratio,The ratio of a basophil.
+molting ratio (nymphal),OBA,OBA:2045391,eosinophil ratio,The ratio of a eosinophil.
+pre-blood meal period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+pre-blood meal period,OBA,OBA:2051375,level of pre-pro-epidermal growth factor in blood,The amount of a pre-pro-epidermal growth factor when measured in blood.
+pre-blood meal period,OBA,OBA:2043038,level of pre-mRNA-processing factor 19 in blood serum,The amount of a pre-mRNA-processing factor 19 when measured in blood serum.
+pre-blood meal period,OBA,OBA:2044144,level of pre-mRNA-splicing regulator WTAP in blood serum,The amount of a pre-mRNA-splicing regulator WTAP when measured in blood serum.
+pre-blood meal period,OBA,OBA:2052659,amount of pre-pro-epidermal growth factor (human) in blood,The amount of a pre-pro-epidermal growth factor (human) when measured in blood.
+blood feeding frequency,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+blood feeding frequency,OBA,OBA:0002283,defecation frequency,The frequency of a defecation.
+blood feeding frequency,OBA,OBA:0003672,micturition frequency,The frequency of a micturition.
+blood feeding frequency,OBA,OBA:0004805,fertilization frequency,The frequency of a fertilization.
+blood feeding frequency,OBA,OBA:0000060,cilium beat frequency,check this
+chill-coma recovery time,OBA,PATO:0000165,time,NA
+chill-coma recovery time,OBA,OBA:2040171,sleep duration trait,The duration of a sleep.
+chill-coma recovery time,OBA,OBA:2040011,trait in response to mycophenolic acid,A trait that affects the response to a stimulus with mycophenolic acid.
+chill-coma recovery time,OBA,OBA:2045215,menstrual cycle attribute,The quality of a menstrual cycle.
+chill-coma recovery time,OBA,OBA:2001010,age of onset of essential hypertension,The age at which essential hypertension manifestations first appear.
+hypostome length,OBA,OBA:0000102,microvillus length,The length of a microvillus.
+hypostome length,OBA,OBA:0002056,face length,The length of a face.
+hypostome length,OBA,OBA:0002069,chin length,The length of a chin.
+hypostome length,OBA,OBA:0002102,neck length,The length of a neck.
+hypostome length,OBA,OBA:0002110,eyelash length,The length of a eyelash.
+mean longevity,OBA,HP:0005537,Decreased mean platelet volume,"Mean platelet volume (MPV) is a measure of the average size of platelets, with a typical reference range of 7.5 to 11.5 femtoliters (fL)."
+mean longevity,OBA,HP:0011877,Increased mean platelet volume,"Mean platelet volume (MPV) is a measure of the average size of platelets, with a typical reference range of 7.5 to 11.5 femtoliters (fL)."
+mean longevity,OBA,OBA:VT0005372,life span determination trait,The process quality of a determination of adult lifespan.
+mean longevity,OBA,OBA:0003277,platelet volume,The volume of a platelet.
+mean longevity,OBA,OBA:0003460,erythrocyte volume,The volume of a erythrocyte.
+ovariole number,OBA,OBA:0000112,myofibril number,The amount of a myofibril.
+ovariole number,OBA,OBA:2045279,number of teeth,The has number of of a dentition.
+ovariole number,OBA,OBA:0003174,retina altered number of,The altered number of of a retina.
+ovariole number,OBA,OBA:0003275,platelet altered number of,The altered number of of a platelet.
+ovariole number,OBA,OBA:0003397,oligodendrocyte altered number of,The altered number of of a oligodendrocyte.
+parasite maturation time,OBA,OBA:0002663,bone maturation occurrence,The occurrence of a bone maturation.
+parasite maturation time,OBA,OBA:2050237,ribosome maturation protein SBDS amount,The amount of a ribosome maturation protein SBDS when measured in anatomical entity.
+parasite maturation time,OBA,OBA:2059129,level of actin maturation protease (human) in cerebrospinal fluid,The amount of a actin maturation protease (human) when measured in cerebrospinal fluid.
+parasite maturation time,OBA,OBA:2056220,level of glia maturation factor gamma (human) in cerebrospinal fluid,The amount of a glia maturation factor gamma (human) when measured in cerebrospinal fluid.
+parasite maturation time,OBA,OBA:2058256,level of glia maturation factor beta (human) in cerebrospinal fluid,The amount of a glia maturation factor beta (human) when measured in cerebrospinal fluid.
+total preoviposition period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+total preoviposition period,OBA,OBA:2030004,total skin mass,The mass of a skin of body.
+total preoviposition period,OBA,OBA:VT0005567,total blood protein,The total amount of a protein when measured in blood.
+total preoviposition period,OBA,OBA:2045563,total serum cholesterol amount,The total amount of a cholesterol when measured in blood serum.
+total preoviposition period,OBA,OBA:VT0010028,milk total protein amount,The total amount of a protein when measured in milk.
+post-reproduction period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+post-reproduction period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+post-reproduction period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+post-reproduction period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+post-reproduction period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+pre-reproduction period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+pre-reproduction period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+pre-reproduction period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+pre-reproduction period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+pre-reproduction period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+reproduction period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+reproduction period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+reproduction period,OBA,GO:0019953,sexual reproduction,"Note that gametes may come from two organisms or from a single organism in the case of self-fertilizing hermaphrodites, e.g. C. elegans, or self-fertilization in plants. Note also that sexual reproduction may be seen as the regular alternation, in the life cycle of haplontic, diplontic and diplohaplontic organisms, of meiosis and fertilization which provides for the production offspring. In diplontic organisms there is a life cycle in which the products of meiosis behave directly as gametes, fusing to form a zygote from which the diploid, or sexually reproductive polyploid, adult organism will develop. In diplohaplontic organisms a haploid phase (gametophyte) exists in the life cycle between meiosis and fertilization (e.g. higher plants, many algae and Fungi); the products of meiosis are spores that develop as haploid individuals from which haploid gametes develop to form a diploid zygote; diplohaplontic organisms show an alternation of haploid and diploid generations. In haplontic organisms meiosis occurs in the zygote, giving rise to four haploid cells (e.g. many algae and protozoa), only the zygote is diploid and this may form a resistant spore, tiding organisms over hard times."
+reproduction period,OBA,GO:0003006,developmental process involved in reproduction,NA
+reproduction period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+transmission potential,OBA,OBA:VT0003635,synaptic transmission trait,The quality of a chemical synaptic transmission.
+transmission potential,OBA,OBA:0000099,membrane potential trait,The electric potential of a membrane.
+transmission potential,OBA,OBA:0000105,mitochondrial membrane potential,The membrane potential of a mitochondrial membrane.
+transmission potential,OBA,OBA:0000134,resting membrane potential,NA
+transmission potential,OBA,OBA:0003974,cochlea electric potential,The electric potential of a cochlea.
+egg viability,OBA,OBA:0004486,embryo viability,The viability of a embryo.
+egg viability,OBA,OBA:VT1000294,egg quantity,The amount of a egg cell.
+egg viability,OBA,OBA:1001091,egg shell trait,The quality of a eggshell.
+egg viability,OBA,OBA:1001092,egg shell color,The color of a eggshell.
+egg viability,OBA,OBA:2040151,shelled egg length,The length of a shelled egg.
+fat content,OBA,OBA:2045435,stomach content pH,The acidity of a stomach lumen.
+fat content,OBA,OBA:VT0010714,milk zinc content,The amount of a zinc atom when measured in milk.
+fat content,OBA,OBA:2045301,erythrocyte hemoglobin content trait,The amount of a hemoglobin when measured in erythrocyte.
+fat content,OBA,OBA:0004528,fat pad mass,The mass of a fat pad.
+fat content,OBA,OBA:2050198,pericardial fat amount,The amount of a pericardial fat.
+feeding period (adult),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+feeding period (adult),OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding period (adult),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+feeding period (adult),OBA,OBA:1000037,adult organism mass,The mass of a adult organism.
+feeding period (adult),OBA,GO:0007631,feeding behavior,See also the biological process term 'behavior ; GO:0007610'.
+feeding period (larval),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+feeding period (larval),OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding period (larval),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+feeding period (larval),OBA,GO:0007631,feeding behavior,See also the biological process term 'behavior ; GO:0007610'.
+feeding period (larval),OBA,HP:0011968,Feeding difficulties,"Difficulties with eating and drinking, resulting in decreased oral nutrition"
+feeding period (nymphal),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+feeding period (nymphal),OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+feeding period (nymphal),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+feeding period (nymphal),OBA,GO:0007631,feeding behavior,See also the biological process term 'behavior ; GO:0007610'.
+feeding period (nymphal),OBA,HP:0011968,Feeding difficulties,"Difficulties with eating and drinking, resulting in decreased oral nutrition"
+glycogen content,OBA,HP:0006568,Increased hepatic glycogen content,Glycogen acts as secondary long-term energy storage in the liver and other organs. Its intracellular concentration can be increased in some disease states such as obesity.
+glycogen content,OBA,HP:0009051,Increased muscle glycogen content,NA
+glycogen content,OBA,HP:0012269,Abnormal muscle glycogen content,Glycogen functions as a secondary short term energy storage in muscle.
+glycogen content,OBA,HP:0012270,Decreased muscle glycogen content,NA
+glycogen content,OBA,OBA:VT0002713,glycogen catabolism trait,The quality of a glycogen catabolic process.
+hardening period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+hardening period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+hardening period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+hardening period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+hardening period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+moulting period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+moulting period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+moulting period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+moulting period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+moulting period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+prefeeding period (adult),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+prefeeding period (adult),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+prefeeding period (adult),OBA,OBA:1000037,adult organism mass,The mass of a adult organism.
+prefeeding period (adult),OBA,PR:000050150,period circadian protein homolog,Category=family.
+prefeeding period (adult),OBA,OBA:2041551,level of fetal and adult testis-expressed transcript protein in blood serum,The amount of a fetal and adult testis-expressed transcript protein when measured in blood serum.
+prefeeding period (larval),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+prefeeding period (larval),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+prefeeding period (larval),OBA,PATO:0001185,larval,NA
+prefeeding period (larval),OBA,PR:000050150,period circadian protein homolog,Category=family.
+prefeeding period (larval),OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+prefeeding period (nymphal),OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+prefeeding period (nymphal),OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+prefeeding period (nymphal),OBA,PR:000050150,period circadian protein homolog,Category=family.
+prefeeding period (nymphal),OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+prefeeding period (nymphal),OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+protein content,OBA,OBA:2045435,stomach content pH,The acidity of a stomach lumen.
+protein content,OBA,OBA:VT0010714,milk zinc content,The amount of a zinc atom when measured in milk.
+protein content,OBA,OBA:2045301,erythrocyte hemoglobin content trait,The amount of a hemoglobin when measured in erythrocyte.
+protein content,OBA,OBA:2045305,reticulocyte corpuscular hemoglobin content attribute,The amount of a hemoglobin when measured in reticulocyte.
+protein content,OBA,IAO:0000030,information content entity,NA
+Feeding Period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+Feeding Period,OBA,OBA:1000748,feeding behavior quality,The quality of a feeding behavior.
+Feeding Period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+Feeding Period,OBA,GO:0007631,feeding behavior,See also the biological process term 'behavior ; GO:0007610'.
+Feeding Period,OBA,HP:0011968,Feeding difficulties,"Difficulties with eating and drinking, resulting in decreased oral nutrition"
+Incubation Period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+Incubation Period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+Incubation Period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+Incubation Period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+Incubation Period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+Pre-Oviposition Period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+Pre-Oviposition Period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+Pre-Oviposition Period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+Pre-Oviposition Period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+Pre-Oviposition Period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.
+egg count,OBA,OBA:VT1000294,egg quantity,The amount of a egg cell.
+egg count,OBA,OBA:1001091,egg shell trait,The quality of a eggshell.
+egg count,OBA,OBA:1001092,egg shell color,The color of a eggshell.
+egg count,OBA,OBA:2040151,shelled egg length,The length of a shelled egg.
+egg count,OBA,OBA:2040152,shelled egg width,The width of a shelled egg.
+premolt period,OBA,OBA:VT0002292,gestation period duration,The duration of a female pregnancy.
+premolt period,OBA,OBA:2051617,level of period circadian protein homolog 3 in blood,The amount of a period circadian protein homolog 3 when measured in blood.
+premolt period,OBA,PR:000050150,period circadian protein homolog,Category=family.
+premolt period,OBA,PR:000012549,period circadian protein homolog 3,Category=gene.
+premolt period,OBA,PR:O70361,period circadian protein homolog 3 (mouse),Category=organism-gene.

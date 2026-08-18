@@ -1,0 +1,4 @@
+OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,raw_record_count,ground_truth_decision,decision_reason,V1,V2,V3,V4,V5,V6,V7,V8
+body size,mean wing length,mm,142,include,Definition explicitly measures wing length and unit is a linear length unit,19,4,6,5,3,6,6,6
+body size,mean wing length (mm),mm,25,include,Definition explicitly measures wing length and unit is a linear length unit,19,-1,6,5,3,6,-1,-1
+body size,mean dry mass. relationship between dry mass and wing length,mg,9,exclude,Actual measurement is dry mass (mg); wing length appears only as a related variable,19,4,7,5,3,6,6,6

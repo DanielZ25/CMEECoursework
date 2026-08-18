@@ -1,0 +1,190 @@
+OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,text,version,cluster_id
+development time,mean duration of life stage,days,Trait: development time.,v1,1
+fecundity,mean lifetime offspring,offspring individual-1,Trait: fecundity.,v1,5
+longevity,mean duration of life stage,days,Trait: longevity.,v1,3
+reproductive period,mean duration of life stage,days,Trait: reproductive period.,v1,5
+survival,proportion surviving life stage,proportion,Trait: survival.,v1,-1
+mortality rate,per capita daily mortality,individual-1 day-1,Trait: mortality rate.,v1,4
+ovipositional period,mean duration of life stage,days,Trait: ovipositional period.,v1,7
+fecundity rate,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,nymphs unit time-1,Trait: fecundity rate.,v1,5
+mortality,percent not surviving life stage,percent,Trait: mortality.,v1,4
+pre-oviposition period,mean duration from adult emergence to onset of reproduction,days,Trait: pre-oviposition period.,v1,7
+blood feeding frequency,mean lifetime blood meals individual-1,blood meals,Trait: blood feeding frequency.,v1,-1
+body size,mean wet mass,mg,Trait: body size.,v1,2
+ovipositioning,proportion of blood fed mosquitoes laying egg rafts,proportion,Trait: ovipositioning.,v1,7
+development rate,mean rate of life stage completion,days-1,Trait: development rate.,v1,1
+egg viability,mean percentage of viable eggs produced per female,eggs individual-1,Trait: egg viability.,v1,2
+fat content,mean lipid content per individual,ug mg-1 individual-1,Trait: fat content.,v1,-1
+pre-blood meal period,average duration from emergence to first blood meal,days,Trait: pre-blood meal period.,v1,-1
+gonotrophic cycle,mean number of gonotrophic cycles completed in individuals lifetime,days,Trait: gonotrophic cycle.,v1,-1
+resource consumption rate,mean daily resource consumption rate,cm2 day-1,Trait: resource consumption rate.,v1,-1
+blood feeding,percent taking one bloodmeal,percent,Trait: blood feeding.,v1,-1
+transmission potential,percent of individuals with transmission potential,percent,Trait: transmission potential.,v1,-1
+post-oviposition period,mean duration of life stage,days,Trait: post-oviposition period.,v1,7
+lipid content,mean lipid content per individual,ug,Trait: lipid content.,v1,-1
+protein content,mean protein content per individual,ug,Trait: protein content.,v1,-1
+glycogen content,mean glycogen content per individual,ug,Trait: glycogen content.,v1,-1
+ovariole number,mean number of ovarioles per individual,ovarioles individual-1,Trait: ovariole number.,v1,-1
+reproductive capacity,mean lifetime nymphs (30 days),nymphs individual-1,Trait: reproductive capacity.,v1,5
+pre-reproductive period,mean duration of life stage,days,Trait: pre-reproductive period.,v1,5
+hatching rate,percent surviving life stage,percent,Trait: hatching rate.,v1,6
+age specific fecundity,mean number of female offspring individual-1 at specific age,females individual-1,Trait: age specific fecundity.,v1,5
+hatch time,mean duration of life stage,hours,Trait: hatch time.,v1,6
+hatching range,range of the number of days all eggs hatched from when the first egg hatching started,days,Trait: hatching range.,v1,-1
+age at first reproduction,mean age at first reproduction,days,Trait: age at first reproduction.,v1,-1
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of growth temperature,minutes,Trait: chill-coma recovery time.,v1,-1
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of adult temperature,minutes,Trait: heat knockdown time.,v1,-1
+consumption rate,mean relative consumption rate,mg of aphids,Trait: consumption rate.,v1,-1
+growth rate,mean daily growth rate (the product of ln pupal weight divided by larval development time),ln(mg day-1),Trait: growth rate.,v1,-1
+weight loss,proportionate weight loss in relation to temperature and population,proportion,Trait: weight loss.,v1,-1
+feeding rate,mean lifetime feeding punctures,feeding punctures individual-1,Trait: feeding rate.,v1,-1
+EIP (extrinsic incubation period),day sporozoites first detected in salivary glands,days,Trait: EIP (extrinsic incubation period).,v1,-1
+oocyst prevalence,not stated,percent,Trait: oocyst prevalence.,v1,-1
+oocyst intensity,not stated,not stated,Trait: oocyst intensity.,v1,-1
+sporozoite prevalence,not stated,percent,Trait: sporozoite prevalence.,v1,-1
+copulation duration,mean copulation duration,hours individual-1 lifetime-1,Trait: copulation duration.,v1,-1
+hatchability,mean percentage of eggs hatching,percent,Trait: hatchability.,v1,6
+prey consumption,mean number of prey consumed,number of individual prey individual-1,Trait: prey consumption.,v1,-1
+metabolic rate,mean CO2 production (VCO2) (RMR: resting metabolic rate),uL h-1,Trait: metabolic rate.,v1,0
+parasite maturation time,mean duration time from infective feed to mature infection,days,Trait: parasite maturation time.,v1,-1
+interlarval period,mean frequency of larval production,days,Trait: interlarval period.,v1,-1
+fat consumption rate,mean daily rate of fat consumption,mg day-1,Trait: fat consumption rate.,v1,-1
+metabolic rate (active),mean active metabolic rate (AMR),ml CO2 h-1,Trait: metabolic rate (active).,v1,0
+relative activity,amount of activity as a percentage of maximum recorded activity,percent,Trait: relative activity.,v1,-1
+metabolic heat rate,mean metabolic heat rate (or 455RCO2),uW mg-1,Trait: metabolic heat rate.,v1,0
+anabolic rate,mean anabolic rate,uW mg-1,Trait: anabolic rate.,v1,0
+metabolic rate (resting),mean oxygen consumption of inactive individuals that produced fewer than 0.3 spikes/sec over several minutes of observation,Ml O2 g thorax-1 h-1,Trait: metabolic rate (resting).,v1,0
+metabolic rate (standard),mean CO2 production rate (VCO2),ml CO2 g-1 h-1,Trait: metabolic rate (standard).,v1,0
+gonotrophic cycle 1,individual-level duration of first gonotrophic cycle,days,Trait: gonotrophic cycle 1.,v1,-1
+gonotrophic cycle 2,individual-level duration of second gonotrophic cycle,days,Trait: gonotrophic cycle 2.,v1,-1
+viral load,individual-level viral load,PFU (plaque-forming units),Trait: viral load.,v1,-1
+starvation tolerance,individual-level starvation tolerance as a function of temperature and body size (interactor1size),days,Trait: starvation tolerance.,v1,-1
+recovery time,individual-level duration to recover movement after exposure to extreme temperature,seconds,Trait: recovery time.,v1,-1
+juvenile life span,individual-level duration from hatching to death or adult eclosion,days,Trait: juvenile life span.,v1,-1
+bloodmeal weight,individual-level weight of bloodmeal,mg,Trait: bloodmeal weight.,v1,-1
+knockdown time,mean time for 50% knockdown of femelaes under exposure to deltamethrin concentration (see notes),minutes,Trait: knockdown time.,v1,-1
+incubation period,mean duration of egg incubation period (lay to hatching),days,Trait: incubation period.,v1,-1
+premolt period (nymphal),mean duration of nymphal premolting phase,days,Trait: premolt period (nymphal).,v1,8
+feeding time,mean duration of adult female feeding developmental phase,days,Trait: feeding time.,v1,-1
+preoviposition period,mean duration of prereproductive period (end of feeding until oviposition),days,Trait: preoviposition period.,v1,7
+egg size,mean weight of egg mass produced by adult female ticks,mg,Trait: egg size.,v1,2
+conversion efficiency index,percentage of adult female weight post feeding that was converted into egg mass,percent,Trait: conversion efficiency index.,v1,-1
+premolt period (larval),mean duration of larval premolting phase,days,Trait: premolt period (larval).,v1,8
+molting time,mean duration of nymphal molting phase,days,Trait: molting time.,v1,8
+survival rate,percentage of ticks that survived the larval stage,percent,Trait: survival rate.,v1,4
+survival time,mean survival time of fasting larvae,days,Trait: survival time.,v1,4
+sex ratio,ratio of male ticks to female ticks,ratio,Trait: sex ratio.,v1,-1
+fertility,percentage of females that laid fertile eggs,percent,Trait: fertility.,v1,5
+oviposition failure,mean probability of failure to oviposit,probability,Trait: oviposition failure.,v1,-1
+hatch rate,mean hatching rate of egg batches,percent,Trait: hatch rate.,v1,6
+egg mass,mean egg mass weight,mg,Trait: egg mass.,v1,2
+feed conversion rate,ability to produce eggs relative to the weight at detachment of each engorged female,percent,Trait: feed conversion rate.,v1,-1
+larval hatch rate,percentage of unfertilized eggs that were subsequently fertilized,percent,Trait: larval hatch rate.,v1,6
+feeding preference,mean number of individual ticks selecting to feed on human (see notes for %),individuals,Trait: feeding preference.,v1,-1
+molt success rate (larval),percentage that molted,percent,Trait: molt success rate (larval).,v1,-1
+molt success rate (nymphal),percentage that molted,percent,Trait: molt success rate (nymphal).,v1,-1
+premolt period,mean duration of life stage,days,Trait: premolt period.,v1,8
+body mass,mean weight of female,mg,Trait: body mass.,v1,2
+conversion efficiency,total number of eggs produced divided by engorged weight,eggs individual-1 mg-1,Trait: conversion efficiency.,v1,-1
+hatch ratio,hatching ratio of eggs,percent,Trait: hatch ratio.,v1,6
+molting period (larval),mean duration of life stage,days,Trait: molting period (larval).,v1,8
+molting ratio (larval),percentage that molted during life stage,percent,Trait: molting ratio (larval).,v1,8
+molting period (nymphal),mean duration of life stage,days,Trait: molting period (nymphal).,v1,8
+molting ratio (nymphal),percentage that molted during life stage,percent,Trait: molting ratio (nymphal).,v1,8
+prefeeding period (larval),mean duration of life stage,days,Trait: prefeeding period (larval).,v1,9
+feeding period (larval),mean duration of life stage,days,Trait: feeding period (larval).,v1,9
+prefeeding period (nymphal),mean duration of life stage,days,Trait: prefeeding period (nymphal).,v1,9
+feeding period (nymphal),mean duration of life stage,days,Trait: feeding period (nymphal).,v1,9
+prefeeding period (adult),mean duration of life stage,days,Trait: prefeeding period (adult).,v1,9
+feeding period (adult),mean duration of life stage,days,Trait: feeding period (adult).,v1,9
+lifespan,mean duration of entire life,days,Trait: lifespan.,v1,3
+reproductive efficiency index,mean number of eggs per mg weight of engorged female,eggs individual-1 mg-1,Trait: reproductive efficiency index.,v1,-1
+pre-hatch period,number of days until hatching,days,Trait: pre-hatch period.,v1,6
+mortality (larval),duration for 100% mortality (unfed larvae),weeks,Trait: mortality (larval).,v1,4
+mortality (nymphal),duration for 50% mortality (unfed nymphs),weeks,Trait: mortality (nymphal).,v1,4
+mortality (adult),mean duration for 100% mortality (unfed adults),weeks,Trait: mortality (adult).,v1,4
+total preoviposition period,mean duration from egg to onset of reproduction,days,Trait: total preoviposition period.,v1,7
+oviposition period,mean duration of life stage,days,Trait: oviposition period.,v1,7
+developmental time,mean duration of life stage,days,Trait: developmental time.,v1,1
+head capsule width,mean width of head capsule,mm,Trait: head capsule width.,v1,-1
+cold hardiness,percent of eggs hatched after being exposed to freezing temperatures for a given duration of time,percent,Trait: cold hardiness.,v1,-1
+temperature thresholds for oviposition,number of psyllid eggs laid over a 48 hour period at temperatures at which female psyllids were held,number of eggs,Trait: temperature thresholds for oviposition.,v1,-1
+reproductive and post-reproductive periods,mean duration of life stage,days,Trait: reproductive and post-reproductive periods.,v1,5
+life cycle,mean duration of entire life cycle,days,Trait: life cycle.,v1,-1
+post-reproductive period,mean duration of life stage,days,Trait: post-reproductive period.,v1,5
+body length,replicate-level mean body length,mm,Trait: body length.,v1,2
+effective fecundity,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,nymphs unit time-1,Trait: effective fecundity.,v1,5
+body size (alate),mean wet mass,mg,Trait: body size (alate).,v1,2
+body size (apterous),mean wet mass,mg,Trait: body size (apterous).,v1,2
+maximum fecundity,mean duration from onset of reproduction to maximum reproductive output,days,Trait: maximum fecundity.,v1,5
+body size (alate nymph),mean wet mass,days,Trait: body size (alate nymph).,v1,2
+body size (apterous nymph),mean wet mass,days,Trait: body size (apterous nymph).,v1,2
+fecundity (alate),mean lifetime offspring,days,Trait: fecundity (alate).,v1,5
+fecundity (apterous),mean lifetime offspring,days,Trait: fecundity (apterous).,v1,5
+body size (length),mean body length,mm,Trait: body size (length).,v1,2
+body size (mass),mean wet mass,mg,Trait: body size (mass).,v1,2
+fecundity rate (apterous),mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate (apterous).,v1,5
+fecundity rate (alate),mean offspring per unit time,offspring individual-1 day-1,Trait: fecundity rate (alate).,v1,5
+longevity (apterous),mean duration of life stage,days,Trait: longevity (apterous).,v1,-1
+longevity (alate),mean duration of life stage,days,Trait: longevity (alate).,v1,-1
+development duration,period at 4th instar,days,Trait: development duration.,v1,1
+oviposition,period of oviposition in days,days,Trait: oviposition.,v1,7
+adult longevity,lifespan over time,days,Trait: adult longevity.,v1,3
+nymph production,number of nymphs produced / female,number of nymphs produced / female,Trait: nymph production.,v1,-1
+pre-reproduction period,duration of developmental phases in days,days,Trait: pre-reproduction period.,v1,5
+reproduction period,duration of developmental phases in days,days,Trait: reproduction period.,v1,5
+post-reproduction period,duration of developmental phases in days,days,Trait: post-reproduction period.,v1,5
+average daily fecundity,daily fecundity of female aphids,mx,Trait: average daily fecundity.,v1,5
+mean fecundity,number of nymphs deposited,oviparae/gynoparae,Trait: mean fecundity.,v1,5
+percent survival,percent of adult aphids that were still alive each day,percent,Trait: percent survival.,v1,-1
+age-specific daily fecundity,new nymphs produced each day,mean number of nymphs,Trait: age-specific daily fecundity.,v1,5
+feeding behavior,initiation of stylet penetration of leaf tissue,percent,Trait: feeding behavior.,v1,-1
+mean longevity,mean lifespan in days,days,Trait: mean longevity.,v1,3
+Pre-reproductive average,Period from birth until first molt,days,Trait: Pre-reproductive average.,v1,5
+Reproductive average,Period from the adult stage (genital plate appeared and the complete development of the cauda) until the end of reproduction,days,Trait: Reproductive average.,v1,5
+Reproductive average daily fecundity,the number of newborn nymphs (N1) per female per day,nymphs per day,Trait: Reproductive average daily fecundity.,v1,5
+Reproductive average total fecundity,the number of newborn nymphs (N1) per female,nymphs,Trait: Reproductive average total fecundity.,v1,5
+Post-reproductive average,period from the end of reproduction until death,days,Trait: Post-reproductive average.,v1,5
+Longevity,"sum of all life stage periods in study (pre-reproductive, reproductive, and post-reproductive)",days,Trait: Longevity.,v1,3
+aphid longevity,lifespan of aphids,days,Trait: aphid longevity.,v1,-1
+hypostome length,mean length of hypostome (appendage on the mouth),mm,Trait: hypostome length.,v1,-1
+body width,mean width (unfed),mm,Trait: body width.,v1,-1
+feeding period,mean duration of feeding period,days,Trait: feeding period.,v1,9
+peak fecundity,day post engorgement on which an individual female laid most eggs,days,Trait: peak fecundity.,v1,5
+Pre-Oviposition Period,Pre-oviposition period of ticks held at constant temperature,days,Trait: Pre-Oviposition Period.,v1,7
+Oviposition Rate,mean number of eggs per female,eggs,Trait: Oviposition Rate.,v1,7
+Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,Trait: Weight.,v1,2
+Incubation Period,Incubation period of ticks held at constant temperature,days,Trait: Incubation Period.,v1,-1
+Molting Period,number of days required for an individual engorged nymph to molt into an adult,days,Trait: Molting Period.,v1,8
+Feeding Period,number of days required for nymphs to fully engorge,days,Trait: Feeding Period.,v1,9
+Feeding Period of Nymphs (Days),number of days required for nymphs to fully engorge,days,Trait: Feeding Period of Nymphs (Days).,v1,-1
+premolting period,mean Premolting Period in days at larval state at const temps,days,Trait: premolting period.,v1,8
+weight,Mean weight on day of hatching,ug,Trait: weight.,v1,-1
+Efficency,Percent weight transfered from engorged female at constant temperature to mass of eggs,percent,Trait: Efficency.,v1,-1
+hardening period,mean time for a tick to become hardened,days,Trait: hardening period.,v1,-1
+moulting period,mean time required for nymphs to moult,days,Trait: moulting period.,v1,8
+engorgement period,mean time required for females to become engorged,days,Trait: engorgement period.,v1,-1
+egg count,mean number of eggs layed,mg,Trait: egg count.,v1,2
+percent moult,percentage moulted engorged on calves,days,Trait: percent moult.,v1,-1
+molting period,time required for engorged larval ticks to molt,days,Trait: molting period.,v1,8
+pre hatching period,mean time until hatching,days,Trait: pre hatching period.,v1,7
+hatching period,mean time from initiation to completion of hatching,days,Trait: hatching period.,v1,6
+egg conversion ratio,mean weight of eggs / mean weight of engorged females,percent,Trait: egg conversion ratio.,v1,-1
+questing,mean percent of ticks questing,percent,Trait: questing.,v1,-1
+preoviposition,Mean preoviposition period in days,days,Trait: preoviposition.,v1,7
+egg hatch,Mean percentage of eggs hatched,percent,Trait: egg hatch.,v1,6
+Questing Height,questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,Trait: Questing Height.,v1,-1
+Distance Traveled,Average distance covered per hour while questing,mm,Trait: Distance Traveled.,v1,-1
+Questing Time,Mean proportion of time tick seen questing (legs spread more than 50 percent) across the 38 hours,percent,Trait: Questing Time.,v1,-1
+Mortality Rate,number that survived the 38 hours,count,Trait: Mortality Rate.,v1,4
+Water loss,Water loss of ticks exposed to dry air for 24 hours,mg/cm2,Trait: Water loss.,v1,-1
+Weight loss,Weight loss of ticks exposed to dry air for 24 hours,percent,Trait: Weight loss.,v1,-1
+Development time,Mean time from engorgement to moulting,days,Trait: Development time.,v1,1
+Oviposition Period,Oviposition Period 1/period(day) in engorged females,days-1,Trait: Oviposition Period.,v1,7
+Pre-Oviposition Period in engorged females,Pre-Oviposition Period in engorged females,days-1,Trait: Pre-Oviposition Period in engorged females.,v1,7
+Development Rate (Egg),1 / time for egg incubation across const temps,days-1,Trait: Development Rate (Egg).,v1,1
+Development Rate (Larva),1 / development time of Engorged Larva,days-1,Trait: Development Rate (Larva).,v1,1
+Development Rate (Nymph),1 / development time of Engorged Nymph,days-1,Trait: Development Rate (Nymph).,v1,1
+Body Mass,Weight of an individual engorged female,mg,Trait: Body Mass.,v1,2
+Egg Mass,Weight of eggs laid by an individual female,mg,Trait: Egg Mass.,v1,2
+Development Rate,percent of immature stages remaining x days after attatchment,percent,Trait: Development Rate.,v1,1

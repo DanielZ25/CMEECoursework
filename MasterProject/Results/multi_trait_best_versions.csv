@@ -1,0 +1,11 @@
+trait_category,n_concepts,maximum_dominant_share,best_versions
+Body mass / weight,41,0.7804878048780488,V2
+Development rate,13,0.9230769230769231,V1
+Development time,25,0.96,V3
+Egg incubation period,9,1,V1;V5;V6;V7;V8
+Egg-hatching success,13,1,V1
+Fecundity,72,0.9444444444444444,V6
+Linear morphometrics,15,0.7333333333333333,V3
+Longevity / lifespan,34,0.6764705882352942,V1
+Pre-oviposition interval,21,0.9047619047619048,V3
+Survival proportion,24,0.6666666666666666,V1;V6;V7

@@ -1,0 +1,462 @@
+cluster,trait,genus,family,longitude,latitude,loctype,coordtype,temp
+41,development time,Acyrthosiphon,Aphididae,126.75,36.5,field,decimal,10
+41,fecundity,Acyrthosiphon,Aphididae,126.75,36.5,field,decimal,10
+41,longevity,Acyrthosiphon,Aphididae,126.75,36.5,field,decimal,10
+41,reproductive period,Acyrthosiphon,Aphididae,126.75,36.5,field,decimal,10
+41,survival,Acyrthosiphon,Aphididae,126.75,36.5,field,decimal,10
+-1,mortality rate,Aedes,Culicidae,-90.1575,38.625,field,decimal,22
+-1,ovipositional period,Paracoccus,Pseudococcidae,-80.477557,25.468722,field,decimal,18
+-1,survival,Paracoccus,Pseudococcidae,-80.477557,25.468722,field,decimal,15
+-1,development time,Bemisia,Aleyrodidae,39.283333,-6.8,colony,decimal,16
+-1,longevity,Bemisia,Aleyrodidae,39.283333,-6.8,colony,decimal,16
+35,fecundity rate,Rhopalosiphum,Aphididae,0.61993,41.62064,field,decimal,18
+35,mortality,Rhopalosiphum,Aphididae,0.61993,41.62064,field,decimal,18
+35,pre-oviposition period,Rhopalosiphum,Aphididae,0.61993,41.62064,field,decimal,18
+35,fecundity,Rhopalosiphum,Aphididae,0.61993,41.62064,field,decimal,18
+-1,fecundity rate,Sepedon,Sciomyzidae,-76.359722,42.489167,NA,decimal,15
+-1,fecundity rate,Tetranychus,Tetranychidae,15.556,-1.44,field,decimal,21
+-1,blood feeding frequency,Aedes,Culicidae,-47.843611,24.4875,field,decimal,15
+-1,body size,Rhopalosiphum,Aphididae,116.6835,39.5383,field,decimal,23
+36,development time,Rhopalosiphum,Aphididae,116.6835,39.5383,field,decimal,23
+-1,fecundity,Rhopalosiphum,Aphididae,116.6835,39.5383,field,decimal,23
+-1,body size,Culex,Culicidae,-77.7996,40.8781,colony,decimal,16
+-1,longevity,Culex,Culicidae,-77.7996,40.8781,colony,decimal,16
+-1,ovipositioning,Culex,Culicidae,-77.7996,40.8781,colony,decimal,16
+-1,development rate,Tesia,Gelechiidae,NA,NA,NA,NA,9.88
+-1,fecundity,Tesia,Gelechiidae,NA,NA,NA,NA,7.95
+33,egg viability,Anthonomus,Curculionidae,-34.95,-8.01,colony,decimal,25
+33,fecundity,Anthonomus,Curculionidae,-34.95,-8.01,colony,decimal,25
+33,fat content,Anthonomus,Curculionidae,-34.95,-8.01,colony,decimal,25
+-1,development rate,Myzus,Aphididae,-93.0845,44.73347,field,decimal,5.9
+-1,pre-blood meal period,Aedes,Culicidae,55.4778,-21.3419,field,decimal,15
+-1,fecundity,Aedes,Culicidae,55.4778,-21.3419,field,decimal,20
+-1,gonotrophic cycle,Aedes,Culicidae,55.4778,-21.3419,field,decimal,20
+-1,resource consumption rate,Leptinotarsa,Chrysomelidae,-72.579167,42.466667,field,decimal,12
+21,blood feeding,Aedes,Culicidae,-61.583333,16.25,field,decimal,24
+21,transmission potential,Aedes,Culicidae,-61.583333,16.25,field,decimal,24
+31,post-oviposition period,Planococcus,Pseudococcidae,50.453056,33.911111,greenhouse,decimal,18
+33,fecundity,Anthonomus,Curculionidae,-98.12,26.22,field,decimal,12
+20,lipid content,Aedes,Culicidae,NA,NA,colony,NA,27
+20,protein content,Aedes,Culicidae,NA,NA,colony,NA,27
+20,glycogen content,Aedes,Culicidae,NA,NA,colony,NA,27
+31,body size,Planococcus,Pseudococcidae,74.54,32.44,colony,decimal,37
+3,fecundity rate,Tribolium,Tenebrionidae,-79.3877,35.5557,colony,decimal,15
+42,fecundity rate,Acyrthosiphon,Aphididae,NA,NA,colony,NA,10
+42,ovariole number,Acyrthosiphon,Aphididae,NA,NA,colony,NA,10
+42,reproductive capacity,Acyrthosiphon,Aphididae,NA,NA,colony,NA,10
+10,mortality rate,Aedes,Culicidae,-81.833333,26.616667,field,decimal,22
+-1,pre-reproductive period,Hypothenemus,Curculionidae,34.266667,0.233333,field,decimal,20
+-1,fecundity,Aedes,Culicidae,72.82,18.97,field,decimal,14
+31,hatching rate,Planococcus,Pseudococcidae,34.633333,36.8,field,decimal,15
+31,hatching rate,Planococcus,Pseudococcidae,34.633333,36.8,field,decimal,NA
+31,mortality,Planococcus,Pseudococcidae,34.633333,36.8,field,decimal,NA
+-1,body size,Coccinella,Coccinellidae,21.916667,39.366667,field,decimal,14
+-1,body size,Coccinella,Coccinellidae,21.916667,39.366667,field,decimal,14
+-1,resource consumption rate,Coccinella,Coccinellidae,21.916667,39.366667,field,decimal,14
+-1,age specific fecundity,Bryobia,Tetranychidae,48.49401,34.899,field,decimal,20
+-1,fecundity,Bryobia,Tetranychidae,48.49401,34.899,field,decimal,20
+-1,development time,Nephus,Coccinellidae,20.733333,38.95,field,decimal,10
+3,fecundity,Callosobruchus,Chrysomelidae,13.783333,10.883333,colony,decimal,25
+3,fecundity,Callosobruchus,Chrysomelidae,13.783333,10.883333,colony,decimal,25
+3,survival,Callosobruchus,Chrysomelidae,13.783333,10.883333,colony,decimal,25
+3,development time,Callosobruchus,Chrysomelidae,13.783333,10.883333,colony,decimal,25
+-1,mortality,Harmonia,Coccinellidae,-123.3,44.2,field,decimal,14
+-1,hatch time,Entomoscelis,Chrysomelidae,-97.138451,49.895077,colony,decimal,5
+-1,development time,Diabrotica,Chrysomelidae,88.243385,40.116421,colony,decimal,15.6
+-1,fecundity rate,Muscidifurax,Pteromalidae,-96.678889,40.808889,colony,decimal,15
+-1,gonotrophic cycle,Aedes,Culicidae,11.1194085,46.074879,field,decimal,25
+-1,fecundity,Aedes,Culicidae,11.1194085,46.074879,field,decimal,25
+42,mortality,Acyrthosiphon,Aphididae,NA,NA,colony,NA,27
+-1,development time,Erythrodiplax,Libellulidae,-49.4228,-14.17925,field,decimal,15
+-1,development time,Micrathyria,Libellulidae,-49.4228,-14.17925,field,decimal,15
+-1,hatching range,Erythrodiplax,Libellulidae,-49.4228,-14.17925,field,decimal,15
+42,fecundity rate,Acyrthosiphon,Aphididae,0.41,52.24,field,decimal,11.9
+42,pre-reproductive period,Acyrthosiphon,Aphididae,0.41,52.24,field,decimal,11.9
+38,age at first reproduction,Aphis,Aphididae,NA,NA,NA,NA,10
+20,body size,Aedes,Culicidae,NA,NA,colony,NA,27
+-1,body size,Culex,Culicidae,-78.633333,35.766667,field,decimal,15
+39,fecundity,Aphis,Aphididae,35.321333,37,greenhouse,decimal,15
+3,chill-coma recovery time,Tribolium,Tenebrionidae,34.817208,31.992904,colony,decimal,26
+3,chill-coma recovery time,Tribolium,Tenebrionidae,34.817208,31.992904,colony,decimal,28
+3,heat knockdown time,Tribolium,Tenebrionidae,34.817208,31.992904,colony,decimal,26
+3,heat knockdown time,Tribolium,Tenebrionidae,34.817208,31.992904,colony,decimal,43.5
+3,fecundity,Tribolium,Tenebrionidae,34.817456,31.990278,colony,decimal,34
+-1,body size,Drosophila,Drosophilidae,-52.3425,-31.771944,field,decimal,13
+33,development time,Anthonomus,Curculionidae,-34.95,-8.01,colony,decimal,25
+-1,development rate,Longitarsus,Chrysomelidae,28.25323,-25.72969,colony,decimal,12
+-1,consumption rate,Harmonia,Coccinellidae,-25.663611,37.745833,colony,decimal,10
+-1,growth rate,Colaphellus,Chrysomelidae,126.6409,45.7576,field,decimal,16
+-1,body size,Colaphellus,Chrysomelidae,126.6409,45.7576,field,decimal,16
+-1,weight loss,Colaphellus,Chrysomelidae,126.6409,45.7576,field,decimal,16
+-1,mortality,Tetranychus,Tetranychidae,-120.325278,47.423333,field,decimal,18
+-1,development time,Tetranychus,Tetranychidae,-120.325278,47.423333,field,decimal,10
+-1,feeding rate,Anthonomus,Curculionidae,-82.36,27.48,NA,decimal,33
+-1,EIP (extrinsic incubation period),Anopheles,Culicidae,-77.054028,39.005,colony,decimal,16
+-1,oocyst prevalence,Anopheles,Culicidae,-77.054028,39.005,colony,decimal,18
+-1,oocyst intensity,Anopheles,Culicidae,-77.054028,39.005,colony,decimal,18
+-1,sporozoite prevalence,Anopheles,Culicidae,-77.054028,39.005,colony,decimal,18
+-1,copulation duration,Cheilomenes,Coccinellidae,114.3046,30.5934,field,decimal,15
+-1,hatchability,Cheilomenes,Coccinellidae,114.3046,30.5934,field,decimal,15
+-1,prey consumption,Cheilomenes,Coccinellidae,114.3046,30.5934,field,decimal,15
+-1,fecundity rate,Coccinella,Coccinellidae,114.392,36.099,field,decimal,15
+-1,mortality rate,Aedes,Culicidae,-49.945833,-22.213889,field,decimal,10
+1,metabolic rate,Glossina,Glossinidae,16.416111,48.233889,colony,decimal,20
+1,parasite maturation time,Glossina,Glossinidae,NA,NA,colony,decimal,25
+1,interlarval period,Glossina,Glossinidae,29.783333,-19.033333,field,decimal,21.65
+1,fecundity rate,Glossina,Glossinidae,32.581111,0.313611,field,decimal,22
+1,survival,Glossina,Glossinidae,31.45,-13.03,field,decimal,31.99588477
+1,metabolic rate,Glossina,Glossinidae,3,12,colony,decimal,20
+1,metabolic rate,Glossina,Glossinidae,3,12,colony,decimal,20
+1,fat consumption rate,Glossina,Glossinidae,NA,NA,colony,decimal,16
+1,pre-reproductive period,Glossina,Glossinidae,29.40072,-16.13369,field,decimal,22
+-1,fecundity,Aedes,Culicidae,98.998611,18.795278,NA,decimal,27
+-1,blood feeding,Aedes,Culicidae,98.998611,18.795278,NA,decimal,27
+-1,metabolic rate (active),Nauphoeta,Blaberidae,153.013056,-27.497222,colony,decimal,15
+-1,relative activity,Nauphoeta,Blaberidae,153.013056,-27.497222,colony,decimal,15
+-1,metabolic rate,Hippodamia,Coccinellidae,-121.283333,38.7,field,decimal,0
+-1,metabolic heat rate,Hippodamia,Coccinellidae,-121.283333,38.7,field,decimal,-10
+-1,anabolic rate,Hippodamia,Coccinellidae,-121.283333,38.7,field,decimal,-10
+-1,metabolic rate (resting),Bombus,Apidae,-122.28333,37.75,field,decimal,4.41381
+-1,metabolic rate,Paractora,Helcomyzidae,37.45,-46.54,field,decimal,NA
+-1,metabolic rate (standard),Scarabaeus,Scarabaeidae,17.07,-29.677778,field,decimal,16
+21,gonotrophic cycle 1,Aedes,Culicidae,-61.583333,16.25,field,decimal,24
+21,gonotrophic cycle 2,Aedes,Culicidae,-61.583333,16.25,field,decimal,24
+21,fecundity,Aedes,Culicidae,-61.583333,16.25,field,decimal,24
+21,gonotrophic cycle,Aedes,Culicidae,-61.583333,16.25,field,decimal,24
+10,development time,Aedes,Culicidae,-81.833333,26.616667,field,decimal,22
+10,longevity,Aedes,Culicidae,-81.833333,26.616667,field,decimal,22
+-1,development rate,Bryobia,Tetranychidae,48.49401,34.899,field,decimal,20
+-1,body size,Cassida,Chrysomelidae,34.366667,53.233333,field,decimal,15.871
+20,body size,Aedes,Culicidae,NA,NA,colony,NA,28
+20,viral load,Aedes,Culicidae,NA,NA,colony,NA,28
+3,starvation tolerance,Tribolium,Tenebrionidae,34.817208,31.992904,colony,decimal,34
+1,recovery time,Glossina,Glossinidae,31.45,-13.03,field,decimal,2
+1,mortality rate,Glossina,Glossinidae,28,-16.55,field,decimal,16.39442231
+10,survival,Aedes,Culicidae,-81.833333,26.616667,field,decimal,22
+10,juvenile life span,Aedes,Culicidae,-81.833333,26.616667,field,decimal,22
+20,fecundity,Aedes,Culicidae,NA,NA,colony,NA,28
+20,bloodmeal weight,Aedes,Culicidae,NA,NA,colony,NA,28
+20,knockdown time,Aedes,Culicidae,NA,NA,colony,NA,28
+25,incubation period,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,development time,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,premolt period (nymphal),Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,feeding time,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,preoviposition period,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,ovipositional period,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,body size,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,weight loss,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,egg size,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+25,conversion efficiency index,Hyalomma,Ixodidae,51.534817,25.286106,colony,decimal,21
+-1,premolt period (larval),Ixodes,Ixodidae,175.1842,-36.8622,field,decimal,10
+-1,molting time,Ixodes,Ixodidae,175.1842,-36.8622,field,decimal,10
+-1,survival rate,Ixodes,Ixodidae,175.1842,-36.8622,field,decimal,5
+-1,survival rate,Amblyomma,Ixodidae,139.433333,-34.1,colony,decimal,13
+9,survival time,Rhipicephalus,Ixodidae,18.969973,-22.449259,colony,decimal,-10
+9,body size,Rhipicephalus,Ixodidae,18.969973,-22.449259,colony,decimal,20
+9,premolt period (nymphal),Rhipicephalus,Ixodidae,18.969973,-22.449259,colony,decimal,20
+9,survival rate,Rhipicephalus,Ixodidae,18.969973,-22.449259,colony,decimal,20
+9,sex ratio,Rhipicephalus,Ixodidae,18.969973,-22.449259,colony,decimal,20
+24,feeding time,Haemaphysalis,Ixodidae,115.3833333,39.96666667,field,decimal,3.87
+24,body size,Haemaphysalis,Ixodidae,115.3833333,39.96666667,field,decimal,16.35
+24,fecundity,Haemaphysalis,Ixodidae,115.3833333,39.96666667,field,decimal,16.35
+24,body size,Haemaphysalis,Ixodidae,114.514893,38.042805,field,decimal,23
+24,survival rate,Haemaphysalis,Ixodidae,114.514893,38.042805,field,decimal,23
+22,fecundity,Rhipicephalus,Ixodidae,-5.898714,34.543446,colony,decimal,16
+18,survival rate,Haemaphysalis,Ixodidae,-46.62529,-23.533773,colony,decimal,27
+-1,premolt period (larval),Haemaphysalis,Ixodidae,-46.62529,-23.533773,colony,decimal,27
+18,fertility,Haemaphysalis,Ixodidae,-46.62529,-23.533773,colony,decimal,27
+4,oviposition failure,Dermacentor,Ixodidae,-112.84,49.69,field,decimal,12.5
+4,preoviposition period,Dermacentor,Ixodidae,-112.84,49.69,field,decimal,12.5
+4,ovipositional period,Dermacentor,Ixodidae,-112.84,49.69,field,decimal,12.5
+4,conversion efficiency index,Dermacentor,Ixodidae,-112.84,49.69,field,decimal,12.5
+4,fecundity rate,Dermacentor,Ixodidae,-112.84,49.69,field,decimal,12.5
+4,fecundity,Dermacentor,Ixodidae,-112.84,49.69,field,decimal,12.5
+-1,hatch rate,Haemaphysalis,Ixodidae,153.01,-27.49,colony,decimal,18
+-1,incubation period,Haemaphysalis,Ixodidae,153.01,-27.49,colony,decimal,18
+-1,weight loss,Haemaphysalis,Ixodidae,153.01,-27.49,colony,decimal,28
+-1,development rate,Haemaphysalis,Ixodidae,153.01,-27.49,colony,decimal,20
+17,egg mass,Rhipicephalus,Ixodidae,-54.61,-20.48,field,decimal,28
+17,feed conversion rate,Rhipicephalus,Ixodidae,-54.61,-20.48,field,decimal,28
+17,incubation period,Rhipicephalus,Ixodidae,-54.61,-20.48,field,decimal,28
+17,larval hatch rate,Rhipicephalus,Ixodidae,-54.61,-20.48,field,decimal,28
+17,mortality,Rhipicephalus,Ixodidae,-54.61,-20.48,field,decimal,28
+17,weight loss,Rhipicephalus,Ixodidae,-54.61,-20.48,field,decimal,28
+17,hatch rate,Rhipicephalus,Ixodidae,-54.61,-20.48,field,decimal,20
+-1,feeding preference,Rhipicephalus,Ixodidae,-97.058694,36.126861,colony,decimal,23.5
+7,survival rate,Ixodes,Ixodidae,-80.05,42.54,field,decimal,-10
+7,preoviposition period,Ixodes,Ixodidae,-80.05,42.54,field,decimal,-10
+7,hatch rate,Ixodes,Ixodidae,-80.05,42.54,field,decimal,4
+7,development time,Ixodes,Ixodidae,-80.05,42.54,field,decimal,12
+7,molt success rate (larval),Ixodes,Ixodidae,-80.05,42.54,field,decimal,8
+7,premolt period (larval),Ixodes,Ixodidae,-80.05,42.54,field,decimal,8
+7,molt success rate (nymphal),Ixodes,Ixodidae,-80.05,42.54,field,decimal,8
+7,premolt period,Ixodes,Ixodidae,-80.05,42.54,field,decimal,32
+7,premolt period (nymphal),Ixodes,Ixodidae,-80.05,42.54,field,decimal,8
+18,survival rate,Haemaphysalis,Ixodidae,-62.99,45,field,decimal,35.6
+18,fecundity,Haemaphysalis,Ixodidae,-62.99,45,field,decimal,35.6
+18,body mass,Haemaphysalis,Ixodidae,-62.99,45,field,decimal,35.6
+18,longevity,Haemaphysalis,Ixodidae,-62.99,45,field,decimal,35.6
+26,conversion efficiency,Haemaphysalis,Ixodidae,131.61,33.23,field,decimal,12
+26,incubation period,Haemaphysalis,Ixodidae,131.61,33.23,field,decimal,12
+26,hatch ratio,Haemaphysalis,Ixodidae,131.61,33.23,field,decimal,12
+26,molting period (larval),Haemaphysalis,Ixodidae,131.61,33.23,field,decimal,12
+26,molting ratio (larval),Haemaphysalis,Ixodidae,131.61,33.23,field,decimal,12
+26,molting period (nymphal),Haemaphysalis,Ixodidae,131.61,33.23,field,decimal,12
+26,molting ratio (nymphal),Haemaphysalis,Ixodidae,131.61,33.23,field,decimal,12
+14,prefeeding period (larval),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,27
+14,feeding period (larval),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,27
+14,prefeeding period (nymphal),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,27
+14,feeding period (nymphal),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,27
+14,prefeeding period (adult),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,27
+14,feeding period (adult),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,27
+14,lifespan,Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,27
+14,fecundity,Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,38
+14,molt success rate (larval),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,38
+14,molt success rate (nymphal),Haemaphysalis,Ixodidae,32.53,15.66,colony,decimal,38
+16,reproductive efficiency index,Amblyomma,Ixodidae,151.39,-28.12,field,decimal,15
+16,pre-hatch period,Amblyomma,Ixodidae,151.39,-28.12,field,decimal,15
+16,mortality (larval),Amblyomma,Ixodidae,151.39,-28.12,field,decimal,20
+16,mortality (nymphal),Amblyomma,Ixodidae,151.39,-28.12,field,decimal,20
+16,mortality (adult),Amblyomma,Ixodidae,151.39,-28.12,field,decimal,20
+22,fecundity rate,Rhipicephalus,Ixodidae,-5.898714,34.543446,colony,decimal,16
+24,development time,Haemaphysalis,Ixodidae,115.3833333,39.96666667,field,decimal,3.87
+24,fecundity rate,Haemaphysalis,Ixodidae,115.3833333,39.96666667,field,decimal,16.35
+24,reproductive efficiency index,Haemaphysalis,Ixodidae,115.3833333,39.96666667,field,decimal,16.35
+-1,survival rate,Boophilus,Ixodidae,-98.3253,26.2159,colony,decimal,20
+-1,survival time,Boophilus,Ixodidae,-98.3253,26.2159,colony,decimal,25
+3,longevity,Tribolium,Tenebrionidae,-3.189167,55.953333,colony,decimal,33
+-1,body size,Aedes,Culicidae,-89.317865,31.303277,NA,decimal,27
+-1,mortality,Aedes,Culicidae,-89.317865,31.303277,NA,decimal,20
+-1,survival,Aedes,Culicidae,-54.521198,-27.47408,NA,decimal,16
+-1,body size,Aedes,Culicidae,-80.405425,27.645968,field (F3),decimal,24
+-1,body size,Aedes,Culicidae,136.666667,36.55,field (F2 and F3 gen),decimal,22
+-1,mortality,Aedes,Culicidae,100.2976418,5.355024358,field (F2),decimal,25
+10,survival,Aedes,Culicidae,-81.580324,28.077173,field (F5),decimal,25
+-1,reproductive capacity,Aedes,Culicidae,136.666667,36.55,field (F2 and F3 gen),decimal,22
+-1,fertility,Aedes,Culicidae,136.666667,36.55,field (F2 and F3 gen),decimal,22
+0,survival rate,Tamarixia,Eulophidae,-79.89205,-2.10129,colony (F7),decimal,20
+0,lifespan,Tamarixia,Eulophidae,-79.89205,-2.10129,colony (F7),decimal,20
+0,preoviposition period,Tamarixia,Eulophidae,-79.89205,-2.10129,colony (F7),decimal,20
+0,total preoviposition period,Tamarixia,Eulophidae,-79.89205,-2.10129,colony (F7),decimal,20
+0,oviposition period,Tamarixia,Eulophidae,-79.89205,-2.10129,colony (F7),decimal,20
+0,fecundity,Tamarixia,Eulophidae,-79.89205,-2.10129,colony (F7),decimal,20
+0,sex ratio,Tamarixia,Eulophidae,-79.89205,-2.10129,colony (F7),decimal,20
+32,developmental time,Diaphorina,Liviidae,-80.125556,26.234722,colony,decimal,15
+32,longevity,Diaphorina,Liviidae,-80.125556,26.234722,colony,decimal,15
+32,fecundity,Diaphorina,Liviidae,-80.125556,26.234722,colony,decimal,15
+-1,mortality,Cacopsylla,Psyllidae,-119.677778,49.600556,colony,decimal,10
+32,sex ratio,Diaphorina,Liviidae,-47.641667,-22.708333,colony,decimal,24
+32,head capsule width,Diaphorina,Liviidae,-47.641667,-22.708333,colony,decimal,24
+32,fecundity,Diaphorina,Liviidae,-47.641667,-22.708333,colony,decimal,24
+32,cold hardiness,Diaphorina,Liviidae,NA,NA,colony,NA,-5.36
+32,temperature thresholds for oviposition,Diaphorina,Liviidae,NA,NA,colony,NA,17
+-1,mortality rate,Brevicoryne,Aphididae,10.0409,5.267,field (cabbage),decimal,2.5
+-1,fecundity,Brevicoryne,Aphididae,10.0409,5.267,field (cabbage),decimal,10
+-1,longevity,Brevicoryne,Aphididae,126.954444,35.943889,colony,decimal,18
+-1,fecundity rate,Brevicoryne,Aphididae,126.954444,35.943889,colony (cabbage),decimal,18
+38,reproductive and post-reproductive periods,Aphis,Aphididae,114.22,36.07,field (cotton),decimal,10
+38,age at first reproduction,Aphis,Aphididae,114.22,36.07,field (cotton),decimal,10
+38,life cycle,Aphis,Aphididae,114.22,36.07,field (cotton),decimal,10
+-1,age at first reproduction,Uroleucon,Aphididae,119.4128,32.3944,colony (L. sativa),decimal,17
+-1,fecundity rate,Eriosoma,Aphididae,102.7094,25.0464,field (apple),decimal,15
+-1,development rate,Macrosiphum,Aphididae,51.6675,32.644722,field (rose),decimal,15
+-1,development time,Aphis,Aphididae,138.521944,35.0525,field (citrus orchard),decimal,29.7
+-1,fecundity rate,Rhopalosiphum,Aphididae,50.84,32.3,field (corn),decimal,8.5
+-1,fecundity rate,Pemphigus,Aphididae,-97.9875,26.159167,field,decimal,10
+-1,development rate,Pemphigus,Aphididae,-96.314444,30.601389,colony,decimal,10
+-1,fecundity,Schizaphis,Aphididae,51.6675,32.644722,colony (barley),decimal,10
+-1,age at first reproduction,Aphis,Aphididae,36.333611,41.290278,field (faba bean),decimal,15
+-1,post-reproductive period,Cinara,Aphididae,111.749,40.842,field (pine),decimal,13
+-1,growth rate,Drepanosiphum,Aphididae,1.292778,52.628611,field (sycamore),decimal,6
+-1,body length,Cinara,Aphididae,-0.5,51.3167,field,decimal,10
+-1,fecundity rate,Hyalopterus,Aphididae,-121.69,39.04,field (prune),decimal,14
+35,effective fecundity,Rhopalosiphum,Aphididae,0.61993,41.62064,colony (greenhouse wheat),decimal,18
+-1,body size (alate),Macrosiphum,Aphididae,18.047,59.37,field (greenhouse),decimal,NA
+-1,body size (apterous),Macrosiphum,Aphididae,18.047,59.37,field (greenhouse),decimal,NA
+-1,maximum fecundity,Acyrthosiphon,Aphididae,175.283333,-37.783333,field (lucerne),decimal,6
+-1,fecundity rate,Aphis,Aphididae,-96.97,36.08,field (alfalfa),decimal,7.2
+-1,pre-reproductive period,Aphis,Aphididae,16.933611,52.408333,field (black locust),decimal,10
+-1,reproductive period,Aphis,Aphididae,16.933611,52.408333,field (black locust),decimal,10
+-1,post-reproductive period,Aphis,Aphididae,16.933611,52.408333,field (black locust),decimal,10
+-1,longevity,Aphis,Aphididae,16.933611,52.408333,field (black locust),decimal,10
+-1,body size (alate nymph),Uroleucon,Aphididae,-52,-10,colony (lettuce),decimal,15
+-1,body size (apterous nymph),Uroleucon,Aphididae,-52,-10,colony (lettuce),decimal,15
+-1,fecundity (alate),Uroleucon,Aphididae,-52,-10,colony (lettuce),decimal,15
+-1,fecundity (apterous),Uroleucon,Aphididae,-52,-10,colony (lettuce),decimal,15
+39,development time,Aphis,Aphididae,35.321333,37,field (chard and broadleaf dock),decimal,17.5
+39,longevity,Aphis,Aphididae,35.321333,37,field (chard and broadleaf dock),decimal,17.5
+-1,fecundity,Metopolophium,Aphididae,NA,NA,not stated,NA,10
+-1,longevity,Diuraphis,Aphididae,-102.064722,35.191944,field (winter wheat),decimal,5
+37,fecundity,Macrosiphum,Aphididae,NA,NA,colony,NA,5
+38,body size (length),Aphis,Aphididae,46.627,24.722,field (pumpkin),decimal,10
+39,fecundity rate,Aphis,Aphididae,35.321333,37,colony (cotton),decimal,15
+38,fecundity,Aphis,Aphididae,13.3775,49.7475,greenhouses,decimal,10
+-1,body size (length),Erisoma,Aphididae,151.65,-30.5,colony (apple),NA,10
+-1,body size (mass),Erisoma,Aphididae,151.65,-30.5,colony (apple),NA,10
+-1,fecundity rate (apterous),Hyadaphis,Aphididae,35.5232,-7.156,field (fennel),decimal,15
+-1,fecundity rate (alate),Hyadaphis,Aphididae,35.5232,-7.156,field (fennel),decimal,15
+-1,longevity (apterous),Hyadaphis,Aphididae,35.5232,-7.156,field (fennel),decimal,15
+-1,longevity (alate),Hyadaphis,Aphididae,35.5232,-7.156,field (fennel),decimal,15
+-1,development duration,Myzus,Aphididae,NA,NA,colony,NA,5
+-1,fertility,Myzus,Aphididae,NA,NA,colony,NA,5
+-1,oviposition,Myzus,Aphididae,NA,NA,colony,NA,5
+-1,adult longevity,Myzus,Aphididae,NA,NA,colony,NA,5
+40,pre-reproductive period,Aulacorthum,Aphididae,NA,NA,colony,NA,16
+40,reproductive period,Aulacorthum,Aphididae,NA,NA,colony,NA,16
+40,nymph production,Aulacorthum,Aphididae,NA,NA,colony,NA,16
+40,longevity,Aulacorthum,Aphididae,NA,NA,colony,NA,16
+37,longevity,Macrosiphum,Aphididae,NA,NA,field collected colony,NA,20
+37,fecundity,Macrosiphum,Aphididae,NA,NA,field collected colony,NA,20
+37,pre-reproduction period,Macrosiphum,Aphididae,NA,NA,field collected colony,NA,20
+37,reproduction period,Macrosiphum,Aphididae,NA,NA,field collected colony,NA,20
+37,post-reproduction period,Macrosiphum,Aphididae,NA,NA,field collected colony,NA,20
+37,survival,Macrosiphum,Aphididae,NA,NA,field collected colony,NA,20
+37,average daily fecundity,Macrosiphum,Aphididae,NA,NA,field collected colony,NA,20
+-1,development time,Aphis,Aphididae,NA,NA,colony,NA,13
+40,adult longevity,Aphis,Aphididae,NA,NA,colony,NA,13
+-1,mean fecundity,Aphis,Aphididae,NA,NA,colony,NA,13
+38,percent survival,Aphis,Aphididae,85.48,41.45,field collected colony,NA,NA
+38,longevity,Aphis,Aphididae,85.48,41.45,field collected colony,NA,NA
+38,age-specific daily fecundity,Aphis,Aphididae,85.48,41.45,field collected colony,NA,NA
+38,feeding behavior,Aphis,Aphididae,85.48,41.45,field collected colony,NA,NA
+-1,developmental time,Aphis,Aphididae,NA,NA,founding colony collection site,NA,22.5
+39,mean longevity,Aphis,Aphididae,NA,NA,founding colony collection site,NA,22.5
+-1,mean fecundity,Aphis,Aphididae,NA,NA,founding colony collection site,NA,22.5
+34,Pre-reproductive average,Melanaphis,Aphididae,NA,NA,colony,NA,5
+34,Reproductive average,Melanaphis,Aphididae,NA,NA,colony,NA,10
+34,Reproductive average daily fecundity,Melanaphis,Aphididae,NA,NA,colony,NA,10
+34,Reproductive average total fecundity,Melanaphis,Aphididae,NA,NA,colony,NA,10
+34,Post-reproductive average,Melanaphis,Aphididae,NA,NA,colony,NA,10
+34,Longevity,Melanaphis,Aphididae,NA,NA,colony,NA,5
+36,development time,Sitobion,Aphididae,120.619444,31.3,colony collection site,decimal,17
+36,adult longevity,Sitobion,Aphididae,120.619444,31.3,colony collection site,decimal,17
+36,aphid longevity,Sitobion,Aphididae,120.619444,31.3,colony collection site,decimal,17
+36,fecundity,Sitobion,Aphididae,120.619444,31.3,colony collection site,decimal,17
+19,body size,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,29
+19,body size,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,29
+19,hypostome length,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,29
+19,body length,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,29
+19,body length,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,29
+19,body width,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,29
+19,body width,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,29
+19,development time,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,21
+19,development time,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,21
+19,development time,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,21
+19,feeding period,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,21
+19,preoviposition period,Hyalomma,Ixodidae,33.833333,29.5,field,decimal,21
+13,longevity,Hyalomma,Ixodidae,35.49548,33.88863,colony,decimal,15
+13,preoviposition period,Hyalomma,Ixodidae,35.49548,33.88863,colony,decimal,15
+13,ovipositional period,Hyalomma,Ixodidae,35.49548,33.88863,colony,decimal,15
+13,fecundity rate,Hyalomma,Ixodidae,35.49548,33.88863,colony,decimal,20
+13,peak fecundity,Hyalomma,Ixodidae,35.49548,33.88863,colony,decimal,15
+13,body size,Hyalomma,Ixodidae,35.49548,33.88863,colony,decimal,20
+-1,survival rate,Hyalomma,Ixodidae,35.162222,31.768056,experiment,decimal,17.5
+-1,survival time,Hyalomma,Ixodidae,35.162222,31.768056,experiment,decimal,17.5
+12,Pre-Oviposition Period,Hyalomma,Ixodidae,26.53,-33.3,field,NA,26
+12,Oviposition Rate,Hyalomma,Ixodidae,26.53,-33.3,field,NA,26
+12,Weight,Hyalomma,Ixodidae,26.53,-33.3,field,NA,26
+12,Weight,Hyalomma,Ixodidae,26.53,-33.3,field,NA,26
+12,Weight,Hyalomma,Ixodidae,26.526667,-33.31,field,NA,26
+12,Weight,Hyalomma,Ixodidae,26.526667,-33.31,field,NA,26
+12,Weight,Hyalomma,Ixodidae,26.526667,-33.31,field,NA,26
+12,Incubation Period,Hyalomma,Ixodidae,26.526667,-33.31,field,NA,NA
+12,Molting Period,Hyalomma,Ixodidae,26.526667,-33.31,field,NA,26
+12,Feeding Period,Hyalomma,Ixodidae,26.526667,-33.31,field,NA,26
+12,Feeding Period of Nymphs (Days),Hyalomma,Ixodidae,26.526667,-33.31,field,NA,26
+-1,incubation period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+30,feeding period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+30,premolting period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+30,feeding period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+30,premolting period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+30,feeding period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+30,preoviposition period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+30,oviposition period,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight loss,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight loss,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight loss,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight loss,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight loss,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+28,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+28,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+28,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+28,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+29,Efficency,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+28,Weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,25
+28,Weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,25
+28,Weight,Hyalomma,Ixodidae,51.25,25.5,colony,NA,25
+-1,egg mass,Hyalomma,Ixodidae,51.25,25.5,colony,NA,21
+23,preoviposition period,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,incubation period,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,hardening period,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,feeding period,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,moulting period,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,engorgement period,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,body size,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,egg mass,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,egg count,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,body size,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,hatchability,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,conversion efficiency,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,survival time,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,survival time,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,survival time,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,survival time,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+23,survival time,Hyalomma,Ixodidae,46.27395,24.4714,laboratory,decimal,25
+8,survival rate,Hyalomma,Ixodidae,-14.452362,14.497401,collection location of female tick used to produce colony,decimal,NA
+8,survival rate,Hyalomma,Ixodidae,-14.452362,14.497401,collection location of female tick used to produce colony,decimal,5
+8,survival rate,Hyalomma,Ixodidae,-14.452362,14.497401,collection location of female tick used to produce colony,decimal,5
+8,survival rate,Hyalomma,Ixodidae,-14.452362,14.497401,collection location of female tick used to produce colony,decimal,24
+8,survival rate,Hyalomma,Ixodidae,-14.452362,14.497401,collection location of female tick used to produce colony,decimal,30
+22,percent moult,Hyalomma,Ixodidae,6.8539,34.0084,NA,decimal,25
+22,premolting period,Hyalomma,Ixodidae,6.8539,34.0084,NA,decimal,25
+22,survival time,Hyalomma,Ixodidae,6.8539,34.0084,NA,decimal,25
+22,percent moult,Hyalomma,Ixodidae,6.8539,34.0084,NA,decimal,25
+22,engorgement period,Hyalomma,Ixodidae,6.8539,34.0084,NA,decimal,25
+22,engorgement period,Hyalomma,Ixodidae,6.8539,34.0084,NA,decimal,25
+22,hatchability,Hyalomma,Ixodidae,6.8539,34.0084,NA,decimal,25
+5,feeding time,Amblyomma,Ixodidae,-74.4478,40.4862,colony,decimal,21
+5,molting period,Amblyomma,Ixodidae,-74.4478,40.4862,colony,decimal,40
+5,survival rate,Amblyomma,Ixodidae,-74.4478,40.4862,colony,decimal,4
+15,preoviposition period,Amblyomma,Ixodidae,32.680833,15.523889,experiment,decimal,27
+15,pre hatching period,Amblyomma,Ixodidae,32.680833,15.523889,experiment,decimal,27
+15,hatching period,Amblyomma,Ixodidae,32.680833,15.523889,experiment,decimal,27
+15,egg conversion ratio,Amblyomma,Ixodidae,32.680833,15.523889,experiment,decimal,27
+15,hatchability,Amblyomma,Ixodidae,32.680833,15.523889,experiment,decimal,27
+6,questing,Ixodes,Ixodidae,-2.516667,56.9,field,decimal,6
+2,preoviposition,Demacentor,Ixodidae,-64.85,17.702778,experiment,decimal,20
+2,oviposition,Demacentor,Ixodidae,-64.85,17.702778,experiment,decimal,20
+2,conversion efficiency,Demacentor,Ixodidae,-64.85,17.702778,experiment,decimal,20
+2,egg hatch,Demacentor,Ixodidae,-64.85,17.702778,experiment,decimal,20
+2,incubation period,Demacentor,Ixodidae,-64.85,17.702778,experiment,decimal,20
+6,lipid content,Ixodes,Ixodidae,-1.9,51.3,collection,decimal,18
+5,Questing Height,Ixodes,Ixodidae,-74.5425,40.761389,colony,decimal,10
+5,Distance Traveled,Ixodes,Ixodidae,-74.5425,40.761389,colony,decimal,10
+5,Questing Time,Ixodes,Ixodidae,-74.5425,40.761389,colony,decimal,10
+5,Questing Height,Ixodes,Ixodidae,-74.5425,40.761389,colony,decimal,25
+5,Mortality Rate,Ixodes,Ixodidae,-74.5425,40.761389,colony,decimal,10
+5,Mortality Rate,Ixodes,Ixodidae,-74.5425,40.761389,colony,decimal,25
+6,Water loss,Ixodes,Ixodidae,0.125,52.167,experiment,NA,25
+6,Weight loss,Ixodes,Ixodidae,0.125,52.167,experiment,NA,25
+6,Water loss,Amblyomma,Ixodidae,0.125,52.167,experiment,NA,35
+6,Development time,Ixodes,Ixodidae,-1.617176888,53.23555848,experiment,NA,22.5
+6,Mortality Rate,Ixodes,Ixodidae,-1.617176888,53.23555848,experiment,NA,22.5
+27,Oviposition Period,Rhipicephalus,Ixodidae,133.916667,34.65,Collection,NA,4
+27,Pre-Oviposition Period in engorged females,Rhipicephalus,Ixodidae,133.916667,34.65,Collection,NA,4
+27,Development Rate (Egg),Rhipicephalus,Ixodidae,133.916667,34.65,Collection,NA,4
+27,Development Rate (Larva),Rhipicephalus,Ixodidae,133.916667,34.65,Collection,NA,4
+27,Development Rate (Nymph),Rhipicephalus,Ixodidae,133.916667,34.65,Collection,NA,4
+11,preoviposition period,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,15
+11,incubation period,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,15
+11,oviposition,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Body Mass,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Egg Mass,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Body Mass,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Body Mass,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Body Mass,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Development Rate,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Development Rate,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26
+11,Development Rate,Rhipicephalus,Ixodidae,26.526667,-33.31,Field,decimal,26

@@ -1,0 +1,33 @@
+ORDERED THREE-FIELD GROUND-TRUTH EXPERIMENT (V1-V8)
+Rows: 461
+Reference categories: 10
+Ordered inputs: 336
+Unique three-field sets: 56
+Degenerate ordered inputs: 5
+Recorded API prompt tokens: 3696857
+
+Best non-degenerate individual order by mean dominant share:
+  name>def>phylum
+  mean dominant share = 0.7649
+  mean dominant purity = 0.7233
+  mean balanced score = 0.6873
+
+Best non-degenerate individual order by mean balanced score:
+  name>def>unit
+  mean dominant share = 0.7635
+  mean dominant purity = 0.829
+  mean balanced score = 0.7645
+
+Best eligible three-field set across all six internal orders:
+  name+class+phylum
+  mean dominant share across orders = 0.5865
+  mean dominant purity across orders = 0.8792
+  mean balanced score across orders = 0.6761
+
+Name + definition + unit across its six orders:
+  field-set share rank = NA/53
+  field-set balanced rank = NA/53
+  mean dominant share across orders = 0.7211
+  range of dominant share = 0.5742 to 0.9958
+  mean dominant purity across orders = 0.6593
+  mean balanced score across orders = 0.5815

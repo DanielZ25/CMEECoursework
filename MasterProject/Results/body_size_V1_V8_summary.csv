@@ -1,0 +1,17 @@
+version,field_added,subtype,n_concepts,clusters_occupied,n_noise,weight_and_linear_separated
+V1,name,body_mass_or_weight,41,c19:17;c11:7;c12:7;c20:6,4,mixed
+V1,name,linear_morphometric,15,c19:6;c18:5,4,mixed
+V2,definition,body_mass_or_weight,41,c4:32;c5:6,3,mixed
+V2,definition,linear_morphometric,15,c4:9,6,mixed
+V3,unit,body_mass_or_weight,41,c7:31;c5:7;c8:1,2,SEPARATED
+V3,unit,linear_morphometric,15,c6:11,4,SEPARATED
+V4,order,body_mass_or_weight,41,c7:21;c5:13;c8:7,0,mixed
+V4,order,linear_morphometric,15,c5:8,7,mixed
+V5,family,body_mass_or_weight,41,c6:21;c3:13;c7:7,0,mixed
+V5,family,linear_morphometric,15,c3:5;c6:4,6,mixed
+V6,stage,body_mass_or_weight,41,c7:21;c6:13;c8:7,0,mixed
+V6,stage,linear_morphometric,15,c6:5;c7:4,6,mixed
+V7,class,body_mass_or_weight,41,c7:21;c6:13;c8:7,0,mixed
+V7,class,linear_morphometric,15,c6:4;c7:2,9,mixed
+V8,phylum,body_mass_or_weight,41,c7:21;c6:13;c8:7,0,mixed
+V8,phylum,linear_morphometric,15,c7:4;c6:4,7,mixed

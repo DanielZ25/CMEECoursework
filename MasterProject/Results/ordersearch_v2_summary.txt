@@ -1,0 +1,7 @@
+=== 6-field validation ===
+search best: order>family>name>unit>def>stage
+search sil : 0.3468  (true optimum 0.363)
+
+=== 13-field clean search ===
+best ordering: family > genus > species > kingdom > class > phylum > order > labfield > habitat > stage > name > def > unit
+best silhouette: 0.4349

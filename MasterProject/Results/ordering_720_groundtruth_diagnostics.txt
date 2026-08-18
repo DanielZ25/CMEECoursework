@@ -1,0 +1,39 @@
+GROUND-TRUTH RE-RANKING OF 720 SIX-FIELD PERMUTATIONS
+Rows: 461; reference categories: 10; reference concepts: 267
+Spearman correlation: silhouette vs mean dominant share = -0.3742
+Pearson correlation: silhouette vs mean dominant share = -0.6741
+V3 fixed-order mean dominant share = 0.7635
+V3 fixed-order mean dominant purity = 0.829
+V3 fixed-order mean share-purity harmonic score = 0.7645
+Six-field permutations meeting/exceeding V3 (unscreened) = 102/720
+Degenerate permutations (largest cluster >50% of all rows) = 99/720
+Non-degenerate permutations meeting/exceeding V3 share = 3/621
+
+Unscreened top proportion result (invalid as a semantic optimum):
+  unit>def>stage>name>family>order
+  mean dominant share = 1
+  mean dominant purity = 0.063
+  largest cluster share = 0.9197
+
+Top non-degenerate ground-truth-ranked six-field order:
+  name>def>order>unit>family>stage
+  mean dominant share = 0.7742
+  mean dominant purity = 0.7322
+  largest cluster share = 0.1453
+  silhouette = 0.2824 (silhouette rank 291)
+
+Top non-degenerate six-field order by mean share-purity harmonic score:
+  name>def>order>unit>family>stage
+  mean dominant share = 0.7742
+  mean dominant purity = 0.7322
+  mean harmonic score = 0.7213
+
+Top silhouette-ranked six-field order:
+  order>family>name>def>stage>unit
+  silhouette = 0.363
+  mean dominant share = 0.5176 (ground-truth rank 332)
+
+Original six-field order:
+  name>def>unit>order>family>stage
+  mean dominant share = 0.6863 (screened rank 18/621)
+  silhouette = 0.2926 (silhouette rank 235)

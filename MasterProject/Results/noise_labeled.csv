@@ -1,0 +1,126 @@
+OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,noise_category
+mortality (larval),duration for 100% mortality (unfed larvae),weeks,Bracketed variant
+mortality (nymphal),duration for 50% mortality (unfed nymphs),weeks,Bracketed variant
+Development Rate (Egg),1 / time for egg incubation across const temps,days-1,Capitalisation variant
+Distance Traveled,Average distance covered per hour while questing,mm,Capitalisation variant
+EIP (extrinsic incubation period),day sporozoites first detected in salivary glands,days,Capitalisation variant
+Feeding Period,number of days required for nymphs to fully engorge,days,Capitalisation variant
+Feeding Period of Nymphs (Days),number of days required for nymphs to fully engorge,days,Capitalisation variant
+Mortality Rate,number that survived the 38 hours,count,Capitalisation variant
+Mortality Rate,number that survived the 43 hours,count,Capitalisation variant
+Mortality Rate,Percent mortality in engorged ticks before moulting,percent,Capitalisation variant
+Oviposition Rate,mean number of eggs per female,eggs,Capitalisation variant
+Post-reproductive average,period from the end of reproduction until death,days,Capitalisation variant
+Pre-Oviposition Period,Pre-oviposition period of ticks held at constant temperature,days,Capitalisation variant
+Pre-Oviposition Period in engorged females,Pre-Oviposition Period in engorged females,days-1,Capitalisation variant
+Pre-reproductive average,Period from birth until first molt,days,Capitalisation variant
+Questing Height,questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,Capitalisation variant
+Questing Height,questing height -- Average (across 43 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,mm,Capitalisation variant
+Questing Time,Mean proportion of time tick seen questing (legs spread more than 50 percent) across the 38 hours,percent,Capitalisation variant
+Reproductive average,Period from the adult stage (genital plate appeared and the complete development of the cauda) until the end of reproduction,days,Capitalisation variant
+Water loss,Water loss of ticks exposed to dry air for 24 hours,mg/cm2,Capitalisation variant
+Water loss,Water loss of dead engorged ticks exposed to dry air at a certain temperature for 30 mins,mg/cm2,Capitalisation variant
+Weight loss,Weight loss of ticks exposed to dry air for 24 hours,percent,Capitalisation variant
+anabolic rate,mean anabolic rate,uW mg-1,Genuinely idiosyncratic
+blood feeding,percent taking one bloodmeal,percent,Genuinely idiosyncratic
+blood feeding,mean lifetime blood feeds,blood meals individual-1,Genuinely idiosyncratic
+blood feeding frequency,mean lifetime blood meals individual-1,blood meals,Genuinely idiosyncratic
+bloodmeal weight,individual-level weight of bloodmeal,mg,Genuinely idiosyncratic
+body length,replicate-level mean body length,mm,Genuinely idiosyncratic
+body size,mean width,mm,Genuinely idiosyncratic
+body size,mean head width,mm,Genuinely idiosyncratic
+body size,mean thorax length,mm,Genuinely idiosyncratic
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of growth temperature,minutes,Genuinely idiosyncratic
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of adult temperature,minutes,Genuinely idiosyncratic
+cold hardiness,percent of eggs hatched after being exposed to freezing temperatures for a given duration of time,percent,Genuinely idiosyncratic
+consumption rate,mean relative consumption rate,mg of aphids,Genuinely idiosyncratic
+copulation duration,mean copulation duration,hours individual-1 lifetime-1,Genuinely idiosyncratic
+development duration,period at 4th instar,days,Genuinely idiosyncratic
+development time,median duration for egg development,days,Genuinely idiosyncratic
+development time,mean duration for egg development,days,Genuinely idiosyncratic
+egg viability,mean percentage of viable eggs produced per female,eggs individual-1,Genuinely idiosyncratic
+engorgement period,mean time required for females to become engorged,days,Genuinely idiosyncratic
+engorgement period,average duration of engorgement on calves,days,Genuinely idiosyncratic
+engorgement period,average duration of engorgement on rabbits,days,Genuinely idiosyncratic
+fat consumption rate,mean daily rate of fat consumption,mg day-1,Genuinely idiosyncratic
+fat content,mean lipid content per individual,ug mg-1 individual-1,Genuinely idiosyncratic
+feeding behavior,initiation of stylet penetration of leaf tissue,percent,Genuinely idiosyncratic
+feeding preference,mean number of individual ticks selecting to feed on human (see notes for %),individuals,Genuinely idiosyncratic
+feeding rate,mean lifetime feeding punctures,feeding punctures individual-1,Genuinely idiosyncratic
+feeding time,time required for larval ticks to reach engorgement post attachment,days,Genuinely idiosyncratic
+fertility,percentage of females that laid fertile eggs,percent,Genuinely idiosyncratic
+glycogen content,mean glycogen content per individual,ug,Genuinely idiosyncratic
+growth rate,mean daily growth rate (the product of ln pupal weight divided by larval development time),ln(mg day-1),Genuinely idiosyncratic
+growth rate,mean relative growth rate (ln(adult moult weight (ug)) - ln(birth wt (ug))/development time),ug ug-1 day-1,Genuinely idiosyncratic
+hardening period,mean time for a tick to become hardened,days,Genuinely idiosyncratic
+hatch time,mean duration of life stage,hours,Genuinely idiosyncratic
+hatching period,mean time from initiation to completion of hatching,days,Genuinely idiosyncratic
+hatching range,range of the number of days all eggs hatched from when the first egg hatching started,days,Genuinely idiosyncratic
+hatching rate,mean duration of life stage,percent,Genuinely idiosyncratic
+head capsule width,mean width of head capsule,mm,Genuinely idiosyncratic
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of adult temperature,minutes,Genuinely idiosyncratic
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of sex and growth temperature,minutes,Genuinely idiosyncratic
+hypostome length,mean length of hypostome (appendage on the mouth),mm,Genuinely idiosyncratic
+interlarval period,mean frequency of larval production,days,Genuinely idiosyncratic
+juvenile life span,individual-level duration from hatching to death or adult eclosion,days,Genuinely idiosyncratic
+knockdown time,mean time for 50% knockdown of femelaes under exposure to deltamethrin concentration (see notes),minutes,Genuinely idiosyncratic
+life cycle,mean duration of entire life cycle,days,Genuinely idiosyncratic
+lifespan,mean duration of entire life,days,Genuinely idiosyncratic
+lifespan,mean duration of entrie lifespan (from egg to adult death),days,Genuinely idiosyncratic
+lipid content,mean lipid content per individual,ug,Genuinely idiosyncratic
+lipid content,median proportion of lipid content of the tick- calculated by (dried weight - lipid weight) / dried weight,NA,Genuinely idiosyncratic
+longevity,median adult lifespan,days,Genuinely idiosyncratic
+longevity,duration for 50% mortality,days,Genuinely idiosyncratic
+longevity,individual-level duration of adult female life stage,days,Genuinely idiosyncratic
+mortality,mean duration of life stage,days,Genuinely idiosyncratic
+mortality,cummulative mortality percentage across immature stages,percent,Genuinely idiosyncratic
+mortality,time to 50% mortality,days,Genuinely idiosyncratic
+mortality,number of dead individuals per group,individuals,Genuinely idiosyncratic
+mortality,time taken for 50% of adults to die,days,Genuinely idiosyncratic
+mortality rate,inverse of mean longevity,days-1,Genuinely idiosyncratic
+nymph production,number of nymphs produced / female,number of nymphs produced / female,Genuinely idiosyncratic
+ovariole number,mean number of ovarioles per individual,ovarioles individual-1,Genuinely idiosyncratic
+oviposition,period of oviposition in days,days,Genuinely idiosyncratic
+oviposition,daily average number of eggs / female,eggs,Genuinely idiosyncratic
+oviposition failure,mean probability of failure to oviposit,probability,Genuinely idiosyncratic
+oviposition period,mean duration of life stage,days,Genuinely idiosyncratic
+ovipositional period,mean duration of life stage,days,Genuinely idiosyncratic
+ovipositioning,proportion of blood fed mosquitoes laying egg rafts,proportion,Genuinely idiosyncratic
+parasite maturation time,mean duration time from infective feed to mature infection,days,Genuinely idiosyncratic
+peak fecundity,day post engorgement on which an individual female laid most eggs,days,Genuinely idiosyncratic
+percent moult,percentage moulted engorged on calves,days,Genuinely idiosyncratic
+percent moult,percentage moulted engorged on rabbits,percent,Genuinely idiosyncratic
+percent survival,percent of adult aphids that were still alive each day,percent,Genuinely idiosyncratic
+post-oviposition period,mean duration of life stage,days,Genuinely idiosyncratic
+pre-blood meal period,average duration from emergence to first blood meal,days,Genuinely idiosyncratic
+pre-hatch period,number of days until hatching,days,Genuinely idiosyncratic
+pre-reproductive period,mean duration of life stage,days,Genuinely idiosyncratic
+pre-reproductive period,mean duration to production of first larva,days,Genuinely idiosyncratic
+pre-reproductive period,mean rate of life stage completion,days,Genuinely idiosyncratic
+prey consumption,mean number of prey consumed,number of individual prey individual-1,Genuinely idiosyncratic
+protein content,mean protein content per individual,ug,Genuinely idiosyncratic
+questing,mean percent of ticks questing,percent,Genuinely idiosyncratic
+recovery time,individual-level duration to recover movement after exposure to extreme temperature,seconds,Genuinely idiosyncratic
+relative activity,amount of activity as a percentage of maximum recorded activity,percent,Genuinely idiosyncratic
+reproductive capacity,mean lifetime nymphs (30 days),nymphs individual-1,Genuinely idiosyncratic
+reproductive capacity,proportion of individuals that laid eggs after first blood meal,proportion,Genuinely idiosyncratic
+reproductive period,period of time where female aphids reproduce,days,Genuinely idiosyncratic
+resource consumption rate,mean daily resource consumption rate,cm2 day-1,Genuinely idiosyncratic
+resource consumption rate,mean lifetime prey consumed,individual prey individual-1,Genuinely idiosyncratic
+sex ratio,ratio of male ticks to female ticks,ratio,Genuinely idiosyncratic
+sex ratio,mean proportion of female adults cohort-1,ratio,Genuinely idiosyncratic
+sex ratio,ratio of male psyllids to female psyllids,ratio,Genuinely idiosyncratic
+starvation tolerance,individual-level starvation tolerance as a function of temperature and body size (interactor1size),days,Genuinely idiosyncratic
+survival,percent surviving life stage (across all humidity levels),percent,Genuinely idiosyncratic
+survival,probability of survival after exposure to extreme temperatures,probability,Genuinely idiosyncratic
+survival,individual-level binomial survival,1 = survived life stage,Genuinely idiosyncratic
+survival,percentage of individuals surviving life stage (emergence rate),individuals,Genuinely idiosyncratic
+survival,cumulative daily survival,lx,Genuinely idiosyncratic
+temperature thresholds for oviposition,number of psyllid eggs laid over a 48 hour period at temperatures at which female psyllids were held,number of eggs,Genuinely idiosyncratic
+total preoviposition period,mean duration from egg to onset of reproduction,days,Genuinely idiosyncratic
+transmission potential,percent of individuals with transmission potential,percent,Genuinely idiosyncratic
+viral load,individual-level viral load,PFU (plaque-forming units),Genuinely idiosyncratic
+weight loss,proportionate weight loss in relation to temperature and population,proportion,Genuinely idiosyncratic
+oocyst intensity,not stated,not stated,Missing definition
+oocyst prevalence,not stated,percent,Missing definition
+sporozoite prevalence,not stated,percent,Missing definition

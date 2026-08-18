@@ -1,0 +1,9 @@
+version,last_field_added,silhouette,n_ground_truth_concepts,n_clusters_occupied,n_in_noise,dominant_cluster,co_dominant_clusters,n_co_dominant_clusters,target_in_dominant_cluster,dominant_share,dominant_cluster_size,dominant_cluster_purity
+V1,name,0.7216,56,5,8,19,19,1,23,0.4107,23,1.0
+V2,def,0.2606,56,2,9,4,4,1,41,0.7321,46,0.8913
+V3,unit,0.2737,56,4,6,7,7,1,31,0.5536,31,1.0
+V4,order,0.2849,56,3,7,5,5;7,2,21,0.375,21,1.0
+V5,family,0.2947,56,3,6,6,6,1,25,0.4464,33,0.7576
+V6,stage,0.2926,56,3,6,7,7,1,25,0.4464,32,0.7812
+V7,class,0.3034,56,3,9,7,7,1,23,0.4107,30,0.7667
+V8,phylum,0.3014,56,3,7,7,7,1,25,0.4464,32,0.7812

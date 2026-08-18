@@ -1,0 +1,97 @@
+column,coverage_pct,used_in_clustering,reason_excluded,MIReVTD_category
+Id,100%,NA,"Metadata, not trait content",Metadata
+DatasetID,100%,NA,"Metadata, not trait content",Metadata
+OriginalTraitName,100%,V1-V6,NA,Trait Description
+OriginalTraitDef,100%,V2-V6,NA,Trait Description
+OriginalTraitValue,100%,NA,"Numeric value, not semantic content",Trait Description
+Habitat,100%,NA,"Describes experimental condition, not trait semantics",Not in MIReVTD
+LabField,100%,NA,"Describes experimental condition, not trait semantics",Not in MIReVTD
+LocationDatePrecision,100%,NA,"Describes experimental condition, not trait semantics",Trait Description (Study location)
+Interactor1,100%,NA,NA,Organism (taxonomy)
+Interactor1Kingdom,100%,NA,NA,Organism (taxonomy)
+Interactor1Phylum,100%,NA,NA,Organism (taxonomy)
+Interactor1Class,100%,NA,NA,Organism (taxonomy)
+Interactor1Order,100%,V4-V6,NA,Organism (taxonomy)
+Interactor1Family,100%,V5-V6,NA,Organism (taxonomy)
+Interactor1Genus,100%,NA,NA,Organism (taxonomy)
+Interactor1Species,100%,NA,NA,Organism (taxonomy)
+Citation,100%,NA,"Metadata, not trait content",Metadata
+SubmittedBy,100%,NA,"Metadata, not trait content",Metadata
+ContributorEmail,100%,NA,"Metadata, not trait content",Metadata
+EmbargoReleaseDate,100%,NA,"Metadata, not trait content",Metadata
+OriginalTraitUnit,99.90%,V3-V6,NA,Trait Description
+FigureTable,99.80%,NA,Database formatting field,Database/admin field
+DefaultChartXaxis,99.80%,NA,Database formatting field,Database/admin field
+Location,99.20%,NA,Geographic metadata,Trait Description (Study location)
+Interactor1TempUnit,98.80%,NA,"Describes experimental condition, not trait semantics",Axes of Variation
+LocationType,98.70%,NA,Geographic metadata,Trait Description (Study location)
+Interactor1Stage,98.70%,V6,NA,Organism (life stage/sex)
+Interactor1Temp,98.60%,NA,"Describes experimental condition, not trait semantics",Axes of Variation
+DefaultChartCategory,95.10%,NA,Database formatting field,Database/admin field
+Latitude,94.60%,NA,Geographic metadata,Trait Description (Study location)
+Longitude,94.60%,NA,Geographic metadata,Trait Description (Study location)
+CoordinateType,92.60%,NA,Geographic metadata,Trait Description (Study location)
+DOI,92.30%,NA,"Metadata, not trait content",Metadata
+Interactor1GrowthTempUnit,71.40%,NA,"Describes experimental condition, not trait semantics",Axes of Variation
+Interactor1GrowthTemp,71.30%,NA,"Describes experimental condition, not trait semantics",Axes of Variation
+OriginalID,59.30%,NA,NA,Metadata
+Interactor1Common,54.30%,NA,NA,Organism (taxonomy)
+Notes,45.70%,NA,NA,Database/admin field
+Interactor1Number,45.70%,NA,NA,Not in MIReVTD
+SecondStressor,43%,NA,NA,Axes of Variation
+SecondStressorValue,42.30%,NA,NA,Axes of Variation
+Interactor1Sex,42%,NA,Low coverage,Organism (life stage/sex)
+SecondStressorDef,41.30%,NA,NA,Axes of Variation
+SecondStressorUnit,39.70%,NA,NA,Axes of Variation
+IndividualID,37.70%,NA,NA,Not in MIReVTD
+LocationDate,37.40%,NA,NA,Trait Description (Study location)
+OriginalErrorUnit,28.80%,NA,NA,Not in MIReVTD
+OriginalErrorPos,28.70%,NA,NA,Not in MIReVTD
+OriginalErrorNeg,28.50%,NA,NA,Not in MIReVTD
+CuratedByCitation,26.20%,NA,NA,Metadata
+CuratedByDOI,26.20%,NA,NA,Metadata
+StandardisedTraitDef,20.20%,NA,NA,Trait Description
+StandardisedTraitName,20.10%,NA,NA,Trait Description
+StandardisedTraitValue,7.70%,NA,NA,Trait Description
+StandardisedTraitUnit,5.40%,NA,NA,Trait Description
+Replicates,4.10%,NA,NA,Database/admin field
+Interactor2Kingdom,3.20%,NA,NA,Organism (taxonomy)
+Interactor2Order,3.20%,NA,NA,Organism (taxonomy)
+Interactor2Family,3.20%,NA,NA,Organism (taxonomy)
+Interactor2Genus,3.20%,NA,NA,Organism (taxonomy)
+Interactor2Species,3.20%,NA,NA,Organism (taxonomy)
+Interactor1Size,3%,NA,NA,Not in MIReVTD
+Interactor1SizeUnit,3%,NA,NA,Not in MIReVTD
+Interactor1SizeType,3%,NA,NA,Not in MIReVTD
+Interactor2Phylum,3%,NA,NA,Organism (taxonomy)
+Interactor2Class,3%,NA,NA,Organism (taxonomy)
+TotalObsTimeUnit,2.80%,NA,NA,Database/admin field
+TimeStart,2.40%,NA,NA,Database/admin field
+Interactor1OrigTime,2.30%,NA,NA,Database/admin field
+Interactor1OrigTimeUnit,2.30%,NA,NA,Database/admin field
+Interactor2Common,2.20%,NA,NA,Organism (taxonomy)
+TotalObsTimeValue,2.20%,NA,NA,Database/admin field
+Interactor2Stage,1.80%,NA,NA,Organism (life stage/sex)
+TimeEnd,1.70%,NA,NA,Database/admin field
+Interactor1DenUnit,1.70%,NA,NA,Not in MIReVTD
+Interactor1Wholepart,1%,NA,NA,Not in MIReVTD
+TotalObsTimeNotes,1%,NA,NA,Database/admin field
+Interactor1DenValue,0.70%,NA,NA,Not in MIReVTD
+Interactor2Temp,0.50%,NA,NA,Axes of Variation
+Interactor2TempUnit,0.50%,NA,NA,Axes of Variation
+Interactor2GrowthTemp,0.40%,NA,NA,Axes of Variation
+Interactor2GrowthTempUnit,0.40%,NA,NA,Axes of Variation
+Interactor1SizeSI,0.30%,NA,NA,Not in MIReVTD
+Interactor1SizeUnitSI,0.30%,NA,NA,Not in MIReVTD
+Interactor1TempMethod,0.20%,NA,NA,Axes of Variation
+Interactor1Acc,0.20%,NA,NA,Axes of Variation
+Interactor1AccTemp,0.10%,NA,NA,Axes of Variation
+Interactor1AccTime,0.10%,NA,NA,Axes of Variation
+Interactor1AccTimeUnit,0.10%,NA,NA,Axes of Variation
+Interactor1OrigTempNotes,0.10%,NA,NA,Axes of Variation
+AmbientTemp,0.10%,NA,NA,Axes of Variation
+AmbientTempMethod,0.10%,NA,NA,Axes of Variation
+AmbientTempUnit,0.10%,NA,NA,Axes of Variation
+Interactor1GrowthDur,0%,NA,NA,Axes of Variation
+Interactor1GrowthdDurUnit,0%,NA,NA,Axes of Variation
+Interactor1GrowthType,0%,NA,NA,Axes of Variation

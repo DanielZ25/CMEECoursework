@@ -1,0 +1,22 @@
+cluster_id,n_members,n_mapped,n_unmapped,mapping_rate,top_ontology_term,top_term_count,trait_names,n_high_conf,anchor_quality
+0,10,10,0,100,rate,10,metabolic rate | metabolic rate (active) | metabolic heat rate | anabolic rate | metabolic rate (resting) | metabolic rate (standard),0,well-anchored
+2,5,5,0,100,ovulation cycle duration,3,gonotrophic cycle | gonotrophic cycle 1 | gonotrophic cycle 2,0,well-anchored
+3,5,5,0,100,Weight loss,4,weight loss,0,well-anchored
+5,7,7,0,100,mass,7,weight | Weight,7,well-anchored
+6,11,11,0,100,body size trait,6,body size | body size (length) | body length | body width,11,well-anchored
+7,31,31,0,100,body size trait,20,body size | body mass | body size (alate) | body size (apterous) | body size (apterous nymph) | body size (mass) | Weight | weight | Body Mass,31,well-anchored
+8,6,6,0,100,mass,6,egg mass | weight | Egg Mass,4,well-anchored
+9,9,9,0,100,duration,9,survival time,3,well-anchored
+11,8,8,0,100,duration,8,incubation period,0,well-anchored
+13,5,5,0,100,life span determination trait,5,longevity | adult longevity | aphid longevity,5,well-anchored
+15,31,31,0,100,duration,24,development time | development rate | developmental time | Development time,9,well-anchored
+19,8,8,0,100,duration,8,prefeeding period (larval) | feeding period (larval) | prefeeding period (nymphal) | feeding period (nymphal) | prefeeding period (adult) | feeding period (adult) | feeding period,4,well-anchored
+20,12,12,0,100,duration,12,premolt period (nymphal) | premolt period (larval) | molting time | premolt period | molting period (nymphal) | premolting period | moulting period,2,well-anchored
+4,68,64,4,94.1,multicellular organism fecundity,33,fecundity | fecundity rate | reproductive capacity | age specific fecundity | fertility | effective fecundity | maximum fecundity | fecundity (alate) | fecundity (apterous) | fecundity rate (apterous) | fecundity rate (alate) | average daily fecundity | mean fecundity | age-specific daily fecundity | Reproductive average daily fecundity | Reproductive average total fecundity,64,well-anchored
+1,10,9,1,90,efficiency,7,conversion efficiency index | feed conversion rate | conversion efficiency | reproductive efficiency index | Efficency | egg conversion ratio,7,well-anchored
+14,39,34,5,87.2,duration,30,reproductive period | ovipositional period | pre-oviposition period | post-oviposition period | pre-reproductive period | age at first reproduction | preoviposition period | total preoviposition period | oviposition period | reproductive and post-reproductive periods | post-reproductive period | oviposition | pre-reproduction period | reproduction period | post-reproduction period | preoviposition | Oviposition Period,3,well-anchored
+10,6,5,1,83.3,rate,3,molt success rate (larval) | molt success rate (nymphal) | molting ratio (larval) | molting ratio (nymphal),0,well-anchored
+17,6,5,1,83.3,viable,4,survival | survival rate,0,well-anchored
+16,29,18,11,62.1,life span determination trait,15,longevity | mortality | mortality rate | lifespan | mortality (adult) | longevity (apterous) | longevity (alate) | adult longevity | mean longevity | Longevity,13,partially-anchored
+12,13,7,6,53.8,growth rate,2,hatching rate | hatchability | hatch rate | larval hatch rate | hatch ratio | hatching period | egg hatch,1,partially-anchored
+18,12,6,6,50,growth rate,3,survival rate,0,partially-anchored

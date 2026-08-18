@@ -16,3 +16,30 @@ results/*
 #keep empty results folder
 !results/.gitkeep
 .Rproj.user
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Master project local configuration
+MasterProject/.Rhistory
+MasterProject/.RData
+MasterProject/.Rproj.user/
+MasterProject/.idea/
+MasterProject/.agents/
+MasterProject/.claude/
+MasterProject/.codex/
+
+# Credentials
+MasterProject/.env
+MasterProject/.env.*
+
+# Generated embedding caches
+MasterProject/Results/featexp_cache/
+MasterProject/Results/ordering_cache/
+MasterProject/Results/ordersearch_cache/
+MasterProject/Results/*.npy
+MasterProject/Results/embeddings*.rds
+
+# Large external dataset
+MasterProject/Data/GlobalDataset.csv

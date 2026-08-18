@@ -1,0 +1,57 @@
+OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,raw_record_count,concept_label,measurement_subtype,data_quality_flag,V1,V2,V3,V4,V5,V6,V7,V8
+Body Mass,mean daily weight of larvae during their feeding periods,mg,7,body size and morphometrics,body_mass_or_weight,,20,4,7,7,6,7,7,7
+Body Mass,mean daily weight of nymphs during their feeding periods,mg,4,body size and morphometrics,body_mass_or_weight,,20,4,7,7,6,7,7,7
+Body Mass,mean daily weight of nymphs during their pharate periods,mg,3,body size and morphometrics,body_mass_or_weight,,20,4,7,7,6,7,7,7
+body mass,mean weight of female,mg,5,body size and morphometrics,body_mass_or_weight,,20,-1,7,7,6,7,7,7
+Body Mass,Weight of an individual engorged female,mg,25,body size and morphometrics,body_mass_or_weight,,20,4,7,7,6,7,7,7
+body size,dry mass,mg,24,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,individual-level mass,mg,1304,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,individual-level wet mass,mg,33,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,mean body weight,mg,144,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,mean body weight of engorged adult females,mg,4,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean dry mass,mg,6,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,mean dry mass. relationship between dry mass and wing length,mg,9,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,mean of weight (engorged),mg,2,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean of weight (unfed),mg,3,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean weight of engored nymphs,mg,1,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean weight of engorged tick,mg,1,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean weight of nymphs post-feeding,mg,18,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean wet mass,mg,268,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,mean wet mass (waxless and gravid),mg,3,body size and morphometrics,body_mass_or_weight,,19,4,7,5,3,6,6,6
+body size,mean wet mass of an individual tick post engorgement,mg,28,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean wet mass on the day feeding was completed,mg,24,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size,mean wet mass on the day feeding was completed (engorged),mg,20,body size and morphometrics,body_mass_or_weight,,19,4,7,7,6,7,7,7
+body size (alate nymph),mean wet mass,days,17,body size and morphometrics,body_mass_or_weight,unit inconsistent with mass definition,-1,4,-1,5,3,6,6,6
+body size (alate),mean wet mass,mg,7,body size and morphometrics,body_mass_or_weight,,-1,4,7,5,3,6,6,6
+body size (apterous nymph),mean wet mass,days,6,body size and morphometrics,body_mass_or_weight,unit inconsistent with mass definition,-1,4,7,5,3,6,6,6
+body size (apterous),mean wet mass,mg,13,body size and morphometrics,body_mass_or_weight,,-1,4,7,5,3,6,6,6
+body size (mass),mean wet mass,mg,6,body size and morphometrics,body_mass_or_weight,,20,4,7,5,3,6,6,6
+weight,Mean weight 14 days after hatching,ug,4,body size and morphometrics,body_mass_or_weight,,11,-1,7,7,6,7,7,7
+Weight,mean weight of engorged nymphs moulting to males,mg,2,body size and morphometrics,body_mass_or_weight,,12,4,7,7,6,7,7,7
+Weight,mean weight of larvae during their feeding period,mg,17,body size and morphometrics,body_mass_or_weight,,12,4,7,7,6,7,7,7
+Weight,mean weight of nymphs during their feeding period,mg,9,body size and morphometrics,body_mass_or_weight,,12,4,7,7,6,7,7,7
+weight,Mean weight on day of engorgement,ug,4,body size and morphometrics,body_mass_or_weight,,11,4,7,7,6,7,7,7
+weight,Mean weight on day of hatching,ug,4,body size and morphometrics,body_mass_or_weight,,11,4,8,7,6,7,7,7
+Weight,Weight of an individual engorged female in grams held at constant temperature,g,33,body size and morphometrics,body_mass_or_weight,,12,4,-1,7,6,7,7,7
+weight,"Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity""",mg,12,body size and morphometrics,body_mass_or_weight,,11,-1,5,8,7,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,1,body size and morphometrics,body_mass_or_weight,,11,5,5,8,7,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,mg,3,body size and morphometrics,body_mass_or_weight,,12,5,5,8,7,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,1,body size and morphometrics,body_mass_or_weight,,11,5,5,8,7,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),mg,3,body size and morphometrics,body_mass_or_weight,,12,5,5,8,7,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,1,body size and morphometrics,body_mass_or_weight,,11,5,5,8,7,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after molting,mg,3,body size and morphometrics,body_mass_or_weight,,12,5,5,8,7,8,8,8
+body length,mean length (engorged ),mm,2,body size and morphometrics,linear_morphometric,,18,4,6,-1,6,7,-1,7
+body length,mean length (unfed ),mm,3,body size and morphometrics,linear_morphometric,,18,4,6,-1,6,7,7,7
+body length,replicate-level mean body length,mm,11,body size and morphometrics,linear_morphometric,,18,-1,-1,-1,-1,-1,-1,-1
+body size,mean head width,mm,162,body size and morphometrics,linear_morphometric,,19,-1,6,5,-1,-1,-1,-1
+body size,mean length,mm,12,body size and morphometrics,linear_morphometric,,19,4,6,5,3,6,6,6
+body size,mean thorax length,mm,20,body size and morphometrics,linear_morphometric,,19,4,6,5,-1,-1,-1,-1
+body size,mean width,mm,12,body size and morphometrics,linear_morphometric,,19,4,6,5,-1,-1,-1,-1
+body size,mean wing length,mm,142,body size and morphometrics,linear_morphometric,,19,4,6,5,3,6,6,6
+body size,mean wing length (mm),mm,25,body size and morphometrics,linear_morphometric,,19,-1,6,5,3,6,-1,-1
+body size (length),mean body length,mm,5,body size and morphometrics,linear_morphometric,,18,4,6,5,3,6,6,6
+body size (length),mean body length (adult),mm,12,body size and morphometrics,linear_morphometric,,18,4,6,5,3,6,6,6
+body width,mean width (engorged),mm,2,body size and morphometrics,linear_morphometric,,-1,4,-1,-1,6,7,-1,7
+body width,mean width (unfed),mm,3,body size and morphometrics,linear_morphometric,,-1,-1,6,-1,6,7,7,7
+head capsule width,mean width of head capsule,mm,15,body size and morphometrics,linear_morphometric,,-1,-1,-1,-1,-1,-1,-1,-1
+hypostome length,mean length of hypostome (appendage on the mouth),mm,4,body size and morphometrics,linear_morphometric,,-1,-1,-1,-1,-1,-1,-1,-1

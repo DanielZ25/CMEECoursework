@@ -1,0 +1,17 @@
+version,last_field_added,measurement_subtype,n_ground_truth_concepts,n_clusters_occupied,n_in_noise,dominant_cluster,co_dominant_clusters,target_in_dominant_cluster,dominant_share,dominant_cluster_size,dominant_cluster_purity
+V1,name,body_mass_or_weight,41,4,4,19,19,17,0.4146,23,0.7391
+V1,name,linear_morphometric,15,2,4,19,19,6,0.4,23,0.2609
+V2,def,body_mass_or_weight,41,2,3,4,4,32,0.7805,46,0.6957
+V2,def,linear_morphometric,15,1,6,4,4,9,0.6,46,0.1957
+V3,unit,body_mass_or_weight,41,3,2,7,7,31,0.7561,31,1.0
+V3,unit,linear_morphometric,15,1,4,6,6,11,0.7333,11,1.0
+V4,order,body_mass_or_weight,41,3,0,7,7,21,0.5122,28,0.75
+V4,order,linear_morphometric,15,1,7,5,5,8,0.5333,21,0.381
+V5,family,body_mass_or_weight,41,3,0,6,6,21,0.5122,33,0.6364
+V5,family,linear_morphometric,15,2,6,3,3,5,0.3333,18,0.2778
+V6,stage,body_mass_or_weight,41,3,0,7,7,21,0.5122,32,0.6562
+V6,stage,linear_morphometric,15,2,6,6,6,5,0.3333,18,0.2778
+V7,class,body_mass_or_weight,41,3,0,7,7,21,0.5122,30,0.7
+V7,class,linear_morphometric,15,2,9,6,6,4,0.2667,17,0.2353
+V8,phylum,body_mass_or_weight,41,3,0,7,7,21,0.5122,32,0.6562
+V8,phylum,linear_morphometric,15,2,7,6,6;7,4,0.2667,17,0.2353

@@ -1,0 +1,10 @@
+version,n_clusters_occupied,n_in_noise,dominant_cluster,dominant_share,last_field_added,silhouette
+V1,4,19,30,0.33,name,0.7216
+V2,1,10,10,0.86,def,0.2606
+V3,1,5,4,0.93,unit,0.2737
+V4,1,7,4,0.9,order,0.2849
+V5,2,5,5,0.92,family,0.2947
+V6,1,4,3,0.94,stage,0.2926
+V7,1,5,3,0.93,class,0.3034
+V8,1,5,3,0.93,phylum,0.3014
+V20,4,20,12,0.4,coordtype,0.2782

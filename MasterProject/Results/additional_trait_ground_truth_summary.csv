@@ -1,0 +1,8 @@
+trait_category,n_concepts,expected_n,count_matches_expectation
+Development time,25,25,TRUE
+Development rate,13,13,TRUE
+Longevity / lifespan,34,34,TRUE
+Survival proportion,24,24,TRUE
+Pre-oviposition interval,21,21,TRUE
+Egg-hatching success,13,13,TRUE
+Egg incubation period,9,9,TRUE

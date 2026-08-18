@@ -1,0 +1,9 @@
+version,last_field_added,silhouette,n_ground_truth_concepts,n_clusters_occupied,n_in_noise,dominant_cluster,target_in_dominant_cluster,dominant_share,all_targets_same_non_noise_cluster,dominant_cluster_size,dominant_cluster_purity
+V1,name,0.7216,2,1,0,19,2,1.0,True,23,0.087
+V2,def,0.2606,2,1,1,4,1,0.5,False,46,0.0217
+V3,unit,0.2737,2,1,0,6,2,1.0,True,11,0.1818
+V4,order,0.2849,2,1,0,5,2,1.0,True,21,0.0952
+V5,family,0.2947,2,1,0,3,2,1.0,True,18,0.1111
+V6,stage,0.2926,2,1,0,6,2,1.0,True,18,0.1111
+V7,class,0.3034,2,1,1,6,1,0.5,False,17,0.0588
+V8,phylum,0.3014,2,1,1,6,1,0.5,False,17,0.0588

@@ -1,0 +1,177 @@
+column,coverage_pct,clustering_use,MIReVTD_category
+OriginalID,100%,NA,Metadata
+FinalID,100%,NA,Metadata
+CitationID,100%,NA,Metadata
+SubmittedBy,100%,NA,Metadata
+OriginalTraitName,100%,V1-V6 (core trait semantics),Trait Description
+Citation,100%,NA,Metadata
+Consumer,100%,NA,Not in MIReVTD
+OriginalTraitValue,99.9%,NA,Trait Description
+OriginalTraitUnit,99.6%,V3-V6 (core trait semantics),Trait Description
+Habitat,99.3%,NA,Not in MIReVTD
+ConIDLevel,95.9%,NA,Not in MIReVTD
+ConKingdom,95.9%,NA,Organism (taxonomy)
+ConClass,95.8%,NA,Organism (taxonomy)
+ConGenus,95.8%,NA,Organism (taxonomy)
+ConOrder,95.8%,V4-V6 (taxonomic context),Organism (taxonomy)
+ConFamily,95.7%,V5-V6 (taxonomic context),Organism (taxonomy)
+ConPhylum,94.4%,NA,Organism (taxonomy)
+ConSpecies,93.6%,NA,Organism (taxonomy)
+Latitude,93%,NA,Trait Description (Study location)
+Longitude,93%,NA,Trait Description (Study location)
+ConTemp,92.7%,NA,Axes of Variation
+ConTempUnit,92.7%,NA,Axes of Variation
+StandardisedTraitValue,88.3%,NA,Trait Description
+StandardisedTraitUnit,88.3%,NA,Trait Description
+Labfield,86.8%,NA,Not in MIReVTD
+Location,85.1%,NA,Trait Description (Study location)
+StandardisedTraitName,83.4%,NA,Trait Description
+FigureTable,80%,NA,Not in MIReVTD
+ConTempMethod,79.8%,NA,Axes of Variation
+Published,79.6%,NA,Not in MIReVTD
+TaxaPresent,69.6%,NA,Not in MIReVTD
+ConCommon,67.5%,NA,Not in MIReVTD
+DOI,63.3%,NA,Metadata
+OriginalTraitDef,58.3%,V2-V6 (core trait semantics),Trait Description
+Replicates,56.6%,NA,Not in MIReVTD
+ConStage,56.6%,"V6 (life stage) - coverage 56.6%, optional",Organism (life stage/sex)
+ConDenUnit,53.7%,NA,Not in MIReVTD
+ResSizeType,52.6%,NA,Not in MIReVTD
+Resource,51.3%,NA,Not in MIReVTD
+ResRepUnit,49.5%,NA,Not in MIReVTD
+Climate,49.2%,NA,Not in MIReVTD
+AmbientTempMethod,46.8%,NA,Axes of Variation
+ConThermy,46.6%,NA,Not in MIReVTD
+AmbientTemp,45.9%,NA,Axes of Variation
+AmbientTempUnit,45.9%,NA,Axes of Variation
+ConSizeUnit,44%,NA,Not in MIReVTD
+ConSize,44%,NA,Not in MIReVTD
+LocationType,43.7%,NA,Trait Description (Study location)
+StandardisedTraitDef,42.9%,NA,Trait Description
+TraitMotivation,42.9%,NA,Not in MIReVTD
+TraitOrg,42.9%,NA,Not in MIReVTD
+TraitRelevantTaxa,42.9%,NA,Not in MIReVTD
+ConType,42.9%,NA,Not in MIReVTD
+PhysicalProcess,42.9%,NA,Axes of Variation
+PhysicalProcess_1,42.9%,NA,Axes of Variation
+PhysicalProcess_2,42.9%,NA,Axes of Variation
+TotalObsTimeUnit,42.8%,NA,Not in MIReVTD
+ResCommon,40.7%,NA,Not in MIReVTD
+ArenaUnit,40.4%,NA,Not in MIReVTD
+ArenaValue,40.4%,NA,Not in MIReVTD
+ConTrophic,38.9%,NA,Axes of Variation
+ArenaUnitSI,38.4%,NA,Not in MIReVTD
+ArenaValueSI,38.3%,NA,Not in MIReVTD
+ResDenUnit,38.3%,NA,Not in MIReVTD
+ConSizeSI,38%,NA,Not in MIReVTD
+ConSizeUnitSI,38%,NA,Not in MIReVTD
+ConMassValueSI,38%,NA,Not in MIReVTD
+ConMassUnitSI,38%,NA,Not in MIReVTD
+ConAcc,38%,NA,Not in MIReVTD
+ConDenValue,37.5%,NA,Not in MIReVTD
+ConSizeType,36.7%,NA,Not in MIReVTD
+ResDenValue,36.6%,NA,Not in MIReVTD
+ResThermy,35.1%,NA,Not in MIReVTD
+ResTemp,35.1%,NA,Axes of Variation
+ResTempUnit,35.1%,NA,Axes of Variation
+ResTempMethod,35.1%,NA,Axes of Variation
+ResIDLevel,34.4%,NA,Not in MIReVTD
+ResKingdom,34.4%,NA,Organism (taxonomy)
+ResPhylum,33.4%,NA,Organism (taxonomy)
+ResClass,33.3%,NA,Organism (taxonomy)
+ResType,32.6%,NA,Not in MIReVTD
+ResOrder,31.6%,NA,Organism (taxonomy)
+ResGenus,31.4%,NA,Organism (taxonomy)
+ResFamily,31.4%,NA,Organism (taxonomy)
+Notes,31%,NA,Not in MIReVTD
+ResSize,28.9%,NA,Not in MIReVTD
+ResSizeUnit,28.9%,NA,Not in MIReVTD
+ResStage,28.7%,NA,Organism (life stage/sex)
+CoordinateType,28.2%,NA,Trait Description (Study location)
+ResSpecies,28%,NA,Organism (taxonomy)
+ResSizeSI,27.3%,NA,Not in MIReVTD
+ResSizeUnitSI,27.3%,NA,Not in MIReVTD
+ResMassValueSI,27.3%,NA,Not in MIReVTD
+ResMassUnitSI,27.3%,NA,Not in MIReVTD
+ConDenTypeSI,26%,NA,Not in MIReVTD
+ConDenValueSI,26%,NA,Not in MIReVTD
+ConDenUnitSI,26%,NA,Not in MIReVTD
+TotalObsTimeValueSI,25.1%,NA,Not in MIReVTD
+TotalObsTimeUnitSI,25.1%,NA,Not in MIReVTD
+ResDenTypeSI,24.5%,NA,Not in MIReVTD
+ResTrophic,24.4%,NA,Axes of Variation
+ResDenUnitSI,23.7%,NA,Not in MIReVTD
+TotalObsTimeValue,23.6%,NA,Not in MIReVTD
+ResAcc,22.7%,NA,Not in MIReVTD
+ResDenValueSI,22.4%,NA,Not in MIReVTD
+ConAccTemp,21.7%,NA,Axes of Variation
+AmbientLightUnit,19.4%,NA,Axes of Variation
+AmbientLight,19%,NA,Axes of Variation
+ResRepUnitSI,16.4%,NA,Not in MIReVTD
+LocationDate,16.3%,NA,Trait Description (Study location)
+ConTrophicGroup_citation,16%,NA,Axes of Variation
+ConAccTime,15%,NA,Not in MIReVTD
+ConAccTimeUnit,15%,NA,Not in MIReVTD
+OriginalErrorPos,14.5%,NA,Not in MIReVTD
+OriginalErrorNeg,14.5%,NA,Not in MIReVTD
+ConOrigTemp,13.8%,NA,Axes of Variation
+ResRepValue,13%,NA,Not in MIReVTD
+ConOrigTime,12.7%,NA,Not in MIReVTD
+ConOrigTimeUnit,12.7%,NA,Not in MIReVTD
+StandardisedErrorUnit,11.4%,NA,Not in MIReVTD
+StandardisedErrorNeg,11.3%,NA,Not in MIReVTD
+StandardisedErrorPos,10.2%,NA,Not in MIReVTD
+ResAccTime,9.9%,NA,Not in MIReVTD
+ResAccTimeUnit,9.9%,NA,Not in MIReVTD
+ContributorEmail,9%,NA,Metadata
+ResAccTemp,8.5%,NA,Axes of Variation
+ConGrowthTemp,8.3%,NA,Axes of Variation
+ConGrowthTempUnit,8.3%,NA,Axes of Variation
+ResTrophicGroup_citation,7.5%,NA,Axes of Variation
+SecondStressorValue,7%,NA,Axes of Variation
+SecondStressor,6.8%,NA,Axes of Variation
+ConAccTimeNotes,6.8%,NA,Not in MIReVTD
+SecondStressorUnit,6.6%,NA,Axes of Variation
+ConEquilibTimeValue,6.6%,NA,Not in MIReVTD
+ConEquilibTimeUnit,6.6%,NA,Not in MIReVTD
+ResAccTimeNotes,6%,NA,Not in MIReVTD
+ConAccTempNotes,5.9%,NA,Axes of Variation
+ConGrowthDur,5.4%,NA,Not in MIReVTD
+ConGrowthDurUnit,5.4%,NA,Not in MIReVTD
+OriginalErrorUnit,4%,NA,Not in MIReVTD
+ResAccTempNotes,3.6%,NA,Axes of Variation
+ResRepValueSI,3.3%,NA,Not in MIReVTD
+ConObsTimeValue,2.9%,NA,Not in MIReVTD
+ConObsTimeUnit,2.9%,NA,Not in MIReVTD
+ConObsTimeValueSI,2.9%,NA,Not in MIReVTD
+ConObsTimeUnitSI,2.9%,NA,Not in MIReVTD
+ConOrigTempNotes,2.9%,NA,Axes of Variation
+SecondStressorDef,2.3%,NA,Axes of Variation
+ConObsTimeNotes,0.4%,NA,Not in MIReVTD
+ConOrigTimeNotes,0.1%,NA,Not in MIReVTD
+IndividualID,0%,NA,Metadata
+TimeStart,0%,NA,Not in MIReVTD
+TimeEnd,0%,NA,Not in MIReVTD
+TotalObsTimeNotes,0%,NA,Not in MIReVTD
+ConWholePart,0%,NA,Not in MIReVTD
+ConWholePartType,0%,NA,Not in MIReVTD
+ConNumber,0%,NA,Not in MIReVTD
+ConGrowthType,0%,NA,Not in MIReVTD
+ResGrowthTemp,0%,NA,Axes of Variation
+ResGrowthTempUnit,0%,NA,Axes of Variation
+ResGrowthDur,0%,NA,Not in MIReVTD
+ResGrowthDurUnit,0%,NA,Not in MIReVTD
+ResGrowthType,0%,NA,Not in MIReVTD
+ResOrigTemp,0%,NA,Axes of Variation
+ResOrigTempNotes,0%,NA,Axes of Variation
+ResOrigTime,0%,NA,Not in MIReVTD
+ResOrigTimeNotes,0%,NA,Not in MIReVTD
+ResOrigTimeUnit,0%,NA,Not in MIReVTD
+ResEquilibTimeValue,0%,NA,Not in MIReVTD
+ResEquilibTimeUnit,0%,NA,Not in MIReVTD
+ResObsTimeValue,0%,NA,Not in MIReVTD
+ResObsTimeUnit,0%,NA,Not in MIReVTD
+ResObsTimeValueSI,0%,NA,Not in MIReVTD
+ResObsTimeUnitSI,0%,NA,Not in MIReVTD
+ResObsTimeNotes,0%,NA,Not in MIReVTD
+ManualCheck,0%,NA,Not in MIReVTD

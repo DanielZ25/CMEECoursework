@@ -1,0 +1,462 @@
+cluster,trait,family,genus,stage,habitat,labfield
+39,development time,Aphididae,Acyrthosiphon,juvenile,terrestrial,laboratory
+39,fecundity,Aphididae,Acyrthosiphon,adult,terrestrial,laboratory
+39,longevity,Aphididae,Acyrthosiphon,adult,terrestrial,laboratory
+39,reproductive period,Aphididae,Acyrthosiphon,adult,terrestrial,laboratory
+39,survival,Aphididae,Acyrthosiphon,juvenile (not inc egg stage),terrestrial,laboratory
+5,mortality rate,Culicidae,Aedes,adult,terrestrial,laboratory
+-1,ovipositional period,Pseudococcidae,Paracoccus,adult,terrestrial,laboratory
+-1,survival,Pseudococcidae,Paracoccus,juvenile (inc egg stage),terrestrial,laboratory
+-1,development time,Aleyrodidae,Bemisia,juvenile,terrestrial,laboratory
+-1,longevity,Aleyrodidae,Bemisia,adult,terrestrial,laboratory
+35,fecundity rate,Aphididae,Rhopalosiphum,adult,terrestrial,laboratory
+35,mortality,Aphididae,Rhopalosiphum,juvenile,terrestrial,laboratory
+35,pre-oviposition period,Aphididae,Rhopalosiphum,adult,terrestrial,laboratory
+35,fecundity,Aphididae,Rhopalosiphum,adult,terrestrial,laboratory
+-1,fecundity rate,Sciomyzidae,Sepedon,adult,terrestrial,laboratory
+-1,fecundity rate,Tetranychidae,Tetranychus,adult,terrestrial,laboratory
+5,blood feeding frequency,Culicidae,Aedes,adult,terrestrial,laboratory
+-1,body size,Aphididae,Rhopalosiphum,adult,terrestrial,laboratory
+35,development time,Aphididae,Rhopalosiphum,juvenile,terrestrial,laboratory
+35,fecundity,Aphididae,Rhopalosiphum,adult,terrestrial,laboratory
+-1,body size,Culicidae,Culex,adult,terrestrial,laboratory
+-1,longevity,Culicidae,Culex,adult,terrestrial,laboratory
+-1,ovipositioning,Culicidae,Culex,adult,terrestrial,laboratory
+-1,development rate,Gelechiidae,Tesia,larval,terrestrial,laboratory
+-1,fecundity,Gelechiidae,Tesia,adult,terrestrial,laboratory
+26,egg viability,Curculionidae,Anthonomus,adult,terrestrial,laboratory
+26,fecundity,Curculionidae,Anthonomus,adult,terrestrial,laboratory
+26,fat content,Curculionidae,Anthonomus,adult,terrestrial,laboratory
+32,development rate,Aphididae,Myzus,juvenile,terrestrial,laboratory
+5,pre-blood meal period,Culicidae,Aedes,adult,terrestrial,laboratory
+5,fecundity,Culicidae,Aedes,adult,terrestrial,laboratory
+5,gonotrophic cycle,Culicidae,Aedes,adult,terrestrial,laboratory
+-1,resource consumption rate,Chrysomelidae,Leptinotarsa,L1,terrestrial,laboratory
+4,blood feeding,Culicidae,Aedes,adult,terrestrial,laboratory
+4,transmission potential,Culicidae,Aedes,adult,terrestrial,laboratory
+37,post-oviposition period,Pseudococcidae,Planococcus,adult,terrestrial,laboratory
+26,fecundity,Curculionidae,Anthonomus,adult,terrestrial,laboratory
+4,lipid content,Culicidae,Aedes,adult,terrestrial,laboratory
+4,protein content,Culicidae,Aedes,adult,terrestrial,laboratory
+4,glycogen content,Culicidae,Aedes,adult,terrestrial,laboratory
+37,body size,Pseudococcidae,Planococcus,adult,terrestrial,laboratory
+30,fecundity rate,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+39,fecundity rate,Aphididae,Acyrthosiphon,adult (wingless),terrestrial,laboratory
+39,ovariole number,Aphididae,Acyrthosiphon,adult (wingless),terrestrial,laboratory
+39,reproductive capacity,Aphididae,Acyrthosiphon,adult (wingless),terrestrial,laboratory
+4,mortality rate,Culicidae,Aedes,juvenile (not inc egg stage),terrestrial,laboratory
+-1,pre-reproductive period,Curculionidae,Hypothenemus,adult,terrestrial,laboratory
+-1,fecundity,Culicidae,Aedes,adult,terrestrial,laboratory
+37,hatching rate,Pseudococcidae,Planococcus,egg,terrestrial,laboratory
+37,hatching rate,Pseudococcidae,Planococcus,egg,terrestrial,laboratory
+37,mortality,Pseudococcidae,Planococcus,N1,terrestrial,laboratory
+21,body size,Coccinellidae,Coccinella,adult,terrestrial,laboratory
+21,body size,Coccinellidae,Coccinella,adult,terrestrial,laboratory
+21,resource consumption rate,Coccinellidae,Coccinella,L1,terrestrial,laboratory
+-1,age specific fecundity,Tetranychidae,Bryobia,adult,terrestrial,laboratory
+-1,fecundity,Tetranychidae,Bryobia,adult,terrestrial,laboratory
+-1,development time,Coccinellidae,Nephus,entire lifecycle,terrestrial,laboratory
+29,fecundity,Chrysomelidae,Callosobruchus,adult,terrestrial,laboratory
+29,fecundity,Chrysomelidae,Callosobruchus,adult,terrestrial,laboratory
+29,survival,Chrysomelidae,Callosobruchus,egg-to-adult,terrestrial,laboratory
+29,development time,Chrysomelidae,Callosobruchus,juvenile (inc egg stage),terrestrial,laboratory
+-1,mortality,Coccinellidae,Harmonia,L1,terrestrial,laboratory
+29,hatch time,Chrysomelidae,Entomoscelis,egg,terrestrial,laboratory
+-1,development time,Chrysomelidae,Diabrotica,egg,terrestrial,laboratory
+-1,fecundity rate,Pteromalidae,Muscidifurax,adult,terrestrial,laboratory
+5,gonotrophic cycle,Culicidae,Aedes,adult,terrestrial,laboratory
+5,fecundity,Culicidae,Aedes,adult,terrestrial,laboratory
+39,mortality,Aphididae,Acyrthosiphon,juvenile,terrestrial,laboratory
+-1,development time,Libellulidae,Erythrodiplax,egg,terrestrial,laboratory
+-1,development time,Libellulidae,Micrathyria,egg,terrestrial,laboratory
+-1,hatching range,Libellulidae,Erythrodiplax,egg,terrestrial,laboratory
+39,fecundity rate,Aphididae,Acyrthosiphon,adult,terrestrial,laboratory
+39,pre-reproductive period,Aphididae,Acyrthosiphon,adult,terrestrial,laboratory
+40,age at first reproduction,Aphididae,Aphis,adult,terrestrial,laboratory
+4,body size,Culicidae,Aedes,adult,terrestrial,laboratory
+-1,body size,Culicidae,Culex,L1,terrestrial,laboratory
+40,fecundity,Aphididae,Aphis,adult,terrestrial,laboratory
+30,chill-coma recovery time,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+30,chill-coma recovery time,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+30,heat knockdown time,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+30,heat knockdown time,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+30,fecundity,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+-1,body size,Drosophilidae,Drosophila,adult,terrestrial,laboratory
+26,development time,Curculionidae,Anthonomus,adult,terrestrial,laboratory
+-1,development rate,Chrysomelidae,Longitarsus,juvenile (inc egg stage),terrestrial,laboratory
+-1,consumption rate,Coccinellidae,Harmonia,larval,terrestrial,laboratory
+-1,growth rate,Chrysomelidae,Colaphellus,pupal,terrestrial,laboratory
+-1,body size,Chrysomelidae,Colaphellus,adult,terrestrial,laboratory
+-1,weight loss,Chrysomelidae,Colaphellus,adult,terrestrial,laboratory
+-1,mortality,Tetranychidae,Tetranychus,adult,terrestrial,laboratory
+-1,development time,Tetranychidae,Tetranychus,egg-to-egg,terrestrial,laboratory
+26,feeding rate,Curculionidae,Anthonomus,adult,terrestrial,laboratory
+-1,EIP (extrinsic incubation period),Culicidae,Anopheles,adult,terrestrial,laboratory
+-1,oocyst prevalence,Culicidae,Anopheles,adult,terrestrial,laboratory
+-1,oocyst intensity,Culicidae,Anopheles,adult,terrestrial,laboratory
+-1,sporozoite prevalence,Culicidae,Anopheles,adult,terrestrial,laboratory
+-1,copulation duration,Coccinellidae,Cheilomenes,adult,terrestrial,laboratory
+21,hatchability,Coccinellidae,Cheilomenes,egg,terrestrial,laboratory
+21,prey consumption,Coccinellidae,Cheilomenes,L4,terrestrial,laboratory
+21,fecundity rate,Coccinellidae,Coccinella,adult,terrestrial,laboratory
+4,mortality rate,Culicidae,Aedes,juvenile,terrestrial,laboratory
+0,metabolic rate,Glossinidae,Glossina,adult,terrestrial,laboratory
+0,parasite maturation time,Glossinidae,Glossina,adult,terrestrial,laboratory
+1,interlarval period,Glossinidae,Glossina,adult,terrestrial,laboratory
+1,fecundity rate,Glossinidae,Glossina,adult,terrestrial,laboratory
+1,survival,Glossinidae,Glossina,adult,terrestrial,laboratory
+0,metabolic rate,Glossinidae,Glossina,adult,terrestrial,laboratory
+0,metabolic rate,Glossinidae,Glossina,adult,terrestrial,laboratory
+0,fat consumption rate,Glossinidae,Glossina,adult,terrestrial,laboratory
+1,pre-reproductive period,Glossinidae,Glossina,adult,terrestrial,laboratory
+5,fecundity,Culicidae,Aedes,adult,terrestrial,laboratory
+5,blood feeding,Culicidae,Aedes,adult,terrestrial,laboratory
+-1,metabolic rate (active),Blaberidae,Nauphoeta,NA,terrestrial,laboratory
+-1,relative activity,Blaberidae,Nauphoeta,NA,terrestrial,laboratory
+-1,metabolic rate,Coccinellidae,Hippodamia,adult,terrestrial,laboratory
+-1,metabolic heat rate,Coccinellidae,Hippodamia,adult,terrestrial,laboratory
+-1,anabolic rate,Coccinellidae,Hippodamia,adult,terrestrial,laboratory
+-1,metabolic rate (resting),Apidae,Bombus,adult,terrestrial,laboratory
+-1,metabolic rate,Helcomyzidae,Paractora,adult,terrestrial,field
+-1,metabolic rate (standard),Scarabaeidae,Scarabaeus,adult (flightless),terrestrial,laboratory
+4,gonotrophic cycle 1,Culicidae,Aedes,adult,terrestrial,laboratory
+4,gonotrophic cycle 2,Culicidae,Aedes,adult,terrestrial,laboratory
+4,fecundity,Culicidae,Aedes,adult,terrestrial,laboratory
+4,gonotrophic cycle,Culicidae,Aedes,adult,terrestrial,laboratory
+4,development time,Culicidae,Aedes,juvenile (not inc egg stage),terrestrial,laboratory
+4,longevity,Culicidae,Aedes,adult (starved),terrestrial,laboratory
+-1,development rate,Tetranychidae,Bryobia,juvenile (inc egg stage),terrestrial,laboratory
+-1,body size,Chrysomelidae,Cassida,adult,terrestrial,laboratory
+4,body size,Culicidae,Aedes,adult,terrestrial,laboratory
+4,viral load,Culicidae,Aedes,adult,terrestrial,laboratory
+30,starvation tolerance,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+1,recovery time,Glossinidae,Glossina,adult,terrestrial,laboratory
+1,mortality rate,Glossinidae,Glossina,adult,terrestrial,semi-field
+4,survival,Culicidae,Aedes,juvenile (not inc egg stage),terrestrial,laboratory
+4,juvenile life span,Culicidae,Aedes,juvenile (not inc egg stage),terrestrial,laboratory
+4,fecundity,Culicidae,Aedes,adult,terrestrial,laboratory
+4,bloodmeal weight,Culicidae,Aedes,adult,terrestrial,laboratory
+4,knockdown time,Culicidae,Aedes,adult,terrestrial,laboratory
+23,incubation period,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+23,development time,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+23,premolt period (nymphal),Ixodidae,Hyalomma,nymphal,terrestrial,laboratory
+23,feeding time,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,preoviposition period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,ovipositional period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,body size,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+23,weight loss,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+23,egg size,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,conversion efficiency index,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+13,premolt period (larval),Ixodidae,Ixodes,larval,terrestrial,laboratory
+-1,molting time,Ixodidae,Ixodes,larval,terrestrial,laboratory
+12,survival rate,Ixodidae,Ixodes,larval,terrestrial,laboratory
+15,survival rate,Ixodidae,Amblyomma,larval,terrestrial,laboratory
+20,survival time,Ixodidae,Rhipicephalus,larval,terrestrial,laboratory
+20,body size,Ixodidae,Rhipicephalus,nymphal,terrestrial,laboratory
+20,premolt period (nymphal),Ixodidae,Rhipicephalus,nymphal,terrestrial,laboratory
+20,survival rate,Ixodidae,Rhipicephalus,nymphal,terrestrial,laboratory
+20,sex ratio,Ixodidae,Rhipicephalus,nymphal,terrestrial,laboratory
+9,feeding time,Ixodidae,Haemaphysalis,nymphal,terrestrial,field
+9,body size,Ixodidae,Haemaphysalis,adult,terrestrial,field
+9,fecundity,Ixodidae,Haemaphysalis,adult,terrestrial,field
+9,body size,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+9,survival rate,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+-1,fecundity,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+6,survival rate,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+6,premolt period (larval),Ixodidae,Haemaphysalis,larval,terrestrial,laboratory
+6,fertility,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+3,oviposition failure,Ixodidae,Dermacentor,adult,terrestrial,laboratory
+3,preoviposition period,Ixodidae,Dermacentor,adult,terrestrial,laboratory
+3,ovipositional period,Ixodidae,Dermacentor,adult,terrestrial,laboratory
+3,conversion efficiency index,Ixodidae,Dermacentor,adult,terrestrial,laboratory
+3,fecundity rate,Ixodidae,Dermacentor,adult,terrestrial,laboratory
+3,fecundity,Ixodidae,Dermacentor,adult,terrestrial,laboratory
+9,hatch rate,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+9,incubation period,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+9,weight loss,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+9,development rate,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+17,egg mass,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+17,feed conversion rate,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+17,incubation period,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+17,larval hatch rate,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+17,mortality,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+17,weight loss,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+17,hatch rate,Ixodidae,Rhipicephalus,egg,terrestrial,laboratory
+8,feeding preference,Ixodidae,Rhipicephalus,nymphal,terrestrial,laboratory
+13,survival rate,Ixodidae,Ixodes,adult,terrestrial,laboratory
+13,preoviposition period,Ixodidae,Ixodes,adult,terrestrial,laboratory
+13,hatch rate,Ixodidae,Ixodes,egg,terrestrial,laboratory
+13,development time,Ixodidae,Ixodes,egg,terrestrial,laboratory
+13,molt success rate (larval),Ixodidae,Ixodes,larval,terrestrial,laboratory
+13,premolt period (larval),Ixodidae,Ixodes,larval,terrestrial,laboratory
+13,molt success rate (nymphal),Ixodidae,Ixodes,nymphal,terrestrial,laboratory
+13,premolt period,Ixodidae,Ixodes,larval,terrestrial,laboratory
+13,premolt period (nymphal),Ixodidae,Ixodes,nymphal,terrestrial,laboratory
+6,survival rate,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+6,fecundity,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+6,body mass,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+6,longevity,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+9,conversion efficiency,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+9,incubation period,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+9,hatch ratio,Ixodidae,Haemaphysalis,egg,terrestrial,laboratory
+9,molting period (larval),Ixodidae,Haemaphysalis,larval,terrestrial,laboratory
+9,molting ratio (larval),Ixodidae,Haemaphysalis,larval,terrestrial,laboratory
+9,molting period (nymphal),Ixodidae,Haemaphysalis,nymphal,terrestrial,laboratory
+9,molting ratio (nymphal),Ixodidae,Haemaphysalis,nymphal,terrestrial,laboratory
+10,prefeeding period (larval),Ixodidae,Haemaphysalis,larval,terrestrial,field
+10,feeding period (larval),Ixodidae,Haemaphysalis,larval,terrestrial,field
+10,prefeeding period (nymphal),Ixodidae,Haemaphysalis,nymphal,terrestrial,field
+10,feeding period (nymphal),Ixodidae,Haemaphysalis,nymphal,terrestrial,field
+10,prefeeding period (adult),Ixodidae,Haemaphysalis,adult,terrestrial,field
+10,feeding period (adult),Ixodidae,Haemaphysalis,adult,terrestrial,field
+10,lifespan,Ixodidae,Haemaphysalis,entire lifespan,terrestrial,field
+10,fecundity,Ixodidae,Haemaphysalis,adult,terrestrial,laboratory
+10,molt success rate (larval),Ixodidae,Haemaphysalis,larval,terrestrial,laboratory
+10,molt success rate (nymphal),Ixodidae,Haemaphysalis,nymphal,terrestrial,laboratory
+16,reproductive efficiency index,Ixodidae,Amblyomma,adult,terrestrial,laboratory
+16,pre-hatch period,Ixodidae,Amblyomma,egg,terrestrial,laboratory
+16,mortality (larval),Ixodidae,Amblyomma,larval,terrestrial,laboratory
+16,mortality (nymphal),Ixodidae,Amblyomma,nymphal,terrestrial,laboratory
+16,mortality (adult),Ixodidae,Amblyomma,adult,terrestrial,laboratory
+-1,fecundity rate,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+9,development time,Ixodidae,Haemaphysalis,nymphal,terrestrial,field
+9,fecundity rate,Ixodidae,Haemaphysalis,adult,terrestrial,field
+9,reproductive efficiency index,Ixodidae,Haemaphysalis,adult,terrestrial,field
+-1,survival rate,Ixodidae,Boophilus,larval,terrestrial,laboratory
+-1,survival time,Ixodidae,Boophilus,larval,terrestrial,laboratory
+30,longevity,Tenebrionidae,Tribolium,adult,terrestrial,laboratory
+5,body size,Culicidae,Aedes,adult,terrestrial,laboratory
+5,mortality,Culicidae,Aedes,adult,terrestrial,laboratory
+5,survival,Culicidae,Aedes,juvenile (L1 to pupa),terrestrial,laboratory
+5,body size,Culicidae,Aedes,adult,terrestrial,laboratory
+5,body size,Culicidae,Aedes,adult,terrestrial,laboratory
+5,mortality,Culicidae,Aedes,juvenile (L1 to pupa),terrestrial,laboratory
+5,survival,Culicidae,Aedes,juvenile (L1 to pupa),terrestrial,laboratory
+5,reproductive capacity,Culicidae,Aedes,adult,terrestrial,laboratory
+5,fertility,Culicidae,Aedes,adult,terrestrial,laboratory
+24,survival rate,Eulophidae,Tamarixia,juvenile (egg to adult),terrestrial,laboratory
+24,lifespan,Eulophidae,Tamarixia,NA,terrestrial,laboratory
+24,preoviposition period,Eulophidae,Tamarixia,adult,terrestrial,laboratory
+24,total preoviposition period,Eulophidae,Tamarixia,adult,terrestrial,laboratory
+24,oviposition period,Eulophidae,Tamarixia,adult,terrestrial,laboratory
+24,fecundity,Eulophidae,Tamarixia,adult,terrestrial,laboratory
+24,sex ratio,Eulophidae,Tamarixia,adult,terrestrial,laboratory
+36,developmental time,Liviidae,Diaphorina,egg,terrestrial,laboratory
+36,longevity,Liviidae,Diaphorina,adult,terrestrial,laboratory
+36,fecundity,Liviidae,Diaphorina,adult,terrestrial,laboratory
+-1,mortality,Psyllidae,Cacopsylla,egg,terrestrial,laboratory
+36,sex ratio,Liviidae,Diaphorina,egg,terrestrial,laboratory
+36,head capsule width,Liviidae,Diaphorina,N1,terrestrial,laboratory
+36,fecundity,Liviidae,Diaphorina,juvenile,terrestrial,laboratory
+36,cold hardiness,Liviidae,Diaphorina,egg,terrestrial,laboratory
+36,temperature thresholds for oviposition,Liviidae,Diaphorina,adult,terrestrial,laboratory
+-1,mortality rate,Aphididae,Brevicoryne,adult,terrestrial,laboratory
+-1,fecundity,Aphididae,Brevicoryne,adult,terrestrial,laboratory
+-1,longevity,Aphididae,Brevicoryne,adult,terrestrial,laboratory
+-1,fecundity rate,Aphididae,Brevicoryne,adult,terrestrial,laboratory
+40,reproductive and post-reproductive periods,Aphididae,Aphis,adult,terrestrial,laboratory
+40,age at first reproduction,Aphididae,Aphis,adult,terrestrial,laboratory
+40,life cycle,Aphididae,Aphis,adult,terrestrial,laboratory
+31,age at first reproduction,Aphididae,Uroleucon,juvenile and adult,terrestrial,laboratory
+-1,fecundity rate,Aphididae,Eriosoma,adult,terrestrial,laboratory
+34,development rate,Aphididae,Macrosiphum,juvenile (birth to adult),terrestrial,laboratory
+-1,development time,Aphididae,Aphis,juvenile (birth to adult),terrestrial,laboratory
+35,fecundity rate,Aphididae,Rhopalosiphum,adult,terrestrial,laboratory
+-1,fecundity rate,Aphididae,Pemphigus,adult (fundatrigenia),terrestrial,laboratory
+-1,development rate,Aphididae,Pemphigus,N1 (alienicolae),terrestrial,laboratory
+-1,fecundity,Aphididae,Schizaphis,adult,terrestrial,laboratory
+-1,age at first reproduction,Aphididae,Aphis,juvenile (birth to reproductive adult),terrestrial,laboratory
+-1,post-reproductive period,Aphididae,Cinara,adult,terrestrial,laboratory
+-1,growth rate,Aphididae,Drepanosiphum,juvenile (birth to adult),terrestrial,laboratory
+-1,body length,Aphididae,Cinara,adult,terrestrial,laboratory
+-1,fecundity rate,Aphididae,Hyalopterus,adult,terrestrial,laboratory
+35,effective fecundity,Aphididae,Rhopalosiphum,adult,terrestrial,laboratory
+-1,body size (alate),Aphididae,Macrosiphum,adult,terrestrial,laboratory
+-1,body size (apterous),Aphididae,Macrosiphum,adult,terrestrial,laboratory
+-1,maximum fecundity,Aphididae,Acyrthosiphon,adult,terrestrial,laboratory
+38,fecundity rate,Aphididae,Aphis,adult,terrestrial,laboratory
+38,pre-reproductive period,Aphididae,Aphis,juvenile (birth to adult),terrestrial,laboratory
+38,reproductive period,Aphididae,Aphis,juvenile (birth to adult),terrestrial,laboratory
+38,post-reproductive period,Aphididae,Aphis,juvenile (birth to adult),terrestrial,laboratory
+38,longevity,Aphididae,Aphis,adult,terrestrial,laboratory
+31,body size (alate nymph),Aphididae,Uroleucon,N1,terrestrial,laboratory
+31,body size (apterous nymph),Aphididae,Uroleucon,adult,terrestrial,laboratory
+31,fecundity (alate),Aphididae,Uroleucon,adult,terrestrial,laboratory
+31,fecundity (apterous),Aphididae,Uroleucon,adult,terrestrial,laboratory
+-1,development time,Aphididae,Aphis,N1,terrestrial,laboratory
+39,longevity,Aphididae,Aphis,adult,terrestrial,laboratory
+-1,fecundity,Aphididae,Metopolophium,adult,terrestrial,laboratory
+-1,longevity,Aphididae,Diuraphis,adult (apterous),terrestrial,laboratory
+34,fecundity,Aphididae,Macrosiphum,juvenile (N1 to adult),terrestrial,laboratory
+40,body size (length),Aphididae,Aphis,adult,terrestrial,laboratory
+40,fecundity rate,Aphididae,Aphis,adult,terrestrial,laboratory
+40,fecundity,Aphididae,Aphis,adult,terrestrial,laboratory
+-1,body size (length),Aphididae,Erisoma,adult,terrestrial,laboratory
+-1,body size (mass),Aphididae,Erisoma,adult,terrestrial,laboratory
+-1,fecundity rate (apterous),Aphididae,Hyadaphis,adult,terrestrial,laboratory
+-1,fecundity rate (alate),Aphididae,Hyadaphis,adult,terrestrial,laboratory
+-1,longevity (apterous),Aphididae,Hyadaphis,adult,terrestrial,laboratory
+-1,longevity (alate),Aphididae,Hyadaphis,adult,terrestrial,laboratory
+32,development duration,Aphididae,Myzus,immature,terrestrial,laboratory
+32,fertility,Aphididae,Myzus,NA,terrestrial,laboratory
+32,oviposition,Aphididae,Myzus,NA,terrestrial,laboratory
+32,adult longevity,Aphididae,Myzus,NA,terrestrial,laboratory
+-1,pre-reproductive period,Aphididae,Aulacorthum,NA,terrestrial,laboratory
+-1,reproductive period,Aphididae,Aulacorthum,NA,terrestrial,laboratory
+-1,nymph production,Aphididae,Aulacorthum,NA,terrestrial,laboratory
+-1,longevity,Aphididae,Aulacorthum,NA,terrestrial,laboratory
+34,longevity,Aphididae,Macrosiphum,NA,terrestrial,laboratory
+34,fecundity,Aphididae,Macrosiphum,NA,terrestrial,laboratory
+34,pre-reproduction period,Aphididae,Macrosiphum,NA,terrestrial,laboratory
+34,reproduction period,Aphididae,Macrosiphum,NA,terrestrial,laboratory
+34,post-reproduction period,Aphididae,Macrosiphum,NA,terrestrial,laboratory
+34,survival,Aphididae,Macrosiphum,NA,terrestrial,laboratory
+34,average daily fecundity,Aphididae,Macrosiphum,NA,terrestrial,laboratory
+-1,development time,Aphididae,Aphis,NA,terrestrial,laboratory
+40,adult longevity,Aphididae,Aphis,adult,terrestrial,laboratory
+40,mean fecundity,Aphididae,Aphis,adult,terrestrial,laboratory
+40,percent survival,Aphididae,Aphis,NA,terrestrial,laboratory
+40,longevity,Aphididae,Aphis,NA,terrestrial,laboratory
+40,age-specific daily fecundity,Aphididae,Aphis,NA,terrestrial,laboratory
+40,feeding behavior,Aphididae,Aphis,NA,terrestrial,laboratory
+38,developmental time,Aphididae,Aphis,1st nymph period,terrestrial,laboratory
+38,mean longevity,Aphididae,Aphis,NA,terrestrial,laboratory
+38,mean fecundity,Aphididae,Aphis,NA,terrestrial,laboratory
+33,Pre-reproductive average,Aphididae,Melanaphis,N1,terrestrial,laboratory
+33,Reproductive average,Aphididae,Melanaphis,NA,terrestrial,laboratory
+33,Reproductive average daily fecundity,Aphididae,Melanaphis,NA,terrestrial,laboratory
+33,Reproductive average total fecundity,Aphididae,Melanaphis,NA,terrestrial,laboratory
+33,Post-reproductive average,Aphididae,Melanaphis,NA,terrestrial,laboratory
+33,Longevity,Aphididae,Melanaphis,NA,terrestrial,laboratory
+-1,development time,Aphididae,Sitobion,nymph,terrestrial,laboratory
+-1,adult longevity,Aphididae,Sitobion,adult,terrestrial,laboratory
+-1,aphid longevity,Aphididae,Sitobion,NA,terrestrial,laboratory
+-1,fecundity,Aphididae,Sitobion,NA,terrestrial,laboratory
+11,body size,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+11,body size,Ixodidae,Hyalomma,Nymph,terrestrial,laboratory
+11,hypostome length,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+11,body length,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+11,body length,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+11,body width,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+11,body width,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+11,development time,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+11,development time,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+11,development time,Ixodidae,Hyalomma,Nymph,terrestrial,laboratory
+11,feeding period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+11,preoviposition period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+22,longevity,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+22,preoviposition period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+22,ovipositional period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+22,fecundity rate,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+22,peak fecundity,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+22,body size,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+-1,survival rate,Ixodidae,Hyalomma,larvae,terrestrial,laboratory
+-1,survival time,Ixodidae,Hyalomma,larvae,terrestrial,laboratory
+7,Pre-Oviposition Period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+7,Oviposition Rate,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+7,Weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+7,Weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+7,Weight,Ixodidae,Hyalomma,larvae,terrestrial,laboratory
+7,Weight,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+7,Weight,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+7,Incubation Period,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+7,Molting Period,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+7,Feeding Period,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+7,Feeding Period of Nymphs (Days),Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+-1,incubation period,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+25,feeding period,Ixodidae,Hyalomma,larva,terrestrial,laboratory
+25,premolting period,Ixodidae,Hyalomma,larva,terrestrial,laboratory
+25,feeding period,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+25,premolting period,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+25,feeding period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+25,preoviposition period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+25,oviposition period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,larva,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,larva,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,larva,terrestrial,laboratory
+28,weight loss,Ixodidae,Hyalomma,larva,terrestrial,laboratory
+28,weight loss,Ixodidae,Hyalomma,larva,terrestrial,laboratory
+28,weight loss,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+28,weight loss,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+28,weight loss,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+-1,Efficency,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,Weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,Weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+27,Weight,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+-1,egg mass,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,preoviposition period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,incubation period,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+23,hardening period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,feeding period,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+23,moulting period,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+23,engorgement period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,body size,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,egg mass,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+23,egg count,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,body size,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+23,hatchability,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+23,conversion efficiency,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,survival time,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+23,survival time,Ixodidae,Hyalomma,larval,terrestrial,laboratory
+23,survival time,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+23,survival time,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+23,survival time,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+14,survival rate,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+14,survival rate,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+14,survival rate,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+14,survival rate,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+14,survival rate,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+18,percent moult,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+18,premolting period,Ixodidae,Hyalomma,adult,terrestrial,laboratory
+18,survival time,Ixodidae,Hyalomma,larvae,terrestrial,laboratory
+18,percent moult,Ixodidae,Hyalomma,nymph,terrestrial,laboratory
+18,engorgement period,Ixodidae,Hyalomma,larvae,terrestrial,laboratory
+18,engorgement period,Ixodidae,Hyalomma,larvae,terrestrial,laboratory
+18,hatchability,Ixodidae,Hyalomma,egg,terrestrial,laboratory
+-1,feeding time,Ixodidae,Amblyomma,larval,terrestrial,laboratory
+15,molting period,Ixodidae,Amblyomma,larval,terrestrial,laboratory
+15,survival rate,Ixodidae,Amblyomma,larval,terrestrial,laboratory
+15,preoviposition period,Ixodidae,Amblyomma,adult,terrestrial,lab
+15,pre hatching period,Ixodidae,Amblyomma,adult,terrestrial,lab
+15,hatching period,Ixodidae,Amblyomma,adult,terrestrial,lab
+15,egg conversion ratio,Ixodidae,Amblyomma,NA,terrestrial,lab
+15,hatchability,Ixodidae,Amblyomma,egg,terrestrial,lab
+12,questing,Ixodidae,Ixodes,nymph,terrestrial,laboratory
+2,preoviposition,Ixodidae,Demacentor,adult,terrestrial,laboratory
+2,oviposition,Ixodidae,Demacentor,adult,terrestrial,laboratory
+2,conversion efficiency,Ixodidae,Demacentor,adult,terrestrial,laboratory
+2,egg hatch,Ixodidae,Demacentor,egg,terrestrial,laboratory
+2,incubation period,Ixodidae,Demacentor,egg,terrestrial,laboratory
+12,lipid content,Ixodidae,Ixodes,adult,terrestrial,laboratory
+13,Questing Height,Ixodidae,Ixodes,nymph,terrestrial,laboratory
+13,Distance Traveled,Ixodidae,Ixodes,nymph,terrestrial,laboratory
+13,Questing Time,Ixodidae,Ixodes,nymph,terrestrial,laboratory
+13,Questing Height,Ixodidae,Ixodes,nymph,terrestrial,laboratory
+13,Mortality Rate,Ixodidae,Ixodes,nymph,terrestrial,laboratory
+13,Mortality Rate,Ixodidae,Ixodes,nymph,terrestrial,laboratory
+12,Water loss,Ixodidae,Ixodes,adult,terrestrial,laboratory
+12,Weight loss,Ixodidae,Ixodes,adult,terrestrial,laboratory
+-1,Water loss,Ixodidae,Amblyomma,adult,terrestrial,laboratory
+12,Development time,Ixodidae,Ixodes,larva,terrestrial,laboratory
+12,Mortality Rate,Ixodidae,Ixodes,larva,terrestrial,laboratory
+8,Oviposition Period,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+8,Pre-Oviposition Period in engorged females,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+8,Development Rate (Egg),Ixodidae,Rhipicephalus,egg,terrestrial,laboratory
+8,Development Rate (Larva),Ixodidae,Rhipicephalus,nymph,terrestrial,laboratory
+8,Development Rate (Nymph),Ixodidae,Rhipicephalus,larvae,terrestrial,laboratory
+19,preoviposition period,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+19,incubation period,Ixodidae,Rhipicephalus,egg,terrestrial,laboratory
+19,oviposition,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+19,Body Mass,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+19,Egg Mass,Ixodidae,Rhipicephalus,adult,terrestrial,laboratory
+19,Body Mass,Ixodidae,Rhipicephalus,larva,terrestrial,laboratory
+19,Body Mass,Ixodidae,Rhipicephalus,pharate nymph,terrestrial,laboratory
+19,Body Mass,Ixodidae,Rhipicephalus,pharate nymph,terrestrial,laboratory
+19,Development Rate,Ixodidae,Rhipicephalus,larva,terrestrial,laboratory
+19,Development Rate,Ixodidae,Rhipicephalus,nymph,terrestrial,laboratory
+19,Development Rate,Ixodidae,Rhipicephalus,nymph,terrestrial,laboratory

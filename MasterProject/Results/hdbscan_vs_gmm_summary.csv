@@ -1,0 +1,6 @@
+Metric,HDBSCAN,GMM
+N clusters,21,29
+Largest cluster,68,305
+Avg cluster size,15.8,15.9
+Median cluster size,10,4
+Noise points,130,0

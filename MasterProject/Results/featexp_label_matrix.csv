@@ -1,0 +1,462 @@
+OriginalTraitName,OriginalTraitDef,V1,V2,V3,V4,V5,V6,V7,V8,V9,V10,V11,V12,V13,V14,V15,V16,V17,V18,V19,V20
+development time,mean duration of life stage,7,15,15,12,15,15,18,18,19,24,24,24,24,22,23,22,22,22,22,22
+fecundity,mean lifetime offspring,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+longevity,mean duration of life stage,9,16,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+reproductive period,mean duration of life stage,24,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+survival,proportion surviving life stage,13,13,16,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+mortality rate,per capita daily mortality,15,-1,-1,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+ovipositional period,mean duration of life stage,28,17,14,-1,-1,19,-1,-1,-1,-1,-1,20,-1,-1,-1,-1,-1,-1,-1,-1
+survival,percent surviving life stage,13,13,16,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,-1,11
+development time,median duration of life stage,7,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,23,-1,-1,-1,-1,-1
+longevity,median duration of life stage,9,16,18,14,14,13,14,17,18,21,21,22,22,24,-1,-1,-1,-1,-1,-1
+fecundity rate,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+mortality,percent not surviving life stage,14,11,19,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+pre-oviposition period,mean duration from adult emergence to onset of reproduction,27,17,14,19,19,19,19,19,20,23,23,-1,-1,-1,22,-1,-1,-1,-1,-1
+fecundity,mean lifetime nymphs individual-1,31,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+fecundity rate,mean eggs individual-1 day-1,29,10,4,4,5,3,3,3,3,-1,-1,13,15,13,13,-1,14,14,-1,-1
+fecundity rate,mean offspring per day,29,10,4,4,5,3,3,3,3,14,15,11,11,15,16,15,12,12,14,13
+blood feeding frequency,mean lifetime blood meals individual-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean wet mass,19,4,7,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+development time,mean duration period from aphid birth to its first reproduction,7,15,15,12,15,15,18,18,19,24,24,24,24,22,23,22,22,22,22,22
+fecundity,mean number of progeny in a reproductive period equal to development time,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+body size,mean wing length (mm),19,-1,6,5,3,6,-1,-1,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+longevity,median adult lifespan,9,16,18,14,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+ovipositioning,proportion of blood fed mosquitoes laying egg rafts,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development rate,mean rate of life stage completion,6,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime eggs individual-1,30,10,4,4,5,3,3,3,3,11,12,13,15,13,13,13,14,15,15,13
+egg viability,mean percentage of viable eggs produced per female,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean eggs produced per plant,30,10,4,4,5,3,3,3,3,11,12,13,15,13,13,13,14,15,15,13
+fat content,mean lipid content per individual,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development rate,rate of life stage completion,6,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+pre-blood meal period,average duration from emergence to first blood meal,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean number of eggs per cycle,30,10,4,4,5,3,3,3,3,10,11,10,10,12,11,11,10,10,10,10
+gonotrophic cycle,mean number of gonotrophic cycles completed in individuals lifetime,2,1,2,1,1,1,1,1,1,2,2,2,2,2,2,2,2,4,2,2
+resource consumption rate,mean daily resource consumption rate,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+blood feeding,percent taking one bloodmeal,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+transmission potential,percent of individuals with transmission potential,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+post-oviposition period,mean duration of life stage,-1,17,14,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime egg punctures,30,10,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+lipid content,mean lipid content per individual,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+protein content,mean protein content per individual,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+glycogen content,mean glycogen content per individual,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean wet mass (waxless and gravid),19,4,7,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+fecundity rate,mean eggs per unit time,29,10,4,4,5,3,3,3,3,11,12,13,15,13,13,13,14,15,15,13
+fecundity rate,mean offspring per unit time,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+ovariole number,mean number of ovarioles per individual,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+reproductive capacity,mean lifetime nymphs (30 days),-1,-1,4,4,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality rate,mean per capita rate of mortality during life stage,15,11,19,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+pre-reproductive period,mean duration of life stage,23,17,14,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime eggs per 10 individuals,30,10,4,4,5,3,3,3,3,10,11,10,10,12,11,11,10,10,10,10
+hatching rate,percent surviving life stage,21,12,12,6,8,4,5,5,6,4,3,-1,3,6,-1,-1,-1,-1,5,5
+hatching rate,mean duration of life stage,21,12,12,-1,-1,4,5,5,6,4,3,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality,mean duration of life stage,14,11,19,15,-1,-1,-1,15,13,8,-1,-1,-1,9,-1,-1,-1,-1,-1,-1
+body size,mean length,19,4,6,5,3,6,6,6,5,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean width,19,4,6,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+resource consumption rate,mean lifetime prey consumed,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+age specific fecundity,mean number of female offspring individual-1 at specific age,-1,-1,4,-1,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean number of female offspring individual-1,30,10,4,4,5,3,3,3,3,-1,15,11,11,15,-1,-1,-1,-1,-1,-1
+development time,mean duration of life cycle (egg-to-egg),7,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime eggs per individual (across all humdity levels),30,10,4,4,5,3,3,3,3,11,12,13,15,13,13,13,14,15,15,13
+fecundity,mean lifetime eggs per individual,30,10,4,4,5,3,3,3,3,11,12,13,15,13,13,13,14,15,15,13
+survival,percent surviving life stage (across all humidity levels),13,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development time,mean duration of life stage (across all humidity levels),7,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality,cummulative mortality percentage across immature stages,14,11,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9,-1,-1,-1,-1,-1,-1
+hatch time,mean duration of life stage,21,-1,-1,-1,-1,-1,-1,-1,6,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development time,mean duration for 50 percent of eggs to hatch,8,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity rate,maximum progengy individual-1 day-1,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+gonotrophic cycle,mean duration of gonotrophic cycle (7th),2,1,2,1,1,1,1,1,1,2,2,2,2,2,2,2,2,4,2,2
+fecundity,mean number of eggs per cycle (1st),31,10,4,4,5,3,3,3,3,10,11,10,10,12,11,11,10,10,10,10
+mortality,proportion not surviving life stage,14,11,19,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+development time,median duration for egg development,8,15,15,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development time,mean duration for egg development,8,15,15,12,-1,15,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+hatching range,range of the number of days all eggs hatched from when the first egg hatching started,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity rate,mean lifetime offspring,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+pre-reproductive period,mean duration from adult emergence to onset of reproduction,23,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+age at first reproduction,mean age at first reproduction,-1,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+body size,mean dry mass,19,4,7,5,3,6,6,6,5,3,5,4,5,5,4,4,4,3,4,4
+body size,mean head width,19,-1,6,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean offspring per reproduction day,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of growth temperature,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+chill-coma recovery time,mean duration for individuals to regain full movement after being cold shocked as function of adult temperature,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of adult temperature,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+heat knockdown time,mean duration individuals can tolerate heat exposure before movement ceases as a function of sex and growth temperature,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime offspring as a function of size and adult and growth temperature,30,10,4,4,5,3,3,3,3,-1,12,13,15,13,13,13,14,15,15,13
+body size,mean thorax length,19,4,6,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development time,duration of life stage,7,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development rate,mean duration of life stage,6,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+consumption rate,mean relative consumption rate,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+growth rate,mean daily growth rate (the product of ln pupal weight divided by larval development time),6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean body weight,19,4,7,5,3,6,6,6,5,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,3
+weight loss,proportionate weight loss in relation to temperature and population,5,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality,time to 50% mortality,14,-1,18,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development time,mean duration of life cycle,8,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+feeding rate,mean lifetime feeding punctures,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+EIP (extrinsic incubation period),day sporozoites first detected in salivary glands,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+oocyst prevalence,not stated,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+oocyst intensity,not stated,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+sporozoite prevalence,not stated,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+copulation duration,mean copulation duration,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+hatchability,mean percentage of eggs hatching,21,12,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+prey consumption,mean number of prey consumed,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity rate,mean number of eggs individual-1 day-1,29,10,4,4,5,3,3,3,3,11,12,13,15,13,13,13,14,15,15,13
+mortality rate,mean death rate during life stage,15,11,19,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+metabolic rate,mean CO2 production (VCO2) (RMR: resting metabolic rate),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+parasite maturation time,mean duration time from infective feed to mature infection,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+interlarval period,mean frequency of larval production,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity rate,mean number of offspring per reproductive cycle,29,10,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+survival,probability of survival after exposure to extreme temperatures,13,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+metabolic rate,mean CO2 production rate as a function of exposure temperature and acclimation temperature (secondstressor),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+metabolic rate,mean CO2 production rate,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fat consumption rate,mean daily rate of fat consumption,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+pre-reproductive period,mean duration to production of first larva,23,-1,14,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime eggs,30,10,4,4,5,3,3,3,3,10,11,10,10,12,11,11,10,10,10,10
+blood feeding,mean lifetime blood feeds,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+metabolic rate (active),mean active metabolic rate (AMR),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+relative activity,amount of activity as a percentage of maximum recorded activity,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+metabolic rate,mean respiratory CO2 rate (RCO2),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+metabolic heat rate,mean metabolic heat rate (or 455RCO2),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+anabolic rate,mean anabolic rate,3,0,0,0,-1,0,-1,-1,-1,-1,-1,0,-1,-1,0,0,0,0,0,0
+metabolic rate (resting),mean oxygen consumption of inactive individuals that produced fewer than 0.3 spikes/sec over several minutes of observation,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+metabolic rate,mean oxygen uptake rate,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+metabolic rate (standard),mean CO2 production rate (VCO2),3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gonotrophic cycle 1,individual-level duration of first gonotrophic cycle,2,1,2,1,1,1,1,1,1,2,2,2,2,2,2,2,2,4,2,2
+gonotrophic cycle 2,individual-level duration of second gonotrophic cycle,2,1,2,1,1,1,1,1,1,2,2,2,2,2,2,2,2,4,2,2
+fecundity,individual-level mean eggs per gonotrophic cycle,30,10,4,4,5,3,3,3,3,10,11,10,10,12,11,11,10,10,10,10
+gonotrophic cycle,individual-level lifetime number of cycles completed,2,1,2,1,1,1,1,1,1,2,2,2,2,2,2,2,2,4,2,2
+development time,individual-level duration of life stage,7,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+longevity,individual-level duration of life stage,9,16,18,14,14,13,14,17,18,-1,-1,-1,-1,-1,-1,-1,-1,-1,11,-1
+development rate,individual-level rate of life stage completion,6,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,individual-level mass,19,4,7,5,3,6,6,6,5,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,individual-level wet mass,19,4,7,5,3,6,6,6,5,3,5,4,5,5,4,4,4,3,4,4
+viral load,individual-level viral load,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+starvation tolerance,individual-level starvation tolerance as a function of temperature and body size (interactor1size),-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+recovery time,individual-level duration to recover movement after exposure to extreme temperature,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality rate,individual-level per capita daily rate of mortality,15,-1,19,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+survival,individual-level binomial survival,13,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9,-1,9,-1,-1,-1,-1,11,-1
+juvenile life span,individual-level duration from hatching to death or adult eclosion,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,individual-level lifetime eggs,30,10,4,4,5,3,3,3,3,10,11,10,10,12,11,11,10,10,10,10
+bloodmeal weight,individual-level weight of bloodmeal,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+knockdown time,mean time for 50% knockdown of femelaes under exposure to deltamethrin concentration (see notes),-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+incubation period,mean duration of egg incubation period (lay to hatching),4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+development time,mean duration of larval attachment developmental phase,7,15,15,12,15,15,18,18,19,25,25,25,25,23,24,23,23,23,23,23
+premolt period (nymphal),mean duration of nymphal premolting phase,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+feeding time,mean duration of adult female feeding developmental phase,22,18,-1,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+preoviposition period,mean duration of prereproductive period (end of feeding until oviposition),27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+ovipositional period,mean duration of reproductive period,28,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+body size,mean wet mass on the day feeding was completed,19,4,7,7,6,7,7,7,7,6,7,7,7,7,-1,7,7,7,7,7
+weight loss,nymphal weight loss during molting stage,5,3,3,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+egg size,mean weight of egg mass produced by adult female ticks,10,-1,-1,7,6,7,7,7,7,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+conversion efficiency index,percentage of adult female weight post feeding that was converted into egg mass,0,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+premolt period (larval),mean duration of larval premolting phase,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+molting time,mean duration of nymphal molting phase,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+survival rate,percentage of ticks that survived the larval stage,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival rate,percentage of ticks that survived the larval moult,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival time,mean survival time of fasting larvae,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+body size,mean weight of nymphs post-feeding,19,4,7,7,6,7,7,7,7,6,7,7,7,7,9,7,7,7,7,7
+premolt period (nymphal),mean time to complete nymphal moulting,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+survival rate,percentage of ticks that survived the nymphal moult,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+sex ratio,ratio of male ticks to female ticks,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+feeding time,mean duration of feeding developmental phase,22,-1,-1,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+body size,mean body weight of engorged adult females,19,4,7,7,6,7,7,7,7,6,7,7,7,7,-1,7,7,7,-1,7
+fecundity,mean lifetime eggs laid per female,31,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+body size,mean wet mass on the day feeding was completed (engorged),19,4,7,7,6,7,7,7,7,6,7,7,7,7,-1,7,7,-1,-1,7
+survival rate,percentage of ticks that survived adult engorgement,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+fecundity,mean lifetime eggs produced by an individual female,30,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+survival rate,percentage of ticks that survived the nymphal stage,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+premolt period (larval),mean time to complete larval moulting,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+fertility,percentage of females that laid fertile eggs,-1,-1,-1,-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+oviposition failure,mean probability of failure to oviposit,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+preoviposition period,mean duration of period before oviposition,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+ovipositional period,mean duration of ovipositional period,28,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+conversion efficiency index,total mg eggs produced divided by mg engorged weight,0,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+fecundity rate,mean weight of egg mass per day,29,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+fecundity,individual-level weight of lifetime eggs per individual,30,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+hatch rate,mean hatching rate of egg batches,21,12,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+incubation period,median time from oviposition to hatching,4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+weight loss,cumulative weight loss across time (see notes for time intervals),5,-1,-1,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+development rate,mean development rate per day,6,-1,15,13,13,-1,15,16,17,20,17,17,17,19,17,16,16,16,16,16
+egg mass,mean egg mass weight,10,4,8,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+feed conversion rate,ability to produce eggs relative to the weight at detachment of each engorged female,-1,2,1,2,2,2,2,2,2,1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1
+incubation period,time from start of oviposition until first eggs hatched,4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+larval hatch rate,percentage of unfertilized eggs that were subsequently fertilized,21,-1,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+mortality,number of dead individuals per group,14,-1,-1,-1,-1,-1,-1,-1,11,9,13,-1,-1,10,-1,10,-1,-1,-1,-1
+weight loss,mean weight loss,5,-1,-1,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+hatch rate,percentage of unfertilized eggs that were subsequently fertilized,21,12,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+feeding preference,mean number of individual ticks selecting to feed on human (see notes for %),-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+survival rate,percent surviving to oviposition,16,-1,-1,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+preoviposition period,mean duration of life stage,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+hatch rate,percentage of egg masses producing larvae,21,12,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+development time,mean duration from when eggs were deposited to hatch,8,15,15,12,15,15,18,18,19,25,25,25,25,23,24,23,23,23,23,23
+molt success rate (larval),percentage that molted,25,7,10,9,9,9,9,10,10,16,16,16,16,16,20,17,19,19,21,19
+premolt period (larval),mean duration of life stage,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+molt success rate (nymphal),percentage that molted,25,7,10,9,9,9,9,10,10,16,16,16,16,16,20,17,19,19,21,19
+premolt period,mean duration of life stage,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+premolt period (nymphal),mean duration of life stage,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+survival rate,percent surviving life stage,16,13,16,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+fecundity,total number of eggs produced,30,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+body mass,mean weight of female,20,-1,7,7,6,7,7,7,7,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+longevity,duration for 50% mortality,9,16,18,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+conversion efficiency,total number of eggs produced divided by engorged weight,0,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+incubation period,mean duration from oviposition to hatching,4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+hatch ratio,hatching ratio of eggs,21,-1,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+molting period (larval),mean duration of life stage,26,18,-1,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+molting ratio (larval),percentage that molted during life stage,25,7,10,9,9,9,9,10,10,16,16,16,16,16,20,17,19,19,21,19
+molting period (nymphal),mean duration of life stage,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+molting ratio (nymphal),percentage that molted during life stage,25,7,10,9,9,9,9,10,10,16,16,16,16,16,20,17,19,19,21,19
+prefeeding period (larval),mean duration of life stage,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+feeding period (larval),mean duration of life stage,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+prefeeding period (nymphal),mean duration of life stage,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+feeding period (nymphal),mean duration of life stage,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+prefeeding period (adult),mean duration of life stage,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+feeding period (adult),mean duration of life stage,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+lifespan,mean duration of entire life,9,16,18,-1,-1,13,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,17,-1,-1
+fecundity,mean number of lifetime eggs by a tick,31,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+molt success rate (larval),percentage that molted during life stage,25,7,10,9,9,9,9,10,10,16,16,16,16,16,20,17,19,19,21,19
+molt success rate (nymphal),percentage that molted during life stage,25,7,10,9,9,9,9,10,10,16,16,16,16,16,20,17,19,19,21,19
+reproductive efficiency index,mean number of eggs per mg weight of engorged female,-1,-1,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+pre-hatch period,number of days until hatching,21,-1,-1,-1,-1,-1,-1,11,14,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality (larval),duration for 100% mortality (unfed larvae),-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality (nymphal),duration for 50% mortality (unfed nymphs),-1,-1,-1,-1,-1,-1,-1,-1,11,9,13,-1,12,10,14,10,15,13,-1,-1
+mortality (adult),mean duration for 100% mortality (unfed adults),-1,-1,-1,-1,10,-1,-1,-1,11,-1,-1,-1,-1,10,-1,9,-1,-1,-1,-1
+fecundity rate,mean eggs produced by an individual female per day,29,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+development time,mean time to complete nymphal devlopment,7,15,15,12,15,15,18,18,19,25,25,25,25,23,24,23,23,23,23,23
+fecundity rate,peak number of eggs per day per individual,29,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+reproductive efficiency index,ratio of lifetime eggs to engorged female weight,-1,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+survival rate,percentage of ticks that survived the adult stage,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival time,mean survival time of larvae post hatch,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+longevity,mean duration of life stage as a function of body size,9,16,18,14,14,13,14,17,18,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean dry mass. relationship between dry mass and wing length,19,4,7,5,3,6,6,6,5,3,5,4,5,5,4,4,4,3,4,4
+mortality,time taken for 50% of adults to die,14,-1,-1,-1,-1,-1,-1,-1,-1,8,9,9,9,9,12,12,11,11,11,11
+survival,proportion of individuals surviving life stage (emergence rate),13,13,16,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+body size,dry mass,19,4,7,5,3,6,6,6,5,3,5,4,5,5,4,4,4,3,4,4
+body size,mean wing length,19,4,6,5,3,6,6,6,5,3,5,4,5,5,4,4,4,3,4,4
+mortality,percentage not surviving life stage,14,11,19,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+survival,percentage of individuals surviving life stage (emergence rate),13,13,16,15,-1,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+reproductive capacity,proportion of individuals that laid eggs after first blood meal,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fertility,mean number of hatched eggs in an individuals lifetime,-1,10,4,4,5,3,3,3,3,10,11,10,10,12,11,11,10,10,10,10
+survival rate,mean percentage surviving life stage,16,13,16,-1,11,12,12,15,13,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+lifespan,mean duration of entrie lifespan (from egg to adult death),9,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+preoviposition period,mean duration from adult emergence to onset of reproduction,27,17,14,20,19,19,20,20,20,23,23,20,-1,21,22,-1,-1,-1,-1,-1
+total preoviposition period,mean duration from egg to onset of reproduction,27,17,14,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,-1,-1,-1,-1,-1
+oviposition period,mean duration of life stage,28,17,14,-1,-1,-1,-1,-1,-1,-1,-1,20,-1,-1,22,-1,-1,-1,-1,-1
+fecundity,mean eggs individual-1,30,10,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+sex ratio,mean proportion of female adults cohort-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+developmental time,mean duration of life stage,6,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+longevity,mean duration of life,9,16,18,14,14,13,14,17,18,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime total number of nymphs,31,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+mortality,mean percent not surviving life stage,14,11,19,15,11,11,13,15,13,8,9,9,9,9,12,12,11,11,11,11
+sex ratio,ratio of male psyllids to female psyllids,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+head capsule width,mean width of head capsule,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean liftetime eggs,31,10,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+cold hardiness,percent of eggs hatched after being exposed to freezing temperatures for a given duration of time,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+temperature thresholds for oviposition,number of psyllid eggs laid over a 48 hour period at temperatures at which female psyllids were held,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mortality rate,inverse of mean longevity,15,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity,mean lifetime progeny,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+longevity,percent not surviving life stage,9,-1,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,-1,-1,-1
+fecundity rate,mean progeny per unit time,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+reproductive and post-reproductive periods,mean duration of life stage,24,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+age at first reproduction,mean duration of life stage,-1,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+life cycle,mean duration of entire life cycle,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+age at first reproduction,mean duration from birth to onset of reproduction,-1,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+fecundity rate,mean maximum progeny per unit time,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+development rate,replicate-level mean rate of life stage completion,6,15,15,12,15,15,18,18,19,-1,-1,-1,-1,-1,23,22,-1,-1,-1,22
+development time,mean duration of juvenile stages and from adult emergence to the onset of reproduction,8,15,15,12,15,15,18,18,19,24,24,24,24,22,23,22,22,22,22,22
+fecundity rate,maximum number of offspring per female per day,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+fecundity rate,mean number of nymphs per day per female,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+development rate,inverse of the mean duration of life stage,6,15,15,12,15,15,18,18,19,24,-1,24,24,22,23,22,22,22,22,22
+fecundity,mean duration of life stage,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+age at first reproduction,mean age at the onset of reproduction,-1,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+post-reproductive period,mean duration of life stage,24,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+growth rate,mean relative growth rate (ln(adult moult weight (ug)) - ln(birth wt (ug))/development time),6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body length,replicate-level mean body length,18,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity rate,maximum progeny per unit time,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+effective fecundity,mean number of nymphs produced individual-1 during a period equivalent to the prereporoductive time,-1,10,4,4,5,3,3,3,3,-1,14,12,14,14,15,14,13,14,12,12
+body size (alate),mean wet mass,-1,4,7,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+body size (apterous),mean wet mass,-1,4,7,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+maximum fecundity,mean duration from onset of reproduction to maximum reproductive output,-1,-1,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fecundity rate,mean duration of life stage,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+pre-reproductive period,mean rate of life stage completion,23,17,14,-1,-1,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+reproductive period,mean rate of life stage completion,24,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+post-reproductive period,mean rate of life stage completion,24,17,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+longevity,mean rate of life stage completion,9,16,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+body size (alate nymph),mean wet mass,-1,4,-1,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+body size (apterous nymph),mean wet mass,-1,4,7,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+fecundity (alate),mean lifetime offspring,-1,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+fecundity (apterous),mean lifetime offspring,-1,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+development time,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,7,15,15,12,15,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+longevity,mean duration of life stage as a function of rearing food type (secondstressor) and temperature,9,16,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+fecundity,mean population-level offspring (100 individuals),31,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+longevity,mean duration of adult lifespan as a function of temperature and the number of instars completed prior to reproductive adulthood (secondstressor),9,16,18,14,14,13,14,17,18,21,21,22,22,-1,-1,-1,-1,-1,-1,-1
+fecundity,total population-level number of offspring produced,31,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+body size (length),mean body length,18,4,6,5,3,6,6,6,5,3,-1,-1,4,4,3,3,3,2,3,3
+fecundity rate,mean offspring per reproduction day,29,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+fecundity,mean lifetime progeny per female,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+body size (length),mean body length (adult),18,4,6,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+body size (mass),mean wet mass,20,4,7,5,3,6,6,6,5,3,4,3,4,4,3,3,3,2,3,3
+fecundity rate (apterous),mean offspring per unit time,-1,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+fecundity rate (alate),mean offspring per unit time,-1,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+longevity (apterous),mean duration of life stage,9,16,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+longevity (alate),mean duration of life stage,9,16,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,-1,-1,-1
+development duration,period at 4th instar,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+fertility,number of offspring produced,-1,-1,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+oviposition,period of oviposition in days,-1,17,14,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+adult longevity,lifespan over time,9,-1,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+pre-reproductive period,period of time before female aphids reproduce,23,-1,-1,-1,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+reproductive period,period of time where female aphids reproduce,24,-1,-1,-1,-1,-1,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+nymph production,number of nymphs produced / female,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+longevity,aphid lifespan,9,8,13,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+longevity,lifespan of aphids,9,8,13,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+fecundity,mean of daily newborn nymph counts,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+pre-reproduction period,duration of developmental phases in days,23,-1,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+reproduction period,duration of developmental phases in days,24,-1,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+post-reproduction period,duration of developmental phases in days,24,-1,14,19,19,18,19,19,20,22,22,23,23,25,26,25,25,25,24,25
+survival,cumulative daily survival,13,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+average daily fecundity,daily fecundity of female aphids,-1,-1,4,-1,5,3,3,3,3,-1,14,12,-1,14,-1,-1,-1,-1,-1,-1
+development time,nymphal development time,7,-1,15,12,15,15,18,18,19,24,24,24,-1,22,23,22,22,22,22,22
+adult longevity,period from adult emergence until death,9,-1,-1,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,-1
+mean fecundity,number of nymphs deposited,-1,10,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+percent survival,percent of adult aphids that were still alive each day,16,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,9,-1,-1,-1,-1,-1,-1
+longevity,adult aphid survival,9,8,13,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+age-specific daily fecundity,new nymphs produced each day,-1,10,4,4,5,3,3,3,3,-1,14,12,-1,14,15,14,-1,-1,-1,-1
+feeding behavior,initiation of stylet penetration of leaf tissue,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+developmental time,number of days at each developmental stage,6,-1,15,12,15,15,18,18,19,24,24,24,24,22,23,22,22,22,22,22
+mean longevity,mean lifespan in days,9,-1,18,14,14,13,14,17,18,21,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+mean fecundity,mean number of offspring produced by females,-1,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+Pre-reproductive average,Period from birth until first molt,-1,-1,-1,-1,-1,-1,-1,-1,20,22,22,23,23,25,26,25,25,25,24,25
+Reproductive average,Period from the adult stage (genital plate appeared and the complete development of the cauda) until the end of reproduction,-1,-1,-1,-1,-1,-1,-1,-1,20,22,22,23,23,25,26,25,25,25,24,25
+Reproductive average daily fecundity,the number of newborn nymphs (N1) per female per day,-1,10,4,4,5,3,3,3,3,-1,14,12,-1,14,15,14,13,-1,-1,-1
+Reproductive average total fecundity,the number of newborn nymphs (N1) per female,-1,10,4,4,5,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Post-reproductive average,period from the end of reproduction until death,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,23,23,25,26,25,25,25,24,-1
+Longevity,"sum of all life stage periods in study (pre-reproductive, reproductive, and post-reproductive)",9,16,18,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+development time,mean nymphal development time,8,15,15,12,15,15,18,18,19,24,24,24,24,22,23,22,22,22,22,22
+adult longevity,lifespan of adult aphids,9,8,13,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+aphid longevity,lifespan of aphids,-1,8,13,14,14,13,14,17,18,21,21,22,22,24,25,24,24,24,25,24
+fecundity,number of aphids produced,30,10,4,4,5,3,3,3,3,14,14,12,14,14,15,14,13,14,12,12
+body size,mean of weight (unfed),19,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+body size,mean of weight (engorged),19,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+hypostome length,mean length of hypostome (appendage on the mouth),-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body length,mean length (unfed ),18,4,6,-1,6,7,7,7,7,-1,-1,-1,7,-1,-1,-1,7,7,-1,7
+body length,mean length (engorged ),18,4,6,-1,6,7,-1,7,7,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body width,mean width (unfed),-1,-1,6,-1,6,7,7,7,7,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body width,mean width (engorged),-1,4,-1,-1,6,7,-1,7,7,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+development time,mean duration of incubation period,8,15,15,12,15,15,18,18,19,25,25,25,25,23,24,23,23,23,23,23
+development time,mean duration of attachment period,8,15,15,12,15,15,18,18,19,25,25,25,25,23,24,23,23,23,23,23
+development time,mean duration of premoulting period,7,15,15,12,15,15,18,18,19,25,25,25,25,23,24,23,23,23,23,23
+feeding period,mean duration of feeding period,22,18,-1,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+preoviposition period,mean days in preoviposition,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+longevity,individual-level duration of adult female life stage,9,16,18,-1,-1,13,14,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+preoviposition period,individual-level duration of prereproductive period (end of feeding until oviposition),27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+ovipositional period,individual-level duration of reproductive period,28,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+fecundity rate,maximum number of eggs produced in a single day by an individual female,29,10,4,4,5,3,3,3,3,15,15,11,11,15,16,15,12,12,14,14
+peak fecundity,day post engorgement on which an individual female laid most eggs,-1,-1,-1,-1,-1,3,3,3,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean wet mass of an individual tick post engorgement,19,4,7,7,6,7,7,7,7,6,7,7,7,7,-1,7,7,7,7,7
+survival rate,percentage of starved larval ticks that survived to the days listed,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival time,mean survival time of fasting nymphs,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+Pre-Oviposition Period,Pre-oviposition period of ticks held at constant temperature,27,-1,-1,-1,-1,-1,-1,-1,21,23,23,20,21,21,22,21,21,21,19,21
+Oviposition Rate,mean number of eggs per female,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Weight,Weight of eggs laid by an individual engorged female raised at constant temp,12,-1,-1,7,6,7,7,7,7,6,7,7,7,7,-1,-1,-1,-1,-1,-1
+Weight,Weight of an individual engorged female in grams held at constant temperature,12,4,-1,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+Weight,mean weight of larvae during their feeding period,12,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+Weight,mean weight of nymphs during their feeding period,12,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+Weight,mean weight of engorged nymphs moulting to males,12,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+Incubation Period,Incubation period of ticks held at constant temperature,4,-1,-1,-1,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+Molting Period,number of days required for an individual engorged nymph to molt into an adult,26,18,-1,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+Feeding Period,number of days required for nymphs to fully engorge,22,-1,-1,-1,-1,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+Feeding Period of Nymphs (Days),number of days required for nymphs to fully engorge,-1,-1,-1,-1,-1,-1,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+incubation period,mean Incubation Period in days from egg to larvae at constant temps,4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+feeding period,mean Feeding Period in days at larval state at constant temps,22,18,-1,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+premolting period,mean Premolting Period in days at larval state at const temps,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+feeding period,mean Feeding Period in days at nymph state at constant temps,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+premolting period,mean Premolting Period in days at nymph state at constant temps,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+feeding period,mean Feeding Period in days at adult female state at const temps,22,18,-1,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+preoviposition period,mean Preoviposition Period in days at adult female state at const temps,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+oviposition period,mean Oviposition Period in days at adult female state at const temps,28,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+weight,Mean weight on day of hatching,11,4,8,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+weight,Mean weight 14 days after hatching,11,-1,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+weight,Mean weight on day of engorgement,11,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+weight loss,Percentage loss in body weight during larval prefeeding period,5,3,3,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+weight loss,Percentage loss in body weight during larval molting period,5,3,3,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+weight loss,Percentage loss in body weight during nymphal prefeeding period,5,3,3,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+weight loss,Percentage loss in body weight during nymphal molting period,5,3,3,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+weight loss,Percentage loss in body weight during female prefeeding period,5,-1,-1,3,4,5,4,4,4,5,6,6,6,3,6,5,5,5,6,6
+weight,"Weight of developing Hyalomma impeltatum nymphs held at four different temperatures and 75% relative humidity""",11,-1,5,8,7,8,8,8,8,7,8,8,8,8,7,8,8,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after molting,11,5,5,8,7,8,8,8,8,7,8,8,8,8,7,8,8,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),11,5,5,8,7,8,8,8,8,7,8,8,8,8,7,8,8,8,8,8
+weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,11,5,5,8,7,8,8,8,8,7,8,8,8,8,7,8,8,8,8,8
+weight,Mean egg mass,11,4,8,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+Efficency,Percent weight transfered from engorged female at constant temperature to mass of eggs,0,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+Weight,Weight of undisturbed female Hyalomma impeltatum after molting,12,5,5,8,7,8,8,8,8,7,8,8,8,8,7,8,8,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after feeding (14 days post-molt),12,5,5,8,7,8,8,8,8,7,8,8,8,8,7,8,8,8,8,8
+Weight,Weight of undisturbed female Hyalomma impeltatum after engorgement,12,5,5,8,7,8,8,8,8,7,8,8,8,8,7,8,8,8,8,8
+egg mass,Mean egg mass by oviposition day of females raised at constant temps,10,4,8,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+preoviposition period,mean time required for an engorged female tick to begin laying eggs,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+incubation period,mean time required for an egg to hatch (from time of completion of egg deposition to eclosion of first larva),4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+hardening period,mean time for a tick to become hardened,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+feeding period,mean time required for nymphs to feed,22,18,20,17,18,17,16,13,16,18,19,19,20,18,18,20,18,17,18,17
+moulting period,mean time required for nymphs to moult,26,18,21,18,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+engorgement period,mean time required for females to become engorged,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean weight of engorged tick,19,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+egg mass,mean weight of eggs,10,4,8,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+egg count,mean number of eggs layed,10,-1,-1,-1,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+body size,mean weight of engored nymphs,19,4,7,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+hatchability,the percent of laid eggs that successfully hatched,21,12,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+conversion efficiency,the ratio of laid eggs to engorged female body mass calculated as the sum of all eggs laid divided by the sum of all females laying eggs,0,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+survival time,mean time for egg survival,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+survival time,mean time for unfed larva survival,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+survival time,mean time for engorged nymph survival,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+survival time,mean time for unfed adult survival,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+survival time,mean time for engorged adult survival,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+survival rate,percentage of unfed adults that survive,16,-1,-1,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival rate,percentage of ticks that survived at 5 degrees celcius,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival rate,percentage of ticks that survived at 17 degrees celcius,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival rate,percentage of ticks that survived at 24 degrees celcius,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+survival rate,percentage of ticks that survived at 30 degrees celcius,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+percent moult,percentage moulted engorged on calves,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+premolting period,average pre-moulting period engorged on calves,26,-1,-1,-1,17,16,17,12,15,17,18,18,19,17,19,19,20,20,20,18
+survival time,average number of days unfed nymphs survived,17,6,9,10,10,10,10,9,9,12,10,15,13,11,10,9,9,9,9,9
+percent moult,percentage moulted engorged on rabbits,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+engorgement period,average duration of engorgement on calves,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+engorgement period,average duration of engorgement on rabbits,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+hatchability,percent of eggs successfully hatching based on the day of oviposition during which it was laid,21,12,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+feeding time,time required for larval ticks to reach engorgement post attachment,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+molting period,time required for engorged larval ticks to molt,26,-1,-1,-1,17,16,17,12,15,17,18,18,19,17,19,19,20,-1,-1,-1
+survival rate,percentage of larval ticks that molted following engorgement,16,14,17,11,12,12,12,14,12,13,13,14,12,10,14,10,15,13,13,15
+preoviposition period,mean time until onset of oviposition,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+pre hatching period,mean time until hatching,21,-1,-1,-1,16,-1,11,11,14,19,20,21,18,20,-1,-1,21,21,19,21
+hatching period,mean time from initiation to completion of hatching,21,-1,12,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+egg conversion ratio,mean weight of eggs / mean weight of engorged females,-1,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+hatchability,percent surviving life stage,21,12,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+questing,mean percent of ticks questing,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+preoviposition,Mean preoviposition period in days,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+oviposition,Mean ovipostion period in days,-1,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+conversion efficiency,Mean index of conversion efficiency- (cumulative egg weight (g)/ replete female tick wt (g) )*100,0,2,1,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1
+egg hatch,Mean percentage of eggs hatched,21,-1,12,6,8,4,5,5,6,4,3,5,3,6,5,6,6,6,5,5
+incubation period,mean egg incubation period,4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+lipid content,median proportion of lipid content of the tick- calculated by (dried weight - lipid weight) / dried weight,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Questing Height,questing height -- Average (across 38 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Distance Traveled,Average distance covered per hour while questing,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Questing Time,Mean proportion of time tick seen questing (legs spread more than 50 percent) across the 38 hours,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Questing Height,questing height -- Average (across 43 hours and interactor1number of ticks) mm from the lower end of the tube - measured along the length of the tube. Tube is at a 15* incline,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Mortality Rate,number that survived the 38 hours,15,-1,-1,-1,-1,-1,-1,-1,11,9,13,-1,12,10,14,10,15,13,13,15
+Mortality Rate,number that survived the 43 hours,15,-1,-1,-1,-1,-1,-1,-1,11,9,13,-1,12,10,14,10,15,13,-1,15
+Water loss,Water loss of ticks exposed to dry air for 24 hours,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Weight loss,Weight loss of ticks exposed to dry air for 24 hours,5,-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Water loss,Water loss of dead engorged ticks exposed to dry air at a certain temperature for 30 mins,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Development time,Mean time from engorgement to moulting,-1,15,15,12,15,15,18,18,19,25,25,25,25,23,24,23,23,23,23,23
+Mortality Rate,Percent mortality in engorged ticks before moulting,15,-1,-1,-1,-1,-1,-1,-1,-1,9,-1,-1,-1,10,-1,-1,-1,-1,-1,-1
+Oviposition Period,Oviposition Period 1/period(day) in engorged females,28,-1,14,-1,20,-1,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+Pre-Oviposition Period in engorged females,Pre-Oviposition Period in engorged females,-1,-1,-1,-1,-1,-1,-1,-1,-1,23,23,20,21,21,22,21,21,21,19,21
+Development Rate (Egg),1 / time for egg incubation across const temps,6,-1,-1,-1,-1,-1,-1,-1,-1,20,17,17,17,19,17,16,16,16,16,16
+Development Rate (Larva),1 / development time of Engorged Larva,6,-1,-1,13,13,-1,-1,-1,-1,20,17,17,17,19,17,16,16,16,16,16
+Development Rate (Nymph),1 / development time of Engorged Nymph,-1,-1,-1,13,13,-1,15,16,17,20,17,17,17,19,17,16,16,16,16,16
+preoviposition period,Mean Pre-Oviposition Period,27,17,14,20,20,19,20,20,21,23,23,20,21,21,22,21,21,21,19,21
+incubation period,Mean Incubation Period,4,9,11,16,16,14,11,11,14,19,20,21,18,20,21,18,17,18,17,20
+oviposition,daily average number of eggs / female,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Body Mass,Weight of an individual engorged female,20,4,7,7,6,7,7,7,7,6,7,7,7,7,9,7,7,7,7,7
+Egg Mass,Weight of eggs laid by an individual female,10,4,8,7,6,7,7,7,7,6,7,7,7,7,8,7,7,7,7,7
+Body Mass,mean daily weight of larvae during their feeding periods,20,4,7,7,6,7,7,7,7,6,7,7,7,7,9,7,7,7,7,7
+Body Mass,mean daily weight of nymphs during their pharate periods,20,4,7,7,6,7,7,7,7,6,7,7,7,7,9,7,7,7,7,7
+Body Mass,mean daily weight of nymphs during their feeding periods,20,4,7,7,6,7,7,7,7,6,7,7,7,7,9,7,7,7,7,7
+Development Rate,percent of immature stages remaining x days after attatchment,6,-1,-1,13,13,-1,15,16,17,20,17,17,17,19,17,16,16,16,16,16
+Development Rate,Percent of emerging males who develop on day X after attatchment (premolt period),6,-1,-1,13,13,-1,15,16,17,20,17,17,17,19,17,16,16,16,16,16
+Development Rate,Percent of emerging females who develop on day X after attatchment (premolt period),6,-1,-1,13,13,-1,15,16,17,20,17,17,17,19,17,16,16,16,16,16

@@ -1,0 +1,7 @@
+field_order,mean_dominant_share,mean_dominant_purity,mean_balanced_score,largest_cluster_share,status
+name>def>unit,0.7635,0.829,0.7645,0.1475,Non-degenerate
+name>unit>def,0.7619,0.8126,0.7601,0.1475,Non-degenerate
+unit>name>def,0.6455,0.8419,0.7058,0.141,Non-degenerate
+def>name>unit,0.5742,0.7548,0.6257,0.1041,Non-degenerate
+def>unit>name,0.5858,0.6542,0.5167,0.2082,Non-degenerate
+unit>def>name,0.9958,0.0633,0.1163,0.9111,Degenerate

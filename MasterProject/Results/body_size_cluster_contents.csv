@@ -1,0 +1,249 @@
+version,cluster_id,OriginalTraitName,OriginalTraitDef,OriginalTraitUnit,is_body_size_ground_truth,measurement_subtype
+V1,19,body size,mean wet mass,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean wing length (mm),mm,TRUE,linear_morphometric
+V1,19,body size,mean wet mass (waxless and gravid),mg,TRUE,body_mass_or_weight
+V1,19,body size,mean length,mm,TRUE,linear_morphometric
+V1,19,body size,mean width,mm,TRUE,linear_morphometric
+V1,19,body size,mean dry mass,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean head width,mm,TRUE,linear_morphometric
+V1,19,body size,mean thorax length,mm,TRUE,linear_morphometric
+V1,19,body size,mean body weight,mg,TRUE,body_mass_or_weight
+V1,19,body size,individual-level mass,mg,TRUE,body_mass_or_weight
+V1,19,body size,individual-level wet mass,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean wet mass on the day feeding was completed,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean weight of nymphs post-feeding,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean body weight of engorged adult females,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean wet mass on the day feeding was completed (engorged),mg,TRUE,body_mass_or_weight
+V1,19,body size,mean dry mass. relationship between dry mass and wing length,mg,TRUE,body_mass_or_weight
+V1,19,body size,dry mass,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean wing length,mm,TRUE,linear_morphometric
+V1,19,body size,mean of weight (unfed),mg,TRUE,body_mass_or_weight
+V1,19,body size,mean of weight (engorged),mg,TRUE,body_mass_or_weight
+V1,19,body size,mean wet mass of an individual tick post engorgement,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean weight of engorged tick,mg,TRUE,body_mass_or_weight
+V1,19,body size,mean weight of engored nymphs,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean wet mass,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean wet mass (waxless and gravid),mg,TRUE,body_mass_or_weight
+V2,4,body size,mean length,mm,TRUE,linear_morphometric
+V2,4,body size,mean width,mm,TRUE,linear_morphometric
+V2,4,body size,mean dry mass,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean thorax length,mm,TRUE,linear_morphometric
+V2,4,body size,mean body weight,mg,TRUE,body_mass_or_weight
+V2,4,body size,individual-level mass,mg,TRUE,body_mass_or_weight
+V2,4,body size,individual-level wet mass,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean wet mass on the day feeding was completed,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean weight of nymphs post-feeding,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean body weight of engorged adult females,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean wet mass on the day feeding was completed (engorged),mg,TRUE,body_mass_or_weight
+V2,4,egg mass,mean egg mass weight,mg,FALSE,not body-size ground truth
+V2,4,body size,mean dry mass. relationship between dry mass and wing length,mg,TRUE,body_mass_or_weight
+V2,4,body size,dry mass,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean wing length,mm,TRUE,linear_morphometric
+V2,4,body size (alate),mean wet mass,mg,TRUE,body_mass_or_weight
+V2,4,body size (apterous),mean wet mass,mg,TRUE,body_mass_or_weight
+V2,4,body size (alate nymph),mean wet mass,days,TRUE,body_mass_or_weight
+V2,4,body size (apterous nymph),mean wet mass,days,TRUE,body_mass_or_weight
+V2,4,body size (length),mean body length,mm,TRUE,linear_morphometric
+V2,4,body size (length),mean body length (adult),mm,TRUE,linear_morphometric
+V2,4,body size (mass),mean wet mass,mg,TRUE,body_mass_or_weight
+V2,4,body size,mean of weight (unfed),mg,TRUE,body_mass_or_weight
+V2,4,body size,mean of weight (engorged),mg,TRUE,body_mass_or_weight
+V2,4,body length,mean length (unfed ),mm,TRUE,linear_morphometric
+V2,4,body length,mean length (engorged ),mm,TRUE,linear_morphometric
+V2,4,body width,mean width (engorged),mm,TRUE,linear_morphometric
+V2,4,body size,mean wet mass of an individual tick post engorgement,mg,TRUE,body_mass_or_weight
+V2,4,Weight,Weight of an individual engorged female in grams held at constant temperature,g,TRUE,body_mass_or_weight
+V2,4,Weight,mean weight of larvae during their feeding period,mg,TRUE,body_mass_or_weight
+V2,4,Weight,mean weight of nymphs during their feeding period,mg,TRUE,body_mass_or_weight
+V2,4,Weight,mean weight of engorged nymphs moulting to males,mg,TRUE,body_mass_or_weight
+V2,4,weight,Mean weight on day of hatching,ug,TRUE,body_mass_or_weight
+V2,4,weight,Mean weight on day of engorgement,ug,TRUE,body_mass_or_weight
+V2,4,weight,Mean egg mass,mg,FALSE,not body-size ground truth
+V2,4,egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,FALSE,not body-size ground truth
+V2,4,body size,mean weight of engorged tick,mg,TRUE,body_mass_or_weight
+V2,4,egg mass,mean weight of eggs,mg,FALSE,not body-size ground truth
+V2,4,body size,mean weight of engored nymphs,mg,TRUE,body_mass_or_weight
+V2,4,Body Mass,Weight of an individual engorged female,mg,TRUE,body_mass_or_weight
+V2,4,Egg Mass,Weight of eggs laid by an individual female,mg,FALSE,not body-size ground truth
+V2,4,Body Mass,mean daily weight of larvae during their feeding periods,mg,TRUE,body_mass_or_weight
+V2,4,Body Mass,mean daily weight of nymphs during their pharate periods,mg,TRUE,body_mass_or_weight
+V2,4,Body Mass,mean daily weight of nymphs during their feeding periods,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean wet mass,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean wet mass (waxless and gravid),mg,TRUE,body_mass_or_weight
+V3,7,body size,mean dry mass,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean body weight,mg,TRUE,body_mass_or_weight
+V3,7,body size,individual-level mass,mg,TRUE,body_mass_or_weight
+V3,7,body size,individual-level wet mass,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean wet mass on the day feeding was completed,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean weight of nymphs post-feeding,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean body weight of engorged adult females,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean wet mass on the day feeding was completed (engorged),mg,TRUE,body_mass_or_weight
+V3,7,body mass,mean weight of female,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean dry mass. relationship between dry mass and wing length,mg,TRUE,body_mass_or_weight
+V3,7,body size,dry mass,mg,TRUE,body_mass_or_weight
+V3,7,body size (alate),mean wet mass,mg,TRUE,body_mass_or_weight
+V3,7,body size (apterous),mean wet mass,mg,TRUE,body_mass_or_weight
+V3,7,body size (apterous nymph),mean wet mass,days,TRUE,body_mass_or_weight
+V3,7,body size (mass),mean wet mass,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean of weight (unfed),mg,TRUE,body_mass_or_weight
+V3,7,body size,mean of weight (engorged),mg,TRUE,body_mass_or_weight
+V3,7,body size,mean wet mass of an individual tick post engorgement,mg,TRUE,body_mass_or_weight
+V3,7,Weight,mean weight of larvae during their feeding period,mg,TRUE,body_mass_or_weight
+V3,7,Weight,mean weight of nymphs during their feeding period,mg,TRUE,body_mass_or_weight
+V3,7,Weight,mean weight of engorged nymphs moulting to males,mg,TRUE,body_mass_or_weight
+V3,7,weight,Mean weight 14 days after hatching,ug,TRUE,body_mass_or_weight
+V3,7,weight,Mean weight on day of engorgement,ug,TRUE,body_mass_or_weight
+V3,7,body size,mean weight of engorged tick,mg,TRUE,body_mass_or_weight
+V3,7,body size,mean weight of engored nymphs,mg,TRUE,body_mass_or_weight
+V3,7,Body Mass,Weight of an individual engorged female,mg,TRUE,body_mass_or_weight
+V3,7,Body Mass,mean daily weight of larvae during their feeding periods,mg,TRUE,body_mass_or_weight
+V3,7,Body Mass,mean daily weight of nymphs during their pharate periods,mg,TRUE,body_mass_or_weight
+V3,7,Body Mass,mean daily weight of nymphs during their feeding periods,mg,TRUE,body_mass_or_weight
+V4,5,body size,mean wet mass,mg,TRUE,body_mass_or_weight
+V4,5,body size,mean wing length (mm),mm,TRUE,linear_morphometric
+V4,5,body size,mean wet mass (waxless and gravid),mg,TRUE,body_mass_or_weight
+V4,5,body size,mean length,mm,TRUE,linear_morphometric
+V4,5,body size,mean width,mm,TRUE,linear_morphometric
+V4,5,body size,mean dry mass,mg,TRUE,body_mass_or_weight
+V4,5,body size,mean head width,mm,TRUE,linear_morphometric
+V4,5,body size,mean thorax length,mm,TRUE,linear_morphometric
+V4,5,body size,mean body weight,mg,TRUE,body_mass_or_weight
+V4,5,body size,individual-level mass,mg,TRUE,body_mass_or_weight
+V4,5,body size,individual-level wet mass,mg,TRUE,body_mass_or_weight
+V4,5,body size,mean dry mass. relationship between dry mass and wing length,mg,TRUE,body_mass_or_weight
+V4,5,body size,dry mass,mg,TRUE,body_mass_or_weight
+V4,5,body size,mean wing length,mm,TRUE,linear_morphometric
+V4,5,body size (alate),mean wet mass,mg,TRUE,body_mass_or_weight
+V4,5,body size (apterous),mean wet mass,mg,TRUE,body_mass_or_weight
+V4,5,body size (alate nymph),mean wet mass,days,TRUE,body_mass_or_weight
+V4,5,body size (apterous nymph),mean wet mass,days,TRUE,body_mass_or_weight
+V4,5,body size (length),mean body length,mm,TRUE,linear_morphometric
+V4,5,body size (length),mean body length (adult),mm,TRUE,linear_morphometric
+V4,5,body size (mass),mean wet mass,mg,TRUE,body_mass_or_weight
+V5,6,body size,mean wet mass on the day feeding was completed,mg,TRUE,body_mass_or_weight
+V5,6,egg size,mean weight of egg mass produced by adult female ticks,mg,FALSE,not body-size ground truth
+V5,6,body size,mean weight of nymphs post-feeding,mg,TRUE,body_mass_or_weight
+V5,6,body size,mean body weight of engorged adult females,mg,TRUE,body_mass_or_weight
+V5,6,body size,mean wet mass on the day feeding was completed (engorged),mg,TRUE,body_mass_or_weight
+V5,6,egg mass,mean egg mass weight,mg,FALSE,not body-size ground truth
+V5,6,body mass,mean weight of female,mg,TRUE,body_mass_or_weight
+V5,6,body size,mean of weight (unfed),mg,TRUE,body_mass_or_weight
+V5,6,body size,mean of weight (engorged),mg,TRUE,body_mass_or_weight
+V5,6,body length,mean length (unfed ),mm,TRUE,linear_morphometric
+V5,6,body length,mean length (engorged ),mm,TRUE,linear_morphometric
+V5,6,body width,mean width (unfed),mm,TRUE,linear_morphometric
+V5,6,body width,mean width (engorged),mm,TRUE,linear_morphometric
+V5,6,body size,mean wet mass of an individual tick post engorgement,mg,TRUE,body_mass_or_weight
+V5,6,Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,FALSE,not body-size ground truth
+V5,6,Weight,Weight of an individual engorged female in grams held at constant temperature,g,TRUE,body_mass_or_weight
+V5,6,Weight,mean weight of larvae during their feeding period,mg,TRUE,body_mass_or_weight
+V5,6,Weight,mean weight of nymphs during their feeding period,mg,TRUE,body_mass_or_weight
+V5,6,Weight,mean weight of engorged nymphs moulting to males,mg,TRUE,body_mass_or_weight
+V5,6,weight,Mean weight on day of hatching,ug,TRUE,body_mass_or_weight
+V5,6,weight,Mean weight 14 days after hatching,ug,TRUE,body_mass_or_weight
+V5,6,weight,Mean weight on day of engorgement,ug,TRUE,body_mass_or_weight
+V5,6,weight,Mean egg mass,mg,FALSE,not body-size ground truth
+V5,6,egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,FALSE,not body-size ground truth
+V5,6,body size,mean weight of engorged tick,mg,TRUE,body_mass_or_weight
+V5,6,egg mass,mean weight of eggs,mg,FALSE,not body-size ground truth
+V5,6,egg count,mean number of eggs layed,mg,FALSE,not body-size ground truth
+V5,6,body size,mean weight of engored nymphs,mg,TRUE,body_mass_or_weight
+V5,6,Body Mass,Weight of an individual engorged female,mg,TRUE,body_mass_or_weight
+V5,6,Egg Mass,Weight of eggs laid by an individual female,mg,FALSE,not body-size ground truth
+V5,6,Body Mass,mean daily weight of larvae during their feeding periods,mg,TRUE,body_mass_or_weight
+V5,6,Body Mass,mean daily weight of nymphs during their pharate periods,mg,TRUE,body_mass_or_weight
+V5,6,Body Mass,mean daily weight of nymphs during their feeding periods,mg,TRUE,body_mass_or_weight
+V6,7,body size,mean wet mass on the day feeding was completed,mg,TRUE,body_mass_or_weight
+V6,7,egg size,mean weight of egg mass produced by adult female ticks,mg,FALSE,not body-size ground truth
+V6,7,body size,mean weight of nymphs post-feeding,mg,TRUE,body_mass_or_weight
+V6,7,body size,mean body weight of engorged adult females,mg,TRUE,body_mass_or_weight
+V6,7,body size,mean wet mass on the day feeding was completed (engorged),mg,TRUE,body_mass_or_weight
+V6,7,egg mass,mean egg mass weight,mg,FALSE,not body-size ground truth
+V6,7,body mass,mean weight of female,mg,TRUE,body_mass_or_weight
+V6,7,body size,mean of weight (unfed),mg,TRUE,body_mass_or_weight
+V6,7,body size,mean of weight (engorged),mg,TRUE,body_mass_or_weight
+V6,7,body length,mean length (unfed ),mm,TRUE,linear_morphometric
+V6,7,body length,mean length (engorged ),mm,TRUE,linear_morphometric
+V6,7,body width,mean width (unfed),mm,TRUE,linear_morphometric
+V6,7,body width,mean width (engorged),mm,TRUE,linear_morphometric
+V6,7,body size,mean wet mass of an individual tick post engorgement,mg,TRUE,body_mass_or_weight
+V6,7,Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,FALSE,not body-size ground truth
+V6,7,Weight,Weight of an individual engorged female in grams held at constant temperature,g,TRUE,body_mass_or_weight
+V6,7,Weight,mean weight of larvae during their feeding period,mg,TRUE,body_mass_or_weight
+V6,7,Weight,mean weight of nymphs during their feeding period,mg,TRUE,body_mass_or_weight
+V6,7,Weight,mean weight of engorged nymphs moulting to males,mg,TRUE,body_mass_or_weight
+V6,7,weight,Mean weight on day of hatching,ug,TRUE,body_mass_or_weight
+V6,7,weight,Mean weight 14 days after hatching,ug,TRUE,body_mass_or_weight
+V6,7,weight,Mean weight on day of engorgement,ug,TRUE,body_mass_or_weight
+V6,7,weight,Mean egg mass,mg,FALSE,not body-size ground truth
+V6,7,egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,FALSE,not body-size ground truth
+V6,7,body size,mean weight of engorged tick,mg,TRUE,body_mass_or_weight
+V6,7,egg mass,mean weight of eggs,mg,FALSE,not body-size ground truth
+V6,7,body size,mean weight of engored nymphs,mg,TRUE,body_mass_or_weight
+V6,7,Body Mass,Weight of an individual engorged female,mg,TRUE,body_mass_or_weight
+V6,7,Egg Mass,Weight of eggs laid by an individual female,mg,FALSE,not body-size ground truth
+V6,7,Body Mass,mean daily weight of larvae during their feeding periods,mg,TRUE,body_mass_or_weight
+V6,7,Body Mass,mean daily weight of nymphs during their pharate periods,mg,TRUE,body_mass_or_weight
+V6,7,Body Mass,mean daily weight of nymphs during their feeding periods,mg,TRUE,body_mass_or_weight
+V7,7,body size,mean wet mass on the day feeding was completed,mg,TRUE,body_mass_or_weight
+V7,7,egg size,mean weight of egg mass produced by adult female ticks,mg,FALSE,not body-size ground truth
+V7,7,body size,mean weight of nymphs post-feeding,mg,TRUE,body_mass_or_weight
+V7,7,body size,mean body weight of engorged adult females,mg,TRUE,body_mass_or_weight
+V7,7,body size,mean wet mass on the day feeding was completed (engorged),mg,TRUE,body_mass_or_weight
+V7,7,egg mass,mean egg mass weight,mg,FALSE,not body-size ground truth
+V7,7,body mass,mean weight of female,mg,TRUE,body_mass_or_weight
+V7,7,body size,mean of weight (unfed),mg,TRUE,body_mass_or_weight
+V7,7,body size,mean of weight (engorged),mg,TRUE,body_mass_or_weight
+V7,7,body length,mean length (unfed ),mm,TRUE,linear_morphometric
+V7,7,body width,mean width (unfed),mm,TRUE,linear_morphometric
+V7,7,body size,mean wet mass of an individual tick post engorgement,mg,TRUE,body_mass_or_weight
+V7,7,Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,FALSE,not body-size ground truth
+V7,7,Weight,Weight of an individual engorged female in grams held at constant temperature,g,TRUE,body_mass_or_weight
+V7,7,Weight,mean weight of larvae during their feeding period,mg,TRUE,body_mass_or_weight
+V7,7,Weight,mean weight of nymphs during their feeding period,mg,TRUE,body_mass_or_weight
+V7,7,Weight,mean weight of engorged nymphs moulting to males,mg,TRUE,body_mass_or_weight
+V7,7,weight,Mean weight on day of hatching,ug,TRUE,body_mass_or_weight
+V7,7,weight,Mean weight 14 days after hatching,ug,TRUE,body_mass_or_weight
+V7,7,weight,Mean weight on day of engorgement,ug,TRUE,body_mass_or_weight
+V7,7,weight,Mean egg mass,mg,FALSE,not body-size ground truth
+V7,7,egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,FALSE,not body-size ground truth
+V7,7,body size,mean weight of engorged tick,mg,TRUE,body_mass_or_weight
+V7,7,egg mass,mean weight of eggs,mg,FALSE,not body-size ground truth
+V7,7,body size,mean weight of engored nymphs,mg,TRUE,body_mass_or_weight
+V7,7,Body Mass,Weight of an individual engorged female,mg,TRUE,body_mass_or_weight
+V7,7,Egg Mass,Weight of eggs laid by an individual female,mg,FALSE,not body-size ground truth
+V7,7,Body Mass,mean daily weight of larvae during their feeding periods,mg,TRUE,body_mass_or_weight
+V7,7,Body Mass,mean daily weight of nymphs during their pharate periods,mg,TRUE,body_mass_or_weight
+V7,7,Body Mass,mean daily weight of nymphs during their feeding periods,mg,TRUE,body_mass_or_weight
+V8,7,body size,mean wet mass on the day feeding was completed,mg,TRUE,body_mass_or_weight
+V8,7,egg size,mean weight of egg mass produced by adult female ticks,mg,FALSE,not body-size ground truth
+V8,7,body size,mean weight of nymphs post-feeding,mg,TRUE,body_mass_or_weight
+V8,7,body size,mean body weight of engorged adult females,mg,TRUE,body_mass_or_weight
+V8,7,body size,mean wet mass on the day feeding was completed (engorged),mg,TRUE,body_mass_or_weight
+V8,7,egg mass,mean egg mass weight,mg,FALSE,not body-size ground truth
+V8,7,body mass,mean weight of female,mg,TRUE,body_mass_or_weight
+V8,7,body size,mean of weight (unfed),mg,TRUE,body_mass_or_weight
+V8,7,body size,mean of weight (engorged),mg,TRUE,body_mass_or_weight
+V8,7,body length,mean length (unfed ),mm,TRUE,linear_morphometric
+V8,7,body length,mean length (engorged ),mm,TRUE,linear_morphometric
+V8,7,body width,mean width (unfed),mm,TRUE,linear_morphometric
+V8,7,body width,mean width (engorged),mm,TRUE,linear_morphometric
+V8,7,body size,mean wet mass of an individual tick post engorgement,mg,TRUE,body_mass_or_weight
+V8,7,Weight,Weight of eggs laid by an individual engorged female raised at constant temp,g,FALSE,not body-size ground truth
+V8,7,Weight,Weight of an individual engorged female in grams held at constant temperature,g,TRUE,body_mass_or_weight
+V8,7,Weight,mean weight of larvae during their feeding period,mg,TRUE,body_mass_or_weight
+V8,7,Weight,mean weight of nymphs during their feeding period,mg,TRUE,body_mass_or_weight
+V8,7,Weight,mean weight of engorged nymphs moulting to males,mg,TRUE,body_mass_or_weight
+V8,7,weight,Mean weight on day of hatching,ug,TRUE,body_mass_or_weight
+V8,7,weight,Mean weight 14 days after hatching,ug,TRUE,body_mass_or_weight
+V8,7,weight,Mean weight on day of engorgement,ug,TRUE,body_mass_or_weight
+V8,7,weight,Mean egg mass,mg,FALSE,not body-size ground truth
+V8,7,egg mass,Mean egg mass by oviposition day of females raised at constant temps,mg,FALSE,not body-size ground truth
+V8,7,body size,mean weight of engorged tick,mg,TRUE,body_mass_or_weight
+V8,7,egg mass,mean weight of eggs,mg,FALSE,not body-size ground truth
+V8,7,body size,mean weight of engored nymphs,mg,TRUE,body_mass_or_weight
+V8,7,Body Mass,Weight of an individual engorged female,mg,TRUE,body_mass_or_weight
+V8,7,Egg Mass,Weight of eggs laid by an individual female,mg,FALSE,not body-size ground truth
+V8,7,Body Mass,mean daily weight of larvae during their feeding periods,mg,TRUE,body_mass_or_weight
+V8,7,Body Mass,mean daily weight of nymphs during their pharate periods,mg,TRUE,body_mass_or_weight
+V8,7,Body Mass,mean daily weight of nymphs during their feeding periods,mg,TRUE,body_mass_or_weight
